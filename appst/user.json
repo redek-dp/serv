@@ -46,7 +46,7 @@
 
     "geolocalisar": {
       "name": "America do Sul Brazil",
-      "icon": "geo-alt-fill",
+      "icon": "bi bi-geo-alt-fill",
       "url": "https://www.google.com.br/maps/@-21.3047572,-46.7117993,14.75z?hl=pt-BR"
     }
   }
