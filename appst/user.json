@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "DAVIDSONBPE",
+    "description": "Sharing Buttons davidsonbpe",
+    "email": "davidsonbpe@pm.me",
+    "website": "https://davidsonbpe.github.io/",
+    "logoimg": "https://assets.codepen.io/462585/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1&width=512",
+    "videols": "https://www.youtube.com/embed/4PW6Q8tCliQ",
+
+    "youtube": {
+      "name": "YOUTUBE",
+      "icon": "bi bi-youtube",
+      "url": "https://www.youtube.com/c/decomtvs/"
+    },
+
+    "vendapix": {
+      "name": "VENDA PIX",
+      "icon": "bi bi-x-diamond-fill",
+      "url": "https://davidsonbpe.github.io/"
+    },
+
+    "facebook": {
+      "name": "FACEBOOK",
+      "icon": "bi bi-facebook",
+      "url": "https://www.facebook.com/decomrradio/"
+    },
+
+    "twitter": {
+      "name": "TWITTER",
+      "icon": "bi bi-twitter",
+      "url": "https://twitter.com/davidsonbpe"
+    },
+
+    "whatsapp": {
+      "name": "WHATSAPP",
+      "icon": "bi bi-whatsapp",
+      "url": "https://api.whatsapp.com/send/?phone=559990000144&text=app"
+    },
+
+    "instagram": {
+      "name": "INSTAGRAM",
+      "icon": "bi bi-instagram",
+      "url": "https://www.instagram.com/davidsonbpe/"
+    },
+
+    "geolocalisar": {
+      "name": "America do Sul Brazil",
+      "icon": "bi bi-geo-alt-fill",
+      "url": "https://www.google.com.br/maps/@-21.3047572,-46.7117993,14.75z?hl=pt-BR"
+    }
+  }
+]
