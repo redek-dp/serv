@@ -1,0 +1,83 @@
+* {
+  font-family: avenir, arial;
+  transition: 0.5s;
+}
+
+body {
+  background: #333;
+  color: grey;
+  padding: 0 10px;
+}
+
+a {
+  color: white;
+}
+
+#overlay {
+  background: black !important;
+}
+
+#overlay * {
+  position: absolute;
+  width: 90vw;
+  height: 80vh;
+}
+
+#scan {
+  background: yellow;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+button:hover, #scan:hover, input:hover {
+  background: black;
+  color: white;
+}
+
+.scanning {
+  background: blue !important;
+  color: white !important;
+}
+
+#placeholder {
+  text-align: center;
+  line-height: 50vh;
+  color: white;
+  z-index: 100;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+video {
+  /*   object-fit: cover; */
+  -webkit-transform: scaleX(1) !important;
+  transform: scaleX(1) !important;
+}
+
+#create-qr-code {
+  position: absolute;
+  bottom: 10px;
+  z-index: 200;
+}
+
+#create-qr-code input {
+  border-radius: 5px;
+  padding: 5px;
+  width: 7.5em;
+}
+
+#create-qr-code input:focus {
+  width: 14em;
+}
+
+a {
+  font-size: small;
+  color: grey;
+}
+
+a:hover {
+  color: lime;
+}
