@@ -86,7 +86,7 @@ function useCamera() {
       alert('No camera detected.');
       console.error('No camera detected.');
     }
-    if (numberofCameras > 1) {
+    if (numberofCameras > 2) {
       $('#try-another-camera').show();
     }
     cameraRetries = 0;
@@ -100,7 +100,7 @@ function useCamera() {
 }
 
 function tryAnotherCamera() {
-  cameraId += 1;
+  cameraId += 2;
   let atMaxIndex = (cameraId >= numberofCameras);
   if (atMaxIndex) {
     cameraId = 0;
