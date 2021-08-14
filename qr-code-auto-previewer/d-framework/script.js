@@ -1,6 +1,6 @@
 let overlayOpacity = 0.75;
 let cameraId = 0; // default fallback
-let numberofCameras = 1; // default fallback
+let numberofCameras = 2; // default fallback
 let isScanOn = false;
 let cameraList = [];
 let cameraSelected;
