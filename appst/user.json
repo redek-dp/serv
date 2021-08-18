@@ -43,6 +43,18 @@
       "icon": "bi bi-instagram",
       "url": "https://www.instagram.com/davidsonbpe/"
     },
+    
+    "github": {
+      "name": "GITHUB",
+      "icon": "bi bi-github",
+      "url": "https://github.com/davidsonbpe"
+    },
+    
+    "website": {
+      "name": "WEB SITE",
+      "icon": "bi bi-globe",
+      "url": "https://davidsonbpe.github.io/"
+    },
 
     "geolocalisar": {
       "name": "America do Sul Brazil",
