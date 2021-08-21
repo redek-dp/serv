@@ -2,18 +2,22 @@ const users =
   [{
     "name": "Aline Grover01",
     "img": "https://www.gravatar.com/avatar/1?d=wavatar",
+    "url": "https://github.com/redek-dp/",
     "created": "November 28, 2012"
   }, {
     "name": "Nevada Anders",
     "img": "https://www.gravatar.com/avatar/2?d=wavatar",
+    "url": "https://github.com/redek-dp/",
     "created": "January 18, 2014"
   }, {
     "name": "Nicholas Morissette",
     "img": "https://www.gravatar.com/avatar/3?d=wavatar",
+    "url": "https://github.com/redek-dp/",
     "created": "November 11, 2014"
   }, {
     "name": "Rusty Umland",
     "img": "https://www.gravatar.com/avatar/4?d=wavatar",
+    "url": "https://github.com/redek-dp/",
     "created": "January 8, 2019"
   }, {
     "name": "Amada Cerulli",
