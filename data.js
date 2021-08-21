@@ -2,22 +2,22 @@ const users =
   [{
     "name": "Aline Grover01",
     "img": "https://www.gravatar.com/avatar/1?d=wavatar",
-    "url": "https://via.placeholder.com/500x500/0000FF/808080?text=01",
+    "url": "https://via.placeholder.com/",
     "created": "November 28, 2012"
   }, {
     "name": "Nevada Anders",
     "img": "https://www.gravatar.com/avatar/2?d=wavatar",
-    "url": "https://via.placeholder.com/500x500/0000FF/808080?text=02",
+    "url": "https://via.placeholder.com/",
     "created": "January 18, 2014"
   }, {
     "name": "Nicholas Morissette",
     "img": "https://www.gravatar.com/avatar/3?d=wavatar",
-    "url": "https://via.placeholder.com/500x500/0000FF/808080?text=03",
+    "url": "https://via.placeholder.com/",
     "created": "November 11, 2014"
   }, {
     "name": "Rusty Umland",
     "img": "https://www.gravatar.com/avatar/4?d=wavatar",
-    "url": "https://via.placeholder.com/500x500/0000FF/808080?text=04",
+    "url": "https://via.placeholder.com/",
     "created": "January 8, 2019"
   }, {
     "name": "Amada Cerulli",
