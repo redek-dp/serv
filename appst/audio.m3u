@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:0,Your%20Gain/ES_Your%20Gain.mp3
-https://dkihjuum4jcjr.cloudfront.net/ES_ITUNES/Your%20Gain/ES_Your%20Gain.mp3
-#EXTINF:0,Pinata/ES_Pinata.mp3
-https://dkihjuum4jcjr.cloudfront.net/ES_ITUNES/Pinata/ES_Pinata.mp3
-#EXTINF:0,Rumors/ES_Rumors.mp3
-https://dkihjuum4jcjr.cloudfront.net/ES_ITUNES/Rumors/ES_Rumors.mp3
-#EXTINF:0,ES_Unpredictable.mp3
-https://dkihjuum4jcjr.cloudfront.net/ES_ITUNES/Unpredictable/ES_Unpredictable.mp3
+#EXTINF:https://dkihjuum4jcjr.cloudfront.net/ES_ITUNES/Your%20Gain/ES_Your%20Gain.mp3
+#EXTINF:https://dkihjuum4jcjr.cloudfront.net/ES_ITUNES/Pinata/ES_Pinata.mp3
+#EXTINF:https://dkihjuum4jcjr.cloudfront.net/ES_ITUNES/Rumors/ES_Rumors.mp3
+#EXTINF:https://dkihjuum4jcjr.cloudfront.net/ES_ITUNES/Unpredictable/ES_Unpredictable.mp3
