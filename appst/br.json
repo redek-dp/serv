@@ -8,35 +8,35 @@
     },
     {
         "id": 2,
-        "tvtitle": "Rede Brasil (SP)",
+        "tvtitle": "Rede Brasil",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/rbtv\/_definst_\/rbtv\/chunklist_w740318622.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/rbtv-logo-rede-brasil.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQTJQY1p1_pBWbgFX3ncHgB9XGQVZ9uOub0EMVhYA=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 3,
         "tvtitle": "Rede Fam\u00edlia",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5a1c76baf08c0.streamlock.net\/familia\/smil:familia.smil\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/rede_famc3adlia.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTMuv4SIhHuKsVdBUb9WmFl-xOYWfEPBy2PZWcX5g=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 4,
-        "tvtitle": "Brasil Oeste (MT)",
+        "tvtitle": "Brasil Oeste",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net\/operacaotbomt.com\/operacaotbomt.com\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/brasiloeste.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ1oT_c5JfZKApyS_GymorA2XHfqaBRYmOkU2ZAtQ=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 5,
         "tvtitle": "TV Carioca",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv5.zcast.com.br\/tvcarioca\/tvcarioca\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/samhost.tvcarioca.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRuSfXBTNsT0zA7j3V1ZByn_F5XvhGiW6GvFQH_=s150",
         "tvgroup": "WebTV"
     },
     {
         "id": 6,
-        "tvtitle": "SBT - TV Cidade Verde - (PI)",
+        "tvtitle": "SBT - TV Cidade Verde",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.transmissaodigital.com\/cidadeverdenovo\/cidadeverdenovo\/playlist.m3u8",
         "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/sbt.png",
         "tvgroup": "Variedades"
@@ -45,19 +45,19 @@
         "id": 7,
         "tvtitle": "Rede CNN",
         "tvmedia": "https://www.youtube.com/watch?v=K-AHtPiHaeU",
-        "tvlogo": "https://via.placeholder.com/150x150/53800e/fff/?text=CNN",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR6x4Xeq7in7_LyDuivc_8ywmr4MuonUKH1f8Z4Hg=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 8,
         "tvtitle": "TV Diario",
         "tvmedia": "https://www.dailymotion.com/embed/video/x7txn7q?autoplay=1",
-        "tvlogo": "https://via.placeholder.com/150x150/53887e/fff/?text=DIARIO",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRol6xyxfTIo5whrdRjXiDFdkKrTg8Cqekjef__psw=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 9,
-        "tvtitle": "SBT - TV Floresta (PA)",
+        "tvtitle": "SBT - TV Floresta",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv-mc.sistemafloresta.com.br\/tvfloresta\/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0",
         "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/sbt.png",
         "tvgroup": "Variedades"
@@ -66,12 +66,12 @@
         "id": 10,
         "tvtitle": "Record News",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusnews-lh.akamaihd.net\/i\/pp_nws@377849\/master.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/recnews.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s150",
         "tvgroup": "Jornalismo"
     },
     {
         "id": 11,
-        "tvtitle": "SBT - TV Serra Dourada - (GO)",
+        "tvtitle": "SBT - TV Serra Dourada",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5a1c76baf08c0.streamlock.net\/tvsd2\/smil:tvsd2_20042020.smil\/playlist.m3u8",
         "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/sbt.png",
         "tvgroup": "Variedades"
@@ -87,12 +87,12 @@
         "id": 13,
         "tvtitle": "TV Birigui",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/tvdigitalbirigui\/_definst_\/tvdigitalbirigui\/chunklist_w763334596.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/tvdigitalbirigui.jpg",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRRwzd_o--BIA4_PArDjMqAk2QuNL1DScJNYQ=s150",
         "tvgroup": "WebTV"
     },
     {
         "id": 14,
-        "tvtitle": "RecordTV Natal - TV Tropical - indispon\u00edvel",
+        "tvtitle": "RecordTV Natal - TV Tropical",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/tvtropical\/_definst_\/tvtropical\/playlist.m3u8",
         "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/recordtv.png",
         "tvgroup": "Variedades"
@@ -162,16 +162,16 @@
     },
     {
         "id": 24,
-        "tvtitle": "TV Pampa - RedeTV! RS",
+        "tvtitle": "RedeTV! RS",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/tvpampa\/_definst_\/tvpampa\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/pampa.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 25,
-        "tvtitle": "RedeTV! Tocantins",
+        "tvtitle": "RedeTV!",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/redetvro\/_definst_\/redetvro\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/redetvtocantins.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -190,7 +190,7 @@
     },
     {
         "id": 28,
-        "tvtitle": "Anime TV - WebTV",
+        "tvtitle": "Anime TV ",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com\/animetv\/animetv\/playlist.m3u8",
         "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/animetv.png",
         "tvgroup": "WebTV"
