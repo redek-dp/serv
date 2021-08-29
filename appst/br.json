@@ -295,65 +295,65 @@
     },
     {
         "id": 43,
-        "tvtitle": "TVE RS",
-        "tvmedia": "http:\/\/streaming.procergs.com.br:1935\/tve\/stve\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/logo-tve-png.png",
+        "tvtitle": "TV BAND",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
         "tvgroup": "P\u00fablica"
     },
     {
         "id": 44,
-        "tvtitle": "KroneHIT",
+        "tvtitle": "TV KroneHIT",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=bitcdn-kronehit.bitmovin.com\/v2\/hls\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLScWijmFLNBEiZ04178k95Pa5SXFcN5l4chZjlfpg=s150",
         "tvgroup": "M\u00fasica"
     },
     {
         "id": 45,
-        "tvtitle": "1HD Music",
-        "tvmedia": "http:\/\/1hdru-hls-otcnet.cdnvideo.ru\/onehdmusic\/mono.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/1hd.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV BAND Channel",
+        "tvmedia": "https://www.youtube.com/channel/UCoa-D_VfMkFrCYodrOC9-mA/live",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 46,
-        "tvtitle": "Retr\u00f4 TV",
-        "tvmedia": "http:\/\/stream.mediawork.cz\/retrotv\/smil:retrotv2.smil\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/retro-logo-bile2.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV NetMovies",
+        "tvmedia": "https://www.youtube.com/playlist?list=UUK5RRQ3TdwAbbCWrtnXsN3Q",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTACd5MYevWLyXiFenG98CV728xmL2iyzxQxukMJg=s150",
+        "tvgroup": "Movies"
     },
     {
         "id": 47,
-        "tvtitle": "Capital TV",
+        "tvtitle": "TV CapitalTV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=capital-tv-lh.akamaized.net\/i\/CapitalTv_1@183098\/master.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/logo_capital_1024x1024-768x384.png",
-        "tvgroup": "M\u00fasica"
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR3NpPHUDEA51IQAB2TD0gXxijSBxQc-RXL-KO0JJI=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 48,
-        "tvtitle": "M2O",
+        "tvtitle": "TV M2O",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m2otv-lh.akamaihd.net\/i\/m2oTv_1@186074\/index_600_av-b.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/1200px-radio_m2o_-_logo_2019.svg_.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSU0Zs8ec1PrLrZsSdqOVFrseK3WOedzvf_SFKQmg=s150",
         "tvgroup": "M\u00fasica"
     },
     {
         "id": 49,
-        "tvtitle": "Music Top",
-        "tvmedia": "http:\/\/live-edge01.telecentro.net.ar\/live\/smil:musictop.smil\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/musictop2.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV Aparecida Channel",
+        "tvmedia": "https://www.youtube.com/channel/UCfYrK5JU5EznsnK3wQE7iIg/live",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLThcRK1sWEDqYgZEwk27Jl2-gLhtWbyepDYktyQNA=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 50,
-        "tvtitle": "TopTV Paran\u00e1",
+        "tvtitle": "TV TopTV Paran\u00e1",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=serv2.videovox.pw\/joaorodrigo7309\/joaorodrigo7309\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/toptv.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTdiE8ioQnhwQB0mCAnWcfMr3IJcvH_cha1EsJn5g=s150",
         "tvgroup": "M\u00fasica"
     },
     {
         "id": 51,
-        "tvtitle": "All Sports",
+        "tvtitle": "TV All Sports",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net\/dgrau\/dgrau\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/logo-allsports.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSZX7u-HzxKrifM07jZnsA4fMW4bZ49K_O1GKVmcQ=s150",
         "tvgroup": "Esportes"
     },
     {
