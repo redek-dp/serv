@@ -449,86 +449,86 @@
     },
     {
         "id": 65,
-        "tvtitle": "Central TV",
-        "tvmedia": "http:\/\/serv2.videovox.pw\/joaorodrigo7309\/joaorodrigo7309\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/central.png",
+        "tvtitle": "TV DecomTV Channel",
+        "tvmedia": "https://www.youtube.com/playlist?list=UUHqvw9v2Fp6o006lUskoigg",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSiY60hyLD6t3gzhYIp_OQy0hritfYDBfejgbEPMw=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 66,
-        "tvtitle": "Locomotion - WebTV",
-        "tvmedia": "http:\/\/51.222.85.85:81\/hls\/loco\/index.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/locomotion.png",
-        "tvgroup": "Infantil"
+        "tvtitle": "TV REDE BRASIL",
+        "tvmedia": "https://www.youtube.com/channel/UCubxEhRi56_V4_eTzzcFwkA/live",
+        "tvlogo": "https://yt3.ggpht.com/O2uRozYpchmW0Km3zWyPUVBCrwpa5Eai1o1RHy9K-S0_AhbEej3XmLJUDQwk2NQr1zukOPrs=s150",
+        "tvgroup": "Religioso"
     },
     {
         "id": 67,
-        "tvtitle": "Rede Premium",
+        "tvtitle": "TV Rede Premium",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5c483b9d1019c.streamlock.net\/8066\/8066\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/redepremiumtv.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLT1hKrfdHNHVoI_gQ8_uHDrQYP6Ts49qW9Aw5bE=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 68,
         "tvtitle": "TV C\u00e2mara",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stream3.camara.gov.br\/tv1\/manifest.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/camara.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRT3GOhQ0MQ85mJGTmFiEVTYS9EwxLdLlALu4VGCA=s150",
         "tvgroup": "P\u00fablica"
     },
     {
         "id": 69,
         "tvtitle": "TV Metr\u00f3pole",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn-fundacao-2110.ciclano.io:1443\/fundacao-2110\/fundacao-2110\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/logotipo_da_tv_metrc3b3pole.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSH-CxMuguG8fNNZiVEEHzplzap31S7N865Ht1SMA=s150",
         "tvgroup": "P\u00fablica"
     },
     {
         "id": 70,
-        "tvtitle": "Rede UTV",
+        "tvtitle": "TV Rede UTV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv4.zcast.com.br\/redetvoficial\/redetvoficial\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/utv.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ_ANTYJGIWJFQdgBoyNUe2cBBPhYR8TVySQVeWsA=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 71,
         "tvtitle": "TV Pantanal MS",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5e837408ea907.streamlock.net:1936\/tvpantanalms\/tvpantanalms\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/tvpantanal.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTNF_u_ibs7hQM8ELj25Tj6YnvRorGoHs7KGZD3FQ=s150",
         "tvgroup": "WebTV"
     },
     {
         "id": 72,
         "tvtitle": "TV Tokyo",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.voxtvhd.com.br\/tvtokio\/tvtokio\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/tvtokyo.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRcrRsz3NJaTmOGUtikeDQ_kXTm8D3sJjTpFcjZRA=s150",
         "tvgroup": "WebTV"
     },
     {
         "id": 73,
-        "tvtitle": "Adesso TV",
+        "tvtitle": "TV Adesso",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-9715\/LVW9715_12B26T62tm\/chunklist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/adesso.png",
+        "tvlogo": "https://yt3.ggpht.com/X4rMhIhHbUvFY3ra6-pqYA79sXCE25Iwc8wdxPulAHe77tJmIIwAVy_jArVT4mwZC55KTUTTnso=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 74,
         "tvtitle": "TV Rio Madeira",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=novo.bitstreaming.info:1936\/8066\/8066\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/riomadeira.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ_jgs-ML7hLwk3taoeJi4xa-2v86Osph1labAo=s150",
         "tvgroup": "WebTV"
     },
     {
         "id": 75,
         "tvtitle": "TV Vale das Artes",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/tvvaledasartes\/_definst_\/tvvaledasartes\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/valedasartes.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSYkjy4ttO0zIRRqEVTz2AadwG-rC6TRBfWSKpW0w=s150",
         "tvgroup": "WebTV"
     },
     {
         "id": 76,
-        "tvtitle": "Rede TV Sul",
+        "tvtitle": "TV Rede TVSul",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=novo.bitstreaming.info:1936\/8032\/8032\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/redetvriosul.png",
+        "tvlogo": "https://yt3.ggpht.com/1cHy_hHSOx0A8KJiLhAuyBrWmedQSMJFyCCyhgqd0n2Bq7H8Lf_d4oNSiMw9WVeOeH5PwIYLkA=s150",
         "tvgroup": "WebTV"
     },
     {
