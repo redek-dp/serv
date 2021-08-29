@@ -340,7 +340,7 @@
         "tvtitle": "TV Aparecida Channel",
         "tvmedia": "https://www.youtube.com/channel/UCfYrK5JU5EznsnK3wQE7iIg/live",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLThcRK1sWEDqYgZEwk27Jl2-gLhtWbyepDYktyQNA=s150",
-        "tvgroup": "P\u00fablica"
+        "tvgroup": "Religioso"
     },
     {
         "id": 50,
@@ -360,92 +360,92 @@
         "id": 52,
         "tvtitle": "TV Evangelizar",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5f593df7851db.streamlock.net\/evangelizar\/tv\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/tv_evangelizar.png",
+        "tvlogo": "https://yt3.ggpht.com/ovgYkQkNvnUoEfvoq8R8QEs8kNJO3Fr31W0wjFqO120Rm-PbCa0SuQmn-mbJWXqq0BSPFKjQ6BE=s150",
         "tvgroup": "Religioso"
     },
     {
         "id": 53,
-        "tvtitle": "Rede Vida",
+        "tvtitle": "TV Rede Vida",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cvd1.cds.ebtcvd.net\/live-redevida\/smil:redevida.smil\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/200px-rede_vida_logo.png",
+        "tvlogo": "https://yt3.ggpht.com/hW-INsTiRmck0OMatCTVJLkoumdGW0fvSiRUbmy9PRA1omeZRIQuMyJznVHzQL9njoP7aZbZIQ=s150",
         "tvgroup": "Religioso"
     },
     {
         "id": 54,
         "tvtitle": "TV Aparecida",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-9716\/LVW9716_HbtQtezcaw\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/2018091805332321logotipo_da_tv_aparecida.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLThcRK1sWEDqYgZEwk27Jl2-gLhtWbyepDYktyQNA=s150",
         "tvgroup": "Religioso"
     },
     {
         "id": 55,
-        "tvtitle": "Rede Super",
-        "tvmedia": "http:\/\/api.new.livestream.com\/accounts\/10205943\/events\/3429501\/live.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/rede-super-logo-tv.png",
-        "tvgroup": "Religioso"
+        "tvtitle": "TV GLOBO",
+        "tvmedia": "https://www.youtube.com/results?search_query=globo+ao+vivo&sp=EgJAAQ%253D%253D",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRvswWoVKjf6UDV7VrtwZLxJXAHh8wM8N774xy25wY=s150",
+        "tvgroup": "Esportes"
     },
     {
         "id": 56,
-        "tvtitle": "Novo Tempo",
+        "tvtitle": "TV Novo Tempo",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stream.live.novotempo.com\/tv\/smil:tvnovotempo.smil\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/izkxzj9.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTVZyGd5P4SXo4hL6T9yFROgk0qv4mr4g-l_BV51A=s150",
         "tvgroup": "Religioso"
     },
     {
         "id": 57,
-        "tvtitle": "IMPD TV",
+        "tvtitle": "TV Igreja Mundial",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=58a4464faef53.streamlock.net\/impd\/ngrp:impd_all\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/nt8hdct.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQWqq-YN0iS5z46NcAlcDZ53GumOMpD8yibXy7uzA=s150",
         "tvgroup": "Religioso"
     },
     {
         "id": 58,
-        "tvtitle": "IURD TV",
+        "tvtitle": "TV Igreja Universal",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=644398c.ha.azioncdn.net\/primary\/tvuniversal_480p.sdp\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/ainraga.png",
+        "tvlogo": "https://yt3.ggpht.com/JFE-lPipj4s2SmV8cz36Jf0rqitvw8diWQDSGuE12uhrBDNIci2RPl1sWuBi4yBbUJnieHUb=s150",
         "tvgroup": "Religioso"
     },
     {
         "id": 59,
-        "tvtitle": "Rede Gospel",
+        "tvtitle": "TV Rede Gospel",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-8719\/LVW8719_AcLVAxWy5J\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/redegospel.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQwwwxlzMRE4Ifs_5z15614E-jCXV6I2DqpZKrj=s150",
         "tvgroup": "Religioso"
     },
     {
         "id": 60,
         "tvtitle": "TV Pai Eterno",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/teste01\/_definst_\/teste01\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/paieterno.png",
+        "tvlogo": "https://yt3.ggpht.com/IHeOGJgsqxBMgATpMJOQu6ZWjGWYStmPzRNbyQEKbMGTlrXUBqFZwKLwrhOi_a3mXHvnnh5qytg=s150",
         "tvgroup": "Religioso"
     },
     {
         "id": 61,
-        "tvtitle": "Gospel Cartoon",
+        "tvtitle": "TV Gospel Cartoon",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com\/gospelcartoon2\/gospelcartoon2\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/smilinguido.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTkdP9L73Ewyxca4gafOqqwKzwP4wwgJyG8WVQJ=s150",
         "tvgroup": "Infantil"
     },
     {
         "id": 62,
-        "tvtitle": "Gospel Movie TV",
+        "tvtitle": "TV Gospel Movie",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com\/gospelf\/gospelf\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/gospel.jpg",
+        "tvlogo": "https://via.placeholder.com/150x150/53077e/fff/?text=TVG",
         "tvgroup": "Filmes"
     },
     {
         "id": 63,
-        "tvtitle": "Gospel Music",
+        "tvtitle": "TV Gospel Music",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com\/gmusic\/gmusic\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/gospelmusic.jpg",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSBKs-5UHQum2h-09RuoeDQlFvAdGo5bUhQM8TEpQ=s150",
         "tvgroup": "M\u00fasica"
     },
     {
         "id": 64,
-        "tvtitle": "KURIAKOS CINE",
-        "tvmedia": "http:\/\/c2.manasat.com:1935\/kcine\/kcine3\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/cinekuriakos.png",
-        "tvgroup": "Filmes"
+        "tvtitle": "TV Rede Novo Tempo",
+        "tvmedia": "https://www.youtube.com/channel/UC_OaSsAydgSIjUtjYn9qLog/live",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTVZyGd5P4SXo4hL6T9yFROgk0qv4mr4g-l_BV51A=s150",
+        "tvgroup": "Religioso"
     },
     {
         "id": 65,
