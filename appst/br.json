@@ -750,387 +750,171 @@
     },
     {
         "id": 108,
-        "tvtitle": "RTL (It\u00e1lia)",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rtl-video1-stream.thron.com\/live-video\/video1\/ngrp:video1\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/rtl.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV Brusque",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net\/rodrigotvbrusque.com.br\/_definst_\/5d880199c902eb4a1e8df00d\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQqDPEKMjXyHHQB1vxVAqyZRiyM6p-3uhPBN0Ea=s150",
+        "tvgroup": "Variedades"
     },
     {
         "id": 109,
-        "tvtitle": "Otto Fm TV",
-        "tvmedia": "http:\/\/streaming.bitonlive.net:8080\/hls\/ottofm2\/1036\/index.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/otto.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV CNT",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=dd8umsy8yf96u.cloudfront.net\/live\/cnt-curitiba.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTDpncIat17jVA6aTwP5tl4TulYnnbEOt_UxwKZ=s150",
+        "tvgroup": "Variedades"
     },
     {
         "id": 110,
-        "tvtitle": "RadioU",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdnlive.radiou.com\/LS-ATL-43240-1\/tracks-v1a1\/mono.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/radioU.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV Boas Novas",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-9375\/LVW9375_6i0wPBCHYc\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTnHaD7rR_pDzdSaaCRhvbMl-d2UYD00ZypOzXqJQ=s150",
+        "tvgroup": "Religioso"
     },
     {
         "id": 111,
-        "tvtitle": "Rock TV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=fms-https1.mediadirect.ro\/live3\/_definst_\/rocktv.smil\/playlist.m3u8?publisher=83",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/rock.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV Al Jazeera",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live-hls-web-aje.getaj.net\/AJE\/index.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s150",
+        "tvgroup": "Jornalismo"
     },
     {
         "id": 112,
-        "tvtitle": "Top Latino TV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cefcbf58ba2e.streamlock.net\/tltvweb\/tltvweb.stream\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/logo_top_latino_png_2017_-_500px.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV CBS News",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cbsnewshd-lh.akamaihd.net\/i\/CBSNHD_7@199302\/master.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRIh651Abk0sIzolXRIOXDGZs6nvXlREQP2CL8P=s150",
+        "tvgroup": "Jornalismo"
     },
     {
         "id": 113,
-        "tvtitle": "Ocko Star",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=ocko-live-dash.ssl.cdn.cra.cz\/cra_live2\/ocko_gold.stream.1.smil\/manifest.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/ockostar.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV Red Bull",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rbmn-live.akamaized.net\/hls\/live\/590964\/BoRB-AT\/master.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTJCMXLJC2zrp93TfE87l5TcWf6GtfI2iGX6yCedA=s150",
+        "tvgroup": "Esportes"
     },
     {
         "id": 114,
-        "tvtitle": "4Fun TV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stream.4fun.tv:8888\/hls\/4f_high\/index.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/4Fun-TV.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV RT Documentary Channel",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rt-doc.secure.footprint.net\/1101_1600Kb.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQcmn4IFoEERfIagAxd1DINTlVELKwsK7GJ4rD1OQ=s150",
+        "tvgroup": "Document\u00e1rio"
     },
     {
         "id": 115,
-        "tvtitle": "Colosal TV",
-        "tvmedia": "http:\/\/tv.ticosmedia.com:1935\/COLOSAL\/COLOSAL\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/Colosal-TV.png",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV CGTN",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=livees.cgtn.com\/1000e\/prog_index.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQh48pUGGg34zVpy4Be8qUO7VCPZYdlDYEDksBVzpc=s150",
+        "tvgroup": "Document\u00e1rio"
     },
     {
         "id": 116,
-        "tvtitle": "Mundo TV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/mundotv\/_definst_\/mundotv\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/mundo.png",
+        "tvtitle": "TV La 1",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=hlsliveamdgl7-lh.akamaihd.net\/i\/hlslive_1@583043\/index_1500_av-p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSm-o2p8Gne_9dk_QPkwg2x_hViY8MhujNmRoRuUQ=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 117,
-        "tvtitle": "TV Brusque (SC)",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net\/rodrigotvbrusque.com.br\/_definst_\/5d880199c902eb4a1e8df00d\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/bnzdrdjj.jpg",
+        "tvtitle": "TV Gal\u00edcia",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=europa-crtvg.flumotion.com\/crtvg\/europa_high\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSw7Ig2yBsDHGX3LHLt2AzMxpnE8TPJoF5R1Hxh=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 118,
-        "tvtitle": "Canal S\u00e3o Paulo",
-        "tvmedia": "http:\/\/stream02.msolutionbrasil.com.br:1935\/canaldesaopaulo\/live\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/canalsp.png",
+        "tvtitle": "TV Canal Extremadura",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdnlive.shooowit.net\/canalextremaduralive\/smil:channel1DVR.smil\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTz1UAgjasB65kk3-_b_AVUR6s7ikVKXsRWoY9EVw=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 119,
-        "tvtitle": "CNT",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=dd8umsy8yf96u.cloudfront.net\/live\/cnt-curitiba.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/cnt.png",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV TVE 24",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=hlsliveamdgl7-lh.akamaihd.net\/i\/hlsdvrlive_1@583042\/master.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRCI6q817rqfqgWwRTc41umKpHzkwsvU7MnR6Vp=s150",
+        "tvgroup": "Jornalismo"
     },
     {
         "id": 120,
-        "tvtitle": "Boas Novas",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-9375\/LVW9375_6i0wPBCHYc\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/tvredeboasnovas.png",
-        "tvgroup": "Religioso"
+        "tvtitle": "TV RT News",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rt-esp-gd.secure2.footprint.net\/1102_2500Kb.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQcmn4IFoEERfIagAxd1DINTlVELKwsK7GJ4rD1OQ=s150",
+        "tvgroup": "Jornalismo"
     },
     {
         "id": 121,
-        "tvtitle": "SIC (apenas em Portugal)",
-        "tvmedia": "http:\/\/live.impresa.pt\/live\/sic\/sic.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/logo_sic_2018.png",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV RAINEWS-24",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rainews1-live.akamaized.net\/hls\/live\/598326\/rainews1\/rainews1\/rainews_1800\/chunklist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSm-o2p8Gne_9dk_QPkwg2x_hViY8MhujNmRoRuUQ=s150",
+        "tvgroup": "Jornalismo"
     },
     {
         "id": 122,
-        "tvtitle": "France 24",
-        "tvmedia": "http:\/\/static.france24.com\/live\/F24_ES_LO_HLS\/live_web.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/635px-france24.png",
-        "tvgroup": "Jornalismo"
+        "tvtitle": "TV Retro Plus",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/retroplustv\/_definst_\/retroplustv\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTVWQdZzUfTJVjnTJxQqB_wz3GgYUxitoowoPK_CA=s150",
+        "tvgroup": "M\u00fasica"
     },
     {
         "id": 123,
-        "tvtitle": "TV5 Monde Info",
-        "tvmedia": "http:\/\/v3plusinfo247hls-i.akamaihd.net\/hls\/live\/218877\/v3plusinfo247hls\/v3plusinfo247hls_1_2.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/TV5-Monde-Info.png",
-        "tvgroup": "Jornalismo"
+        "tvtitle": "TV Caravelas",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/tvcaravelas\/_definst_\/tvcaravelas\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTIp4_srXU1Tut7zVeVRQDGCqRTa2yQkrti528AYw=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 124,
-        "tvtitle": "Al Jazeera English",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live-hls-web-aje.getaj.net\/AJE\/index.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png",
-        "tvgroup": "Jornalismo"
+        "tvtitle": "TV COM BRASIL",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=596639ebdd89b.streamlock.net\/8032\/8032\/chunklist_w453009587.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTIp4_srXU1Tut7zVeVRQDGCqRTa2yQkrti528AYw=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 125,
-        "tvtitle": "Arirang",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=amdlive-ch01-ctnd-com.akamaized.net\/arirang_1ch\/smil:arirang_1ch.smil\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/arirang_logo.png",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Zoom",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-9730\/LVW9730_LmUwslM8jt\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRrA437YTz1nc3lxgYLxnaLkqFj-Qo3n2BmaazU=s150",
+        "tvgroup": "WebTV"
     },
     {
         "id": 126,
-        "tvtitle": "NHK Japan",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=nhkworld.webcdn.stream.ne.jp\/www11\/nhkworld-tv\/global\/2003458\/live.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/bnr_world.png",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Master",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=virtues.es:1936\/tvmaster\/tvmaster\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTZQfwl1b0EcJgnRNKkU04Lyypd-AzpuhS9-KX0jg=s150",
+        "tvgroup": "WebTV"
     },
     {
         "id": 127,
-        "tvtitle": "Sky News",
-        "tvmedia": "http:\/\/skynews-go-hls.ak-cdn.skydvn.com\/skynews\/1404\/latest.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/Sky-News.png",
+        "tvtitle": "TV RT News",
+        "tvmedia": "https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg/live",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQcmn4IFoEERfIagAxd1DINTlVELKwsK7GJ4rD1OQ=s150",
         "tvgroup": "Jornalismo"
     },
     {
         "id": 128,
-        "tvtitle": "Bloomberg TV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=liveproduseast.akamaized.net\/btv\/desktop\/us_live.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/1280px-bloomberg_television_logo.svg_.png",
-        "tvgroup": "Jornalismo"
+        "tvtitle": "FM O DIA 100.5",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live.cdn.upx.com\/omms9\/myStream.sdp\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSohXcZo_SP2qsHJ-jX6UTvYWdc5Capj-lCHGrH=s150",
+        "tvgroup": "R\u00e1dio"
     },
     {
         "id": 129,
-        "tvtitle": "CBS News",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cbsnewshd-lh.akamaihd.net\/i\/CBSNHD_7@199302\/master.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/cbsnews.png",
-        "tvgroup": "Jornalismo"
+        "tvtitle": "TV CBN SP",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=medias.sgr.globo.com\/hls\/vCBNSP\/vCBNSP.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQvivi0AlyyordnqmWa2NJOVUU14POdJoVMC4vMzGQ=s150",
+        "tvgroup": "R\u00e1dio"
     },
     {
         "id": 130,
-        "tvtitle": "Deutsche Welle",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=dwstream3-lh.akamaihd.net\/i\/dwstream3_live@124409\/master.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/dw.png",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV CBN RJ",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=medias.sgr.globo.com\/hls\/vCBNRJ\/vCBNRJ.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQvivi0AlyyordnqmWa2NJOVUU14POdJoVMC4vMzGQ=s150",
+        "tvgroup": "R\u00e1dio"
     },
+
     {
         "id": 131,
-        "tvtitle": "Red Bull TV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rbmn-live.akamaized.net\/hls\/live\/590964\/BoRB-AT\/master.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/redbull.png",
-        "tvgroup": "Esportes"
-    },
-    {
-        "id": 132,
-        "tvtitle": "RT Documentary Channel",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rt-doc.secure.footprint.net\/1101_1600Kb.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/rt.png",
-        "tvgroup": "Document\u00e1rio"
-    },
-    {
-        "id": 133,
-        "tvtitle": "CGTN Espa\u00f1ol",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=livees.cgtn.com\/1000e\/prog_index.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/CGTN-Espanol.png",
-        "tvgroup": "Document\u00e1rio"
-    },
-    {
-        "id": 134,
-        "tvtitle": "La 1",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=hlsliveamdgl7-lh.akamaihd.net\/i\/hlslive_1@583043\/index_1500_av-p.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/La1.png",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 135,
-        "tvtitle": "TV Gal\u00edcia",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=europa-crtvg.flumotion.com\/crtvg\/europa_high\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/TVG.png",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 136,
-        "tvtitle": "Canal Extremadura",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdnlive.shooowit.net\/canalextremaduralive\/smil:channel1DVR.smil\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/Canal-Extremadura.png",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 137,
-        "tvtitle": "EWTN",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=dyo5cp96eopax.cloudfront.net\/p\/CANE.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/ewtn.png",
-        "tvgroup": "Religioso"
-    },
-    {
-        "id": 138,
-        "tvtitle": "RTVE",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=hlsliveamdgl7-lh.akamaihd.net\/i\/hlsdvrlive_1@583042\/master.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/tves.png",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 139,
-        "tvtitle": "TVE 24",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=hlsliveamdgl7-lh.akamaihd.net\/i\/hlsdvrlive_1@583042\/master.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/TVE-24h.png",
-        "tvgroup": "Jornalismo"
-    },
-    {
-        "id": 140,
-        "tvtitle": "RT en espa\u00f1ol ",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rt-esp-gd.secure2.footprint.net\/1102_2500Kb.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/russiatoday.jpg",
-        "tvgroup": "Jornalismo"
-    },
-    {
-        "id": 141,
-        "tvtitle": "RAINEWS24",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rainews1-live.akamaized.net\/hls\/live\/598326\/rainews1\/rainews1\/rainews_1800\/chunklist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/rainews.png",
-        "tvgroup": "Jornalismo"
-    },
-    {
-        "id": 142,
-        "tvtitle": "CCTV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cctvcnchwh5ca.v.cdn20.com\/live\/cctv1_2\/index.m3u8?contentid=2820180516001",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/cctv1.png",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 143,
-        "tvtitle": "CCTV Not\u00edcias",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cctvcnchwh5ca.v.cdn20.com\/live\/cctv13_2\/index.m3u8?contentid=2820180516001",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/cctv13.png",
-        "tvgroup": "Jornalismo"
-    },
-    {
-        "id": 144,
-        "tvtitle": "SBN Global",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=sonlife3-i.akamaihd.net\/hls\/live\/584628\/ch3\/video_0\/video_0.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/sbn.png",
-        "tvgroup": "Religioso"
-    },
-    {
-        "id": 145,
-        "tvtitle": "Retro Plus",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/retroplustv\/_definst_\/retroplustv\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/retroplus.png",
-        "tvgroup": "M\u00fasica"
-    },
-    {
-        "id": 146,
-        "tvtitle": "The Retro Channel",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5fd5567570c0e.streamlock.net\/theretrochannel\/stream\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/theretrofb.jpg",
-        "tvgroup": "M\u00fasica"
-    },
-    {
-        "id": 147,
-        "tvtitle": "SIC TV  Local - Record Rond\u00f4nia",
-        "tvmedia": "http:\/\/5953e7f9ae845.streamlock.net\/2502\/2502\/chunklist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/sictv.png",
-        "tvgroup": "Variedades"
-    },
-    {
-        "id": 148,
-        "tvtitle": "TV Caravelas",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/tvcaravelas\/_definst_\/tvcaravelas\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/tvcaravelas.png",
-        "tvgroup": "P\u00fablica"
-    },
-    {
-        "id": 149,
-        "tvtitle": "TV COM BRASIL",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=596639ebdd89b.streamlock.net\/8032\/8032\/chunklist_w453009587.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/combrasil.png",
-        "tvgroup": "P\u00fablica"
-    },
-    {
-        "id": 150,
-        "tvtitle": "TV Zoom",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-9730\/LVW9730_LmUwslM8jt\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/zoom.png",
-        "tvgroup": "WebTV"
-    },
-    {
-        "id": 151,
-        "tvtitle": "TV Master",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=virtues.es:1936\/tvmaster\/tvmaster\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/master.png",
-        "tvgroup": "WebTV"
-    },
-    {
-        "id": 152,
-        "tvtitle": "FM O DIA 100.5 - EST\u00daDIO AO VIVO",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live.cdn.upx.com\/omms9\/myStream.sdp\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/fm-o-dia-foto.jpg",
-        "tvgroup": "R\u00e1dio"
-    },
-    {
-        "id": 153,
-        "tvtitle": "CBN SP",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=medias.sgr.globo.com\/hls\/vCBNSP\/vCBNSP.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/CBN_logo.svg.png",
-        "tvgroup": "R\u00e1dio"
-    },
-    {
-        "id": 154,
-        "tvtitle": "CBN RJ",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=medias.sgr.globo.com\/hls\/vCBNRJ\/vCBNRJ.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/CBN_logo.svg.png",
-        "tvgroup": "R\u00e1dio"
-    },
-    {
-        "id": 155,
-        "tvtitle": "94 Atividade FM",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=v8.ciclano.io:1443\/anderson\/_definst_\/anderson\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/94fm.png",
-        "tvgroup": "R\u00e1dio"
-    },
-    {
-        "id": 156,
-        "tvtitle": "TV Cultura - TV Futuro (RJ)",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=streaming03.zas.media\/tvfuturo\/tvfuturo\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/1180px-cultura_logo_2013.svg_.png",
-        "tvgroup": "P\u00fablica"
-    },
-    {
-        "id": 157,
-        "tvtitle": "Cultura Par\u00e1",
-        "tvmedia": "http:\/\/str.portalcultura.com.br\/funtelpa\/tv_funtelpa\/live.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/culturapara.png",
-        "tvgroup": "P\u00fablica"
-    },
-    {
-        "id": 158,
-        "tvtitle": "TV Liberdade - WebTV",
-        "tvmedia": "http:\/\/01.paineldevideo.com\/rtguarany\/rtguarany\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/tvliberdade.png",
-        "tvgroup": "WebTV"
-    },
-    {
-        "id": 159,
-        "tvtitle": "Rede Clone - WebTV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv2.voxtvhd.com.br\/redeclonetv\/redeclonetv\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/clone.jpg",
-        "tvgroup": "WebTV"
-    },
-    {
-        "id": 160,
-        "tvtitle": "TopTV - TV Estado",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/AVJ-9094\/playlist\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/toptv.png",
-        "tvgroup": "M\u00fasica"
-    },
-    {
-        "id": 161,
-        "tvtitle": "Kiss TV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cast.cdnseguro.com:19360\/8094\/8094.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/kisstv.png",
-        "tvgroup": "M\u00fasica"
-    },
-    {
-        "id": 162,
-        "tvtitle": "TV Escola",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=edge-df-01.eduplay.rnp.br\/media\/ocp(r(iRGrcw)",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/tvescola.png",
+        "tvtitle": "TV A Crítica",
+        "tvmedia": "https://www.youtube.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw/live",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQCNiDpIu9AWB_L-z-4AcwFq89xZfHowBBA0XEc_A=s150",
         "tvgroup": "P\u00fablica"
     }
 ]
