@@ -792,7 +792,7 @@
     },
     {
         "id": 114,
-        "tvtitle": "TV RT Documentary Channel",
+        "tvtitle": "TV RT Documentary",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rt-doc.secure.footprint.net\/1101_1600Kb.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQcmn4IFoEERfIagAxd1DINTlVELKwsK7GJ4rD1OQ=s150",
         "tvgroup": "Document\u00e1rio"
@@ -806,9 +806,9 @@
     },
     {
         "id": 116,
-        "tvtitle": "TV La 1",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=hlsliveamdgl7-lh.akamaihd.net\/i\/hlslive_1@583043\/index_1500_av-p.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSm-o2p8Gne_9dk_QPkwg2x_hViY8MhujNmRoRuUQ=s150",
+        "tvtitle": "TV SBT Pará",
+        "tvmedia": "https://www.youtube.com/channel/UCcDerngKTEU5ryjMS-ThLbg/live",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
     {
