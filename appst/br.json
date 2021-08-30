@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "tvtitle": "TV SBT ",
+        "tvtitle": "TV SBT",
         "tvmedia": "https://www.youtube.com/embed/ABVQXgr2LW4?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
@@ -44,7 +44,7 @@
     {
         "id": 7,
         "tvtitle": "TV CNN",
-        "tvmedia": "https://www.youtube.com/watch?v=K-AHtPiHaeU",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCvdwhh_fDyWccR42-rReZLw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR6x4Xeq7in7_LyDuivc_8ywmr4MuonUKH1f8Z4Hg=s150",
         "tvgroup": "Variedades"
     },
@@ -184,7 +184,7 @@
     {
         "id": 27,
         "tvtitle": "TV ALERJ",
-        "tvmedia": "https://www.youtube.com/channel/UCH1a8t5cikU9cYa69BLVfbQ/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCH1a8t5cikU9cYa69BLVfbQ",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRr_SDZbbCwuZQNDPbdYuLWFz92sp0R5wtPIzAJ7Q=s150",
         "tvgroup": "Variedades"
     },
@@ -219,21 +219,21 @@
     {
         "id": 32,
         "tvtitle": "TV Jovem Pan News",
-        "tvmedia": "https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCP391YRAjSOdM_bwievgaZA",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRmHywtWtGPiLXqxLQsy_DH-z9qdtZXngz_R2aZ5A=s150",
         "tvgroup": "News"
     },
     {
         "id": 33,
         "tvtitle": "TV The History Channel",
-        "tvmedia": "https://www.youtube.com/playlist?list=UURP5p2RfxJgnKyWgve5pJ-Q",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UURP5p2RfxJgnKyWgve5pJ-Q",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS-R2Mwzx_UcB_FmYSn3awjA9AfPTu9qK98cdNgqqE=s150",
         "tvgroup": "History"
     },
     {
         "id": 34,
         "tvtitle": "TV Discovery",
-        "tvmedia": "https://www.youtube.com/playlist?list=UUt6iLNEJT6v9VHm9hQ04W6g",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUt6iLNEJT6v9VHm9hQ04W6g",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s150",
         "tvgroup": "P\u00fablica"
     },
@@ -289,7 +289,7 @@
     {
         "id": 42,
         "tvtitle": "TV Brasil",
-        "tvmedia": "https://www.youtube.com/channel/UCSv9d0kQegylHWpP83jWSQg/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCSv9d0kQegylHWpP83jWSQg",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSoTIiP4yTYcDrgOv_mK1C3zcp--7HVYcDqz8Jwug=s150",
         "tvgroup": "P\u00fablica"
     },
@@ -310,14 +310,14 @@
     {
         "id": 45,
         "tvtitle": "TV BAND Channel",
-        "tvmedia": "https://www.youtube.com/channel/UCoa-D_VfMkFrCYodrOC9-mA/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCoa-D_VfMkFrCYodrOC9-mA",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
         "tvgroup": "P\u00fablica"
     },
     {
         "id": 46,
         "tvtitle": "TV NetMovies",
-        "tvmedia": "https://www.youtube.com/playlist?list=UUK5RRQ3TdwAbbCWrtnXsN3Q",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUK5RRQ3TdwAbbCWrtnXsN3Q",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTACd5MYevWLyXiFenG98CV728xmL2iyzxQxukMJg=s150",
         "tvgroup": "Movies"
     },
@@ -338,7 +338,7 @@
     {
         "id": 49,
         "tvtitle": "TV Aparecida Channel",
-        "tvmedia": "https://www.youtube.com/channel/UCfYrK5JU5EznsnK3wQE7iIg/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCfYrK5JU5EznsnK3wQE7iIg",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLThcRK1sWEDqYgZEwk27Jl2-gLhtWbyepDYktyQNA=s150",
         "tvgroup": "Religioso"
     },
@@ -380,7 +380,7 @@
     {
         "id": 55,
         "tvtitle": "TV GLOBO",
-        "tvmedia": "https://www.youtube.com/results?search_query=globo+ao+vivo&sp=EgJAAQ%253D%253D",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUEPRQVF6hxGGM9gi1ELaWHg",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRvswWoVKjf6UDV7VrtwZLxJXAHh8wM8N774xy25wY=s150",
         "tvgroup": "Esportes"
     },
@@ -443,21 +443,21 @@
     {
         "id": 64,
         "tvtitle": "TV Rede Novo Tempo",
-        "tvmedia": "https://www.youtube.com/channel/UC_OaSsAydgSIjUtjYn9qLog/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC_OaSsAydgSIjUtjYn9qLog",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTVZyGd5P4SXo4hL6T9yFROgk0qv4mr4g-l_BV51A=s150",
         "tvgroup": "Religioso"
     },
     {
         "id": 65,
         "tvtitle": "TV DecomTV Channel",
-        "tvmedia": "https://www.youtube.com/playlist?list=UUHqvw9v2Fp6o006lUskoigg",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUHqvw9v2Fp6o006lUskoigg",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSiY60hyLD6t3gzhYIp_OQy0hritfYDBfejgbEPMw=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 66,
         "tvtitle": "TV REDE BRASIL",
-        "tvmedia": "https://www.youtube.com/channel/UCubxEhRi56_V4_eTzzcFwkA/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCubxEhRi56_V4_eTzzcFwkA",
         "tvlogo": "https://yt3.ggpht.com/O2uRozYpchmW0Km3zWyPUVBCrwpa5Eai1o1RHy9K-S0_AhbEej3XmLJUDQwk2NQr1zukOPrs=s150",
         "tvgroup": "Religioso"
     },
@@ -597,7 +597,7 @@
     {
         "id": 86,
         "tvtitle": "TV RDC",
-        "tvmedia": "https://www.youtube.com/channel/UCFx7YngsREshEqAX6zJ-XHg/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCFx7YngsREshEqAX6zJ-XHg",
         "tvlogo": "https://yt3.ggpht.com/1djRiAu_La452dAeTqSPSfnNsV_zUv3R2WTNd-62YP4zUT4mZhZz3E4JXOwRtZBclLo8YzDgrQ=s150",
         "tvgroup": "Variedades"
     },
@@ -681,35 +681,35 @@
     {
         "id": 98,
         "tvtitle": "TV VTV-SBT",
-        "tvmedia": "https://www.youtube.com/channel/UC40TUSUx490U5uR1lZt3Ajg/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC40TUSUx490U5uR1lZt3Ajg",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTpmIAeL2yjTv6pWGd-0OHXATMTTE_MgmTcrlfmTQ=s150",
         "tvgroup": "P\u00fablica"
     },
     {
         "id": 99,
         "tvtitle": "TV Terra Viva",
-        "tvmedia": "https://www.youtube.com/channel/UCg7OGZm5onXJ-RDeGW6c7YQ/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCg7OGZm5onXJ-RDeGW6c7YQ",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTAd-sBG5wzPZY87XqyHNCzzDzgIR4JQqou-MEs7Q=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 100,
         "tvtitle": "TV Cartoon Network",
-        "tvmedia": "https://www.youtube.com/channel/UC1toK6UDXwreacdepXYcyqA/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC1toK6UDXwreacdepXYcyqA",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQb7_fZue2PHJudBDi4f8DCZLyYqUTroiu7r_bnvA=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 101,
         "tvtitle": "TV RIT",
-        "tvmedia": "https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCA0bOG0NUfJ855eDtHSxOkw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSW13YN_olchdGSjC59K4VQiZHPO0rq6PlCCWZLTA=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 102,
         "tvtitle": "TV SBT RS",
-        "tvmedia": "https://www.youtube.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCHDfPYXReWt5EVIzBA6TzOQ",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
@@ -730,7 +730,7 @@
     {
         "id": 105,
         "tvtitle": "TV SBT Rio",
-        "tvmedia": "https://www.youtube.com/channel/UCsRfBAspa72ExrsN347W2xg/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCsRfBAspa72ExrsN347W2xg",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
@@ -744,7 +744,7 @@
     {
         "id": 107,
         "tvtitle": "TV Nickelodeon",
-        "tvmedia": "https://www.youtube.com/channel/UCMryAHWeLf3TxDyDxSWs4AQ/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCMryAHWeLf3TxDyDxSWs4AQ",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR650ALfTBDfElhsqVRuqfFdPkfNUBlNfU1Z04JqO0=s150",
         "tvgroup": "Variedades"
     },
@@ -807,7 +807,7 @@
     {
         "id": 116,
         "tvtitle": "TV SBT Pará",
-        "tvmedia": "https://www.youtube.com/channel/UCcDerngKTEU5ryjMS-ThLbg/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCcDerngKTEU5ryjMS-ThLbg",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
@@ -884,7 +884,7 @@
     {
         "id": 127,
         "tvtitle": "TV RT News",
-        "tvmedia": "https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCpwvZwUam-URkxB7g4USKpg",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQcmn4IFoEERfIagAxd1DINTlVELKwsK7GJ4rD1OQ=s150",
         "tvgroup": "Jornalismo"
     },
@@ -913,7 +913,7 @@
     {
         "id": 131,
         "tvtitle": "TV A Crítica",
-        "tvmedia": "https://www.youtube.com/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw/live",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCnLSKfHkgZ6ujEYCO9jq7Sw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQCNiDpIu9AWB_L-z-4AcwFq89xZfHowBBA0XEc_A=s150",
         "tvgroup": "P\u00fablica"
     }
