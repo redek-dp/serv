@@ -113,9 +113,9 @@
     },
     {
         "id": 17,
-        "tvtitle": "TV Record Bahia",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/master.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
+        "tvtitle": "TV RedeTV! RS",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/tvpampa\/_definst_\/tvpampa\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -127,10 +127,10 @@
     },
     {
         "id": 19,
-        "tvtitle": "TV Record BH",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusbh-lh.akamaihd.net\/i\/pp_bh@377862\/master.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV BAND",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 20,
@@ -162,16 +162,16 @@
     },
     {
         "id": 24,
-        "tvtitle": "TV RedeTV! RS",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/tvpampa\/_definst_\/tvpampa\/playlist.m3u8",
+        "tvtitle": "TV RedeTV!",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/redetvro\/_definst_\/redetvro\/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 25,
-        "tvtitle": "TV RedeTV!",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/redetvro\/_definst_\/redetvro\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s150",
+        "tvtitle": "TV Record Bahia",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/master.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -295,10 +295,10 @@
     },
     {
         "id": 43,
-        "tvtitle": "TV BAND",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV Record BH",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusbh-lh.akamaihd.net\/i\/pp_bh@377862\/master.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
+        "tvgroup": "Variedades"
     },
     {
         "id": 44,
