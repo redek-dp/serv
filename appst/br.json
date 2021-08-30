@@ -701,23 +701,23 @@
     },
     {
         "id": 101,
-        "tvtitle": "TV Canal Rural",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5fa18afd2e74c.streamlock.net\/live\/smil:canalrural.smil\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLT5sodeAokl394_CiT6sMdPVpP54s2hI8ewwyog2Q=s150",
+        "tvtitle": "TV RIT",
+        "tvmedia": "https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSW13YN_olchdGSjC59K4VQiZHPO0rq6PlCCWZLTA=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 102,
-        "tvtitle": "TV Canal do Boi",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=aovivo2.equipea.com.br:5443\/WebRTCAppEE\/streams\/096507120760362020454067.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRDmqxltBt4dbJvgd9-ebX6onRhkTTtmjb9oPMNzQ=s150",
+        "tvtitle": "TV SBT RS",
+        "tvmedia": "https://www.youtube.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ/live",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSfpCMpoaCxdL1dMnG_CjkreGe0KkVbGYVuEWJUbw=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 103,
         "tvtitle": "TV Verdes Campos SAT",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=596639ebdd89b.streamlock.net\/8124\/8124\/chunklist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/verdescampos.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQSlZLp2CMOGHxhEHaxc69Z0KdscLWEnQ0A2cAOq4k=s150",
         "tvgroup": "Variedades"
     },
     {
