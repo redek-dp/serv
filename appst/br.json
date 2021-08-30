@@ -710,7 +710,7 @@
         "id": 102,
         "tvtitle": "TV SBT RS",
         "tvmedia": "https://www.youtube.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ/live",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSfpCMpoaCxdL1dMnG_CjkreGe0KkVbGYVuEWJUbw=s150",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -722,30 +722,30 @@
     },
     {
         "id": 104,
-        "tvtitle": "AgroBrasil TV",
+        "tvtitle": "TV AgroBrasil",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=server.flixtv.com.br\/agrobrasiltv\/agrobrasiltv\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/agrocanal.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRWDfuTlNOQMB1yEQeADLL_k0BA9DcC19xeKMhRtA=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 105,
-        "tvtitle": "Agro Canal",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=aovivo2.equipea.com.br:5443\/WebRTCAppEE\/streams\/444093179514252551699433.m3u8",
-        "tvlogo": "https:\/\/sba1.com\/imagens\/logo-agrocanal.png",
+        "tvtitle": "TV SBT Rio",
+        "tvmedia": "https://www.youtube.com/channel/UCsRfBAspa72ExrsN347W2xg/live",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 106,
-        "tvtitle": "TV Gallo - WebTV",
+        "tvtitle": "TV Gallo",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5c483b9d1019c.streamlock.net\/8202\/8202\/playlist.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/tvgallo.png",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRfXqcz3W9r-ePJe5GY8CaJJkliavwFrfRgkrC1Qg=s150",
         "tvgroup": "WebTV"
     },
     {
         "id": 107,
-        "tvtitle": "TV Santa Cec\u00edlia (SP)",
-        "tvmedia": "http:\/\/flash1.crossdigital.com.br:1935\/2063\/2063\/live.m3u8",
-        "tvlogo": "https:\/\/listaiptv.gratis\/logos\/imagens\/santacecilia.png",
+        "tvtitle": "TV Nickelodeon",
+        "tvmedia": "https://www.youtube.com/channel/UCMryAHWeLf3TxDyDxSWs4AQ/live",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR650ALfTBDfElhsqVRuqfFdPkfNUBlNfU1Z04JqO0=s150",
         "tvgroup": "Variedades"
     },
     {
