@@ -190,17 +190,17 @@
     },
     {
         "id": 28,
-        "tvtitle": "TV AnimeTV ",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com\/animetv\/animetv\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTH91dpZJtBWwr6YBhmkPQTM9GZs0u6jpgYKwmyQg=s150",
-        "tvgroup": "WebTV"
+        "tvtitle": "TV Poços",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTguWkd1AZ7rlxOB05r_R_sadycnxIGywyuCjc6RA=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 29,
-        "tvtitle": "TV AnimeTV 2",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com\/animetv2\/animetv2\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTH91dpZJtBWwr6YBhmkPQTM9GZs0u6jpgYKwmyQg=s150",
-        "tvgroup": "WebTV"
+        "tvtitle": "TV Sul",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQn0ALWwIH53pXjMc7Dy4LlLi3RymPoAHVN99Dfsg=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 30,
@@ -953,17 +953,17 @@
     },
     {
         "id": 137,
-        "tvtitle": "TV Poços",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTguWkd1AZ7rlxOB05r_R_sadycnxIGywyuCjc6RA=s150",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV AnimeTV ",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com\/animetv\/animetv\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTH91dpZJtBWwr6YBhmkPQTM9GZs0u6jpgYKwmyQg=s150",
+        "tvgroup": "WebTV"
     },
     {
         "id": 138,
-        "tvtitle": "TV Sul",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQn0ALWwIH53pXjMc7Dy4LlLi3RymPoAHVN99Dfsg=s150",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV AnimeTV 2",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com\/animetv2\/animetv2\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTH91dpZJtBWwr6YBhmkPQTM9GZs0u6jpgYKwmyQg=s150",
+        "tvgroup": "WebTV"
     },
     {
         "id": 139,
