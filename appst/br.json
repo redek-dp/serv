@@ -932,6 +932,13 @@
     },
     {
         "id": 134,
+        "tvtitle": "TV Londrina",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQmI0ALkFy-y4riWxs4OXN1LH6b60vw9uytToDl=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 135,
         "tvtitle": "TV A Crítica",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCnLSKfHkgZ6ujEYCO9jq7Sw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQCNiDpIu9AWB_L-z-4AcwFq89xZfHowBBA0XEc_A=s150",
