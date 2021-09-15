@@ -239,24 +239,24 @@
     },
     {
         "id": 35,
-        "tvtitle": "TV Retr\u00f4 Cartoon",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com\/retrotv\/retrotv\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLREutiTGL32RSa6UG7Ff6G3GCsi6BnsHqJrL-OwDw=s150",
-        "tvgroup": "Infantil"
+        "tvtitle": "TV Gazeta",
+        "tvmedia": "https://livestream.com/accounts/5381476/events/8947634/player?width=960&height=540&autoPlay=true&mute=true",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 36,
-        "tvtitle": "TV Retr\u00f4 Cartoon 2",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com\/cartoonr2\/cartoonr2\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLREutiTGL32RSa6UG7Ff6G3GCsi6BnsHqJrL-OwDw=s150",
-        "tvgroup": "Infantil"
+        "tvtitle": "TV Classique Western",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com/classique2/classique2/chunklist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTQFwcK_FNyD_wTw51vj5MTmTlphYCHFbr7O9d4=s150",
+        "tvgroup": "R\u00e1dio"
     },
     {
         "id": 37,
-        "tvtitle": "TV Manchete",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv5.zcast.com.br\/tvmanchete\/tvmanchete\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSpDjzIlIfwwJrqUtduq8l07X_YcP9nvVtPEMoO=s150",
-        "tvgroup": "WebTV"
+        "tvtitle": "TV Londrina",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQmI0ALkFy-y4riWxs4OXN1LH6b60vw9uytToDl=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 38,
@@ -911,30 +911,30 @@
     },
     {
         "id": 131,
-        "tvtitle": "TV Gazeta",
-        "tvmedia": "https://livestream.com/accounts/5381476/events/8947634/player?width=960&height=540&autoPlay=true&mute=true",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s150",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV Retr\u00f4 Cartoon",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com\/retrotv\/retrotv\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLREutiTGL32RSa6UG7Ff6G3GCsi6BnsHqJrL-OwDw=s150",
+        "tvgroup": "Infantil"
     },
     {
         "id": 132,
-        "tvtitle": "TV Classique Western",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com/classique2/classique2/chunklist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTQFwcK_FNyD_wTw51vj5MTmTlphYCHFbr7O9d4=s150",
-        "tvgroup": "R\u00e1dio"
+        "tvtitle": "TV Retr\u00f4 Cartoon 2",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com\/cartoonr2\/cartoonr2\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLREutiTGL32RSa6UG7Ff6G3GCsi6BnsHqJrL-OwDw=s150",
+        "tvgroup": "Infantil"
     },
     {
-        "id": 141,
-        "tvtitle": "TV A Crítica",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCnLSKfHkgZ6ujEYCO9jq7Sw",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQCNiDpIu9AWB_L-z-4AcwFq89xZfHowBBA0XEc_A=s150",
-        "tvgroup": "P\u00fablica"
+        "id": 133,
+        "tvtitle": "TV Manchete",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv5.zcast.com.br\/tvmanchete\/tvmanchete\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSpDjzIlIfwwJrqUtduq8l07X_YcP9nvVtPEMoO=s150",
+        "tvgroup": "WebTV"
     },
     {
         "id": 134,
-        "tvtitle": "TV Londrina",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQmI0ALkFy-y4riWxs4OXN1LH6b60vw9uytToDl=s150",
+        "tvtitle": "TV A Crítica",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCnLSKfHkgZ6ujEYCO9jq7Sw",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQCNiDpIu9AWB_L-z-4AcwFq89xZfHowBBA0XEc_A=s150",
         "tvgroup": "P\u00fablica"
     },
     {
