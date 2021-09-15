@@ -974,13 +974,20 @@
     },
     {
         "id": 140,
+        "tvtitle": "TV AgroMais",
+        "tvmedia": "https://player.band.com.br/aovivo/?transmissao=agromais",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTJL38_3KXgmp_cWXcNWrD21fc32BCSseo_EfkB=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 141,
         "tvtitle": "TV CTV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQaCK1_mtzkSV4rqWgi9dE-y_Msdas6PhroyzCLGw=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 141,
+        "id": 142,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSYc-8x50Tam9L7-GlREiWMJrkx4q88LudxWh7qfw=s150",
