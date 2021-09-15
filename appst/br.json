@@ -617,9 +617,9 @@
     },
     {
         "id": 89,
-        "tvtitle": "TV Natal",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=tvnatal.ddns.net:1935\/vmix\/myStream\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSOjg2q52tFLfpA7hChU09TP9xS5_tQSFaC7yJb=s150",
+        "tvtitle": "TV Nordestina",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC1pXFbM6hPRkUUTeO3txrtw",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQNA2th8WL2v5LHPLN4xSFHRptDY8zfynq55L2ntg=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -939,6 +939,20 @@
     },
     {
         "id": 135,
+        "tvtitle": "TV CTV",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQaCK1_mtzkSV4rqWgi9dE-y_Msdas6PhroyzCLGw=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 136,
+        "tvtitle": "TV Shoptime",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCCuYi5AP3gya6C5mdWYS6CQ",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTse-AOM9mcjR3Y4FX58dSG746_LlmAopHk6vyb-k0=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 137,
         "tvtitle": "TV A Crítica",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCnLSKfHkgZ6ujEYCO9jq7Sw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQCNiDpIu9AWB_L-z-4AcwFq89xZfHowBBA0XEc_A=s150",
