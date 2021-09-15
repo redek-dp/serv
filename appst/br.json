@@ -85,15 +85,15 @@
     },
     {
         "id": 13,
-        "tvtitle": "TV Birigui",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/tvdigitalbirigui\/_definst_\/tvdigitalbirigui\/chunklist_w763334596.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRRwzd_o--BIA4_PArDjMqAk2QuNL1DScJNYQ=s150",
-        "tvgroup": "WebTV"
+        "tvtitle": "TV Rede Minas",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_380p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTcrZNv0DGhh-2AFNTdE8sr0lHQPFKIAbWiqjQ8Pg=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 14,
-        "tvtitle": "TV Record NA",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/tvtropical\/_definst_\/tvtropical\/playlist.m3u8",
+        "tvtitle": "TV Record DF",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_240_av-p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
     },
@@ -120,8 +120,8 @@
     },
     {
         "id": 18,
-        "tvtitle": "TV Record DF",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusbsa-lh.akamaihd.net\/i\/pp_bsa@377860\/master.m3u8",
+        "tvtitle": "TV Record NA",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/tvtropical\/_definst_\/tvtropical\/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
     },
@@ -267,10 +267,10 @@
     },
     {
         "id": 39,
-        "tvtitle": "TV Rede Minas",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=v4-slbps-sambavideos.akamaized.net\/live\/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21\/amlst%3AMc_tFgfGiHOdQXPB\/chunklist_.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTcrZNv0DGhh-2AFNTdE8sr0lHQPFKIAbWiqjQ8Pg=s150",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV Birigui",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/tvdigitalbirigui\/_definst_\/tvdigitalbirigui\/chunklist_w763334596.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRRwzd_o--BIA4_PArDjMqAk2QuNL1DScJNYQ=s150",
+        "tvgroup": "WebTV"
     },
     {
         "id": 40,
