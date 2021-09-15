@@ -15,10 +15,10 @@
     },
     {
         "id": 3,
-        "tvtitle": "TV Rede Fam\u00edlia",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5a1c76baf08c0.streamlock.net\/familia\/smil:familia.smil\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTMuv4SIhHuKsVdBUb9WmFl-xOYWfEPBy2PZWcX5g=s150",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV BAND",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-280p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 4,
@@ -64,10 +64,10 @@
     },
     {
         "id": 10,
-        "tvtitle": "TV BAND",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-280p.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV Rede Fam\u00edlia",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5a1c76baf08c0.streamlock.net\/familia\/smil:familia.smil\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTMuv4SIhHuKsVdBUb9WmFl-xOYWfEPBy2PZWcX5g=s150",
+        "tvgroup": "Variedades"
     },
     {
         "id": 11,
