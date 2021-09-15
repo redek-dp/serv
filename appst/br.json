@@ -57,9 +57,9 @@
     },
     {
         "id": 9,
-        "tvtitle": "TV SBT - FO",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv-mc.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
+        "tvtitle": "TV Brusque",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net\/rodrigotvbrusque.com.br\/_definst_\/5d880199c902eb4a1e8df00d\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQqDPEKMjXyHHQB1vxVAqyZRiyM6p-3uhPBN0Ea=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -176,9 +176,9 @@
     },
     {
         "id": 26,
-        "tvtitle": "TV Brusque",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net\/rodrigotvbrusque.com.br\/_definst_\/5d880199c902eb4a1e8df00d\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQqDPEKMjXyHHQB1vxVAqyZRiyM6p-3uhPBN0Ea=s150",
+        "tvtitle": "TV SBT - FO",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv-mc.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
     {
