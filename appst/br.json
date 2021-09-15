@@ -953,6 +953,20 @@
     },
     {
         "id": 137,
+        "tvtitle": "TV Poços",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTguWkd1AZ7rlxOB05r_R_sadycnxIGywyuCjc6RA=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 138,
+        "tvtitle": "TV Sul",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQn0ALWwIH53pXjMc7Dy4LlLi3RymPoAHVN99Dfsg=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 139,
         "tvtitle": "TV A Crítica",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCnLSKfHkgZ6ujEYCO9jq7Sw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQCNiDpIu9AWB_L-z-4AcwFq89xZfHowBBA0XEc_A=s150",
