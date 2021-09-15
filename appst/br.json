@@ -58,16 +58,16 @@
     {
         "id": 9,
         "tvtitle": "TV SBT - Flo",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv-mc.sistemafloresta.com.br\/tvfloresta\/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv-mc.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 10,
-        "tvtitle": "TV Record News",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusnews-lh.akamaihd.net\/i\/pp_nws@377849\/master.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s150",
-        "tvgroup": "Jornalismo"
+        "tvtitle": "TV BAND",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-280p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 11,
@@ -92,7 +92,7 @@
     },
     {
         "id": 14,
-        "tvtitle": "TV Record Natal",
+        "tvtitle": "TV Record NA",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/tvtropical\/_definst_\/tvtropical\/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
@@ -127,10 +127,10 @@
     },
     {
         "id": 19,
-        "tvtitle": "TV BAND",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV Record News",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusnews-lh.akamaihd.net\/i\/pp_nws@377849\/master.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s150",
+        "tvgroup": "Jornalismo"
     },
     {
         "id": 20,
@@ -974,6 +974,13 @@
     },
     {
         "id": 140,
+        "tvtitle": "TV Record SP",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_240_av-p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
+        "tvgroup": "Variedades"
+    },
+    {
+        "id": 141,
         "tvtitle": "TV A Crítica",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCnLSKfHkgZ6ujEYCO9jq7Sw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQCNiDpIu9AWB_L-z-4AcwFq89xZfHowBBA0XEc_A=s150",
