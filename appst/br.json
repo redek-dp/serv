@@ -22,9 +22,9 @@
     },
     {
         "id": 4,
-        "tvtitle": "TV Brasil Oeste",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net\/operacaotbomt.com\/operacaotbomt.com\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ1oT_c5JfZKApyS_GymorA2XHfqaBRYmOkU2ZAtQ=s150",
+        "tvtitle": "TV Record",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusspo-lh.akamaihd.net\/i\/pp_sp@350176\/master.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -36,7 +36,7 @@
     },
     {
         "id": 6,
-        "tvtitle": "TV SBT - Cidade Verde",
+        "tvtitle": "TV SBT - CiV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.transmissaodigital.com\/cidadeverdenovo\/cidadeverdenovo\/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
@@ -57,7 +57,7 @@
     },
     {
         "id": 9,
-        "tvtitle": "TV SBT - Floresta",
+        "tvtitle": "TV SBT - Flo",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv-mc.sistemafloresta.com.br\/tvfloresta\/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
@@ -71,16 +71,16 @@
     },
     {
         "id": 11,
-        "tvtitle": "TV SBT - Serra Dourada",
+        "tvtitle": "TV SBT - SeD",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5a1c76baf08c0.streamlock.net\/tvsd2\/smil:tvsd2_20042020.smil\/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 12,
-        "tvtitle": "TV Record",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusspo-lh.akamaihd.net\/i\/pp_sp@350176\/master.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
+        "tvtitle": "TV Brasil Oeste",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net\/operacaotbomt.com\/operacaotbomt.com\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ1oT_c5JfZKApyS_GymorA2XHfqaBRYmOkU2ZAtQ=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -120,7 +120,7 @@
     },
     {
         "id": 18,
-        "tvtitle": "TV Record",
+        "tvtitle": "TV Record DF",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusbsa-lh.akamaihd.net\/i\/pp_bsa@377860\/master.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
@@ -141,7 +141,7 @@
     },
     {
         "id": 21,
-        "tvtitle": "TV Record Ma",
+        "tvtitle": "TV Record MA",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusmao-lh.akamaihd.net\/i\/pp_mao@409195\/master.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
@@ -155,7 +155,7 @@
     },
     {
         "id": 23,
-        "tvtitle": "TV Record RGS",
+        "tvtitle": "TV Record RS",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playpluspoa-lh.akamaihd.net\/i\/pp_poa@377864\/master.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
@@ -169,7 +169,7 @@
     },
     {
         "id": 25,
-        "tvtitle": "TV Record Bahia",
+        "tvtitle": "TV Record BA",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/master.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
@@ -225,7 +225,7 @@
     },
     {
         "id": 33,
-        "tvtitle": "TV The History Channel",
+        "tvtitle": "TV The History",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UURP5p2RfxJgnKyWgve5pJ-Q",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS-R2Mwzx_UcB_FmYSn3awjA9AfPTu9qK98cdNgqqE=s150",
         "tvgroup": "History"
