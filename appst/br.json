@@ -120,10 +120,10 @@
     },
     {
         "id": 18,
-        "tvtitle": "TV Record NA",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/tvtropical\/_definst_\/tvtropical\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV BAND",
+        "tvmedia": "https://player.band.com.br/aovivo/?transmissao=band",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 19,
