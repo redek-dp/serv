@@ -909,9 +909,15 @@
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQvivi0AlyyordnqmWa2NJOVUU14POdJoVMC4vMzGQ=s150",
         "tvgroup": "R\u00e1dio"
     },
-
     {
         "id": 131,
+        "tvtitle": "TV Gazeta",
+        "tvmedia": "https://livestream.com/accounts/5381476/events/8947634/player?width=960&height=540&autoPlay=true&mute=true",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 132,
         "tvtitle": "TV A Crítica",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCnLSKfHkgZ6ujEYCO9jq7Sw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQCNiDpIu9AWB_L-z-4AcwFq89xZfHowBBA0XEc_A=s150",
