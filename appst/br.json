@@ -674,7 +674,7 @@
     {
         "id": 97,
         "tvtitle": "TV Sjid",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5e36c064a2f6a.streamlock.net:1936\/8262\/8262\/chunklist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=livefocamundo.com:8081/tvjsid/index.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQGtpeh_dprgKE1D_BLJK_FWtOK9qbfway1NjukRA=s150",
         "tvgroup": "WebTV"
     },
