@@ -352,7 +352,7 @@
     {
         "id": 51,
         "tvtitle": "TV All Sports",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net\/dgrau\/dgrau\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist-380p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSZX7u-HzxKrifM07jZnsA4fMW4bZ49K_O1GKVmcQ=s150",
         "tvgroup": "Esportes"
     },
