@@ -142,7 +142,7 @@
     {
         "id": 21,
         "tvtitle": "TV Gazeta",
-        "tvmedia": "https://livestream.com/accounts/5381476/events/8947634/player?width=960&height=540&autoPlay=true&mute=true",
+        "tvmedia": "https://livestream.com/accounts/5381476/events/8947634/player?width=960&height=540&autoPlay=true&mute=false",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s150",
         "tvgroup": "P\u00fablica"
     },
