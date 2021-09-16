@@ -722,9 +722,9 @@
     },
     {
         "id": 104,
-        "tvtitle": "TV AgroBrasil",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=server.flixtv.com.br\/agrobrasiltv\/agrobrasiltv\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRWDfuTlNOQMB1yEQeADLL_k0BA9DcC19xeKMhRtA=s150",
+        "tvtitle": "TV BraziTV",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lives/stream4/chunks.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/wX2sUA5QgYDLzbmoqNXkMdBjkZcYCYeMMY-OMLPS7Y8HLOT16viLVap8dLuJoU5wmXcskl3L0Q=s150",
         "tvgroup": "Variedades"
     },
     {
