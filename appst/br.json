@@ -926,7 +926,7 @@
     {
         "id": 133,
         "tvtitle": "TV Manchete",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv5.zcast.com.br\/tvmanchete\/tvmanchete\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSpDjzIlIfwwJrqUtduq8l07X_YcP9nvVtPEMoO=s150",
         "tvgroup": "WebTV"
     },
@@ -1002,13 +1002,20 @@
     },
     {
         "id": 144,
+        "tvtitle": "TV Record News",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCuiLR4p6wQ3xLEm15pEn1Xw",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQO8AU5ZfG6zOWepfSOd_gGSWD7nzE7q43Po_Q-Qg=s150",
+        "tvgroup": "Jornalismo"
+    },
+    {
+        "id": 145,
         "tvtitle": "TV CTV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQaCK1_mtzkSV4rqWgi9dE-y_Msdas6PhroyzCLGw=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 145,
+        "id": 146,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSYc-8x50Tam9L7-GlREiWMJrkx4q88LudxWh7qfw=s150",
