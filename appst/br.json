@@ -169,10 +169,10 @@
     },
     {
         "id": 25,
-        "tvtitle": "TV Record BA",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/master.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Cultura",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist-480p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTY-d0jeEZ4XNa6xwubEaFoWyNlRzbbI-PH5exrZ54=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 26,
@@ -974,20 +974,27 @@
     },
     {
         "id": 140,
+        "tvtitle": "TV Record BA",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/master.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
+        "tvgroup": "Variedades"
+    },
+    {
+        "id": 141,
         "tvtitle": "TV AgroMais",
         "tvmedia": "https://player.band.com.br/aovivo/?transmissao=agromais",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTJL38_3KXgmp_cWXcNWrD21fc32BCSseo_EfkB=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 141,
+        "id": 142,
         "tvtitle": "TV CTV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQaCK1_mtzkSV4rqWgi9dE-y_Msdas6PhroyzCLGw=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 142,
+        "id": 143,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSYc-8x50Tam9L7-GlREiWMJrkx4q88LudxWh7qfw=s150",
