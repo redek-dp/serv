@@ -30,7 +30,7 @@
     {
         "id": 5,
         "tvtitle": "TV Carioca",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv5.zcast.com.br\/tvcarioca\/tvcarioca\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv5.zcast.com.br/tvcarioca/tvcarioca/playlist-480p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRuSfXBTNsT0zA7j3V1ZByn_F5XvhGiW6GvFQH_=s150",
         "tvgroup": "WebTV"
     },
