@@ -975,7 +975,7 @@
     {
         "id": 140,
         "tvtitle": "TV Record BA",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplussdr-lh.akamaihd.net\/i\/pp_sdr@377858\/master.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_240_av-p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
     },
@@ -989,14 +989,14 @@
     {
         "id": 142,
         "tvtitle": "TV POMBAL",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvpombal/tvpombal/playlist-380p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4ebCIaaPijDLFSVl4i4jo4PPTMB5YMTXIdI7v=s150",
         "tvgroup": "P\u00fablica"
     },
     {
         "id": 143,
         "tvtitle": "TV Progresso",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/playlist-380p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/0xUxGddqtmqNXo4zoFB2WEuMguAbPO9uTCjqbuEWyA1ORf4sHBzOkj_VG_j7AEIVLD0Lkx0fsA=s150",
         "tvgroup": "P\u00fablica"
     },
