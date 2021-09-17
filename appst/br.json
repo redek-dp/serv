@@ -988,13 +988,27 @@
     },
     {
         "id": 142,
+        "tvtitle": "TV POMBAL",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4ebCIaaPijDLFSVl4i4jo4PPTMB5YMTXIdI7v=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 143,
+        "tvtitle": "TV Progresso",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/0xUxGddqtmqNXo4zoFB2WEuMguAbPO9uTCjqbuEWyA1ORf4sHBzOkj_VG_j7AEIVLD0Lkx0fsA=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 144,
         "tvtitle": "TV CTV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQaCK1_mtzkSV4rqWgi9dE-y_Msdas6PhroyzCLGw=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 143,
+        "id": 145,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSYc-8x50Tam9L7-GlREiWMJrkx4q88LudxWh7qfw=s150",
