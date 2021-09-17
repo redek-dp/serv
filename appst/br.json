@@ -58,7 +58,7 @@
     {
         "id": 9,
         "tvtitle": "TV Brusque",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net\/rodrigotvbrusque.com.br\/_definst_\/5d880199c902eb4a1e8df00d\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist-380p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQqDPEKMjXyHHQB1vxVAqyZRiyM6p-3uhPBN0Ea=s150",
         "tvgroup": "Variedades"
     },
@@ -72,14 +72,14 @@
     {
         "id": 11,
         "tvtitle": "TV SBT - CV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.transmissaodigital.com\/cidadeverdenovo\/cidadeverdenovo\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist-380p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 12,
         "tvtitle": "TV Brasil Oeste",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net\/operacaotbomt.com\/operacaotbomt.com\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist-380p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ1oT_c5JfZKApyS_GymorA2XHfqaBRYmOkU2ZAtQ=s150",
         "tvgroup": "Variedades"
     },
@@ -100,7 +100,7 @@
     {
         "id": 15,
         "tvtitle": "TV ISTV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-9883\/LVW9883_lFcfKysrHF\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist-380p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTLbDkbfHVNy6i7QjVZ_ziCnrf8T4HeVYX5u5L62Q=s150",
         "tvgroup": "Variedades"
     },
@@ -114,7 +114,7 @@
     {
         "id": 17,
         "tvtitle": "TV RedeTV! RS",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/tvpampa\/_definst_\/tvpampa\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist-380p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s150",
         "tvgroup": "Variedades"
     },
@@ -163,7 +163,7 @@
     {
         "id": 24,
         "tvtitle": "TV RedeTV!",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/redetvro\/_definst_\/redetvro\/playlist.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4BZLA0AltDVmJKqc6IcU74pRDOfET0MCs09j2Hw=s150",
         "tvgroup": "Variedades"
     },
