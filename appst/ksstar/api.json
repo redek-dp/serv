@@ -7,6 +7,7 @@
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mistquente.jpg",
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
+    "spaso": "%20",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -17,6 +18,7 @@
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mitquent.jpg",
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
+    "spaso": "%20",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   }
 ]
