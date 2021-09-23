@@ -7,14 +7,7 @@
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mistquente.jpg",
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
-    
-    "what": {
-      "pedido": "Pedidos%20:",
-      "aspas": "```",
-      "spaso": "%20",
-      "estr": "*",
-      "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
-    },
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
     "id": 1,
@@ -24,13 +17,6 @@
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mitquent.jpg",
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
-    
-    "what": {
-      "pedido": "Pedidos%20:",
-      "aspas": "```",
-      "spaso": "%20",
-      "estr": "*",
-      "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
-    }
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   }
 ]
