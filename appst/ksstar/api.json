@@ -1,0 +1,28 @@
+[
+  {
+    "pedido": "Pedidos%20:",
+    "aspas": "```",
+    "spaso": "%20",
+    "estr": "*",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577657&text=",
+    "nomeapi": "whatsapp"
+  },
+  {
+    "id": 1,
+    "pronome": "Misto Quente Tradicional",
+    "descrisao": "Pão Françes, Queijo Musarela, Presunto, Alface, Tomate.",
+    "valor": "R$ 5,40",
+    "urlimg": "https://www.gravatar.com/avatar/1?d=wavatar",
+    "estoque": "Produto em estoque",
+    "categoria": "Sanduicher"
+  },
+  {
+    "id": 2,
+    "pronome": "Misto Quente Tradicional",
+    "descrisao": "Pão Françes, Queijo Musarela, Presunto, Alface, Tomate.",
+    "valor": "R$ 5,40",
+    "urlimg": "https://www.gravatar.com/avatar/1?d=wavatar",
+    "estoque": "Produto em estoque",
+    "categoria": "Sanduicher"
+  }
+]
