@@ -13,8 +13,7 @@
       "aspas": "```",
       "spaso": "%20",
       "estr": "*",
-      "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text=",
-      "nomeapi": "whatsapp"
+      "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
     },
   },
   {
@@ -31,8 +30,7 @@
       "aspas": "```",
       "spaso": "%20",
       "estr": "*",
-      "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text=",
-      "nomeapi": "whatsapp"
+      "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
     },
   }
 ]
