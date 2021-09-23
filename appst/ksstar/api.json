@@ -13,8 +13,8 @@
   {
     "id": 1,
     "pronome": "Misto Quente",
-    "descrisao": "Pão Françes, Queijo Musarela, Presunto, Alface, Tomate.",
-    "valor": "R$ 5,40",
+    "descrisao": "Pão de Forma, Queijo Musarela, Presunto, Alface, Tomate.",
+    "valor": "R$ 4,58",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mitquent.jpg",
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
