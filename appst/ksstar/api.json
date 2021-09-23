@@ -8,6 +8,7 @@
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
     "spaso": "%20",
+    "estr": "*",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -19,6 +20,7 @@
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
     "spaso": "%20",
+    "estr": "*",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   }
 ]
