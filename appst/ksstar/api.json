@@ -12,16 +12,16 @@
     "pronome": "Misto Quente Tradicional",
     "descrisao": "Pão Françes, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 5,40",
-    "urlimg": "https://www.gravatar.com/avatar/1?d=wavatar",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mistquente.jpg",
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher"
   },
   {
     "id": 2,
-    "pronome": "Misto Quente Tradicional",
+    "pronome": "Misto Quente",
     "descrisao": "Pão Françes, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 5,40",
-    "urlimg": "https://www.gravatar.com/avatar/1?d=wavatar",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mitquent.jpg",
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher"
   }
