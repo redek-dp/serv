@@ -8,7 +8,7 @@
     "nomeapi": "whatsapp"
   },
   {
-    "id": 1,
+    "id": 0,
     "pronome": "Misto Quente Tradicional",
     "descrisao": "Pão Françes, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 5,40",
@@ -17,7 +17,7 @@
     "categoria": "Sanduicher"
   },
   {
-    "id": 2,
+    "id": 1,
     "pronome": "Misto Quente",
     "descrisao": "Pão Françes, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 5,40",
