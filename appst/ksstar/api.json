@@ -1,12 +1,5 @@
 [
-  {
-    "pedido": "Pedidos%20:",
-    "aspas": "```",
-    "spaso": "%20",
-    "estr": "*",
-    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text=",
-    "nomeapi": "whatsapp"
-  },
+  
   {
     "id": 1,
     "pronome": "Misto Quente Tradicional",
