@@ -38,7 +38,7 @@
   {
     "id": 3,
     "pronome": "Guarana Antarctica 269 ml",
-    "descrisao": "Guarana Antarctica Refri 269 ml",
+    "descrisao": "Guarana Antarctica Refri Lata 269 ml",
     "valor": "R$ 4,59",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/guarana-antarctica3.jpg",
     "estoque": "Produto em estoque",
@@ -49,6 +49,30 @@
   },
   {
     "id": 4,
+    "pronome": "Sanduiche de Mortadela",
+    "descrisao": "Pão Françes, Mortadela Defumada, Queijo Musarela, Alface, Tomate.",
+    "valor": "R$ 11,25",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sandmoratadeladrupo.jpg",
+    "estoque": "Produto em estoque",
+    "categoria": "Sanduicher",
+    "spaso": "%20",
+    "estr": "*",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 5,
+    "pronome": "Coca-Cala 300 ml",
+    "descrisao": "Coca-Cala Refri Lata 300 ml",
+    "valor": "R$ 4,80",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/cocacola3.jpg",
+    "estoque": "Produto em estoque",
+    "categoria": "Bebidsas",
+    "spaso": "%20",
+    "estr": "*",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 6,
     "pronome": "Misto Quente",
     "descrisao": "Pão de Forma, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 4,58",
