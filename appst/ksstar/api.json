@@ -25,6 +25,30 @@
   },
   {
     "id": 2,
+    "pronome": "Sanduiche de Mortadela Tradicional",
+    "descrisao": "Pão Françes, Mortadela Defumada, Alface, Tomate.",
+    "valor": "R$ 10,00",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mdefumada.jpg",
+    "estoque": "Produto em estoque",
+    "categoria": "Sanduicher",
+    "spaso": "%20",
+    "estr": "*",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 3,
+    "pronome": "Guarana Antarctica 269 ml",
+    "descrisao": "Guarana Antarctica Refri 269 ml",
+    "valor": "R$ 4,59",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/guarana-antarctica3.jpg",
+    "estoque": "Produto em estoque",
+    "categoria": "Bebidsas",
+    "spaso": "%20",
+    "estr": "*",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 4,
     "pronome": "Misto Quente",
     "descrisao": "Pão de Forma, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 4,58",
