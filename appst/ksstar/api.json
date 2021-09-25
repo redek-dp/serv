@@ -13,6 +13,18 @@
   },
   {
     "id": 1,
+    "pronome": "Suco de Laranja",
+    "descrisao": "Suco Natural com Laranjas Frescas",
+    "valor": "R$ 7,40",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sucolaraja.jpg",
+    "estoque": "Produto em estoque",
+    "categoria": "Bebidsas",
+    "spaso": "%20",
+    "estr": "*",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 2,
     "pronome": "Misto Quente",
     "descrisao": "Pão de Forma, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 4,58",
