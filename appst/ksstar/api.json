@@ -18,7 +18,7 @@
     "valor": "R$ 7,40",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sucolaraja.jpg",
     "estoque": "Produto em estoque",
-    "categoria": "Bebidsas",
+    "categoria": "Bebidas",
     "spaso": "%20",
     "estr": "*",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
@@ -42,7 +42,7 @@
     "valor": "R$ 4,59",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/guarana-antarctica3.jpg",
     "estoque": "Produto em estoque",
-    "categoria": "Bebidsas",
+    "categoria": "Bebidas",
     "spaso": "%20",
     "estr": "*",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
@@ -66,7 +66,7 @@
     "valor": "R$ 4,80",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/cocacola3.jpg",
     "estoque": "Produto em estoque",
-    "categoria": "Bebidsas",
+    "categoria": "Bebidas",
     "spaso": "%20",
     "estr": "*",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
