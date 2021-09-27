@@ -8,6 +8,8 @@
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
     
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
     "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
@@ -22,6 +24,8 @@
     "estoque": "Produto em estoque",
     "categoria": "Bebidas",
     
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
     "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
@@ -36,6 +40,8 @@
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
     
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
     "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
@@ -50,6 +56,8 @@
     "estoque": "Produto em estoque",
     "categoria": "Bebidas",
     
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
     "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
@@ -64,6 +72,8 @@
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
     
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
     "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
@@ -78,6 +88,8 @@
     "estoque": "Produto em estoque",
     "categoria": "Bebidas",
     
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
     "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
@@ -92,6 +104,8 @@
     "estoque": "Produto em estoque",
     "categoria": "Sanduicher",
     
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
     "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
