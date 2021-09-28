@@ -113,6 +113,22 @@
   },
   {
     "id": 7,
+    "pronome": "Bolo de Chocolate Castanhas",
+    "descrisao": "Bolo de Chocolate com cobertura Cremosa de Chocolate e Castanhas...",
+    "valor": "R$ 8,23",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/bolochocolatec.jpg",
+    "estoque": "Produto em estoque",
+    "categoria": "Sanduicher",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 8,
     "pronome": "Misto Quente",
     "descrisao": "Pão de Forma, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 4,58",
