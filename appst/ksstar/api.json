@@ -161,6 +161,22 @@
   },
   {
     "id": 10,
+    "pronome": "Açaí com Abacaxi Limão e Hortelã 250ml",
+    "descrisao": "Bebida de Açaí com Abacaxi, Limão e Hortelã Lata 250 ml",
+    "valor": "R$ 5,36",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/AcaiAbacaxiLimaoHortela.jpg",
+    "estoque": "Produto em estoque",
+    "categoria": "Bebidas",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 11,
     "pronome": "Misto Quente",
     "descrisao": "Pão de Forma, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 4,58",
