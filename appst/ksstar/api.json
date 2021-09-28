@@ -129,6 +129,38 @@
   },
   {
     "id": 8,
+    "pronome": "Fanta Laranja 350 ml",
+    "descrisao": "Fanta Laranja Refri Lata 350 ml",
+    "valor": "R$ 4,00",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/fantalaranja.jpg",
+    "estoque": "Produto em estoque",
+    "categoria": "Bebidas",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 9,
+    "pronome": "Sanduiche de Pernil Defumado",
+    "descrisao": "Pão Françes, Pernil Defumada, Queijo Musarela, Alface, Tomate.",
+    "valor": "R$ 12,00",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sanduichedepernildefumado.jpg",
+    "estoque": "Produto em estoque",
+    "categoria": "Sanduicher",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "col-12 col-sm-6 col-md-4 col-lg-3 col-xl-2 bitell scale-anm home ",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 10,
     "pronome": "Misto Quente",
     "descrisao": "Pão de Forma, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 4,58",
