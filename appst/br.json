@@ -253,10 +253,10 @@
     },
     {
         "id": 37,
-        "tvtitle": "TV Londrina",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQmI0ALkFy-y4riWxs4OXN1LH6b60vw9uytToDl=s150",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV The History",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS-R2Mwzx_UcB_FmYSn3awjA9AfPTu9qK98cdNgqqE=s150",
+        "tvgroup": "History"
     },
     {
         "id": 38,
@@ -722,10 +722,10 @@
     },
     {
         "id": 104,
-        "tvtitle": "TV The History",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS-R2Mwzx_UcB_FmYSn3awjA9AfPTu9qK98cdNgqqE=s150",
-        "tvgroup": "History"
+        "tvtitle": "TV Londrina",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=video01.kshost.com.br/clodoaldo3320/clodoaldo3320/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQmI0ALkFy-y4riWxs4OXN1LH6b60vw9uytToDl=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 105,
