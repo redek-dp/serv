@@ -1058,6 +1058,13 @@
     },
     {
         "id": 152,
+        "tvtitle": "TV A&E",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS2g9a9ZIOce0AFTQeD22RAWz8jCXEpEgcyAfYBKuM=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 153,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSYc-8x50Tam9L7-GlREiWMJrkx4q88LudxWh7qfw=s150",
