@@ -367,7 +367,7 @@
         "id": 53,
         "tvtitle": "TV Rede Vida",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cvd1.cds.ebtcvd.net\/live-redevida\/smil:redevida.smil\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/hW-INsTiRmck0OMatCTVJLkoumdGW0fvSiRUbmy9PRA1omeZRIQuMyJznVHzQL9njoP7aZbZIQ=s150",
+        "tvlogo": "https://yt3.ggpht.com/WELOBlr4koubquVoqX1XGGNlhpWd8Hu6zaH6fAxOv3mlTuvqy6Z-aLC7Kn14ft-EwT38QeuAkg=s150",
         "tvgroup": "Religioso"
     },
     {
@@ -549,7 +549,7 @@
         "id": 79,
         "tvtitle": "TV RDC",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=596639ebdd89b.streamlock.net\/datavideo01\/datavideo01\/chunklist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/1djRiAu_La452dAeTqSPSfnNsV_zUv3R2WTNd-62YP4zUT4mZhZz3E4JXOwRtZBclLo8YzDgrQ=s150",
+        "tvlogo": "https://yt3.ggpht.com/mjfVyygTUjliT-w2n-pjp8F8kCvE9qI531hdbU905Z4FHM3j7Y-dqmo4FecCZRIusn3g6bQ3=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -598,7 +598,7 @@
         "id": 86,
         "tvtitle": "TV RDC",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCFx7YngsREshEqAX6zJ-XHg",
-        "tvlogo": "https://yt3.ggpht.com/1djRiAu_La452dAeTqSPSfnNsV_zUv3R2WTNd-62YP4zUT4mZhZz3E4JXOwRtZBclLo8YzDgrQ=s150",
+        "tvlogo": "https://yt3.ggpht.com/mjfVyygTUjliT-w2n-pjp8F8kCvE9qI531hdbU905Z4FHM3j7Y-dqmo4FecCZRIusn3g6bQ3=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -722,10 +722,10 @@
     },
     {
         "id": 104,
-        "tvtitle": "TV BraziTV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/lives/stream4/chunks.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/wX2sUA5QgYDLzbmoqNXkMdBjkZcYCYeMMY-OMLPS7Y8HLOT16viLVap8dLuJoU5wmXcskl3L0Q=s150",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV The History",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS-R2Mwzx_UcB_FmYSn3awjA9AfPTu9qK98cdNgqqE=s150",
+        "tvgroup": "History"
     },
     {
         "id": 105,
