@@ -1065,6 +1065,27 @@
     },
     {
         "id": 153,
+        "tvtitle": "TV Cine live",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1405076796.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS4pt9-cGKc7syXLgWM3tbpB8eYOMt86ZD1s-kF=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 154,
+        "tvtitle": "TV Lifetime",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLT9GEt-TWtdMG26P9Z-ki2XkC5M_vcsYz_Lc4fkRQ=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 155,
+        "tvtitle": "TV AMG",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRgN8npmIljSK1FSdkYDYbX2XBS55GTX4tAF9BDxw=s150",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 156,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSYc-8x50Tam9L7-GlREiWMJrkx4q88LudxWh7qfw=s150",
