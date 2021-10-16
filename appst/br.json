@@ -148,10 +148,10 @@
     },
     {
         "id": 22,
-        "tvtitle": "TV S\u00e9ries",
+        "tvtitle": "TV Band Sports",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com\/tvserie\/tvserie\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4VKmi8RVxfctyuQbbvaYuP8bXBRbzYcM-JbO4TQ=s150",
-        "tvgroup": "WebTV"
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR0M-NdIUV-Wqp6zQmyZTuqRylgT1LUDwxvywF0ZQ=s150",
+        "tvgroup": "Sports"
     },
     {
         "id": 23,
