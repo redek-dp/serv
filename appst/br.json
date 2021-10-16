@@ -134,9 +134,9 @@
     },
     {
         "id": 20,
-        "tvtitle": "TV Record Pa",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
+        "tvtitle": "TV Nickelodeon",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR650ALfTBDfElhsqVRuqfFdPkfNUBlNfU1Z04JqO0=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -1051,9 +1051,9 @@
     },
     {
         "id": 151,
-        "tvtitle": "TV Nickelodeon",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR650ALfTBDfElhsqVRuqfFdPkfNUBlNfU1Z04JqO0=s150",
+        "tvtitle": "TV Record Pa",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
     },
     {
