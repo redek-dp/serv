@@ -183,9 +183,9 @@
     },
     {
         "id": 27,
-        "tvtitle": "TV ALERJ",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCH1a8t5cikU9cYa69BLVfbQ",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRr_SDZbbCwuZQNDPbdYuLWFz92sp0R5wtPIzAJ7Q=s150",
+        "tvtitle": "TV Mon",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ8Neh0UAijNtEuvnE60W9bafKK80Hb2aWeh3ZH=s150",
         "tvgroup": "Variedades"
     },
     {
@@ -561,9 +561,9 @@
     },
     {
         "id": 81,
-        "tvtitle": "TV Mon",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ8Neh0UAijNtEuvnE60W9bafKK80Hb2aWeh3ZH=s150",
+        "tvtitle": "TV ALERJ",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCH1a8t5cikU9cYa69BLVfbQ",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRr_SDZbbCwuZQNDPbdYuLWFz92sp0R5wtPIzAJ7Q=s150",
         "tvgroup": "Variedades"
     },
     {
