@@ -281,16 +281,16 @@
     },
     {
         "id": 41,
-        "tvtitle": "TV8 Brasil",
+        "tvtitle": "TV Brasil",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-9773\/ngrp:LVW9773_eRZLMN9Hsr_all\/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSoTIiP4yTYcDrgOv_mK1C3zcp--7HVYcDqz8Jwug=s150",
         "tvgroup": "Variedades"
     },
     {
         "id": 42,
-        "tvtitle": "TV Brasil",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCSv9d0kQegylHWpP83jWSQg",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSoTIiP4yTYcDrgOv_mK1C3zcp--7HVYcDqz8Jwug=s150",
+        "tvtitle": "TV SÉRIES CHIPS",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4VKmi8RVxfctyuQbbvaYuP8bXBRbzYcM-JbO4TQ=s150",
         "tvgroup": "P\u00fablica"
     },
     {
@@ -344,9 +344,9 @@
     },
     {
         "id": 50,
-        "tvtitle": "TV TopTV Paran\u00e1",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=serv2.videovox.pw\/joaorodrigo7309\/joaorodrigo7309\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTdiE8ioQnhwQB0mCAnWcfMr3IJcvH_cha1EsJn5g=s150",
+        "tvtitle": "TV TV SÉRIES AS PANTERAS",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4VKmi8RVxfctyuQbbvaYuP8bXBRbzYcM-JbO4TQ=s150",
         "tvgroup": "M\u00fasica"
     },
     {
@@ -421,10 +421,10 @@
     },
     {
         "id": 61,
-        "tvtitle": "TV Gospel Cartoon",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com\/gospelcartoon2\/gospelcartoon2\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTkdP9L73Ewyxca4gafOqqwKzwP4wwgJyG8WVQJ=s150",
-        "tvgroup": "Infantil"
+        "tvtitle": "TV SÉRIES JORNADA NAS ESTRELAS",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4VKmi8RVxfctyuQbbvaYuP8bXBRbzYcM-JbO4TQ=s150",
+        "tvgroup": "Filmes"
     },
     {
         "id": 62,
