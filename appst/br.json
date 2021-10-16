@@ -330,9 +330,9 @@
     },
     {
         "id": 48,
-        "tvtitle": "TV M2O",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m2otv-lh.akamaihd.net\/i\/m2oTv_1@186074\/index_600_av-b.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSU0Zs8ec1PrLrZsSdqOVFrseK3WOedzvf_SFKQmg=s150",
+        "tvtitle": "TV MIX",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQMRXag-krpFxzIPyGT2frpcit6iHY_X_ZsZOSuow=s150",
         "tvgroup": "M\u00fasica"
     },
     {
