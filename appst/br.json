@@ -246,9 +246,9 @@
     },
     {
         "id": 36,
-        "tvtitle": "TV Classique Western",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com/classique2/classique2/chunklist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTQFwcK_FNyD_wTw51vj5MTmTlphYCHFbr7O9d4=s150",
+        "tvtitle": "TV MAIS BRASIL",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1682238439.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/_H8jJH6mDfK18uA1CJlu0AvCr6ucW3-LeILl3hWDUkVPilHpKbLwaje7jUIQBT1nwaswQme2_g=s150",
         "tvgroup": "R\u00e1dio"
     },
     {
