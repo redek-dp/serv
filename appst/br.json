@@ -42,11 +42,11 @@
         "tvgroup": "Variedades"
     },
     {
-        "id": 7,
-        "tvtitle": "TV CNN",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCvdwhh_fDyWccR42-rReZLw",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR6x4Xeq7in7_LyDuivc_8ywmr4MuonUKH1f8Z4Hg=s150",
-        "tvgroup": "Variedades"
+        "id": 37,
+        "tvtitle": "TV The History",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS-R2Mwzx_UcB_FmYSn3awjA9AfPTu9qK98cdNgqqE=s150",
+        "tvgroup": "History"
     },
     {
         "id": 8,
@@ -71,10 +71,10 @@
     },
     {
         "id": 11,
-        "tvtitle": "TV SBT - CV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist-380p.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Cultura",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist-480p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTY-d0jeEZ4XNa6xwubEaFoWyNlRzbbI-PH5exrZ54=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 12,
@@ -169,17 +169,17 @@
     },
     {
         "id": 25,
-        "tvtitle": "TV Cultura",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist-480p.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTY-d0jeEZ4XNa6xwubEaFoWyNlRzbbI-PH5exrZ54=s150",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV SBT - CV",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist-380p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
+        "tvgroup": "Variedades"
     },
     {
         "id": 26,
-        "tvtitle": "TV SBT - FO",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv-mc.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV A&E",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSeGf14O3vTKyDjlG268irW3yTWMrp-xz1sqJlFgw=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 27,
@@ -253,10 +253,10 @@
     },
     {
         "id": 37,
-        "tvtitle": "TV The History",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index_2.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS-R2Mwzx_UcB_FmYSn3awjA9AfPTu9qK98cdNgqqE=s150",
-        "tvgroup": "History"
+        "tvtitle": "TV CNN",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCvdwhh_fDyWccR42-rReZLw",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR6x4Xeq7in7_LyDuivc_8ywmr4MuonUKH1f8Z4Hg=s150",
+        "tvgroup": "Variedades"
     },
     {
         "id": 38,
@@ -1058,10 +1058,10 @@
     },
     {
         "id": 152,
-        "tvtitle": "TV A&E",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSeGf14O3vTKyDjlG268irW3yTWMrp-xz1sqJlFgw=s150",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV SBT - FO",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv-mc.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
+        "tvgroup": "Variedades"
     },
     {
         "id": 153,
