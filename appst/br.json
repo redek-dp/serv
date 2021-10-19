@@ -317,7 +317,7 @@
     {
         "id": 46,
         "tvtitle": "TV NetMovies",
-        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUK5RRQ3TdwAbbCWrtnXsN3Q",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&start=60&list=UUK5RRQ3TdwAbbCWrtnXsN3Q",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTACd5MYevWLyXiFenG98CV728xmL2iyzxQxukMJg=s150",
         "tvgroup": "Movies"
     },
