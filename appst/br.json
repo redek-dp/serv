@@ -309,9 +309,9 @@
     },
     {
         "id": 45,
-        "tvtitle": "TV BAND Channel",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCoa-D_VfMkFrCYodrOC9-mA",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
+        "tvtitle": "TV Lifetime",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLT9GEt-TWtdMG26P9Z-ki2XkC5M_vcsYz_Lc4fkRQ=s150",
         "tvgroup": "P\u00fablica"
     },
     {
@@ -1072,9 +1072,9 @@
     },
     {
         "id": 154,
-        "tvtitle": "TV Lifetime",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_2.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLT9GEt-TWtdMG26P9Z-ki2XkC5M_vcsYz_Lc4fkRQ=s150",
+        "tvtitle": "TV BAND Channel",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCoa-D_VfMkFrCYodrOC9-mA",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSs64n1bVZEs1PUiur0g-R1AFlbg8VPGDkqV0AVzw=s150",
         "tvgroup": "P\u00fablica"
     },
     {
