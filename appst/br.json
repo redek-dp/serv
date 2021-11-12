@@ -589,10 +589,10 @@
     },
     {
         "id": 85,
-        "tvtitle": "TV NGT",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/AVJ-9644\/playlist\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSLc5ySi03rPkcoDltCeHujJjcxgHYHf7U8kyfv=s150",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV AgroMais",
+        "tvmedia": "https://player.band.com.br/aovivo/?transmissao=agromais",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTJL38_3KXgmp_cWXcNWrD21fc32BCSseo_EfkB=s150",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 86,
@@ -974,83 +974,76 @@
     },
     {
         "id": 140,
-        "tvtitle": "TV AgroMais",
-        "tvmedia": "https://player.band.com.br/aovivo/?transmissao=agromais",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTJL38_3KXgmp_cWXcNWrD21fc32BCSseo_EfkB=s150",
-        "tvgroup": "P\u00fablica"
-    },
-    {
-        "id": 141,
         "tvtitle": "TV POMBAL",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvpombal/tvpombal/playlist-380p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4ebCIaaPijDLFSVl4i4jo4PPTMB5YMTXIdI7v=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 142,
+        "id": 141,
         "tvtitle": "TV Progresso",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/playlist-380p.m3u8",
         "tvlogo": "https://yt3.ggpht.com/0xUxGddqtmqNXo4zoFB2WEuMguAbPO9uTCjqbuEWyA1ORf4sHBzOkj_VG_j7AEIVLD0Lkx0fsA=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 143,
+        "id": 142,
         "tvtitle": "TV A&E Brasil",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUqBZJr3hZPQZtXvf0RzaM0A",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSeGf14O3vTKyDjlG268irW3yTWMrp-xz1sqJlFgw=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 144,
+        "id": 143,
         "tvtitle": "TV Lifetime Brasil",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUAomvoiooTUciF6Z7p0h8qg",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLT9GEt-TWtdMG26P9Z-ki2XkC5M_vcsYz_Lc4fkRQ=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 145,
+        "id": 144,
         "tvtitle": "TV YouTube Ao vivo",
         "tvmedia": "https://www.youtube.com/embed/videoseries?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=PLU12uITxBEPEVyQILLNHbmgJiE-sQXOcU",
         "tvlogo": "https://yt3.ggpht.com/8D6JlsnvwDZFMdcbjqVji82kggP3aXXbO-yBD0RFrKlp4G1zNt9wcqcVTSPnAI8GuUAbDYQwsg=s150",
         "tvgroup": "web"
     },
     {
-        "id": 146,
+        "id": 145,
         "tvtitle": "TV CTV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQaCK1_mtzkSV4rqWgi9dE-y_Msdas6PhroyzCLGw=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 147,
+        "id": 146,
         "tvtitle": "TV restore",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dooble",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/img/outlinerestore.png",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 148,
+        "id": 147,
         "tvtitle": "TV Record Pa",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSzSL0QPEkQ16IzKOybVwy3k_8iKFkp1TzvbsRGhA=s150",
         "tvgroup": "Variedades"
     },
     {
-        "id": 149,
+        "id": 148,
         "tvtitle": "TV SBT - FO",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv-mc.sistemafloresta.com.br/tvfloresta/index.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRY5qsbZnJTObYzY8OCcqqitBqTy8XaL1wyb48x=s150",
         "tvgroup": "Variedades"
     },
     {
-        "id": 150,
+        "id": 149,
         "tvtitle": "TV AMG",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRgN8npmIljSK1FSdkYDYbX2XBS55GTX4tAF9BDxw=s150",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 151,
+        "id": 150,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSYc-8x50Tam9L7-GlREiWMJrkx4q88LudxWh7qfw=s150",
