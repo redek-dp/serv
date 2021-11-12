@@ -142,7 +142,7 @@
     {
         "id": 21,
         "tvtitle": "TV Gazeta",
-        "tvmedia": "https://livestream.com/accounts/5381476/events/8947634/player?width=960&height=540&autoPlay=true&mute=false",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/tvgazeta.m3u8?mu3zAQc9HC3GbwJq=U2QFcvifX2U0nC89Q-YeDg&3U1G7qaTxrPbalZnEx=1636778289",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s150",
         "tvgroup": "P\u00fablica"
     },
