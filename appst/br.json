@@ -99,10 +99,10 @@
     },
     {
         "id": 15,
-        "tvtitle": "TV ISTV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist-380p.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTLbDkbfHVNy6i7QjVZ_ziCnrf8T4HeVYX5u5L62Q=s150",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV GLOBO",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=JI3cR03IQh93zH48YmoHZw&3U1G7qaTxrPbalZnEx=1636839369",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRvswWoVKjf6UDV7VrtwZLxJXAHh8wM8N774xy25wY=s150",
+        "tvgroup": "Esportes"
     },
     {
         "id": 16,
@@ -163,7 +163,7 @@
     {
         "id": 24,
         "tvtitle": "TV Discovery",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=qv6VjiYaP1oziR2X0AdWGw&3U1G7qaTxrPbalZnEx=1636777354",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=wwbnrfEwW5FOkhqDRPvY7g&3U1G7qaTxrPbalZnEx=1636837074",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ3_3PhvKkvT-qCfjeXRWfbJ_oCqjGBJ4MC2yby-A=s150",
         "tvgroup": "P\u00fablica"
     },
@@ -183,10 +183,10 @@
     },
     {
         "id": 27,
-        "tvtitle": "TV Mon",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ8Neh0UAijNtEuvnE60W9bafKK80Hb2aWeh3ZH=s150",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV HISTORY2",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_2.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSLKY4Qn-eDK6djQNoret4-sT2ve1zw9jnvVp2_yw=s150",
+        "tvgroup": "Historia"
     },
     {
         "id": 28,
@@ -204,10 +204,10 @@
     },
     {
         "id": 30,
-        "tvtitle": "TV HISTORY2",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index_2.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSLKY4Qn-eDK6djQNoret4-sT2ve1zw9jnvVp2_yw=s150",
-        "tvgroup": "Historia"
+        "tvtitle": "TV Mon",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLQ8Neh0UAijNtEuvnE60W9bafKK80Hb2aWeh3ZH=s150",
+        "tvgroup": "Variedades"
     },
     {
         "id": 31,
@@ -225,17 +225,17 @@
     },
     {
         "id": 33,
-        "tvtitle": "TV The History",
-        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UURP5p2RfxJgnKyWgve5pJ-Q",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS-R2Mwzx_UcB_FmYSn3awjA9AfPTu9qK98cdNgqqE=s150",
-        "tvgroup": "History"
+        "tvtitle": "TV ISTV",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist-380p.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTLbDkbfHVNy6i7QjVZ_ziCnrf8T4HeVYX5u5L62Q=s150",
+        "tvgroup": "Variedades"
     },
     {
         "id": 34,
-        "tvtitle": "TV GLOBO",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=CTUPkwHTffy-nLBp5niseQ&3U1G7qaTxrPbalZnEx=1636777942",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRvswWoVKjf6UDV7VrtwZLxJXAHh8wM8N774xy25wY=s150",
-        "tvgroup": "Esportes"
+        "tvtitle": "TV SÉRIES AS PANTERAS",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4VKmi8RVxfctyuQbbvaYuP8bXBRbzYcM-JbO4TQ=s150",
+        "tvgroup": "M\u00fasica"
     },
     {
         "id": 35,
@@ -344,10 +344,10 @@
     },
     {
         "id": 50,
-        "tvtitle": "TV SÉRIES AS PANTERAS",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLR4VKmi8RVxfctyuQbbvaYuP8bXBRbzYcM-JbO4TQ=s150",
-        "tvgroup": "M\u00fasica"
+        "tvtitle": "TV The History",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UURP5p2RfxJgnKyWgve5pJ-Q",
+        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS-R2Mwzx_UcB_FmYSn3awjA9AfPTu9qK98cdNgqqE=s150",
+        "tvgroup": "History"
     },
     {
         "id": 51,
