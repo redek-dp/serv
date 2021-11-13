@@ -749,7 +749,7 @@
         "tvgroup": "Variedades"
     },
     {
-        "id": 26,
+        "id": 108,
         "tvtitle": "TV KpopTV",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/kpoptv\/kpoptv\/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/kpoptv.jpg",
