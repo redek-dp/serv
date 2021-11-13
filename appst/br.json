@@ -142,7 +142,7 @@
     {
         "id": 21,
         "tvtitle": "TV Gazeta",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/tvgazeta.m3u8?mu3zAQc9HC3GbwJq=U2QFcvifX2U0nC89Q-YeDg&3U1G7qaTxrPbalZnEx=1636778289",
+        "tvmedia": "https://livestream.com/accounts/5381476/events/8947634/player?width=300&height=200&autoPlay=true",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLTVx7PvNNV7r00DNdZ-QcKCHDdmHhfpQb1tkn5zYw=s150",
         "tvgroup": "P\u00fablica"
     },
@@ -1051,20 +1051,13 @@
     },
     {
         "id": 151,
-        "tvtitle": "TV The History",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/history.m3u8?mu3zAQc9HC3GbwJq=uYdHl--3DjzOHEvyE7X7UQ&3U1G7qaTxrPbalZnEx=1636777070",
-        "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLS-R2Mwzx_UcB_FmYSn3awjA9AfPTu9qK98cdNgqqE=s150",
-        "tvgroup": "History"
-    },
-    {
-        "id": 152,
         "tvtitle": "TV GLOBO",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUEPRQVF6hxGGM9gi1ELaWHg",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLRvswWoVKjf6UDV7VrtwZLxJXAHh8wM8N774xy25wY=s150",
         "tvgroup": "Esportes"
     },
     {
-        "id": 153,
+        "id": 152,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://yt3.ggpht.com/ytc/AKedOLSYc-8x50Tam9L7-GlREiWMJrkx4q88LudxWh7qfw=s150",
