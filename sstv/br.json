@@ -100,7 +100,7 @@
     {
         "id": 15,
         "tvtitle": "TV GLOBO",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=bMjusHjfzKvPMUNKMn6XPA&3U1G7qaTxrPbalZnEx=1637018652",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=UsEmLcSdHG_fsjDqCeWGoA&3U1G7qaTxrPbalZnEx=1637209475",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/globo.jpg",
         "tvgroup": "Esportes"
     },
@@ -163,7 +163,7 @@
     {
         "id": 24,
         "tvtitle": "TV Discovery",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=K29_p_P_lcL3vd1kXxcncg&3U1G7qaTxrPbalZnEx=1637018502",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=hK7PFNzLEWwXwNXfVcJwHQ&3U1G7qaTxrPbalZnEx=1637209581",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/discoveryc.jpg",
         "tvgroup": "P\u00fablica"
     },
