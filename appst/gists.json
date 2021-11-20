@@ -1,18 +1,26 @@
 [
   {
     "id": "309234",
+    "titulo": "Amentotom",
+    "img": "https://via.placeholder.com/150x150/53825e/fff/?text=MY-APP",
     "html_url": "https://gist.github.com/309234"
   },
   {
     "id": "309233",
+    "titulo": "Ciotom",
+    "img": "https://via.placeholder.com/150x150/53825e/fff/?text=MY-APP",
     "html_url": "https://gist.github.com/309233"
   },
   {
     "id": "309232",
+    "titulo": "Miatom",
+    "img": "https://via.placeholder.com/150x150/53825e/fff/?text=MY-APP",
     "html_url": "https://gist.github.com/309232"
   },
   {
     "id": "309231",
+    "titulo": "Gotylos",
+    "img": "https://via.placeholder.com/150x150/53825e/fff/?text=MY-APP",
     "html_url": "https://gist.github.com/309231"
   }
 ]
