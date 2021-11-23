@@ -442,10 +442,10 @@
     },
     {
         "id": 64,
-        "tvtitle": "TV Rede Novo Tempo",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC_OaSsAydgSIjUtjYn9qLog",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/novotempo.jpg",
-        "tvgroup": "Religioso"
+        "tvtitle": "TV Red Bull",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rbmn-live.akamaized.net\/hls\/live\/590964\/BoRB-AT\/master.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/redbull.jpg",
+        "tvgroup": "Esportes"
     },
     {
         "id": 65,
@@ -596,10 +596,10 @@
     },
     {
         "id": 86,
-        "tvtitle": "TV RDC",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCFx7YngsREshEqAX6zJ-XHg",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rdc.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Shoptime",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCCuYi5AP3gya6C5mdWYS6CQ",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/shoptime.jpg",
+        "tvgroup": "vendas"
     },
     {
         "id": 87,
@@ -694,9 +694,9 @@
     },
     {
         "id": 100,
-        "tvtitle": "TV Cartoon Network",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC1toK6UDXwreacdepXYcyqA",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cn.jpg",
+        "tvtitle": "TV SBT RS",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCHDfPYXReWt5EVIzBA6TzOQ",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/sbt.jpg",
         "tvgroup": "Variedades"
     },
     {
@@ -708,9 +708,9 @@
     },
     {
         "id": 102,
-        "tvtitle": "TV SBT RS",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCHDfPYXReWt5EVIzBA6TzOQ",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/sbt.jpg",
+        "tvtitle": "TV Cartoon Network",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC1toK6UDXwreacdepXYcyqA",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cn.jpg",
         "tvgroup": "Variedades"
     },
     {
@@ -785,10 +785,10 @@
     },
     {
         "id": 113,
-        "tvtitle": "TV Red Bull",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rbmn-live.akamaized.net\/hls\/live\/590964\/BoRB-AT\/master.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/redbull.jpg",
-        "tvgroup": "Esportes"
+        "tvtitle": "TV Rede Novo Tempo",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC_OaSsAydgSIjUtjYn9qLog",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/novotempo.jpg",
+        "tvgroup": "Religioso"
     },
     {
         "id": 114,
@@ -946,10 +946,10 @@
     },
     {
         "id": 136,
-        "tvtitle": "TV Shoptime",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCCuYi5AP3gya6C5mdWYS6CQ",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/shoptime.jpg",
-        "tvgroup": "vendas"
+        "tvtitle": "TV RDC",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCFx7YngsREshEqAX6zJ-XHg",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rdc.jpg",
+        "tvgroup": "Variedades"
     },
     {
         "id": 137,
