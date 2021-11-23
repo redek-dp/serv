@@ -1051,13 +1051,20 @@
     },
     {
         "id": 151,
+        "tvtitle": "TV Comedy Central",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_2.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/comedy-central.jpg",
+        "tvgroup": "Variedades"
+    },
+    {
+        "id": 152,
         "tvtitle": "TV Nickelodeon",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index_2.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/nickelodeon.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 152,
+        "id": 153,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/monsterjam.jpg",
