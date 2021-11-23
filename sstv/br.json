@@ -162,10 +162,10 @@
     },
     {
         "id": 24,
-        "tvtitle": "TV Discovery",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=CAJTvHKEs6oCmTH8b6n-4g&3U1G7qaTxrPbalZnEx=1637636518",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/discoveryc.jpg",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV ISTV",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist-380p.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/istv.jpg",
+        "tvgroup": "Variedades"
     },
     {
         "id": 25,
@@ -183,10 +183,10 @@
     },
     {
         "id": 27,
-        "tvtitle": "TV Diario",
-        "tvmedia": "https://www.dailymotion.com/embed/video/x7txn7q?autoplay=1",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvdiario.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Discovery",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=CAJTvHKEs6oCmTH8b6n-4g&3U1G7qaTxrPbalZnEx=1637636518",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/discoveryc.jpg",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 28,
@@ -225,9 +225,9 @@
     },
     {
         "id": 33,
-        "tvtitle": "TV ISTV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist-380p.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/istv.jpg",
+        "tvtitle": "TV Diario",
+        "tvmedia": "https://www.dailymotion.com/embed/video/x7txn7q?autoplay=1",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvdiario.jpg",
         "tvgroup": "Variedades"
     },
     {
