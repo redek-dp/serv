@@ -170,21 +170,21 @@
     {
         "id": 25,
         "tvtitle": "TV The History",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/history.m3u8?mu3zAQc9HC3GbwJq=4rtERPEhwqCy1otWl5YJAA&3U1G7qaTxrPbalZnEx=1637716515",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/history.m3u8?mu3zAQc9HC3GbwJq=mCmIhwNDzCArzMwFJU7SQQ&3U1G7qaTxrPbalZnEx=1637802512",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/history.jpg",
         "tvgroup": "History"
     },
     {
         "id": 26,
         "tvtitle": "TV GLOBO",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=P7nWKi1cSjA8y1_L6Masmg&3U1G7qaTxrPbalZnEx=1637716032",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=j_mEvrdKHJGIi-TgIZyZ7g&3U1G7qaTxrPbalZnEx=1637802686",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/globo.jpg",
         "tvgroup": "Esportes"
     },
     {
         "id": 27,
         "tvtitle": "TV Discovery",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=5D8JQfSIKg4x-K_6KCt7ww&3U1G7qaTxrPbalZnEx=1637715885",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=JqSFDev70tbF5rdasnncFQ&3U1G7qaTxrPbalZnEx=1637802589",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/discoveryc.jpg",
         "tvgroup": "P\u00fablica"
     },
