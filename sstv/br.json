@@ -155,10 +155,10 @@
     },
     {
         "id": 23,
-        "tvtitle": "TV Canal 29",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/canal\/_definst_\/canal\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/canal29.jpg",
-        "tvgroup": "WebTV"
+        "tvtitle": "TV Gazeta PA",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w15069543.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/gazeta.jpg",
+        "tvgroup": "P\u00fablica"
     },
     {
         "id": 24,
@@ -170,21 +170,21 @@
     {
         "id": 25,
         "tvtitle": "TV The History",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/history.m3u8?mu3zAQc9HC3GbwJq=y3UXTBazbHTA4UkMRxc8zQ&3U1G7qaTxrPbalZnEx=1637884159",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/history.m3u8?mu3zAQc9HC3GbwJq=PYdQaimQaAZy7W1MhtcGrg&3U1G7qaTxrPbalZnEx=1638231871",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/history.jpg",
         "tvgroup": "History"
     },
     {
         "id": 26,
         "tvtitle": "TV GLOBO",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=qlpOup_NmDF4H12flE2Nyw&3U1G7qaTxrPbalZnEx=1637884440",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w1508014130.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/globo.jpg",
         "tvgroup": "Esportes"
     },
     {
         "id": 27,
         "tvtitle": "TV Discovery",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=m3u9.ml/b/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=_DJiDrKOY-9w2wNllSxbEA&3U1G7qaTxrPbalZnEx=1637884256",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_2.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/discoveryc.jpg",
         "tvgroup": "P\u00fablica"
     },
@@ -1063,15 +1063,9 @@
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/nickelodeon.jpg",
         "tvgroup": "Variedades"
     },
+    
     {
         "id": 152,
-        "tvtitle": "TV Gazeta PA",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w15069543.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/gazeta.jpg",
-        "tvgroup": "P\u00fablica"
-    },
-    {
-        "id": 153,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/monsterjam.jpg",
