@@ -410,11 +410,11 @@
     },
     {
         "id": 67,
-        "tvtitle": "TV Rede Premium",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5c483b9d1019c.streamlock.net\/8066\/8066\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/redepremium.jpg",
-        "tvgroup": "Variedades"
-    },
+        "tvtitle": "TV GLOBO",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUEPRQVF6hxGGM9gi1ELaWHg",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/globoc.jpg",
+        "tvgroup": "Esportes"
+    },  
     {
         "id": 68,
         "tvtitle": "TV C\u00e2mara",
@@ -998,10 +998,10 @@
     },
     {
         "id": 150,
-        "tvtitle": "TV GLOBO",
-        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUEPRQVF6hxGGM9gi1ELaWHg",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/globoc.jpg",
-        "tvgroup": "Esportes"
+        "tvtitle": "TV Rede Premium",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5c483b9d1019c.streamlock.net\/8066\/8066\/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/redepremium.jpg",
+        "tvgroup": "Variedades"
     },
     {
         "id": 151,
