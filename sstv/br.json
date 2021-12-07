@@ -36,9 +36,9 @@
     },
     {
         "id": 6,
-        "tvtitle": "TV SBT - SD",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-380p.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/sbt.jpg",
+        "tvtitle": "TV ISTV",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist-380p.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/istv.jpg",
         "tvgroup": "Variedades"
     },
     {
@@ -85,9 +85,9 @@
     },
     {
         "id": 13,
-        "tvtitle": "TV Record RJ",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/record.jpg",
+        "tvtitle": "TV SBT - SD",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-380p.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/sbt.jpg",
         "tvgroup": "Variedades"
     },
     {
@@ -127,34 +127,34 @@
     },
     {
         "id": 19,
-        "tvtitle": "TV ISTV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist-380p.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/istv.jpg",
+        "tvtitle": "TV Record RJ",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/record.jpg",
+        "tvgroup": "Variedades"
+    },
+    {
+        "id": 20,
+        "tvtitle": "TV Mon",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/mon.jpg",
         "tvgroup": "Variedades"
     },
     
     
     
     {
-        "id": 28,
+        "id": 29,
         "tvtitle": "TV Poços",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvpocos.jpg",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 29,
+        "id": 30,
         "tvtitle": "TV Sul",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvsulg.jpg",
         "tvgroup": "P\u00fablica"
-    },
-    {
-        "id": 30,
-        "tvtitle": "TV Mon",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/mon.jpg",
-        "tvgroup": "Variedades"
     },
     {
         "id": 31,
