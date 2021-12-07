@@ -459,23 +459,23 @@
     },
     {
         "id": 74,
-        "tvtitle": "TV Rio Madeira",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=novo.bitstreaming.info:1936\/8066\/8066\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/riomadeira.jpg",
+        "tvtitle": "TV Destak",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/pascoal\/_definst_\/pascoal\/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/destak.jpg",
         "tvgroup": "WebTV"
     },
     {
         "id": 75,
-        "tvtitle": "TV Vale das Artes",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/tvvaledasartes\/_definst_\/tvvaledasartes\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/valedasartes.jpg",
+        "tvtitle": "TV Rede TVSul",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=novo.bitstreaming.info:1936\/8032\/8032\/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/redetvsul.jpg",
         "tvgroup": "WebTV"
     },
     {
         "id": 76,
-        "tvtitle": "TV Rede TVSul",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=novo.bitstreaming.info:1936\/8032\/8032\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/redetvsul.jpg",
+        "tvtitle": "TV Vale das Artes",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443\/tvvaledasartes\/_definst_\/tvvaledasartes\/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/valedasartes.jpg",
         "tvgroup": "WebTV"
     },
     {
@@ -571,9 +571,9 @@
     },
     {
         "id": 90,
-        "tvtitle": "TV Destak",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/pascoal\/_definst_\/pascoal\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/destak.jpg",
+        "tvtitle": "TV Rio Madeira",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=novo.bitstreaming.info:1936\/8066\/8066\/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/riomadeira.jpg",
         "tvgroup": "WebTV"
     },
     {
