@@ -5,7 +5,7 @@
     "descrisao": "Pão Françes, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 5,40",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mistquente.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Sanduicher",
     
     "stmod": "#vendasModal",
@@ -21,7 +21,7 @@
     "descrisao": "Suco Natural com Laranjas Frescas",
     "valor": "R$ 7,40",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sucolaraja.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Bebidas",
     
     "stmod": "#vendasModal",
@@ -37,7 +37,7 @@
     "descrisao": "Pão Françes, Mortadela Defumada, Alface, Tomate.",
     "valor": "R$ 10,00",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mdefumada.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Sanduicher",
     
     "stmod": "#vendasModal",
@@ -53,7 +53,7 @@
     "descrisao": "Guarana Antarctica Refri Lata 269 ml",
     "valor": "R$ 4,59",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/guarana-antarctica3.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Bebidas",
     
     "stmod": "#vendasModal",
@@ -69,7 +69,7 @@
     "descrisao": "Pão Françes, Mortadela Defumada, Queijo Musarela, Alface, Tomate.",
     "valor": "R$ 11,25",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sandmoratadeladrupo.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Sanduicher",
     
     "stmod": "#vendasModal",
@@ -85,7 +85,7 @@
     "descrisao": "Coca-Cola Refri Lata 300 ml",
     "valor": "R$ 4,80",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/cocacola3.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Bebidas",
     
     "stmod": "#vendasModal",
@@ -101,7 +101,7 @@
     "descrisao": "Chicara de café Expresso Cremoso...",
     "valor": "R$ 5,10",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/cafexp.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Bebidas",
     
     "stmod": "#vendasModal",
@@ -117,7 +117,7 @@
     "descrisao": "Bolo de Chocolate com cobertura Cremosa de Chocolate e Castanhas...",
     "valor": "R$ 8,23",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/bolochocolatec.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Sanduicher",
     
     "stmod": "#vendasModal",
@@ -133,7 +133,7 @@
     "descrisao": "Fanta Laranja Refri Lata 350 ml",
     "valor": "R$ 4,00",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/fantalaranja.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Bebidas",
     
     "stmod": "#vendasModal",
@@ -149,7 +149,7 @@
     "descrisao": "Pão Françes, Pernil Defumada, Queijo Musarela, Alface, Tomate.",
     "valor": "R$ 12,00",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sanduichedepernildefumado.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Sanduicher",
     
     "stmod": "#vendasModal",
@@ -165,7 +165,7 @@
     "descrisao": "Bebida de Açaí com Abacaxi, Limão e Hortelã Lata 250 ml",
     "valor": "R$ 5,36",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/AcaiAbacaxiLimaoHortela.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Bebidas",
     
     "stmod": "#vendasModal",
@@ -181,7 +181,7 @@
     "descrisao": "Pão de Forma, Queijo Musarela, Presunto, Alface, Tomate.",
     "valor": "R$ 4,58",
     "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mitquent.jpg",
-    "estoque": "Produto em estoque",
+    "estoque": "Produto estoque",
     "categoria": "Sanduicher",
     
     "stmod": "#vendasModal",
