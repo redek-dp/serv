@@ -1,0 +1,194 @@
+[
+  {
+    "id": 0,
+    "pronome": "Misto Quente Tradicional",
+    "descrisao": "Pão Françes, Queijo Musarela, Presunto, Alface, Tomate.",
+    "valor": "R$ 5,40",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mistquente.jpg",
+    "estoque": "Produto",
+    "categoria": "Sanduicher",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 1,
+    "pronome": "Suco de Laranja 350ml",
+    "descrisao": "Suco Natural com Laranjas Frescas",
+    "valor": "R$ 7,40",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sucolaraja.jpg",
+    "estoque": "Produto",
+    "categoria": "Bebidas",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 2,
+    "pronome": "Sanduiche de Mortadela Tradicional",
+    "descrisao": "Pão Françes, Mortadela Defumada, Alface, Tomate.",
+    "valor": "R$ 10,00",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mdefumada.jpg",
+    "estoque": "Produto",
+    "categoria": "Sanduicher",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 3,
+    "pronome": "Guarana Antarctica 269 ml",
+    "descrisao": "Guarana Antarctica Refri Lata 269 ml",
+    "valor": "R$ 4,59",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/guarana-antarctica3.jpg",
+    "estoque": "Produto",
+    "categoria": "Bebidas",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 4,
+    "pronome": "Sanduiche de Mortadela+Queijo",
+    "descrisao": "Pão Françes, Mortadela Defumada, Queijo Musarela, Alface, Tomate.",
+    "valor": "R$ 11,25",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sandmoratadeladrupo.jpg",
+    "estoque": "Produto",
+    "categoria": "Sanduicher",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 5,
+    "pronome": "Coca-Cola 300 ml",
+    "descrisao": "Coca-Cola Refri Lata 300 ml",
+    "valor": "R$ 4,80",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/cocacola3.jpg",
+    "estoque": "Produto",
+    "categoria": "Bebidas",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 6,
+    "pronome": "Café Expresso Cremoso",
+    "descrisao": "Chicara de café Expresso Cremoso...",
+    "valor": "R$ 5,10",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/cafexp.jpg",
+    "estoque": "Produto",
+    "categoria": "Bebidas",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 7,
+    "pronome": "Bolo de Chocolate Castanhas",
+    "descrisao": "Bolo de Chocolate com cobertura Cremosa de Chocolate e Castanhas...",
+    "valor": "R$ 8,23",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/bolochocolatec.jpg",
+    "estoque": "Produto",
+    "categoria": "Sanduicher",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 8,
+    "pronome": "Fanta Laranja 350 ml",
+    "descrisao": "Fanta Laranja Refri Lata 350 ml",
+    "valor": "R$ 4,00",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/fantalaranja.jpg",
+    "estoque": "Produto",
+    "categoria": "Bebidas",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 9,
+    "pronome": "Sanduiche de Pernil Defumado",
+    "descrisao": "Pão Françes, Pernil Defumada, Queijo Musarela, Alface, Tomate.",
+    "valor": "R$ 12,00",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sanduichedepernildefumado.jpg",
+    "estoque": "Produto",
+    "categoria": "Sanduicher",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 10,
+    "pronome": "Açaí com Abacaxi Limão e Hortelã 250ml",
+    "descrisao": "Bebida de Açaí com Abacaxi, Limão e Hortelã Lata 250 ml",
+    "valor": "R$ 5,36",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/AcaiAbacaxiLimaoHortela.jpg",
+    "estoque": "Produto",
+    "categoria": "Bebidas",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  },
+  {
+    "id": 11,
+    "pronome": "Misto Quente",
+    "descrisao": "Pão de Forma, Queijo Musarela, Presunto, Alface, Tomate.",
+    "valor": "R$ 4,58",
+    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mitquent.jpg",
+    "estoque": "Produto",
+    "categoria": "Sanduicher",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal",
+    "spaso": "%20",
+    "estr": "*",
+    "bscop": "row",
+    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+  }
+]
