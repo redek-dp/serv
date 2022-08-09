@@ -12,7 +12,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -28,7 +28,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -44,7 +44,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -60,7 +60,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -76,7 +76,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -92,7 +92,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -108,7 +108,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -124,7 +124,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -140,7 +140,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -156,7 +156,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -172,7 +172,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   },
   {
@@ -188,7 +188,7 @@
     "modh": "vendasModal",
     "spaso": "%20",
     "estr": "*",
-    "bscop": "row",
+    "bscop": "col pt-4",
     "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
   }
 ]
