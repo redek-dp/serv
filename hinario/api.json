@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "pronome": "Misto Quente Tradicional",
+    "pronome": "1 - Cristo, Meu Mestre",
     "descrisao": "<p>1. Cristo, meu Mestre e meu Senhor<br>Eu Te adoro, por fé, com fervor<br>Rogo que guardes meu coração<br>Vem protegê-lo com Tua unção<br>E defendê-lo, ó meu Guardião<br></p><p>2. Mestre divino, sempre senti<br>Meu coração dependente de Ti<br>Bom fundamento dá-lhe, Senhor<br>Dá-lhe firmeza, virtude, valor<br>E fortaleza, ó meu Protetor<br></p><p>3. Vale profundo, cheio de mal<br>É este mundo, ó Rei divinal<br>Só Tua força pode manter<br>Santo e puro, na graça, meu ser<br>Sempre seguro, com fé e poder<br></p><p>4. Mestre piedoso, com Tua mão<br>Faze perfeito o meu coração<br>Santo, ardoroso em Te servir<br>Sempre voltado aos bens do porvir<br>Mestre amado, desejo Te ouvir.<br></p>",
-    "valor": "R$ 5,40",
+    "valor": "01",
     
     "stmod": "#vendasModal",
     "modh": "vendasModal"
