@@ -26,19 +26,16 @@
   },
   {
     "id": 3,
-    "pronome": "000",
-    "descrisao": "Pão Françes, Mortadela Defumada, Alface, Tomate.",
-    "valor": "R$ 10,00",
-    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mdefumada.jpg",
-    "estoque": "Produto",
-    "categoria": "Sanduicher",
+    "numero": "03",
+    "pronome": "3 - Faz-nos ouvir Tua voz",
+    "parte1": "1. Faz-nos ouvir Tua voz gloriosa, Ó nosso Mestre, fiel Redentor; A Tua Igreja, dileta esposa, Sente por Ti inefável amor.",
+    "parte2": "Coro: Ó caro Salvador, a Tua voz de amor Nos guia para o céu, glorioso lar Pela Palavra vem nos consolar",
+    "parte3": "2. Ó Jesus Cristo, celeste Esposo, Vem conduzir-nos, por Teu grande amor; Já antevemos, ó Rei majestoso, A glória eterna do Teu esplendor.",
+    "parte4": "3. A Tua igreja está se adornando, Para encontrar-se Contigo, Ó Jesus; Com santas vestes, esta aguardando Ver Tua face no reino de luz.",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/03.pdf",
     
     "stmod": "#vendasModal",
-    "modh": "vendasModal",
-    "spaso": "%20",
-    "estr": "*",
-    "bscop": "col pt-4",
-    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+    "modh": "vendasModal"
   },
   {
     "id": 4,
