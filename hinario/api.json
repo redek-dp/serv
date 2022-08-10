@@ -14,19 +14,15 @@
   },
   {
     "id": 2,
-    "pronome": "Suco de Laranja 350ml",
-    "descrisao": "Suco Natural com Laranjas Frescas",
-    "valor": "R$ 7,40",
-    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/sucolaraja.jpg",
-    "estoque": "Produto",
-    "categoria": "Bebidas",
+    "numero": "02",
+    "pronome": "2 - De Deus tu és eleita",
+    "parte1": "1. De Deus tu és eleita, igreja de Jesus, O teu divino Mestre à glória te conduz; Prepara-te, pois Ele mui breve voltará; A glória que te espera já preparada está.",
+    "parte2": "2. Com celestiais adornos espera o teu Senhor, Vestida de justiça e do divino amor; Dileta és de Cristo, que vida te doou; A fim de resgatar-te, Seu sangue derramou.",
+    "parte3": "3. É grande tua glória, igreja de Jesus; Consagra-te a Ele, andando em Sua luz; Em breve, no Seu reino, gloriosa entrarás, E a face do Esposo, no céu, contemplarás.",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=",
     
     "stmod": "#vendasModal",
-    "modh": "vendasModal",
-    "spaso": "%20",
-    "estr": "*",
-    "bscop": "col pt-4",
-    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+    "modh": "vendasModal"
   },
   {
     "id": 3,
