@@ -78,19 +78,16 @@
   },
   {
     "id": 7,
-    "pronome": "Café Expresso Cremoso",
-    "descrisao": "Chicara de café Expresso Cremoso...",
-    "valor": "R$ 5,10",
-    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/cafexp.jpg",
-    "estoque": "Produto",
-    "categoria": "Bebidas",
+    "numero": "07",
+    "pronome": "7 - Granjeai, granjeai os talentos",
+    "parte1": "1. Os talentos Jesus nos tem dado, Dons celestes de grande valor; Nós devemos, com todo o cuidado, Granjeá-los, servindo ao Senhor.",
+    "parte2": "Coro: Granjeai, granjeai os talentos; Sobre o muito o Senhor vos porá; Vigiai e estai sempre atentos, Eis que Ele à porta está.",
+    "parte3": "2. Se em tudo nós formos prudentes, Se fiéis o Senhor nos achar, Herdaremos Seus bens permanentes No repouso da glória sem par.",
+    "parte4": "3. Diligentes obreiros sejamos, Pois os frutos Jesus vai pedir; Os talentos, jamais escondamos, Se quisermos a glória fruir.",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/07.pdf",
     
     "stmod": "#vendasModal",
-    "modh": "vendasModal",
-    "spaso": "%20",
-    "estr": "*",
-    "bscop": "col pt-4",
-    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+    "modh": "vendasModal"
   },
   {
     "id": 8,
