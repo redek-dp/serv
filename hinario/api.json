@@ -65,19 +65,16 @@
   },
   {
     "id": 6,
-    "pronome": "Coca-Cola 300 ml",
-    "descrisao": "Coca-Cola Refri Lata 300 ml",
-    "valor": "R$ 4,80",
-    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/cocacola3.jpg",
-    "estoque": "Produto",
-    "categoria": "Bebidas",
+    "numero": "06",
+    "pronome": "6 - Glória ao Justo, Fiel Cordeiro!",
+    "parte1": "1. Ao Cordeiro imaculado, Jesus Cristo, exaltemos Do Seu Nome falaremos, pois, com infinito amor Veio à terra, glorioso, com poder e esplendor.",
+    "parte2": "2. Seguiremos a Jesus Cristo com inteira confiança Temos viva esperança de chegar ao lar de amor Dirigidos, amparados pelo sábio Condutor.",
+    "parte3": "3. Só a Cristo daremos glória e louvores em eterno, Pois livrou-nos do inferno, do pecado e do mal, Para dar-nos a herança no Seu lar celestial.",
+    "parte4": "Glória ao Justo, fiel Cordeiro, Puro, Santo, Verdadeiro! Pela morte no madeiro, Nos reconciliou com Deus.",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/06.pdf",
     
     "stmod": "#vendasModal",
-    "modh": "vendasModal",
-    "spaso": "%20",
-    "estr": "*",
-    "bscop": "col pt-4",
-    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+    "modh": "vendasModal"
   },
   {
     "id": 7,
