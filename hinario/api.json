@@ -39,19 +39,16 @@
   },
   {
     "id": 4,
-    "pronome": "Guarana Antarctica 269 ml",
-    "descrisao": "Guarana Antarctica Refri Lata 269 ml",
-    "valor": "R$ 4,59",
-    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/guarana-antarctica3.jpg",
-    "estoque": "Produto",
-    "categoria": "Bebidas",
+    "numero": "04",
+    "pronome": "4 - Ouve a nossa oração.",
+    "parte1": "1. Nossos olhos para os céus, ó Deus, nós levantamos; Confiando em Teu amor, a nossa voz alçamos.",
+    "parte2": "Coro: Ouve a nossa oração Desde a Tua habitação; Tua bênção, Teu perdão, Manda, ó Deus piedoso",
+    "parte3": "2. Refrigério celestial e bálsamo precioso É sentir-Te em nosso ser, Pai santo, glorioso.",
+    "parte4": "3. No Teu trono, ó Senhor, recebe nesta hora A humilde oração do povo que Te adora.",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/04.pdf",
     
     "stmod": "#vendasModal",
-    "modh": "vendasModal",
-    "spaso": "%20",
-    "estr": "*",
-    "bscop": "col pt-4",
-    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+    "modh": "vendasModal"
   },
   {
     "id": 5,
