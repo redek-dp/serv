@@ -130,34 +130,29 @@
   },
   {
     "id": 11,
-    "pronome": "Açaí com Abacaxi Limão e Hortelã 250ml",
-    "descrisao": "Bebida de Açaí com Abacaxi, Limão e Hortelã Lata 250 ml",
-    "valor": "R$ 5,36",
-    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/AcaiAbacaxiLimaoHortela.jpg",
-    "estoque": "Produto",
-    "categoria": "Bebidas",
+    "numero": "11",
+    "pronome": "11 - Ó igreja de Deus, resplandece",
+    "parte1": "1. Ó igreja de Deus, resplandece E alegra-te, de coração, Espalhando a semente celeste, Anunciando a veraz salvação.",
+    "parte2": "Coro: Tu és a igreja de Jesus Cristo, o Cordeiro, Que tem o Seu trono nos céus; Ele, o Justo, Fiel, Verdadeiro, Te dará as promessas de Deus.",
+    "parte3": "2. És igreja formosa e amada Por Cristo, o teu Salvador; Que te quer sempre mais adornada De justiça e sublime amor.",
+    "parte4": "3. À gloriosa e celeste cidade Irás, com Jesus, Salvador; Lá há paz, grande amor, santidade; Lá verás o fiel Criador.",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/11.pdf",
     
     "stmod": "#vendasModal",
-    "modh": "vendasModal",
-    "spaso": "%20",
-    "estr": "*",
-    "bscop": "col pt-4",
-    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+    "modh": "vendasModal"
   },
+
   {
-    "id": 12,
-    "pronome": "Misto Quente",
-    "descrisao": "Pão de Forma, Queijo Musarela, Presunto, Alface, Tomate.",
-    "valor": "R$ 4,58",
-    "urlimg": "https://raw.githubusercontent.com/redek-dp/serv/master/appst/ksstar/img/mitquent.jpg",
-    "estoque": "Produto",
-    "categoria": "Sanduicher",
+    "id": 480,
+    "numero": "480",
+    "pronome": "480 - Jovens, amai o conselho",
+    "parte1": "1. Jovens, amai o conselho, O ensino de Cristo Jesus; Ele é o vosso Modelo De vida, justiça e luz.",
+    "parte2": "Coro: A Deus e a Cristo, o Senhor, Devemos consagração, Respeito, honra, profundo amor E eterna veneração.",
+    "parte3": "2. Vasos, por Cristo, escolhidos Sereis, para glória de Deus; Cristo vos quer revestidos Das santas virtudes dos céus.",
+    "parte4": "3. Jovens que seguem o Mestre, Em sua existência terão A providência celeste E prósperos nU+00b4Ele serão.",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/0.pdf",
     
     "stmod": "#vendasModal",
-    "modh": "vendasModal",
-    "spaso": "%20",
-    "estr": "*",
-    "bscop": "col pt-4",
-    "apisap": "https://api.whatsapp.com/send?phone=+553598577000&text="
+    "modh": "vendasModal"
   }
 ]
