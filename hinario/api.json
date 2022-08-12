@@ -141,6 +141,56 @@
     "stmod": "#vendasModal",
     "modh": "vendasModal"
   },
+  {
+    "id": 12,
+    "numero": "12",
+    "pronome": "12 - Sempre em Jesus confiarei",
+    "parte1": "1. Sempre em Jesus confiarei, Sua Palavra honrarei; Por Sua morte atroz na cruz, me concedeu eterna luz.",
+    "parte2": "Coro: Cristo me guia com poder, Cristo me guia com saber; Ele é o Amigo mui fiel, Cristo Jesus, o Emanuel.",
+    "parte3": "2. Os bons conselhos de Jesus são, para mim, divina luz; Eles me trazem retidão e divinal consolação.",
+    "parte4": "3. Eu vou avante, com valor, sigo por fé o meu Senhor. No céu, um dia, O verei, e igual a Ele então serei.",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/12.pdf",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal"
+  },
+  {
+    "id": 13,
+    "numero": "13",
+    "pronome": "13 - Confiemos em Deus",
+    "parte1": "1. Ó amados, venceremos este mundo enganador; Pela fé nós lutaremos, confiando no Senhor.",
+    "parte2": "Coro: Confiemos em Deus, Ele é o nosso Pai; Ele ouve os Seus E, ao céu, levá-los vai. Pelo Seu imenso amor Nos protege o Senhor; Oh! Oremos, com fervor, Ao grande Deus, Formador.",
+    "parte3": "2. Do Seu trono glorioso nos contempla o Senhor; Deus, o Todo Poderoso, nos conserva em amor.",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/13.pdf",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal"
+  },
+  {
+    "id": 14,
+    "numero": "14",
+    "pronome": "14 - Manda os Teus dons celestes",
+    "parte1": "1. Os Teus fiéis, reunidos ante a Tua presença, O santo Consolador esperam, ó Senhor. Todos, contritos, clamamos com fé e com reverência; Cumpre em nós a promessa de Deus, o Criador.",
+    "parte2": "Coro: Manda os Teus dons celestes pelo Espírito Santo; Cobre os fiéis com o manto do Teu Consolador.",
+    "parte3": "2. Os Teus fiéis, reunidos, buscam os Teus dons celestes; Clamam com todo o fervor: atende, ó Senhor! Esperançosos, aguardam, crendo no que prometeste; Faze que todos sintamos o Teu consolador.",
+    "parte4": "3. Os Teus fiéis, reunidos, constantemente clamando, Sentem, ó bom Redentor, celestial fervor; Pacientemente esperamos, sempre, com fé, implorando: Vem, ó Senhor, confirmar-nos com o Consolador!",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/14.pdf",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal"
+  },
+  {
+    "id": 15,
+    "numero": "15",
+    "pronome": "15 - Ó alma que choras",
+    "parte1": "1. Ó alma que choras com grande amargor, Se queres alívio, recorre ao Senhor; A Ele implorando, conforto acharás; Graça, e virtude, e vida terás.",
+    "parte2": "2. Amigo sincero é Cristo Jesus, Que salva o perdido, ao céu o conduz; Tua voz levanta ao bom Redentor, Clama por socorro, clama ao teu Senhor.",
+    "parte3": "3. Ó alma cansada, recorre ao Senhor, Ele te sustenta e te dá vigor; Auxilio do alto não falta jamais, Em Cristo confia e não chores mais.",
+    "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/15.pdf",
+    
+    "stmod": "#vendasModal",
+    "modh": "vendasModal"
+  },
 
   {
     "id": 480,
