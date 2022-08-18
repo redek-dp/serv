@@ -2724,7 +2724,7 @@
     "partituraedo": "https://docs.google.com/gview?&embedded=true&url=https://redek-dp.github.io/serv/hinario/partituraedo/198.pdf",
     
     "searchs": "https://www.youtube.com/results?search_query=",
-    "boderd": "border border-warning",
+    "boderd": "boderr",
     "stmod": "#vendasModal",
     "modh": "vendasModal"
   },
