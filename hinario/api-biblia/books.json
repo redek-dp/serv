@@ -11,9 +11,9 @@
             "verses": 31
         },
         "chverses1": {
-            "number": 1,
-            "numbe": "No princípio criou Deus o céu e a terra.",
-            "numb": "E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.",
+            "number": "1",
+            "1": "No princípio criou Deus o céu e a terra.",
+            "2": "E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.",
             "3": "E disse Deus: Haja luz; e houve luz.",
             "4": "E viu Deus que era boa a luz; e fez Deus separação entre a luz e as trevas.",
             "5": "E Deus chamou à luz Dia; e às trevas chamou Noite. E foi a tarde e a manhã, o dia primeiro.",
@@ -45,7 +45,7 @@
             "31": "E viu Deus tudo quanto tinha feito, e eis que era muito bom; e foi a tarde e a manhã, o dia sexto."
         },
         "chverses2": {
-            "number": 2,
+            "number": "2",
             "1": "Assim os céus, a terra e todo o seu exército foram acabados.",
                 "2": "E havendo Deus acabado no dia sétimo a obra que fizera, descansou no sétimo dia de toda a sua obra, que tinha feito.",
                 "3": "E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que Deus criara e fizera.",
