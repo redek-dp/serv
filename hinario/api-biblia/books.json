@@ -1,9 +1,6 @@
 [
     {
-        "abbrev": {
-            "pt": "gn",
-            "en": "gn"
-        },
+        "id": "1",
         "author": "Moisés",
         "chapters": 50,
         "group": "Pentateuco",
@@ -11,10 +8,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "ex",
-            "en": "ex"
-        },
+        "id": "2",
         "author": "Moisés",
         "chapters": 40,
         "group": "Pentateuco",
@@ -22,10 +16,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "lv",
-            "en": "lv"
-        },
+        "id": "3",
         "author": "Moisés",
         "chapters": 27,
         "group": "Pentateuco",
@@ -33,10 +24,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "nm",
-            "en": "nm"
-        },
+        "id": "4",
         "author": "Moisés",
         "chapters": 36,
         "group": "Pentateuco",
@@ -44,10 +32,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "dt",
-            "en": "dt"
-        },
+        "id": "5",
         "author": "Moisés",
         "chapters": 34,
         "group": "Pentateuco",
@@ -55,10 +40,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "js",
-            "en": "js"
-        },
+        "id": "6",
         "author": "Josué",
         "chapters": 24,
         "group": "Históricos",
@@ -66,10 +48,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "jz",
-            "en": "jud"
-        },
+        "id": "7",
         "author": "Samuel",
         "chapters": 21,
         "group": "Históricos",
@@ -77,10 +56,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "rt",
-            "en": "rt"
-        },
+        "id": "8",
         "author": "Samuel",
         "chapters": 4,
         "group": "Históricos",
@@ -88,10 +64,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "1sm",
-            "en": "1sm"
-        },
+        "id": "9",
         "author": "Samuel",
         "chapters": 31,
         "group": "Históricos",
@@ -99,10 +72,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "2sm",
-            "en": "2sm"
-        },
+        "id": "10",
         "author": "Samuel",
         "chapters": 24,
         "group": "Históricos",
@@ -110,10 +80,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "1rs",
-            "en": "1kgs"
-        },
+        "id": "11",
         "author": "Jeremias",
         "chapters": 22,
         "group": "Históricos",
@@ -121,10 +88,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "2rs",
-            "en": "2kgs"
-        },
+        "id": "12",
         "author": "Jeremias",
         "chapters": 25,
         "group": "Históricos",
@@ -132,10 +96,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "1cr",
-            "en": "1ch"
-        },
+        "id": "13",
         "author": "Esdras",
         "chapters": 29,
         "group": "Históricos",
@@ -143,10 +104,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "2cr",
-            "en": "2ch"
-        },
+        "id": "14",
         "author": "Esdras",
         "chapters": 36,
         "group": "Históricos",
@@ -154,10 +112,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "ed",
-            "en": "ezr"
-        },
+        "id": "15",
         "author": "Esdras",
         "chapters": 10,
         "group": "Históricos",
@@ -165,10 +120,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "ne",
-            "en": "ne"
-        },
+        "id": "16",
         "author": "Neemias",
         "chapters": 13,
         "group": "Históricos",
@@ -176,10 +128,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "et",
-            "en": "et"
-        },
+        "id": "17",
         "author": "Desconhecido",
         "chapters": 10,
         "group": "Históricos",
@@ -187,10 +136,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "job",
-            "en": "job"
-        },
+        "id": "18",
         "author": "Desconhecido",
         "chapters": 42,
         "group": "Poéticos",
@@ -198,10 +144,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "sl",
-            "en": "ps"
-        },
+        "id": "19",
         "author": "David, Moisés, Salomão",
         "chapters": 150,
         "group": "Poéticos",
@@ -209,10 +152,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "pv",
-            "en": "prv"
-        },
+        "id": "20",
         "author": "Salomão",
         "chapters": 31,
         "group": "Poéticos",
@@ -220,10 +160,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "ec",
-            "en": "ec"
-        },
+        "id": "21",
         "author": "Salomão",
         "chapters": 12,
         "group": "Poéticos",
@@ -231,10 +168,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "ct",
-            "en": "so"
-        },
+        "id": "22",
         "author": "Salomão",
         "chapters": 8,
         "group": "Poéticos",
@@ -242,10 +176,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "is",
-            "en": "is"
-        },
+        "id": "23",
         "author": "Isaías",
         "chapters": 66,
         "group": "Profetas maiores",
@@ -253,10 +184,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "jr",
-            "en": "jr"
-        },
+        "id": "24",
         "author": "Jeremias",
         "chapters": 52,
         "group": "Profetas maiores",
@@ -264,10 +192,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "lm",
-            "en": "lm"
-        },
+        "id": "25",
         "author": "Jeremias",
         "chapters": 5,
         "group": "Profetas maiores",
@@ -275,10 +200,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "ez",
-            "en": "ez"
-        },
+        "id": "26",
         "author": "Ezequiel",
         "chapters": 48,
         "group": "Profetas maiores",
@@ -286,10 +208,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "dn",
-            "en": "dn"
-        },
+        "id": "27",
         "author": "Daniel",
         "chapters": 12,
         "group": "Profetas maiores",
@@ -297,10 +216,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "os",
-            "en": "ho"
-        },
+        "id": "28",
         "author": "Oséias",
         "chapters": 14,
         "group": "Profetas menores",
@@ -308,10 +224,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "jl",
-            "en": "jl"
-        },
+        "id": "29",
         "author": "Joel",
         "chapters": 3,
         "group": "Profetas menores",
@@ -319,10 +232,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "am",
-            "en": "am"
-        },
+        "id": "30",
         "author": "Amós",
         "chapters": 9,
         "group": "Profetas menores",
@@ -330,10 +240,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "ob",
-            "en": "ob"
-        },
+        "id": "31",
         "author": "Obadias",
         "chapters": 1,
         "group": "Profetas menores",
@@ -341,10 +248,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "jn",
-            "en": "jn"
-        },
+        "id": "32",
         "author": "Jonas",
         "chapters": 4,
         "group": "Profetas menores",
@@ -352,10 +256,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "mq",
-            "en": "mi"
-        },
+        "id": "33",
         "author": "Miquéias",
         "chapters": 7,
         "group": "Profetas menores",
@@ -363,10 +264,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "na",
-            "en": "na"
-        },
+        "id": "34",
         "author": "Naum",
         "chapters": 3,
         "group": "Profetas menores",
@@ -374,10 +272,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "hc",
-            "en": "hk"
-        },
+        "id": "35",
         "author": "Habacuque",
         "chapters": 3,
         "group": "Profetas menores",
@@ -385,10 +280,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "sf",
-            "en": "zp"
-        },
+        "id": "36",
         "author": "Sofonias",
         "chapters": 3,
         "group": "Profetas menores",
@@ -396,10 +288,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "ag",
-            "en": "hg"
-        },
+        "id": "37",
         "author": "Ageu",
         "chapters": 2,
         "group": "Profetas menores",
@@ -407,10 +296,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "zc",
-            "en": "zc"
-        },
+        "id": "38",
         "author": "Zacarias",
         "chapters": 14,
         "group": "Profetas menores",
@@ -418,10 +304,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "ml",
-            "en": "ml"
-        },
+        "id": "39",
         "author": "Malaquias",
         "chapters": 4,
         "group": "Profetas menores",
@@ -429,10 +312,7 @@
         "testament": "VT"
     },
     {
-        "abbrev": {
-            "pt": "mt",
-            "en": "mt"
-        },
+        "id": "40",
         "author": "Mateus",
         "chapters": 28,
         "group": "Evangelhos",
@@ -440,10 +320,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "mc",
-            "en": "mk"
-        },
+        "id": "41",
         "author": "Marcos",
         "chapters": 16,
         "group": "Evangelhos",
@@ -451,10 +328,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "lc",
-            "en": "lk"
-        },
+        "id": "42",
         "author": "Lucas",
         "chapters": 24,
         "group": "Evangelhos",
@@ -462,10 +336,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "jo",
-            "en": "jo"
-        },
+        "id": "43",
         "author": "João",
         "chapters": 21,
         "group": "Evangelhos",
@@ -473,10 +344,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "at",
-            "en": "act"
-        },
+        "id": "44",
         "author": "Lucas",
         "chapters": 28,
         "group": "Histórico",
@@ -484,10 +352,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "rm",
-            "en": "rm"
-        },
+        "id": "45",
         "author": "Paulo",
         "chapters": 16,
         "group": "Cartas",
@@ -495,10 +360,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "1co",
-            "en": "1co"
-        },
+        "id": "46",
         "author": "Paulo",
         "chapters": 16,
         "group": "Cartas",
@@ -506,10 +368,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "2co",
-            "en": "2co"
-        },
+        "id": "47",
         "author": "Paulo",
         "chapters": 13,
         "group": "Cartas",
@@ -517,10 +376,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "gl",
-            "en": "gl"
-        },
+        "id": "48",
         "author": "Paulo",
         "chapters": 6,
         "group": "Cartas",
@@ -528,10 +384,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "ef",
-            "en": "eph"
-        },
+        "id": "49",
         "author": "Paulo",
         "chapters": 6,
         "group": "Cartas",
@@ -539,10 +392,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "fp",
-            "en": "ph"
-        },
+        "id": "50",
         "author": "Paulo",
         "chapters": 4,
         "group": "Cartas",
@@ -550,10 +400,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "cl",
-            "en": "cl"
-        },
+        "id": "51",
         "author": "Paulo",
         "chapters": 4,
         "group": "Cartas",
@@ -561,10 +408,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "1ts",
-            "en": "1ts"
-        },
+        "id": "52",
         "author": "Paulo",
         "chapters": 5,
         "group": "Cartas",
@@ -572,10 +416,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "2ts",
-            "en": "2ts"
-        },
+        "id": "53",
         "author": "Paulo",
         "chapters": 3,
         "group": "Cartas",
@@ -583,10 +424,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "1tm",
-            "en": "1tm"
-        },
+        "id": "54",
         "author": "Paulo",
         "chapters": 6,
         "group": "Cartas",
@@ -594,10 +432,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "2tm",
-            "en": "2tm"
-        },
+        "id": "55",
         "author": "Paulo",
         "chapters": 4,
         "group": "Cartas",
@@ -605,10 +440,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "tt",
-            "en": "tt"
-        },
+        "id": "56",
         "author": "Paulo",
         "chapters": 3,
         "group": "Cartas",
@@ -616,10 +448,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "fm",
-            "en": "phm"
-        },
+        "id": "57",
         "author": "Paulo",
         "chapters": 1,
         "group": "Cartas",
@@ -627,10 +456,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "hb",
-            "en": "hb"
-        },
+        "id": "58",
         "author": "Desconhecido",
         "chapters": 13,
         "group": "Cartas",
@@ -638,10 +464,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "tg",
-            "en": "jm"
-        },
+        "id": "59",
         "author": "Tiago",
         "chapters": 5,
         "group": "Cartas",
@@ -649,10 +472,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "1pe",
-            "en": "1pe"
-        },
+        "id": "60",
         "author": "Pedro",
         "chapters": 5,
         "group": "Cartas",
@@ -660,10 +480,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "2pe",
-            "en": "2pe"
-        },
+        "id": "61",
         "author": "Pedro",
         "chapters": 3,
         "group": "Cartas",
@@ -671,10 +488,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "1jo",
-            "en": "1jo"
-        },
+        "id": "62",
         "author": "João",
         "chapters": 5,
         "group": "Cartas",
@@ -682,10 +496,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "2jo",
-            "en": "2jo"
-        },
+        "id": "63",
         "author": "João",
         "chapters": 1,
         "group": "Cartas",
@@ -693,10 +504,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "3jo",
-            "en": "3jo"
-        },
+        "id": "64",
         "author": "João",
         "chapters": 1,
         "group": "Cartas",
@@ -704,10 +512,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "jd",
-            "en": "jd"
-        },
+        "id": "65",
         "author": "Judas",
         "chapters": 1,
         "group": "Cartas",
@@ -715,10 +520,7 @@
         "testament": "NT"
     },
     {
-        "abbrev": {
-            "pt": "ap",
-            "en": "re"
-        },
+        "id": "66",
         "author": "João",
         "chapters": 22,
         "group": "Revelações",
