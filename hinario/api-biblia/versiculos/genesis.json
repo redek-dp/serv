@@ -8,6 +8,7 @@
         "testament": "VELHO TESTAMENTO",
 
         "vers1": {
+            "vertilo": "31",
             "1": "No princípio criou Deus o céu e a terra.",
             "2": "E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.",
             "3": "E disse Deus: Haja luz; e houve luz.",
@@ -41,6 +42,7 @@
             "31": "E viu Deus tudo quanto tinha feito, e eis que era muito bom; e foi a tarde e a manhã, o dia sexto."
         },
         "vers2": {
+            "vertilo": "25",
             "1": "Assim os céus, a terra e todo o seu exército foram acabados.",
             "2": "E havendo Deus acabado no dia sétimo a obra que fizera, descansou no sétimo dia de toda a sua obra, que tinha feito.",
             "3": "E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que Deus criara e fizera.",
@@ -68,6 +70,7 @@
             "25": "E ambos estavam nus, o homem e a sua mulher; e não se envergonhavam."
         },
         "vers3": {
+            "vertilo": "24",
             "1": "Ora, a serpente era mais astuta que todas as alimárias do campo que o SENHOR Deus tinha feito. E esta disse à mulher: É assim que Deus disse: Não comereis de toda a árvore do jardim?",
             "2": "E disse a mulher à serpente: Do fruto das árvores do jardim comeremos,",
             "3": "Mas do fruto da árvore que está no meio do jardim, disse Deus: Não comereis dele, nem nele tocareis para que não morrais.",
@@ -94,6 +97,7 @@
             "24": "E havendo lançado fora o homem, pôs querubins ao oriente do jardim do Éden, e uma espada inflamada que andava ao redor, para guardar o caminho da árvore da vida."
         },
         "vers4": {
+            "vertilo": "26",
             "1": "E conheceu Adão a Eva, sua mulher, e ela concebeu e deu à luz a Caim, e disse: Alcancei do SENHOR um homem.",
             "2": "E deu à luz mais a seu irmão Abel; e Abel foi pastor de ovelhas, e Caim foi lavrador da terra.",
             "3": "E aconteceu ao cabo de dias que Caim trouxe do fruto da terra uma oferta ao Senhor.",
@@ -122,6 +126,7 @@
             "26": "E a Sete também nasceu um filho; e chamou o seu nome Enos; então se começou a invocar o nome do Senhor."
         },
         "vers5": {
+            "vertilo": "32",
             "1": "Este é o livro das gerações de Adão. No dia em que Deus criou o homem, à semelhança de Deus o fez.",
             "2": "Homem e mulher os criou; e os abençoou e chamou o seu nome Adão, no dia em que foram criados.",
             "3": "E Adão viveu cento e trinta anos, e gerou um filho à sua semelhança, conforme a sua imagem, e pôs-lhe o nome de Sete.",
