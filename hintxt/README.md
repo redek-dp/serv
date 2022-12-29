@@ -6,7 +6,7 @@
 
  ---
 
- # 1  Cristo, meu Mestre
+# 1  Cristo, meu Mestre
 
 1. Cristo, meu Mestre e meu Senhor,  
 Eu Te adoro, por fé, com fervor;  
