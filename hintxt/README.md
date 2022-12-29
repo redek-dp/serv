@@ -31,6 +31,7 @@ Faze perfeito o meu coração
 Santo, ardoroso em Te servir  
 Sempre voltado aos bens do porvir  
 Mestre amado, desejo Te ouvir.  
+
 ---
 
 # 2
