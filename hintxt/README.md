@@ -6,7 +6,7 @@
 
  ---
 
- # 1 - Cristo, meu Mestre
+ # 1  Cristo, meu Mestre
 
 1. Cristo, meu Mestre e meu Senhor,  
 Eu Te adoro, por fé, com fervor;  
@@ -33,5 +33,5 @@ Sempre voltado aos bens do porvir
 Mestre amado, desejo Te ouvir.  
 ---
 
-# 02
+# 2
 5555
