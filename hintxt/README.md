@@ -146,7 +146,7 @@
 
 <div id='06'/> 
 
-# 6  Glória ao justo,   fiel Cordeiro
+# 6  Glória ao justo, fiel Cordeiro
 
 1. Ao Cordeiro imaculado, Jesus Cristo, exaltemos;  
    Do Seu Nome falaremos, pois, com infinito amor,  
@@ -201,7 +201,7 @@
    São grandes os combates aos Teus fiéis, Senhor  
 
    Oh! Vem, sim, vem nos alegrar, Senhor;  
-   És nossa Esperança e nosso Defensor.
+   És nossa Esperança e nosso Defensor.  
 
 2. No mundo há vaidade, muita tristeza e dor,  
    Mas Teus remidos sentem a Tua paz e amor.  
