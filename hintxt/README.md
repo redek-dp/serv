@@ -29,18 +29,18 @@
 1. Cristo meu Mestre e meu Senhor,  
    Eu Te adoro, por fé, com fervor;  
    Rogo que guardes meu coração;  
-   Vem protegê-lo, com Tua unção
-   E defendê-lo, ó meu Guardião.
+   Vem protegê-lo, com Tua unção  
+   E defendê-lo, ó meu Guardião.  
 
 2. Mestre divino, sempre senti  
    Meu coração dependente de Ti;  
    Bom fundamento dá-lhe, Senhor,  
-   Dá-lhe firmeza, virtude,   valor
+   Dá-lhe firmeza, virtude, valor  
    E fortaleza, ó meu Protetor.  
 
 3. Vale profundo, cheio de mal,  
    É este mundo, ó Rei divinal.  
-   Só Tua força pode manter
+   Só Tua força pode manter  
    Santo e puro, na graça, meu ser,  
    Sempre seguro, com fé e poder.  
 
@@ -56,20 +56,20 @@
 
 # 2  De Deus tu és eleita
 
-1. De Deus tu és eleita,   igreja de Jesus,  
+1. De Deus tu és eleita, igreja de Jesus,  
    O teu divino Mestre á glória te conduz;  
    Prepara-te,   pois Ele mui breve voltará;  
-   A glória que te espera já preparada está.
+   A glória que te espera já preparada está.  
 
 2. Com celestiais adornos espera o teu Senhor,  
    Vestida de justiça e do divino amor;  
-   Dileta és de Cristo,   que vida te doou;  
-   A fim de resgatar-te,   Seu sangue derramou.
+   Dileta és de Cristo, que vida te doou;  
+   A fim de resgatar-te, Seu sangue derramou.  
 
-3. É grande tua glória,   igreja de Jesus;  
-   Consagra-te a Ele,   andando em sua luz;  
-   Em breve,   no Seu reino,   gloriosa entrarás,  
-   E a face do Esposo,   no céu,   contemplarás.
+3. É grande tua glória, igreja de Jesus;  
+   Consagra-te a Ele, andando em sua luz;  
+   Em breve, no Seu reino, gloriosa entrarás,  
+   E a face do Esposo, no céu, contemplarás.  
 
  ---
 
@@ -78,23 +78,23 @@
 # 3  Faz-nos ouvir Tua voz
 
 1. Faz-nos ouvir Tua voz gloriosa,  
-   Ó nosso Mestre,   fiel Redentor;  
-   A Tua igreja,   dileta esposa,  
-   Sente por Ti inefável amor.
+   Ó nosso Mestre, fiel Redentor;  
+   A Tua igreja, dileta esposa,  
+   Sente por Ti inefável amor.  
 
-   Ó caro Salvador,   a Tua voz de amor
-   Nos guia para o céu,   glorioso lar;  
-   Pela Palavra vem nos consolar.
+   Ó caro Salvador, a Tua voz de amor  
+   Nos guia para o céu, glorioso lar;  
+   Pela Palavra vem nos consolar.  
 
-2. Ó Jesus Cristo,   celeste Esposo,  
-   Vem conduzir-nos,   por Teu grande amor;  
-   Já antevemos,   ó Rei majestoso,  
-   A glória eterna do Teu esplendor.
+2. Ó Jesus Cristo, celeste Esposo,  
+   Vem conduzir-nos, por Teu grande amor;  
+   Já antevemos, ó Rei majestoso,  
+   A glória eterna do Teu esplendor.  
 
-3. A Tua igreja está se adornando
-   Para encontrar-se Contigo,   ó Jesus;  
-   Com santas vestes,   está aguardando
-   Ver Tua face no reino de luz.
+3. A Tua igreja está se adornando  
+   Para encontrar-se Contigo, ó Jesus;  
+   Com santas vestes, está aguardando  
+   Ver Tua face no reino de luz.  
 
  ---
 
@@ -102,19 +102,19 @@
 
 # 4  Ouve a nossa oração
 
-1. Nossos olhos para os céus,   ó Deus,   nos levantamos;  
-   Confiando em Teu amor,   a nossa voz alçamos.
+1. Nossos olhos para os céus, ó Deus, nos levantamos;  
+   Confiando em Teu amor, a nossa voz alçamos.  
 
-   Ouve a nossa oração
+   Ouve a nossa oração  
    Desde a Tua habitação;  
-   Tua benção,   Teu perdão,  
-   Manda,   ó Deus piedoso.
+   Tua benção, Teu perdão,  
+   Manda, ó Deus piedoso.  
 
-2. Refrigério celestial E bálsamo precioso
-   É sentir-Te em nosso ser,   Pai santo,   glorioso.
+2. Refrigério celestial E bálsamo precioso  
+   É sentir-Te em nosso ser, Pai santo, glorioso.  
 
-3. No Teu trono,   ó Senhor,   recebe nesta hora
-   A humilde oração do povo que Te adora.
+3. No Teu trono, ó Senhor, recebe nesta hora  
+   A humilde oração do povo que Te adora.  
 
  ---
 
@@ -122,25 +122,25 @@
 
 # 5  A Rocha celestial
 
-1. Sábio e prudente será o varão
+1. Sábio e prudente será o varão  
    Que a casa na rocha erguer;  
    Sempre terá eficaz proteção,  
-   Pois nada a pode abater.
+   Pois nada a pode abater.  
 
-   A Rocha celestial
-   È Cristo,   o Filho de Deus,  
-   O Fundamento eternal
-   De quem busca o reino dos céus.
+   A Rocha celestial  
+   È Cristo, o Filho de Deus,  
+   O Fundamento eternal  
+   De quem busca o reino dos céus.  
 
 2. Quem sobre a areia quiser construir,  
    Em vão trabalhado terá,  
    Pois sua casa virá a cair;  
-   Em falso alicerce estará.
+   Em falso alicerce estará.  
 
-3. As tempestades e os ventos virão
+3. As tempestades e os ventos virão  
    A todos,   com grande furor;  
    Mas os que sobre a Rocha estão,  
-   Firmeza terão no Senhor.
+   Firmeza terão no Senhor.  
 
  ---
 
@@ -148,162 +148,162 @@
 
 # 6  Glória ao justo,   fiel Cordeiro
 
-1. Ao Cordeiro imaculado,   Jesus Cristo,   exaltemos;  
-   Do Seu Nome falaremos,   pois,   com infinito amor,  
-   Veio à terra,   glorioso,   com poder e esplendor.
+1. Ao Cordeiro imaculado, Jesus Cristo, exaltemos;  
+   Do Seu Nome falaremos, pois, com infinito amor,  
+   Veio à terra, glorioso, com poder e esplendor.  
 
 2. Seguiremos a Jesus Cristo com inteira confiança;  
    Temos viva esperança de chegar ao lar de amor,  
-   Dirigidos,   amparados pelo sábio Condutor.
+   Dirigidos, amparados pelo sábio Condutor.  
 
 3. Só a Cristo daremos glória e louvores em eterno,  
-   Pois livrou-nos do inferno,   do pecado e do mal,  
-   Para dar-nos a herança no Seu lar celestial.
+   Pois livrou-nos do inferno, do pecado e do mal,  
+   Para dar-nos a herança no Seu lar celestial.  
 
-    Glória ao Justo,   fiel Cordeiro,  
-    Puro,   Santo,   Verdadeiro!
+    Glória ao Justo, fiel Cordeiro,  
+    Puro, Santo, Verdadeiro!  
     Pela morte no madeiro,  
-    Nos reconciliou com Deus.
+    Nos reconciliou com Deus.  
 
  ---
 
-<div id='01'/> 
+<div id='07'/> 
 
-# 7  Granjeai,   granjeai os talentos
+# 7  Granjeai, granjeai os talentos
 
 1. Os talentos Jesus nos tem dado,  
    Dons celestes de grande valor;  
-   Nós devemos,   com todo o cuidado,  
-   Granjeá-los,   servindo ao Senhor.
+   Nós devemos, com todo o cuidado,  
+   Granjeá-los, servindo ao Senhor.  
 
-   Granjeai,   granjeai os talentos;  
+   Granjeai, granjeai os talentos;  
    Sobre o muito o Senhor vos porá;  
    Vigiai e estai sempre atentos,  
-   Eis que Ele à porta está.
+   Eis que Ele à porta está.  
 
 2. Se de tudo nós formos prudentes,  
    Se fiéis o Senhor nos achar,  
-   Herdaremos Seus bens permanentes
-   No repouso da glória sem par.
+   Herdaremos Seus bens permanentes  
+   No repouso da glória sem par.  
 
 3. Diligentes obreiros sejamos,  
    Pois os frutos Jesus vai pedir;  
    Os talentos jamais escondamos,  
-   Se quisermos a glória fruir.
+   Se quisermos a glória fruir.  
 
  ---
 
-<div id='01'/> 
+<div id='08'/> 
 
-# 8  Oh! Vem,   sim,   vem
+# 8  Oh! Vem, sim, vem
 
-1. Nesta terrena vida,   ó justo Redentor,  
-   São grandes os combates aos Teus fiéis,   Senhor
+1. Nesta terrena vida, ó justo Redentor,  
+   São grandes os combates aos Teus fiéis, Senhor  
 
-   Oh! Vem,   sim,   vem nos alegrar,   Senhor;  
+   Oh! Vem, sim, vem nos alegrar, Senhor;  
    És nossa Esperança e nosso Defensor.
 
-2. No mundo há vaidade,   muita tristeza e dor,  
-   Mas Teus remidos sentem a Tua paz e amor.
+2. No mundo há vaidade, muita tristeza e dor,  
+   Mas Teus remidos sentem a Tua paz e amor.  
 
-3. Do céu Te esperamos,   glorioso,   eterno Rei;  
-   Tu és veraz Pastor e nós somos Tua grei.
+3. Do céu Te esperamos, glorioso, eterno Rei;  
+   Tu és veraz Pastor e nós somos Tua grei.  
 
  ---
 
-<div id='01'/> 
+<div id='09'/> 
 
 # 9  Luminosa é a senda
 
-1. Luminosa é a senda
-   Que conduz,   por fé,   a Deus;  
-   Não há nada que me prenda
-   Nem detenha os passos meus.
+1. Luminosa é a senda  
+   Que conduz, por fé, a Deus;  
+   Não há nada que me prenda  
+   Nem detenha os passos meus.  
 
-   Que prazer é viver Com o meu bom Jesus!
-   Na tristeza e na alegria sinto em mim a Sua luz.
+   Que prazer é viver Com o meu bom Jesus!  
+   Na tristeza e na alegria sinto em mim a Sua luz.  
 
-2. Jubiloso,   eu prossigo
+2. Jubiloso, eu prossigo  
    Para a glória eternal;  
    Sei que Cristo está comigo,  
-   Protegendo-me do mal.
+   Protegendo-me do mal.  
 
-3. Jesus Cristo me consola
+3. Jesus Cristo me consola  
    Quando estou em aflição;  
-   Seu Espírito controla
-   Minha mente e coração.
+   Seu Espírito controla  
+   Minha mente e coração.  
 
  ---
 
-<div id='01'/> 
+<div id='10'/> 
 
 # 10  Prossegui vitoriosos em Cristo
 
 1. Prossegui vitoriosos em Cristo,  
-   Ele,   em breve,   dos céus vai voltar;  
-   Mandará recolher Seus remidos
-   Para,   à glória eterna,   os levar.
+   Ele, em breve, dos céus vai voltar;  
+   Mandará recolher Seus remidos  
+   Para, à glória eterna, os levar.
 
-   Certamente exaltado será
+   Certamente exaltado será  
    Quem o Nome de Cristo não negar;  
    Exaltado com glória celestial,  
-   Herdará a riqueza eternal.
+   Herdará a riqueza eternal.  
 
-2. Prossegui,   rejeitando o pecado,  
+2. Prossegui, rejeitando o pecado,  
    Pois ireis encontrar o Senhor;  
-   Para vós,   Ele tem preparado
-   Um lugar no Seu reino de amor.
+   Para vós, Ele tem preparado  
+   Um lugar no Seu reino de amor.  
 
 3. Prossegui nesta fé gloriosa,  
    O inimigo de vós fugirá;  
-   Vigiai na oração,   no cuidado,  
-   E convosco Jesus estará.
+   Vigiai na oração, no cuidado,  
+   E convosco Jesus estará.  
 
  ---
 
-<div id='01'/> 
+<div id='11'/> 
 
-# 11  Ó igreja de Deus,   resplandece
+# 11  Ó igreja de Deus, resplandece
 
-1. Ó igreja de Deus,   resplandece
-   E alegra-te,   de coração,  
+1. Ó igreja de Deus, resplandece  
+   E alegra-te, de coração,  
    Espalhando a semente celeste,  
-   Anunciando a veraz salvação.
+   Anunciando a veraz salvação.  
 
-   Tu és a igreja de Jesus Cristo,   o Cordeiro,  
+   Tu és a igreja de Jesus Cristo, o Cordeiro,  
    Que tem o Seu trono nos céus;  
-   Ele,   o justo,   Fiel,   verdadeiro,  
-   Te dará as promessas de Deus.
+   Ele, o justo, Fiel, verdadeiro,  
+   Te dará as promessas de Deus.  
 
-2. És igreja formosa e amada
-   Por Cristo,   o teu Salvador,  
-   Que te quer sempre mais adornada
-   De justiça e sublime amor.
+2. És igreja formosa e amada  
+   Por Cristo, o teu Salvador,  
+   Que te quer sempre mais adornada  
+   De justiça e sublime amor.  
 
-3. À gloriosa e celeste cidade
-   Irás,   com Jesus,   Salvador;  
-   Lá há paz,   grande amor,   santidade;  
-   Lá verás o fiel Criador.
+3. À gloriosa e celeste cidade  
+   Irás, com Jesus, Salvador;  
+   Lá há paz, grande amor, santidade;  
+   Lá verás o fiel Criador.  
 
  ---
 
-<div id='01'/> 
+<div id='12'/> 
 
 # 12  Sempre em Jesus confiarei
 
-1. Sempre em Jesus confiarei,   Sua Palavra honrarei;  
-   Por Sua morte atroz na cruz,   me concedeu eterna luz.
+1. Sempre em Jesus confiarei, Sua Palavra honrarei;  
+   Por Sua morte atroz na cruz, me concedeu eterna luz.  
 
    Cristo me guia com poder,  
    Cristo me guia com saber;  
    Ele é o Amigo mui fiel,  
-   Cristo Jesus,   o Emanuel.
+   Cristo Jesus, o Emanuel.  
 
-2. Os bons conselhos de Jesus são,   para mim,   divina luz;  
-   Eles me trazem retidão e divinal consolação.
+2. Os bons conselhos de Jesus são, para mim, divina luz;  
+   Eles me trazem retidão e divinal consolação.  
 
-3. Eu vou avante,   com valor;   sigo por fé o meu Senhor.
-   No céu,   um dia,   O verei e igual a Ele então serei.
+3. Eu vou avante, com valor; sigo por fé o meu Senhor.  
+   No céu, um dia, O verei e igual a Ele então serei.  
 
  ---
 
