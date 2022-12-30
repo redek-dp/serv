@@ -242,7 +242,7 @@
 1. Prossegui vitoriosos em Cristo,  
    Ele, em breve, dos céus vai voltar;  
    Mandará recolher Seus remidos  
-   Para, à glória eterna, os levar.
+   Para, à glória eterna, os levar.  
 
    Certamente exaltado será  
    Quem o Nome de Cristo não negar;  
