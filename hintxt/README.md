@@ -307,142 +307,142 @@
 
  ---
 
-<div id='01'/> 
+<div id='13'/> 
 
 # 13  Confiemos em Deus
 
-1. Ó amados,   venceremos este mundo enganador;  
-   Pela fé nós lutaremos,   cofiando no Senhor.
+1. Ó amados, venceremos este mundo enganador;  
+   Pela fé nós lutaremos, cofiando no Senhor.  
 
    Confiemos em Deus,  
    Ele é o nosso Pai;  
-   Ele ouve aos Seus
-   E,   ao céu,   levá-los vai.
-   Pelo Seu imenso amor
+   Ele ouve aos Seus  
+   E, ao céu, levá-los vai.  
+   Pelo Seu imenso amor  
    Nos protege o Senhor;  
-   Oh! Oremos,   com fervor,  
-   Ao grande Deus,   Formador.
+   Oh! Oremos, com fervor,  
+   Ao grande Deus, Formador.  
 
 2. Do Seu trono glorioso nos contempla o Senhor;  
-   Deus,   o Todo-Poderoso,   nos conserva em amor.
+   Deus, o Todo-Poderoso, nos conserva em amor.  
 
  ---
 
-<div id='01'/> 
+<div id='14'/> 
 
 # 14  Manda os Teus dons celestes
 
-1. Os Teus fiéis,   reunidos ante a Tua presença,  
-   O santo Consolador esperam,  ó Senhor.
-   Todos,  contritos,  clamamos com fé e com reverência;  
-   Cumpre em nós a promessa de Deus,  o Criador.
+1. Os Teus fiéis, reunidos ante a Tua presença,  
+   O santo Consolador esperam, ó Senhor.  
+   Todos,  contritos, clamamos com fé e com reverência;  
+   Cumpre em nós a promessa de Deus, o Criador.  
 
    Manda os Teus dons celestes pelo Espírito santo;  
-   Cobre os fiéis com o manto do Teu Consolador.
+   Cobre os fiéis com o manto do Teu Consolador.  
 
-2. Os Teus fiéis,   reunidos,   buscam os Teus dons celestes;  
-   Clamam com todo o fervor: Atende,  ó Senhor!
-   Esperançosos,  aguardam,   crendo no que prometeste;  
-   Faze que todos sintamos o Teu Consolador.
+2. Os Teus fiéis, reunidos, buscam os Teus dons celestes;  
+   Clamam com todo o fervor: Atende, ó Senhor!  
+   Esperançosos, aguardam, crendo no que prometeste;  
+   Faze que todos sintamos o Teu Consolador.  
 
-3. Os Teus fiéis,  reunidos,   constantemente clamando,  
-   Sentem,  ó bom Redentor,  celestial fervor;  
-   Pacientemente esperamos,   sempre,   com fé,  implorando:
-   Vem,  ó Senhor,  confirmar-nos com o Consolador!
+3. Os Teus fiéis, reunidos, constantemente clamando,  
+   Sentem, ó bom Redentor, celestial fervor;  
+   Pacientemente esperamos, sempre, com fé, implorando:  
+   Vem, ó Senhor, confirmar-nos com o Consolador!  
 
  ---
 
-<div id='01'/> 
+<div id='15'/> 
 
 # 15  Ó alma que choras
 
 1. Ó alma que choras com grande amargor,  
-   Se queres alívio,  recorre ao Senhor;  
-   A ele implorando,   conforto acharás;  
-   Graça,   e virtude,  e vida terás.
+   Se queres alívio, recorre ao Senhor;  
+   A ele implorando, conforto acharás;  
+   Graça, e virtude, e vida terás.  
 
 2. Amigo sincero é Cristo Jesus,  
-   Que salva o perdido,   ao céu o conduz.
+   Que salva o perdido, ao céu o conduz.  
    Tua voz levanta ao bom Redentor,  
-   Clama por socorro,  clama ao Teu Senhor.
+   Clama por socorro, clama ao Teu Senhor.  
 
-3. Ó alma cansada,  recorre ao Senhor,  
+3. Ó alma cansada, recorre ao Senhor,  
    Ele te sustenta e te dá vigor;  
    Auxílio do alto não falta jamais,  
-   Em Cristo confia e não chores mais.
+   Em Cristo confia e não chores mais.  
 
  ---
 
-<div id='01'/> 
+<div id='16'/> 
 
 # 16  Promessa excelente
 
-1. Promessa excelente fizeste,   ó Deus,  
+1. Promessa excelente fizeste, ó Deus,  
    Fiel cumprimento a Palavra terá;  
    Sentir Teu Espírito querem os Teus;  
-   Teu povo clamando está.
+   Teu povo clamando está.  
 
-   Envia,   ó Deus,   por amor,  
-   Teus dons pelo Consolador.
+   Envia, ó Deus, por amor,  
+   Teus dons pelo Consolador.  
    Vem nos revestir de poder divinal;  
-   Visita-nos,   Pai eternal.
+   Visita-nos, Pai eternal.  
 
-2. Oh! Vem despertar-nos,   amado Senhor;  
+2. Oh! Vem despertar-nos, amado Senhor;  
    O Espírito Santo envia dos céus;  
    Com fé aguardamos o Consolador,  
-   Que faz virtuosos os Teus.
+   Que faz virtuosos os Teus.  
 
-3. O Teu Santo Espírito nos guiará
-   Em toda verdade,   justiça e amor;  
+3. O Teu Santo Espírito nos guiará  
+   Em toda verdade, justiça e amor;  
    Por Ele Teu povo ensinado será;  
-   Teu dom aguardamos,   Senhor.
+   Teu dom aguardamos, Senhor.  
 
  ---
 
-<div id='01'/> 
+<div id='17'/> 
 
-# 17  Ó Senhor,   vem visitar-me
+# 17  Ó Senhor, vem visitar-me
 
-1. Ó senhor,  vem visitar-me e alentar a minha fé;  
-   Eu desejo consagrar-me e alcançar,   de Ti,   mercê.
+1. Ó senhor, vem visitar-me e alentar a minha fé;  
+   Eu desejo consagrar-me e alcançar, de Ti, mercê.  
 
-   Com o Espírito divino
-   Vem,   Jesus,   me batizar;  
-   Aos Teus pés eu me inclino
-   E Te rogo sem cessar:
-   Oh! Vem Senhor,   Com Teu Dom me consolar.
+   Com o Espírito divino  
+   Vem, Jesus, me batizar;  
+   Aos Teus pés eu me inclino  
+   E Te rogo sem cessar:  
+   Oh! Vem Senhor, Com Teu Dom me consolar.  
 
-2. Ó Jesus,   és minha Sorte,   és minha Salvação;  
-   Faz-me firme,   faz-me forte pela Tua Santa unção.
+2. Ó Jesus, és minha Sorte, és minha Salvação;  
+   Faz-me firme, faz-me forte pela Tua Santa unção.  
 
-3. E ao fim serei ditoso,   pois Contigo estarei;  
-   No Teu reino glorioso,   face a face Te verei.
+3. E ao fim serei ditoso, pois Contigo estarei;  
+   No Teu reino glorioso, face a face Te verei.  
 
  ---
 
-<div id='01'/> 
+<div id='18'/> 
 
 # 18  É Jesus meu refúgio
 
 1. Grande é a tormenta e a tribulação,  
-   Muitos são os combates,   grande,   a tentação;  
-   Mas Jesus,   meu Rochedo e Fiel Guardião,  
-   È a Fortaleza que dá proteção.
+   Muitos são os combates, grande, a tentação;  
+   Mas Jesus, meu Rochedo e Fiel Guardião,  
+   È a Fortaleza que dá proteção.  
 
-   É Jesus meu Refúgio,   meu fiel protetor,  
+   É Jesus meu Refúgio, meu fiel protetor,  
    E n'Ele abrigado terei Seu vigor;  
-   Cada dia que passa,   sinto mais Seu amor
-   E a vida celeste do meu Salvador.
+   Cada dia que passa, sinto mais Seu amor  
+   E a vida celeste do meu Salvador.  
 
-2. Ao Senhor,   mais unido eu almejo viver
-   E cumprir,   neste mundo,   Seu glorioso querer;  
-   Os Seus passos seguindo,   eu irei receber
-   Mais força e coragem,   a fim de vencer.
+2. Ao Senhor, mais unido eu almejo viver
+   E cumprir, neste mundo, Seu glorioso querer;  
+   Os Seus passos seguindo, eu irei receber  
+   Mais força e coragem, a fim de vencer.  
 
-3. Vou com a fé no meu Mestre,   a tormenta enfrentar,  
+3. Vou com a fé no meu Mestre, a tormenta enfrentar,  
    Mesmo que fortemente ela se levantar;  
-   Com Jesus,   a vitória eu irei alcançar,  
-   Pois Suas promessas não podem falhar.
+   Com Jesus, a vitória eu irei alcançar,  
+   Pois Suas promessas não podem falhar.  
 
  ---
 
@@ -450,9 +450,9 @@
 
 # 19  Manda-nos Teu poder
 
-1. Manda,   ó Senhor,   do céu,   fogo santo ao povo Teu;  
+1. Manda, ó Senhor, do céu, fogo santo ao povo Teu;  
    Manda-nos Teu poder;  
-   Fogo que destrói o mal,   fogo santo,   celestial;  
+   Fogo que destrói o mal, fogo santo,   celestial;  
    Manda-nos Teu poder.
 
    Manda-nos o Teu poder,  
