@@ -1235,552 +1235,552 @@
 
  ---
 
-<div id='01'/> 
+<div id='51'/> 
 
 # 51  A Palavra do Senhor é Pão celestial
 
-1. A Palavra do Senhor,   para mim,  
+1. A Palavra do Senhor, para mim,  
    È um tesouro de valor sem igual;  
    Fala do amor de Deus,  
    O amor que não tem fim,  
-   O amor que livra do poder do mal.
+   O amor que livra do poder do mal.  
 
-   A Palavra do Senhor,   Pão celestial,  
-   Faz-nos caminhar na luz,   livra-nos do mal;  
-   Deus nos enviou dos céus,   Cristo,   o Emanuel,  
-   Rocha viva de onde mana leite e mel.
+   A Palavra do Senhor, Pão celestial,  
+   Faz-nos caminhar na luz, livra-nos do mal;  
+   Deus nos enviou dos céus, Cristo, o Emanuel,  
+   Rocha viva de onde mana leite e mel.  
 
-2. Luz que guia nas veredas dos céus
+2. Luz que guia nas veredas dos céus  
    E ilumina quem em trevas está;  
-   É a luz que nos faz ver
-   As riquezas do bom Deus
-   E entendimento divinal nos dá.
+   É a luz que nos faz ver  
+   As riquezas do bom Deus  
+   E entendimento divinal nos dá.  
 
 3. É um farol de celestial esplendor,  
    Que nos guia a cidade eternal;  
    Quem com Cristo caminhar,  
    Quem servir ao Criador,  
-   Certo chegará à pátria divinal.
+   Certo chegará à pátria divinal.  
 
  ---
 
-<div id='01'/> 
+<div id='52'/> 
 
 # 52  Luz eternal é Jesus
 
-1. Luz eternal que vem de Deus
-   É Jesus ,   o Redentor;  
-   É Ele a Vida que,   dos céus,  
+1. Luz eternal que vem de Deus  
+   É Jesus , o Redentor;  
+   É Ele a Vida que, dos céus,  
    Veio por graça do Criador;  
-   Glória ao Pai,   por Seu grande amor.
+   Glória ao Pai, por Seu grande amor.  
 
    "Vós sois luz do mundo",  
-   Disse o grande Mestre.
+   Disse o grande Mestre.  
    Com a luz celeste podemos,  
-   A Deus,   agradar.
+   A Deus, agradar.  
 
-2. Deus fez,   em nós,   surgir a luz,  
+2. Deus fez, em nós, surgir a luz,  
    Nossa mente esclareceu;  
-   Sua Palavra em nós produz
+   Sua Palavra em nós produz  
    Entendimento que vem dos céus,  
-   Que nos revela os planos Seus.
+   Que nos revela os planos Seus.  
 
-3. Nós caminhamos nessa luz
-   Para termos comunhão
-   Com Deus,   o Pai,   e o bom Jesus,  
+3. Nós caminhamos nessa luz  
+   Para termos comunhão  
+   Com Deus, o Pai, e o bom Jesus,  
    E alcançarmos a salvação,  
-   Vida eterna galardão.
+   Vida eterna galardão.  
 
  ---
 
-<div id='01'/> 
+<div id='53'/> 
 
 # 53  Nós somos Luz do mundo
 
 1. Nós somos luz deste mundo,  
    Nos falou o Salvador,  
    E somos sal desta terra,  
-   Por Deus,   Criador;  
+   Por Deus, Criador;  
    Ante os homens,  
-   Devemos sempre brilhar
-   E as boas,   obras,  
-   Ao mundo,   poderemos mostrar.
+   Devemos sempre brilhar  
+   E as boas, obras,  
+   Ao mundo, poderemos mostrar.  
 
-2. Cristo,   o Mestre divino,  
+2. Cristo, o Mestre divino,  
    Nos dá sempre o Seu saber,  
-   Entendimento,   virtude,   fé,  
+   Entendimento, virtude, fé,  
    Também poder;  
    Pelo Espírito Santo nos guiará;  
-   Assim o Seu povo,   na terra,  
-   Sempre mais brilhará.
+   Assim o Seu povo, na terra,  
+   Sempre mais brilhará.  
 
-3. Deus revelou aos pequenos
+3. Deus revelou aos pequenos  
    Os segredos lá do céu;  
-   A luz divina,   por Cristo,  
+   A luz divina, por Cristo,  
    Já lhes concedeu;  
-   São sábios para servir
-   A Deus,   Criador,  
-   São luz para o mundo
-   De trevas e têm grande esplendor.
+   São sábios para servir  
+   A Deus, Criador,  
+   São luz para o mundo  
+   De trevas e têm grande esplendor.  
 
  ---
 
-<div id='01'/> 
+<div id='54'/> 
 
 # 54  Um tesouro glorioso achei
 
 1. Um tesouro glorioso achei em Jesus,  
    Um tesouro de imenso valor;  
-   Não é prata nem ouro
+   Não é prata nem ouro  
    Que ao homem seduz,  
-   É a vida de Deus,   Criador.
+   É a vida de Deus, Criador.  
 
-   Um tesouro glorioso achei
-   Em Jesus,   o divino Redentor;  
+   Um tesouro glorioso achei  
+   Em Jesus, o divino Redentor;  
    Nada mais precioso encontrarei;  
-   Grande graça me fez o Salvador.
+   Grande graça me fez o Salvador.  
 
 2. Os tesouros daqui pode a traça roer,  
-   A ferrugem,   também,   consumir;  
-   Mas aqueles do céu,   que irei receber,  
-   Nada pode jamais destruir.
+   A ferrugem, também, consumir;  
+   Mas aqueles do céu, que irei receber,  
+   Nada pode jamais destruir.  
 
 3. Que alegria eu sinto por ter salvação,  
-   Pela santa presença de Deus!
+   Pela santa presença de Deus!  
    Sinto a Vida tomar todo o meu coração;  
-   Cristo é a vida que leva aos céus.
+   Cristo é a vida que leva aos céus.  
 
  ---
 
-<div id='01'/> 
+<div id='54'/> 
 
 # 55  Paz seja em vós
 
-1. Foi grande a tempestade que,   no mar,   se levantou,  
+1. Foi grande a tempestade que, no mar, se levantou,  
    Ondas cobriam o barco e a todos temor causou;  
-   O Mestre estava dormindo,   foi despertado,   então,  
-   Pelos que a Ele pediam socorro e salvação.
+   O Mestre estava dormindo, foi despertado, então,  
+   Pelos que a Ele pediam socorro e salvação.  
 
    Ao Seu mandar santo e divinal,  
    Paz seja em vós;  
    Ventos e mares se aquietarão,  
    Paz seja em vós;  
    Convosco está o Senhor do mar,  
-   Portanto,   com fé,   vós deveis remar,  
+   Portanto, com fé, vós deveis remar,  
    Pois Ele está pronto a vos salvar,  
-   Tende paz,   tende paz;  
+   Tende paz, tende paz;  
    As ondas cessam de encapelar,  
-   Paz seja em vós.
+   Paz seja em vós.  
 
-2. Repreendendo o vento,   Jesus aquietou o mar,  
-   E houve grande bonança diante do Seu mandar.
-   Nas provas e nas tormentas,   n’Ele deveis ter fé;  
-   Perto está vosso Mestre,   que dono de tudo é.
+2. Repreendendo o vento, Jesus aquietou o mar,  
+   E houve grande bonança diante do Seu mandar.  
+   Nas provas e nas tormentas, n’Ele deveis ter fé;  
+   Perto está vosso Mestre, que dono de tudo é.  
 
  ---
 
-<div id='01'/> 
+<div id='56'/> 
 
 # 56  Põe em Deus a confiança
 
-1. Põe em Deus a confiança,   segue sempre a Jesus;  
+1. Põe em Deus a confiança, segue sempre a Jesus;  
    Ele é a Esperança que à glória te conduz;  
-   Não vaciles,   mas confia,   pois eterno é Seu poder;  
-   Nos perigos Ele envia os Seus anjos te suster.
+   Não vaciles, mas confia, pois eterno é Seu poder;  
+   Nos perigos Ele envia os Seus anjos te suster.  
 
-2. Mesmo que os anos passem,   Seu amor não passará;  
-   Céus e terra também passam,   mas o Verbo firme está.
-   Vindo as trevas sobre o mundo e,   do sol,   cessando a luz,  
-   Cristo,   por amor profundo,   ao Seu reino te conduz.
+2. Mesmo que os anos passem, Seu amor não passará;  
+   Céus e terra também passam, mas o Verbo firme está.  
+   Vindo as trevas sobre o mundo e, do sol, cessando a luz,  
+   Cristo, por amor profundo, ao Seu reino te conduz.  
 
-3. Firme na fiel promessa,   ao mal podes resistir;  
+3. Firme na fiel promessa, ao mal podes resistir;  
    Não há nada que impeça tua glória no porvir;  
    Eis que perto está o dia em que tudo cessará,  
-   Mas a tua alegria para sempre durará.
+   Mas a tua alegria para sempre durará.  
 
-   Põe em Deus a confiança,   sê fiel ao Redentor;  
-   Segue avante,   segue para os céus;  
-   Põe em Deus a esperança,   sê fiel ao Criador;  
-   Glória! Glória ao grande Deus!
+   Põe em Deus a confiança, sê fiel ao Redentor;  
+   Segue avante, segue para os céus;  
+   Põe em Deus a esperança, sê fiel ao Criador;  
+   Glória! Glória ao grande Deus!  
 
  ---
 
-<div id='01'/> 
+<div id='57'/> 
 
 # 57  É estreita a porta para a salvação
 
 1. É estreita a porta para a salvação,  
    Disse o nosso Redentor;  
    O caminho largo leva à perdição,  
-   Ensinou o Salvador.
+   Ensinou o Salvador.  
 
-   Porfiemos por andar
-   Nos caminhos do Senhor
-   E alcançaremos vida eternal
-   Com Deus Pai,   o Criador.
+   Porfiemos por andar  
+   Nos caminhos do Senhor  
+   E alcançaremos vida eternal  
+   Com Deus Pai, o Criador.  
 
-2. Ó irmãos queridos,   Cristo,  
-   O Salvador,   Todo Poderoso é;  
-   Tão somente nós devemos nos dispor
-   A segui-Lo pela fé.
+2. Ó irmãos queridos, Cristo,  
+   O Salvador, Todo Poderoso é;  
+   Tão somente nós devemos nos dispor  
+   A segui-Lo pela fé.  
 
 3. Aos desejos nossos vamos renunciar,  
    Agrademos ao Senhor;  
-   Toda nossa vida vamos consagrar
-   Ao divino Redentor.
+   Toda nossa vida vamos consagrar  
+   Ao divino Redentor.  
 
  ---
 
-<div id='01'/> 
+<div id='58'/> 
 
 # 58  Sou crente em Jesus
 
 1. Jesus me guia com amor,  
-   Na fé,   na paz e no Seu temor;  
-   Meu ser,   desejo consagrar
-   A Jesus,   que veio para me salvar.
+   Na fé, na paz e no Seu temor;  
+   Meu ser, desejo consagrar  
+   A Jesus, que veio para me salvar.  
 
-    Sou crente em Jesus,   meu Senhor,  
+    Sou crente em Jesus, meu Senhor,  
     A Ele sempre obedecerei;  
-    Terei em mim Seu santo amor
-    E,   ao fim,   reinar com Ele poderei.
+    Terei em mim Seu santo amor  
+    E,ao fim, reinar com Ele poderei.  
 
-2. Só a Jesus me apegarei
+2. Só a Jesus me apegarei  
    E mal nenhum eu recearei;  
    Confio sempre em Seu poder,  
-   Nada poderá jamais me abater.
+   Nada poderá jamais me abater.  
 
 3. Ao fim do meu peregrinar,  
    Irei com Cristo Jesus reinar;  
-   Serei ditoso,   mui feliz,  
-   No glorioso,   santo,   celestial país.
+   Serei ditoso, mui feliz,  
+   No glorioso, santo, celestial país.  
 
  ---
 
-<div id='01'/> 
+<div id='59'/> 
 
 # 59  Faz-me mais perseverante
 
-1. O Senhor me conduz-me avante
+1. O Senhor me conduz-me avante  
    Nesta senda de amor,  
-   Ao destino,   mui brilhante,  
-   De riqueza e esplendor.
+   Ao destino, mui brilhante,  
+   De riqueza e esplendor.  
 
-   Faz-me mais perseverante
-   Nesta graça,   ó Senhor;  
-   Eu aguardo,   confiante,  
-   Teus tesouros de amor.
+   Faz-me mais perseverante  
+   Nesta graça, ó Senhor;  
+   Eu aguardo, confiante,  
+   Teus tesouros de amor.  
 
 2. Pelo Espírito divino,  
    Teu amor acresce em mim;  
    Só por Teu glorioso ensino,  
-   Chegarei até o fim.
+   Chegarei até o fim.  
 
 3. Amo Tua sã verdade,  
    Tua lei e Teu querer;  
-   Amo Tua santidade
-   Que me faz resplandecer.
+   Amo Tua santidade  
+   Que me faz resplandecer.  
 
  ---
 
-<div id='01'/> 
+<div id='60'/> 
 
 # 60  Oh! Vem a Jesus
 
-1. Rejeita o mal deste mundo
+1. Rejeita o mal deste mundo  
    E vem a Jesus te entregar;  
    Seu santo amor é profundo;  
-   Jesus quer te abençoar.
+   Jesus quer te abençoar.  
 
    Oh! vem a Jesus,  
    Que por nós morreu sobre a cruz;  
    Seu sangue precioso Ele derramou,  
-   E com Deus nos reconciliou.
+   E com Deus nos reconciliou.  
 
 2. Rejeita do mundo a vaidade,  
    Pois ela te quer seduzir;  
    Da graça e da santidade,  
-   Jesus pode te revestir.
+   Jesus pode te revestir.  
 
-3. Propósito firme e constante
+3. Propósito firme e constante  
    Esteja em teu coração;  
    Jesus não te quer vacilante;  
-   Há n’Ele real salvação.
+   Há n’Ele real salvação.  
 
  ---
 
-<div id='01'/> 
+<div id='61'/> 
 
 # 61  A minha alma deseja ver-Te
 
 1. A minha alma quer contemplar-Te,  
    Ó meu fiel e amado Jesus;  
-   Quero servir-Te,   quero seguir-Te
-   E caminhar Contigo na luz.
+   Quero servir-Te, quero seguir-Te  
+   E caminhar Contigo na luz.  
 
 2. És Torre forte à minha alma,  
    És Proteção em tempos de dor;  
-   Tu me alegras,   Tu me preservas
-   De todo o mal,   ó meu Redentor.
+   Tu me alegras, Tu me preservas  
+   De todo o mal, ó meu Redentor.  
 
-3. Vivo aguardando a Tua volta
+3. Vivo aguardando a Tua volta  
    Para subir Contigo a Deus;  
-   A todo instante vivo anelante
-   Por contemplar a glória dos céus.
+   A todo instante vivo anelante  
+   Por contemplar a glória dos céus.  
 
    A minha alma deseja ver-Te,  
    Sinto por Ti imenso amor;  
-   Eu Te adoro,   eu Te imploro;  
-   Faz-me viver Contigo,   Senhor.
+   Eu Te adoro, eu Te imploro;  
+   Faz-me viver Contigo, Senhor.  
 
  ---
 
-<div id='01'/> 
+<div id='62'/> 
 
-# 62  Ó Criador,   forte Rocha és
+# 62  Ó Criador, forte Rocha és
 
-1. Ó Criador,   forte Rocha és,  
+1. Ó Criador, forte Rocha és,  
    Imenso é o Teu poder;  
-   Eu me abrigo em Ti,   Senhor,  
-   Afim de nunca perecer.
+   Eu me abrigo em Ti, Senhor,  
+   Afim de nunca perecer.  
 
-2. Ó Criador,   Teu fiel favor
+2. Ó Criador, Teu fiel favor  
    Me faz jubilar de amor;  
-   Com toda a alma,   imploro a Ti:
-   Oh! Vem me defender,   Senhor.
+   Com toda a alma, imploro a Ti:  
+   Oh! Vem me defender, Senhor.  
 
-3. Ó Criador,   vem me preservar
+3. Ó Criador, vem me preservar  
    Do mal e da tentação;  
-   Mui fraco sou,   recorro a Ti;  
-   Atende minha oração.
+   Mui fraco sou, recorro a Ti;  
+   Atende minha oração.  
 
-4. Ó Criador,   poderoso Deus,  
+4. Ó Criador, poderoso Deus,  
    Espero em Teu amor;  
    Opera sempre a meu favor;  
-   Louvores Te darei,   Senhor.
+   Louvores Te darei, Senhor.  
 
  ---
 
-<div id='01'/> 
+<div id='63'/> 
 
-# 63  Se vós baterdes,   Ele vos abre
+# 63  Se vós baterdes, Ele vos abre
 
 1. Com fé chegai-vos ao grande Mestre,  
-   Cristo,   Jesus,   o Senhor;  
+   Cristo, Jesus, o Senhor;  
    Seus dons celestes,  
    Sua virtude derramará por amor;  
-   Não duvideis,   pois de Cristo
+   Não duvideis, pois de Cristo  
    Vem o que vós precisais;  
    Tudo Ele pode fazer-vos,  
-   Além do que vós pensais.
+   Além do que vós pensais.  
 
-2. O mar revolto e a tempestade
+2. O mar revolto e a tempestade  
    Cristo Jesus aplacou;  
-   Os cegos viram,   coxos andaram,  
+   Os cegos viram, coxos andaram,  
    A muitos purificou;  
    Mortos voltaram à vida,  
-   Foram entregues aos seus.
-   Cristo,   é o Verbo eterno
-   Veio por graça de Deus.
+   Foram entregues aos seus.  
+   Cristo, é o Verbo eterno  
+   Veio por graça de Deus.  
 
-   Se vós baterdes,   Ele vos abre;  
-   O que pedirdes,   dará.
+   Se vós baterdes, Ele vos abre;  
+   O que pedirdes, dará.  
    Se vós buscardes o Mestre,  
-   Por vós achado será.
+   Por vós achado será.  
 
  ---
 
-<div id='01'/> 
+<div id='64'/> 
 
-# 64  Tu,   que vives sem destino
+# 64  Tu, que vives sem destino
 
-1. Tu,   que vives sem destino
+1. Tu, que vives sem destino  
    Neste mundo de perdição,  
    Vem a Cristo,  
    Que te concede Salvação,  
-   Verdadeiro perdão.
+   Verdadeiro perdão.  
 
-2. Tu,   que estás sem esperança
+2. Tu, que estás sem esperança  
    Neste mundo cruel de dor,  
    Vem a Cristo e não vaciles,  
-   Pois te chama com grande amor.
+   Pois te chama com grande amor.  
 
 3. Deixa Cristo conduzir-te,  
    Segue a Ele com devoção;  
    É só Ele o real Caminho,  
-   È o Autor da eternal redenção.
+   È o Autor da eternal redenção.  
 
 4. Pecadores fomos todos,  
-   Mas Jesus veio nos salvar
-   Para,   um dia na Sua glória,  
-   A coroa da vida nos dar.
+   Mas Jesus veio nos salvar  
+   Para, um dia na Sua glória,  
+   A coroa da vida nos dar.  
 
  ---
 
-<div id='01'/> 
+<div id='65'/> 
 
 # 65  Igual ao Mestre!
 
 1. Igual ao Mestre eu desejo ser,  
    Em humildade e mansidão viver,  
-   Sempre,   com zelo,  
-   Em santidade andar
-   E minha vida a Ele consagrar.
+   Sempre, com zelo,  
+   Em santidade andar  
+   E minha vida a Ele consagrar.  
 
-   Meu coração é todo Teu,   Senhor,  
+   Meu coração é todo Teu, Senhor,  
    Ele é um templo para Teu louvor,  
-   Guarda-o do mal,   ao vir a tentação;  
-   Sou Teu remido,   divino Redentor.
+   Guarda-o do mal, ao vir a tentação;  
+   Sou Teu remido, divino Redentor.  
 
-2. Cristo,   o Mestre ,   Sua cruz levou
+2. Cristo, o Mestre , Sua cruz levou  
    E o Pai eterno O glorificou;  
-   Também desejo a minha cruz levar
-   E,   para sempre,   com Ele habitar.
+   Também desejo a minha cruz levar  
+   E, para sempre, com Ele habitar.  
 
-3. Como é o Mestre,   no céu,   O verei;  
+3. Como é o Mestre, no céu, O verei;  
    À semelhança d’Ele eu serei,  
-   Num corpo santo,   glorioso e imortal,  
-   Habitarei na cidade eternal.
+   Num corpo santo, glorioso e imortal,  
+   Habitarei na cidade eternal.  
 
  ---
 
-<div id='01'/> 
+<div id='66'/> 
 
 # 66  Cansado estás? Vem a Jesus
 
-1. Cansado estás?
+1. Cansado estás?  
    Vem a Jesus,  
    O justo Remidor;  
-   Terás em ti a Sua luz
-   E Seu divino amor.
+   Terás em ti a Sua luz  
+   E Seu divino amor.  
 
-   Vem,   oprimido,   sem tardar,  
+   Vem, oprimido, sem tardar,  
    Á Fonte do perdão;  
-   O Redentor te faz herdar
-   Eterna salvação.
+   O Redentor te faz herdar  
+   Eterna salvação.  
 
-2. Da opressão,   livrar-te-á
-   Jesus,   o Redentor;  
-   Da perdição,   salvar-te-á
-   Por Seu imenso amor.
+2. Da opressão, livrar-te-á  
+   Jesus, o Redentor;  
+   Da perdição, salvar-te-á  
+   Por Seu imenso amor.  
 
 3. Ele é o amor que não tem par,  
    Amigo celestial;  
-   A vida eterna quer te dar
-   No reino divinal.
+   A vida eterna quer te dar  
+   No reino divinal.  
 
  ---
 
-<div id='01'/> 
+<div id='67'/> 
 
 # 67  "Vinde a Mim!"
 
 1. Não há palavra doce igual a de Jesus,  
-   Palavra da verdade,   que para o céu conduz.
-   Quando estiveres triste,   terás consolação
-   Buscando a Jesus Cristo,   Autor da salvação.
+   Palavra da verdade, que para o céu conduz.  
+   Quando estiveres triste, terás consolação  
+   Buscando a Jesus Cristo, Autor da salvação.  
 
-2. Não Andes mais distante do Salvador Jesus
-   Que,   com amor,   te chama,   pois é a tua Luz.
+2. Não Andes mais distante do Salvador Jesus  
+   Que, com amor, te chama, pois é a tua Luz.  
    Se fores desprezado e não tiveres paz,  
-   Vem logo entregar-te ao Salvador veraz.
+   Vem logo entregar-te ao Salvador veraz.  
 
-3. Vem,   sem tardar,   unir-te a Quem te diz assim,  
-   Com voz celeste e doce:
-   "Oh! Vem,   sim,   vem a Mim".
-   Por Sua mão guiado,   aqui tu andarás
-   Tranquilo e bem seguro e,   um dia,   ao céu irás.
+3. Vem, sem tardar, unir-te a Quem te diz assim,  
+   Com voz celeste e doce:  
+   "Oh! Vem, sim, vem a Mim".  
+   Por Sua mão guiado, aqui tu andarás  
+   Tranquilo e bem seguro e, um dia, ao céu irás.  
 
-   "Vinde a Mim
+   "Vinde a Mim  
    Vós todos cansados e oprimidos",  
-   Falou o grande Mestre,   Jesus,   o Redentor;  
-   Pois Seu fardo é leve,   Seu jugo é suave,  
-   Só Ele traz alívio: perdão ao pecador.
+   Falou o grande Mestre, Jesus, o Redentor;  
+   Pois Seu fardo é leve, Seu jugo é suave,  
+   Só Ele traz alívio: perdão ao pecador.  
 
  ---
 
-<div id='01'/> 
+<div id='68'/> 
 
-# 68  Sem tardar,   vai a Cristo
+# 68  Sem tardar, vai a Cristo
 
-1. Se,   cansado e aflito,  
+1. Se, cansado e aflito,  
    Tu procuras salvação,  
-   Não demores,   vai a Cristo,  
-   Que concede redenção.
+   Não demores, vai a Cristo,  
+   Que concede redenção.  
 
-   Sem tardar,   sem tardar,  
-   Vai a Cristo,   o Salvador;  
+   Sem tardar, sem tardar,  
+   Vai a Cristo, o Salvador;  
    Ele quer te salvar,  
-   Segue a Ele com fervor.
+   Segue a Ele com fervor.  
 
-2. Dá um passo para Cristo
+2. Dá um passo para Cristo  
    E receberás perdão;  
-   E,   por Deus,   serás benquisto,  
-   Sendo um fiel cristão.
+   E, por Deus, serás benquisto,  
+   Sendo um fiel cristão.  
 
-3. Não recuses o chamado
-   Do divino Remidor
-   E serás justificado
-   Ante Deus,   o Criador.
+3. Não recuses o chamado  
+   Do divino Remidor  
+   E serás justificado  
+   Ante Deus, o Criador.  
 
  ---
 
-<div id='01'/> 
+<div id='69'/> 
 
 # 69  A família de Jesus
 
-1. Em volta de Jesus
+1. Em volta de Jesus  
    Se achava a multidão,  
-   Ouvindo Seus conselhos
-   E aprendendo a retidão.
-   Alguém aproximou-se
-   Para Lhe anunciar
-   Que Sua mãe e Seus irmãos
-   Queriam Lhe falar.
+   Ouvindo Seus conselhos  
+   E aprendendo a retidão.  
+   Alguém aproximou-se  
+   Para Lhe anunciar  
+   Que Sua mãe e Seus irmãos  
+   Queriam Lhe falar.  
 
 2. Responde o grande Mestre,  
-   Estendendo Suas mãos:
-   "Aqui está a Minha mãe
+   Estendendo Suas mãos:  
+   "Aqui está a Minha mãe  
    Também os Meus irmãos";  
    Àqueles que obedecem a Deus Pai,  
    Que está nos céus,  
-   Jesus os chama de irmãos
-   E co-herdeiros Seus.
+   Jesus os chama de irmãos  
+   E co-herdeiros Seus.  
 
-3. Oh! que amor profundo
+3. Oh! que amor profundo  
    Jesus tem pelos Seus,  
-   Pois chama-os de irmãos
+   Pois chama-os de irmãos  
    E filhos do eterno Deus;  
-   Tão excelente afeto
-   Deus fará compreender
-   Ao homem que invocá-Lo
-   E cumprir o Seu querer.
+   Tão excelente afeto  
+   Deus fará compreender  
+   Ao homem que invocá-Lo  
+   E cumprir o Seu querer.  
 
  ---
 
-<div id='01'/> 
+<div id='70'/> 
 
-# 70  Senhor,   Tu és a minha Esperança
+# 70  Senhor, Tu és a minha Esperança
 
-1. Senhor,   Tu és a minha Esperança,  
+1. Senhor, Tu és a minha Esperança,  
    Seguir-Te-ei de todo o meu coração;  
-   Em Ti está a minha confiança
-   De receber,   no céu,   o galardão.
+   Em Ti está a minha confiança  
+   De receber, no céu, o galardão.  
 
-   Ao céu desejo ir
-   Contigo,   ó Senhor;  
-   Ali irei fruir
-   Os bens eternos,   ó bom Salvador.
+   Ao céu desejo ir  
+   Contigo, ó Senhor;  
+   Ali irei fruir  
+   Os bens eternos, ó bom Salvador.  
 
-2. Senhor,   Tu és a minha fortaleza,  
+2. Senhor, Tu és a minha fortaleza,  
    E és também o meu potente Salvador;  
    Tu removeste a minha incerteza,  
-   A vida e a fé me deste,   ó Redentor.
+   A vida e a fé me deste, ó Redentor.  
 
 3. Agora tenho Tua alegria,  
-   Viva esperança,   paz,   vigor,   amor e luz;  
+   Viva esperança, paz, vigor, amor e luz;  
    Tu és meu Guarda e também meu Guia,  
-   És tudo para mim,   ó bom Jesus.
+   És tudo para mim, ó bom Jesus.  
 
  ---
 
