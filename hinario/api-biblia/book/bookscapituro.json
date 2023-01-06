@@ -6,6 +6,7 @@
         },
         "author": "Moisés",
         "chapters": 50,
+        "pdpages": 1,
         "group": "Pentateuco",
         "name": "Gênesis",
         "testament": "Velho Testamento"
@@ -17,6 +18,7 @@
         },
         "author": "Moisés",
         "chapters": 40,
+        "pdpages": 33,
         "group": "Pentateuco",
         "name": "Êxodo",
         "testament": "Velho Testamento"
@@ -28,6 +30,7 @@
         },
         "author": "Moisés",
         "chapters": 27,
+        "pdpages": 59,
         "group": "Pentateuco",
         "name": "Levítico",
         "testament": "Velho Testamento"
@@ -39,6 +42,7 @@
         },
         "author": "Moisés",
         "chapters": 36,
+        "pdpages": 79,
         "group": "Pentateuco",
         "name": "Números",
         "testament": "Velho Testamento"
@@ -50,6 +54,7 @@
         },
         "author": "Moisés",
         "chapters": 34,
+        "pdpages": 107,
         "group": "Pentateuco",
         "name": "Deuteronômio",
         "testament": "Velho Testamento"
@@ -61,6 +66,7 @@
         },
         "author": "Josué",
         "chapters": 24,
+        "pdpages": 129,
         "group": "Históricos",
         "name": "Josué",
         "testament": "Velho Testamento"
@@ -72,6 +78,7 @@
         },
         "author": "Samuel",
         "chapters": 21,
+        "pdpages": 144,
         "group": "Históricos",
         "name": "Juízes",
         "testament": "Velho Testamento"
@@ -83,6 +90,7 @@
         },
         "author": "Samuel",
         "chapters": 4,
+        "pdpages": 159,
         "group": "Históricos",
         "name": "Rute",
         "testament": "Velho Testamento"
@@ -94,6 +102,7 @@
         },
         "author": "Samuel",
         "chapters": 31,
+        "pdpages": 162,
         "group": "Históricos",
         "name": "1º Samuel",
         "testament": "Velho Testamento"
@@ -105,6 +114,7 @@
         },
         "author": "Samuel",
         "chapters": 24,
+        "pdpages": 182,
         "group": "Históricos",
         "name": "2º Samuel",
         "testament": "Velho Testamento"
@@ -116,6 +126,7 @@
         },
         "author": "Jeremias",
         "chapters": 22,
+        "pdpages": 198,
         "group": "Históricos",
         "name": "1º Reis",
         "testament": "Velho Testamento"
@@ -127,6 +138,7 @@
         },
         "author": "Jeremias",
         "chapters": 25,
+        "pdpages": 218,
         "group": "Históricos",
         "name": "2º Reis",
         "testament": "Velho Testamento"
@@ -138,6 +150,7 @@
         },
         "author": "Esdras",
         "chapters": 29,
+        "pdpages": 237,
         "group": "Históricos",
         "name": "1º Crônicas",
         "testament": "Velho Testamento"
@@ -149,6 +162,7 @@
         },
         "author": "Esdras",
         "chapters": 36,
+        "pdpages": 255,
         "group": "Históricos",
         "name": "2º Crônicas",
         "testament": "Velho Testamento"
@@ -160,6 +174,7 @@
         },
         "author": "Esdras",
         "chapters": 10,
+        "pdpages": 276,
         "group": "Históricos",
         "name": "Esdras",
         "testament": "Velho Testamento"
@@ -171,6 +186,7 @@
         },
         "author": "Neemias",
         "chapters": 13,
+        "pdpages": 283,
         "group": "Históricos",
         "name": "Neemias",
         "testament": "Velho Testamento"
@@ -182,6 +198,7 @@
         },
         "author": "Desconhecido",
         "chapters": 10,
+        "pdpages": 292,
         "group": "Históricos",
         "name": "Ester",
         "testament": "Velho Testamento"
@@ -193,6 +210,7 @@
         },
         "author": "Desconhecido",
         "chapters": 42,
+        "pdpages": 297,
         "group": "Poéticos",
         "name": "Jó",
         "testament": "Velho Testamento"
@@ -204,6 +222,7 @@
         },
         "author": "David, Moisés, Salomão",
         "chapters": 150,
+        "pdpages": 314,
         "group": "Poéticos",
         "name": "Salmos",
         "testament": "Velho Testamento"
@@ -215,6 +234,7 @@
         },
         "author": "Salomão",
         "chapters": 31,
+        "pdpages": 355,
         "group": "Poéticos",
         "name": "Provérbios",
         "testament": "Velho Testamento"
@@ -226,6 +246,7 @@
         },
         "author": "Salomão",
         "chapters": 12,
+        "pdpages": 370,
         "group": "Poéticos",
         "name": "Eclesiastes",
         "testament": "Velho Testamento"
@@ -237,6 +258,7 @@
         },
         "author": "Salomão",
         "chapters": 8,
+        "pdpages": 375,
         "group": "Poéticos",
         "name": "Cânticos",
         "testament": "Velho Testamento"
@@ -248,6 +270,7 @@
         },
         "author": "Isaías",
         "chapters": 66,
+        "pdpages": 378,
         "group": "Profetas maiores",
         "name": "Isaías",
         "testament": "Velho Testamento"
@@ -259,6 +282,7 @@
         },
         "author": "Jeremias",
         "chapters": 52,
+        "pdpages": 409,
         "group": "Profetas maiores",
         "name": "Jeremias",
         "testament": "Velho Testamento"
@@ -270,6 +294,7 @@
         },
         "author": "Jeremias",
         "chapters": 5,
+        "pdpages": 444,
         "group": "Profetas maiores",
         "name": "Lamentações de Jeremias",
         "testament": "Velho Testamento"
@@ -281,6 +306,7 @@
         },
         "author": "Ezequiel",
         "chapters": 48,
+        "pdpages": 447,
         "group": "Profetas maiores",
         "name": "Ezequiel",
         "testament": "Velho Testamento"
@@ -292,6 +318,7 @@
         },
         "author": "Daniel",
         "chapters": 12,
+        "pdpages": 479,
         "group": "Profetas maiores",
         "name": "Daniel",
         "testament": "Velho Testamento"
@@ -303,6 +330,7 @@
         },
         "author": "Oséias",
         "chapters": 14,
+        "pdpages": 488,
         "group": "Profetas menores",
         "name": "Oséias",
         "testament": "Velho Testamento"
@@ -314,6 +342,7 @@
         },
         "author": "Joel",
         "chapters": 3,
+        "pdpages": 493,
         "group": "Profetas menores",
         "name": "Joel",
         "testament": "Velho Testamento"
@@ -325,6 +354,7 @@
         },
         "author": "Amós",
         "chapters": 9,
+        "pdpages": 495,
         "group": "Profetas menores",
         "name": "Amós",
         "testament": "Velho Testamento"
@@ -336,6 +366,7 @@
         },
         "author": "Obadias",
         "chapters": 1,
+        "pdpages": 498,
         "group": "Profetas menores",
         "name": "Obadias",
         "testament": "Velho Testamento"
@@ -347,6 +378,7 @@
         },
         "author": "Jonas",
         "chapters": 4,
+        "pdpages": 499,
         "group": "Profetas menores",
         "name": "Jonas",
         "testament": "Velho Testamento"
@@ -358,6 +390,7 @@
         },
         "author": "Miquéias",
         "chapters": 7,
+        "pdpages": 500,
         "group": "Profetas menores",
         "name": "Miquéias",
         "testament": "Velho Testamento"
@@ -369,6 +402,7 @@
         },
         "author": "Naum",
         "chapters": 3,
+        "pdpages": 502,
         "group": "Profetas menores",
         "name": "Naum",
         "testament": "Velho Testamento"
@@ -380,6 +414,7 @@
         },
         "author": "Habacuque",
         "chapters": 3,
+        "pdpages": 504,
         "group": "Profetas menores",
         "name": "Habacuque",
         "testament": "Velho Testamento"
@@ -391,6 +426,7 @@
         },
         "author": "Sofonias",
         "chapters": 3,
+        "pdpages": 505,
         "group": "Profetas menores",
         "name": "Sofonias",
         "testament": "Velho Testamento"
@@ -402,6 +438,7 @@
         },
         "author": "Ageu",
         "chapters": 2,
+        "pdpages": 507,
         "group": "Profetas menores",
         "name": "Ageu",
         "testament": "Velho Testamento"
@@ -413,6 +450,7 @@
         },
         "author": "Zacarias",
         "chapters": 14,
+        "pdpages": 507,
         "group": "Profetas menores",
         "name": "Zacarias",
         "testament": "Velho Testamento"
@@ -424,6 +462,7 @@
         },
         "author": "Malaquias",
         "chapters": 4,
+        "pdpages": 512,
         "group": "Profetas menores",
         "name": "Malaquias",
         "testament": "Velho Testamento"
@@ -435,6 +474,8 @@
         },
         "author": "Mateus",
         "chapters": 28,
+        "pdpages": 514,
+        "pino": "nvtestam",
         "group": "Evangelhos",
         "name": "Mateus",
         "testament": "Novo Testamento"
@@ -446,6 +487,7 @@
         },
         "author": "Marcos",
         "chapters": 16,
+        "pdpages": 33,
         "group": "Evangelhos",
         "name": "Marcos",
         "testament": "Novo Testamento"
@@ -457,6 +499,7 @@
         },
         "author": "Lucas",
         "chapters": 24,
+        "pdpages": 33,
         "group": "Evangelhos",
         "name": "Lucas",
         "testament": "Novo Testamento"
@@ -468,6 +511,7 @@
         },
         "author": "João",
         "chapters": 21,
+        "pdpages": 33,
         "group": "Evangelhos",
         "name": "João",
         "testament": "Novo Testamento"
@@ -479,6 +523,7 @@
         },
         "author": "Lucas",
         "chapters": 28,
+        "pdpages": 33,
         "group": "Histórico",
         "name": "Atos",
         "testament": "Novo Testamento"
@@ -490,6 +535,7 @@
         },
         "author": "Paulo",
         "chapters": 16,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "Romanos",
         "testament": "Novo Testamento"
@@ -501,6 +547,7 @@
         },
         "author": "Paulo",
         "chapters": 16,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "1ª Coríntios",
         "testament": "Novo Testamento"
@@ -512,6 +559,7 @@
         },
         "author": "Paulo",
         "chapters": 13,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "2ª Coríntios",
         "testament": "Novo Testamento"
@@ -523,6 +571,7 @@
         },
         "author": "Paulo",
         "chapters": 6,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "Gálatas",
         "testament": "Novo Testamento"
@@ -534,6 +583,7 @@
         },
         "author": "Paulo",
         "chapters": 6,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "Efésios",
         "testament": "Novo Testamento"
@@ -545,6 +595,7 @@
         },
         "author": "Paulo",
         "chapters": 4,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "Filipenses",
         "testament": "Novo Testamento"
@@ -556,6 +607,7 @@
         },
         "author": "Paulo",
         "chapters": 4,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "Colossenses",
         "testament": "Novo Testamento"
@@ -567,6 +619,7 @@
         },
         "author": "Paulo",
         "chapters": 5,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "1ª Tessalonicenses",
         "testament": "Novo Testamento"
@@ -578,6 +631,7 @@
         },
         "author": "Paulo",
         "chapters": 3,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "2ª Tessalonicenses",
         "testament": "Novo Testamento"
@@ -589,6 +643,7 @@
         },
         "author": "Paulo",
         "chapters": 6,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "1ª Timóteo",
         "testament": "Novo Testamento"
@@ -600,6 +655,7 @@
         },
         "author": "Paulo",
         "chapters": 4,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "2ª Timóteo",
         "testament": "Novo Testamento"
@@ -611,6 +667,7 @@
         },
         "author": "Paulo",
         "chapters": 3,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "Tito",
         "testament": "Novo Testamento"
@@ -622,6 +679,7 @@
         },
         "author": "Paulo",
         "chapters": 1,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "Filemom",
         "testament": "Novo Testamento"
@@ -633,6 +691,7 @@
         },
         "author": "Desconhecido",
         "chapters": 13,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "Hebreus",
         "testament": "Novo Testamento"
@@ -644,6 +703,7 @@
         },
         "author": "Tiago",
         "chapters": 5,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "Tiago",
         "testament": "Novo Testamento"
@@ -655,6 +715,7 @@
         },
         "author": "Pedro",
         "chapters": 5,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "1ª Pedro",
         "testament": "Novo Testamento"
@@ -666,6 +727,7 @@
         },
         "author": "Pedro",
         "chapters": 3,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "2ª Pedro",
         "testament": "Novo Testamento"
@@ -677,6 +739,7 @@
         },
         "author": "João",
         "chapters": 5,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "1ª João",
         "testament": "Novo Testamento"
@@ -688,6 +751,7 @@
         },
         "author": "João",
         "chapters": 1,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "2ª João",
         "testament": "Novo Testamento"
@@ -699,6 +763,7 @@
         },
         "author": "João",
         "chapters": 1,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "3ª João",
         "testament": "Novo Testamento"
@@ -710,6 +775,7 @@
         },
         "author": "Judas",
         "chapters": 1,
+        "pdpages": 33,
         "group": "Cartas",
         "name": "Judas",
         "testament": "Novo Testamento"
@@ -721,6 +787,7 @@
         },
         "author": "João",
         "chapters": 22,
+        "pdpages": 33,
         "group": "Revelações",
         "name": "Apocalipse",
         "testament": "Novo Testamento"
