@@ -463,6 +463,7 @@
         "author": "Malaquias",
         "chapters": 4,
         "pdpages": 512,
+        "pino": "nvtestam",
         "group": "Profetas menores",
         "name": "Malaquias",
         "testament": "Velho Testamento"
@@ -475,7 +476,6 @@
         "author": "Mateus",
         "chapters": 28,
         "pdpages": 514,
-        "pino": "nvtestam",
         "group": "Evangelhos",
         "name": "Mateus",
         "testament": "Novo Testamento"
