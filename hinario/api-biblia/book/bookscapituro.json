@@ -7,6 +7,7 @@
         "author": "Moisés",
         "chapters": 50,
         "pdpages": 1,
+        "pinovh": "vhtestam",
         "group": "Pentateuco",
         "name": "Gênesis",
         "testament": "Velho Testamento"
@@ -475,7 +476,7 @@
         "author": "Mateus",
         "chapters": 28,
         "pdpages": 514,
-        "pino": "nvtestam",
+        "pinonv": "nvtestam",
         "group": "Evangelhos",
         "name": "Mateus",
         "testament": "Novo Testamento"
@@ -487,7 +488,7 @@
         },
         "author": "Marcos",
         "chapters": 16,
-        "pdpages": 33,
+        "pdpages": 534,
         "group": "Evangelhos",
         "name": "Marcos",
         "testament": "Novo Testamento"
@@ -499,7 +500,7 @@
         },
         "author": "Lucas",
         "chapters": 24,
-        "pdpages": 33,
+        "pdpages": 547,
         "group": "Evangelhos",
         "name": "Lucas",
         "testament": "Novo Testamento"
@@ -511,7 +512,7 @@
         },
         "author": "João",
         "chapters": 21,
-        "pdpages": 33,
+        "pdpages": 569,
         "group": "Evangelhos",
         "name": "João",
         "testament": "Novo Testamento"
@@ -523,7 +524,7 @@
         },
         "author": "Lucas",
         "chapters": 28,
-        "pdpages": 33,
+        "pdpages": 586,
         "group": "Histórico",
         "name": "Atos",
         "testament": "Novo Testamento"
@@ -535,7 +536,7 @@
         },
         "author": "Paulo",
         "chapters": 16,
-        "pdpages": 33,
+        "pdpages": 607,
         "group": "Cartas",
         "name": "Romanos",
         "testament": "Novo Testamento"
@@ -547,7 +548,7 @@
         },
         "author": "Paulo",
         "chapters": 16,
-        "pdpages": 33,
+        "pdpages": 616,
         "group": "Cartas",
         "name": "1ª Coríntios",
         "testament": "Novo Testamento"
@@ -559,7 +560,7 @@
         },
         "author": "Paulo",
         "chapters": 13,
-        "pdpages": 33,
+        "pdpages": 624,
         "group": "Cartas",
         "name": "2ª Coríntios",
         "testament": "Novo Testamento"
@@ -571,7 +572,7 @@
         },
         "author": "Paulo",
         "chapters": 6,
-        "pdpages": 33,
+        "pdpages": 630,
         "group": "Cartas",
         "name": "Gálatas",
         "testament": "Novo Testamento"
@@ -583,7 +584,7 @@
         },
         "author": "Paulo",
         "chapters": 6,
-        "pdpages": 33,
+        "pdpages": 633,
         "group": "Cartas",
         "name": "Efésios",
         "testament": "Novo Testamento"
@@ -595,7 +596,7 @@
         },
         "author": "Paulo",
         "chapters": 4,
-        "pdpages": 33,
+        "pdpages": 636,
         "group": "Cartas",
         "name": "Filipenses",
         "testament": "Novo Testamento"
@@ -607,7 +608,7 @@
         },
         "author": "Paulo",
         "chapters": 4,
-        "pdpages": 33,
+        "pdpages": 638,
         "group": "Cartas",
         "name": "Colossenses",
         "testament": "Novo Testamento"
@@ -619,7 +620,7 @@
         },
         "author": "Paulo",
         "chapters": 5,
-        "pdpages": 33,
+        "pdpages": 640,
         "group": "Cartas",
         "name": "1ª Tessalonicenses",
         "testament": "Novo Testamento"
@@ -631,7 +632,7 @@
         },
         "author": "Paulo",
         "chapters": 3,
-        "pdpages": 33,
+        "pdpages": 642,
         "group": "Cartas",
         "name": "2ª Tessalonicenses",
         "testament": "Novo Testamento"
@@ -643,7 +644,7 @@
         },
         "author": "Paulo",
         "chapters": 6,
-        "pdpages": 33,
+        "pdpages": 643,
         "group": "Cartas",
         "name": "1ª Timóteo",
         "testament": "Novo Testamento"
@@ -655,7 +656,7 @@
         },
         "author": "Paulo",
         "chapters": 4,
-        "pdpages": 33,
+        "pdpages": 646,
         "group": "Cartas",
         "name": "2ª Timóteo",
         "testament": "Novo Testamento"
@@ -667,7 +668,7 @@
         },
         "author": "Paulo",
         "chapters": 3,
-        "pdpages": 33,
+        "pdpages": 646,
         "group": "Cartas",
         "name": "Tito",
         "testament": "Novo Testamento"
@@ -679,7 +680,7 @@
         },
         "author": "Paulo",
         "chapters": 1,
-        "pdpages": 33,
+        "pdpages": 647,
         "group": "Cartas",
         "name": "Filemom",
         "testament": "Novo Testamento"
@@ -691,7 +692,7 @@
         },
         "author": "Desconhecido",
         "chapters": 13,
-        "pdpages": 33,
+        "pdpages": 648,
         "group": "Cartas",
         "name": "Hebreus",
         "testament": "Novo Testamento"
@@ -703,7 +704,7 @@
         },
         "author": "Tiago",
         "chapters": 5,
-        "pdpages": 33,
+        "pdpages": 654,
         "group": "Cartas",
         "name": "Tiago",
         "testament": "Novo Testamento"
@@ -715,7 +716,7 @@
         },
         "author": "Pedro",
         "chapters": 5,
-        "pdpages": 33,
+        "pdpages": 657,
         "group": "Cartas",
         "name": "1ª Pedro",
         "testament": "Novo Testamento"
@@ -727,7 +728,7 @@
         },
         "author": "Pedro",
         "chapters": 3,
-        "pdpages": 33,
+        "pdpages": 660,
         "group": "Cartas",
         "name": "2ª Pedro",
         "testament": "Novo Testamento"
@@ -739,7 +740,7 @@
         },
         "author": "João",
         "chapters": 5,
-        "pdpages": 33,
+        "pdpages": 660,
         "group": "Cartas",
         "name": "1ª João",
         "testament": "Novo Testamento"
@@ -751,7 +752,7 @@
         },
         "author": "João",
         "chapters": 1,
-        "pdpages": 33,
+        "pdpages": 663,
         "group": "Cartas",
         "name": "2ª João",
         "testament": "Novo Testamento"
@@ -763,7 +764,7 @@
         },
         "author": "João",
         "chapters": 1,
-        "pdpages": 33,
+        "pdpages": 663,
         "group": "Cartas",
         "name": "3ª João",
         "testament": "Novo Testamento"
@@ -775,7 +776,7 @@
         },
         "author": "Judas",
         "chapters": 1,
-        "pdpages": 33,
+        "pdpages": 663,
         "group": "Cartas",
         "name": "Judas",
         "testament": "Novo Testamento"
@@ -787,7 +788,7 @@
         },
         "author": "João",
         "chapters": 22,
-        "pdpages": 33,
+        "pdpages": 664,
         "group": "Revelações",
         "name": "Apocalipse",
         "testament": "Novo Testamento"
