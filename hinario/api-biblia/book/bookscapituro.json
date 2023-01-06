@@ -7,7 +7,7 @@
         "author": "Moisés",
         "chapters": 50,
         "pdpages": 1,
-        "pinovh": "vhtestam",
+        "pino": "vhtestam",
         "group": "Pentateuco",
         "name": "Gênesis",
         "testament": "Velho Testamento"
@@ -476,7 +476,7 @@
         "author": "Mateus",
         "chapters": 28,
         "pdpages": 514,
-        "pinonv": "nvtestam",
+        "pino": "nvtestam",
         "group": "Evangelhos",
         "name": "Mateus",
         "testament": "Novo Testamento"
