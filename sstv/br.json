@@ -99,10 +99,10 @@
     },
     {
         "id": 15,
-        "tvtitle": "TV BAND",
-        "tvmedia": "https://player.band.com.br/aovivo/?transmissao=band",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/band.jpg",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV Ccb list",
+        "tvmedia": "https://www.youtube.com/embed?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&start=540&list=UU4cfCNEpwLIuYnxdDKUMPYg",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/ccb.jpg",
+        "tvgroup": "Variedades"
     },
     {
         "id": 16,
