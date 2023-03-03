@@ -1784,445 +1784,445 @@
 
  ---
 
-<div id='01'/> 
+<div id='71'/> 
 
-# 71  Ó Senhor Jesus,   eu recorro a Ti
+# 71  Ó Senhor Jesus, eu recorro a Ti
 
-1. Ó Senhor Jesus,   eu recorro a Ti,  
+1. Ó Senhor Jesus, eu recorro a Ti,  
    Teu poder manifesta em mim;  
-   Confiando em Ti,   sei que vencedor
-   Eu serei sobre o vil tentador.
+   Confiando em Ti, sei que vencedor   
+   Eu serei sobre o vil tentador.   
 
-   Ó Jesus,   meu Jesus,  
+   Ó Jesus, meu Jesus,  
    Faz-me sempre sentir Teu vigor;  
-   Só assim,   bom Jesus,  
-   Sobre o mal eu serei vencedor.
+   Só assim, bom Jesus,  
+   Sobre o mal eu serei vencedor.   
 
-2. Ó Senhor Jesus,   eu recorro a Ti,  
+2. Ó Senhor Jesus, eu recorro a Ti,  
    Forte Rocha Tu és para mim;  
-   Se,   de coração,   eu a Ti clamar,  
-   Poderei sobre o mal triunfar.
+   Se, de coração, eu a Ti clamar,  
+   Poderei sobre o mal triunfar.   
 
-3. Ó Senhor Jesus ,   eu recorro a Ti
+3. Ó Senhor Jesus , eu recorro a Ti  
    Para ter Teu amor Sempre em mim;  
-   Eu imploro a Ti,   queiras me guiar,  
-   Para o céu eu poder alcançar.
+   Eu imploro a Ti, queiras me guiar,  
+   Para o céu eu poder alcançar.  
 
  ---
 
-<div id='01'/> 
+<div id='72'/> 
 
-# 72  Nome glorioso,   o de Jesus!
+# 72  Nome glorioso, o de Jesus!
 
-1. Nome glorioso,   o de Jesus,  
-   Nome precioso,   de imenso amor,  
+1. Nome glorioso, o de Jesus,  
+   Nome precioso, de imenso amor,  
    Nome perfeito e sem igual,  
-   Que salva o pecador!
+   Que salva o pecador!  
 
    Ao Nome do Senhor Jesus,  
    Ao Nome santo de Jesus,  
-   Todo o joelho se dobrará
-   E O adorará.
+   Todo o joelho se dobrará  
+   E O adorará.  
 
-2. Nome sublime,   o de Jesus,  
+2. Nome sublime, o de Jesus,  
    Fonte de vida e de amor;  
-   Outro não há para resgatar
-   Ao homem pecador.
+   Outro não há para resgatar  
+   Ao homem pecador.  
 
-3. Nome grandioso,   o de Jesus,  
-   Forte,   potente,   libertador;  
-   Por esse Nome,   que não tem par,  
-   Deus salva o pecador.
+3. Nome grandioso, o de Jesus,  
+   Forte, potente, libertador;  
+   Por esse Nome, que não tem par,  
+   Deus salva o pecador.  
 
  ---
 
-<div id='01'/> 
+<div id='73'/> 
 
-# 73  Semearei,   semearei
+# 73  Semearei, semearei
 
-1. Semearei a preciosa semente
+1. Semearei a preciosa semente  
    Do Evangelho de Cristo Jesus;  
-   Semearei a Palavra potente
-   Que bons frutos da graça produz.
+   Semearei a Palavra potente   
+   Que bons frutos da graça produz.  
 
-   Semearei,   semearei,  
+   Semearei, semearei,  
    Pelo Espírito Santo de Deus;  
-   Ceifarei,   ceifarei
-   Vida eterna,   com glória,   nos céus.
+   Ceifarei, ceifarei   
+   Vida eterna, com glória, nos céus.   
 
-2. Semearei a justiça divina
+2. Semearei a justiça divina   
    Neste mundo de lutas e dor;  
-   E,   na paz,   semearei a doutrina,  
-   Sã doutrina do meu Redentor.
+   E, na paz, semearei a doutrina,  
+   Sã doutrina do meu Redentor.   
 
-3. A semente eterna,   celeste,  
-   Gera filhos a Deus,   Criador;  
-   Da imagem de Cristo os reveste
-   E perfeitos os faz em amor.
+3. A semente eterna, celeste,  
+   Gera filhos a Deus, Criador;  
+   Da imagem de Cristo os reveste   
+   E perfeitos os faz em amor.   
 
  ---
 
-<div id='01'/> 
+<div id='74'/> 
 
 # 74  Vamos produzir frutos de louvor
 
 1. Na doutrina santa do céu,  
-   Ensinou Jesus,   Salvador:
-   Eis que pelos campos lançou
+   Ensinou Jesus, Salvador:   
+   Eis que pelos campos lançou   
    A semente o semeador;  
    Parte da semente lançada,  
    Consumiram as aves do céu;  
    Junto do caminho caiu e fruto,  
-   Portanto,   não deu.
+   Portanto, não deu.   
 
 2. Outra parte logo cresceu,  
    Mas raiz em si não formou;  
    Entre pedregais foi cair,  
    Veio o sol e logo murchou;  
-   Outra,   que caiu entre espinhos,  
-   Sufocada,   não pôde crescer;  
+   Outra, que caiu entre espinhos,  
+   Sufocada, não pôde crescer;  
    Muito tempo não resistiu e veio,  
-   Portanto,   a morrer.
+   Portanto, a morrer.   
 
-3. Mas em boa terra caiu
+3. Mas em boa terra caiu   
    Outra parta e frutificou;  
    Os seus frutos deu,  
-   Cem por um,   para aquele que semeou.
-   A Palavra é a Semente
+   Cem por um, para aquele que semeou.   
+   A Palavra é a Semente   
    Que em nós opera com poder;  
    Somos a lavoura de Deus,  
-   Que quer os seus frutos colher.
+   Que quer os seus frutos colher.   
 
    Vamos produzir frutos de louvor,  
-   Frutos para honra e glória
-   De Deus e de Cristo,   o Senhor
+   Frutos para honra e glória   
+   De Deus e de Cristo, o Senhor   
 
  ---
 
-<div id='01'/> 
+<div id='75'/> 
 
-# 75  Vem a Jesus,   ó alma errante
+# 75  Vem a Jesus, ó alma errante
 
-1. Vem a Jesus,   ó alma errante,  
+1. Vem a Jesus, ó alma errante,  
    Ele é o Sumo Pastor;  
    N’Ele acharás a garça abundante,  
-   A vida,   o amor.
+   A vida, o amor.   
 
-2. Vem a Jesus,   ó alma cansada
+2. Vem a Jesus, ó alma cansada   
    Do pecado e da dor;  
    Sempre serás por Ele amparada,  
-   Oh! vem ao Senhor.
+   Oh! vem ao Senhor.   
 
-3. Vem a Jesus,   ó alma aflita,  
+3. Vem a Jesus, ó alma aflita,  
    Vem aos pés do Senhor;  
-   Receberás a paz infinita
-   De Deus,   Criador.
+   Receberás a paz infinita   
+   De Deus, Criador.   
 
  ---
 
-<div id='01'/> 
+<div id='76'/> 
 
 # 76  Cristo Jesus sua mão me dá
 
 1. Cristo Jesus sua mão me dá;  
    Neste caminho que leva aos céus,  
    Ele dirigi os passos meus;  
-   Com sua mão,   poderosa mão,  
-   Me faz triunfar,   me fará habitar
-   Na eternal Sião.
+   Com sua mão, poderosa mão,  
+   Me faz triunfar, me fará habitar   
+   Na eternal Sião.   
 
 2. Cristo Jesus sua mão me dá;  
-   Com sua sombra me cobrirá
-   E nenhum mal,   me molestará;  
+   Com sua sombra me cobrirá   
+   E nenhum mal, me molestará;  
    Meus pés também não tropeçarão;  
    Os anjos dos céus ao mandado de Deus,  
-   Me sustentarão.
+   Me sustentarão.   
 
 3. Cristo Jesus Sua mão me dá;  
-   Nada,   portanto,   me faz parar,  
+   Nada, portanto, me faz parar,  
    Nada aqui pode me abalar;  
-   Com meu Jesus,   passo a passo vou;  
-   Vitória terei,   coroado serei
-   Por Quem me amou.
+   Com meu Jesus, passo a passo vou;  
+   Vitória terei, coroado serei   
+   Por Quem me amou.   
 
  ---
 
-<div id='01'/> 
+<div id='77'/> 
 
 # 77  Vamos lançar a semente
 
-1. Vamos lançar a semente
+1. Vamos lançar a semente   
    Com alegria e amor,  
-   Nesta gloriosa seara
-   Do nosso amado Senhor.
+   Nesta gloriosa seara   
+   Do nosso amado Senhor.   
 
    Santa Semente é a Palavra de Deus;  
    Quem com amor semeá-La,  
-   Prêmio terá lá nos céus.
+   Prêmio terá lá nos céus.   
 
-2. As boas novas levemos
+2. As boas novas levemos   
    Aos que em trevas estão,  
    Anunciando que Cristo,  
-   A todos,   dá salvação.
+   A todos, dá salvação.   
 
-3. "As terra já estão brancas
+3. "As terra já estão brancas   
    E prontas para ceifar",  
    Disse assim o bom Mestre;  
-   Vamos irmãos trabalhar.
+   Vamos irmãos trabalhar.   
 
  ---
 
-<div id='01'/> 
+<div id='78'/> 
 
 # 78  Glória a Jesus! Glória a Jesus!
 
-1. Sobre o monte e perante os Seus
+1. Sobre o monte e perante os Seus   
    Cristo transfigurou-Se,  
    E a voz do eterno Deus,  
-   Da nuvem,   fez-se ouvir:
+   Da nuvem, fez-se ouvir:   
    "Este é o Meu Filho amado;  
-   N’Ele Eu Me comprazo."
+   N’Ele Eu Me comprazo."   
 
-   Glória a Jesus! Glória a Jesus!
+   Glória a Jesus! Glória a Jesus!   
    De Quem o Pai testificou;  
-   Glória a Jesus! Glória a Jesus!
-   Que muito nos amou.
+   Glória a Jesus! Glória a Jesus!   
+   Que muito nos amou.   
 
-2. O Seu rosto resplandeceu
+2. O Seu rosto resplandeceu   
    E como o sol tornou-se;  
    Seu vestido se embranqueceu,  
    Brilhando como a luz;  
    E os que isto viram,  
-   Grande assombro sentiram.
+   Grande assombro sentiram.   
 
-3. A Jesus vamos escutar
+3. A Jesus vamos escutar   
    E ser-Lhe consagrados;  
    Sua glória nos vai mostrar,  
    Quando Ele retornar;  
    Foi por Deus exaltado,  
-   Nosso Mestre amado.
+   Nosso Mestre amado.   
 
  ---
 
-<div id='01'/> 
+<div id='79'/> 
 
 # 79  Bom é estarmos nós aqui
 
 1. Bom é estarmos nós aqui na presença de Deus,  
    Recebendo conselhos que vêm lá dos céus;  
-   Meditando no Senhor,   que nos quer para Si,  
-   Todos juntos cantemos: bom é estarmos nós aqui.
+   Meditando no Senhor, que nos quer para Si,  
+   Todos juntos cantemos: bom é estarmos nós aqui.   
 
-   Entre nós está
-   Quem nos quer para Si.
-   Jubilosos,   cantemos:
-   Bom é estarmos nós aqui.
+   Entre nós está   
+   Quem nos quer para Si.   
+   Jubilosos, cantemos:   
+   Bom é estarmos nós aqui.   
 
 2. Bom é estarmos nós aqui entoando louvor,  
-   Desfrutando,   por graça,   as bênçãos de amor;  
-   Cada um de nós dirá: do Senhor recebi
-   Suas bênçãos gloriosas;   bom é estarmos nós aqui.
+   Desfrutando, por graça, as bênçãos de amor;  
+   Cada um de nós dirá: do Senhor recebi   
+   Suas bênçãos gloriosas; bom é estarmos nós aqui.   
 
 3. Bom é estarmos nós aqui invocando ao Senhor,  
    Elevando a nossa oração com fervor;  
-   Breve vamos para o céu,   para o reino de luz,  
-   Grande glória teremos,   vendo a Deus e a Jesus.
+   Breve vamos para o céu, para o reino de luz,  
+   Grande glória teremos, vendo a Deus e a Jesus.   
 
  ---
 
-<div id='01'/> 
+<div id='80'/> 
 
-# 80  Por Cristo,   resgatado
+# 80  Por Cristo, resgatado
 
-1. Cristo Jesus,   o santo Cordeiro,  
+1. Cristo Jesus, o santo Cordeiro,  
    Deu Sua vida sobre o madeiro,  
    Com o Seu sangue me resgatou,  
-   D'Ele agora sou.
+   D'Ele agora sou.   
 
-   Por Cristo,   resgatado,  
-   Sirvo ao grande Deus
+   Por Cristo, resgatado,  
+   Sirvo ao grande Deus   
    Para a Ele pertencer,  
-   Junto aos santos Seus.
+   Junto aos santos Seus.   
 
 2. Preso estava na iniquidade,  
    Cristo me trouxe a liberdade;  
    Por sua graça me resgatou;  
-   D'Ele agora sou.
+   D'Ele agora sou.   
 
 3. Tem minha alma grande alegria,  
    Sem esperança sempre vivia;  
    Glória a Jesus que me resgatou,  
-   D'Ele agora sou.
+   D'Ele agora sou.   
 
  ---
 
-<div id='01'/> 
+<div id='81'/> 
 
 # 81  A vida deu por ti
 
-1. A vida deu por ti
-   Cristo Jesus,   o Salvador;  
-   Verteu por ti,   na cruz,  
-   Sangue precioso,   expiador;  
-   Por ti,   por ti,   Sua vida deu;  
+1. A vida deu por ti   
+   Cristo Jesus, o Salvador;  
+   Verteu por ti, na cruz,  
+   Sangue precioso, expiador;  
+   Por ti, por ti, Sua vida deu;  
    Oh! dar-lhe teu coração;  
-   Por ti,   por ti,   Sua vida deu
-   E te dará salvação.
+   Por ti, por ti, Sua vida deu   
+   E te dará salvação.   
 
 2. Coroa tão cruel,  
    Grande escárnio suportou;  
    Os cravos e o fel,  
-   Por ti,  na cruz,   o Mestre provou;  
+   Por ti, na cruz, o Mestre provou;  
    Tomou o cálix da dor por ti,  
    As tuas culpas pagou;  
    Tomou o cálix da dor por ti,  
-   Da perdição te livrou.
+   Da perdição te livrou.   
 
-3. À ordem divinal
+3. À ordem divinal   
    O Salvador obedeceu;  
-   Injúria sem igual
+   Injúria sem igual   
    E vitupério Ele sofreu;  
    Desceu da glória dos céus por ti,  
-   Em Cristo há redenção.
+   Em Cristo há redenção.   
    Desceu da glória dos céus por ti,  
-   Só n’Ele encontras perdão.
+   Só n’Ele encontras perdão.   
 
  ---
 
-<div id='01'/> 
+<div id='82'/> 
 
 # 82  Oh! Que grande amor!
 
-1. Padeceu dura morte por nós,   sobre a cruz,  
+1. Padeceu dura morte por nós, sobre a cruz,  
    O Rei dos reis;  
-   Por Seu grande amor ao céu conduz
-   Os Seus remidos fiéis.
+   Por Seu grande amor ao céu conduz   
+   Os Seus remidos fiéis.   
 
    Oh! Que grande amor,  
-   Que sublime amor
-   Nos concede Jesus!
-   Ele é a nossa eterna Luz.
+   Que sublime amor   
+   Nos concede Jesus!   
+   Ele é a nossa eterna Luz.   
 
 2. Gratidão nós devemos ao nosso Senhor,  
    O Rei dos reis,  
    Que nos levará ao Criador,  
-   Se em tudo formo fiéis.
+   Se em tudo formo fiéis.   
 
 3. Na cidade eterna de paz divinal,  
-   O Rei dos reis
-   Honrará,   com glória perenal,  
-   Os Seus amados fiéis.
+   O Rei dos reis   
+   Honrará, com glória perenal,  
+   Os Seus amados fiéis.   
 
  ---
 
-<div id='01'/> 
+<div id='83'/> 
 
 # 83  Vinde ás bodas
 
-1. Deus brevemente celebrará
+1. Deus brevemente celebrará   
    As bodas de Jesus;  
-   A igreja se preparando está
-   Com graça,   amor e luz.
+   A igreja se preparando está   
+   Com graça, amor e luz.   
 
    Vinde às bodas do Salvador,  
-   Vinde,   não rejeiteis;  
-   Vestes divinas de justiça
-   Dos céus recebereis.
+   Vinde, não rejeiteis;  
+   Vestes divinas de justiça   
+   Dos céus recebereis.   
 
-2. Ao rico,   ao pobre,   convida Deus
+2. Ao rico, ao pobre, convida Deus   
    E não faz distinção;  
    Pois quer fazê-los herdeiros dos céus,  
-   Herdeiros da salvação.
+   Herdeiros da salvação.   
 
-3. Que glória eterna,  celestial,  
-   Que honra,   que amor,  
-   Terão os santos no lar divinal
-   Com Cristo,   o seu Senhor!
+3. Que glória eterna, celestial,  
+   Que honra, que amor,  
+   Terão os santos no lar divinal   
+   Com Cristo, o seu Senhor!  
 
  ---
 
-<div id='01'/> 
+<div id='84'/> 
 
 # 84  Quão amável é a Tua casa
 
 1. Quão amável é a Tua casa,  
-   Ó eterno Criador!
-   Nela sempre encontrará conforto
-   Quem Te adora,   ó Senhor;  
-   Os que amam Tua casa
+   Ó eterno Criador!   
+   Nela sempre encontrará conforto   
+   Quem Te adora, ó Senhor;  
+   Os que amam Tua casa   
    Bem-aventurados são;  
-   De contínuo,   ó Eterno,  
-   O Teu Nome louvarão.
+   De contínuo, ó Eterno,  
+   O Teu Nome louvarão.   
 
-2. Bem-aventurado todo aquele
-   Que confia no Senhor
+2. Bem-aventurado todo aquele   
+   Que confia no Senhor   
    E que no seu coração sincero,  
-   Faz morada o Criador.
-   Pois caminha na justiça
-   E de força em força vai
+   Faz morada o Criador.   
+   Pois caminha na justiça   
+   E de força em força vai   
    Rumo à glória prometida,  
-   À encontrar-se com o Pai.
+   À encontrar-se com o Pai.   
 
-3. É melhor permanecer um dia
-   Nos Teus átrios,   ó Senhor,  
-   Do que mil em qualquer outra parte
-   Longe do divino amor.
-   Pois tu és Sol e Escudo
+3. É melhor permanecer um dia   
+   Nos Teus átrios, ó Senhor,  
+   Do que mil em qualquer outra parte   
+   Longe do divino amor.   
+   Pois tu és Sol e Escudo   
    Ao que anda em retidão;  
-   Os que amam Tua casa
-   Bem-aventurados são.
+   Os que amam Tua casa   
+   Bem-aventurados são.   
 
  ---
 
-<div id='01'/> 
+<div id='85'/> 
 
 # 85  Anunciai o santo Evangelho (Batismo)
 
-1. Ide,   anunciar o santo Evangelho
-   Por todo o mundo,   disse Jesus,  
-   A todo o homem,   jovem ou velho,  
-   Para alcançar o reino de luz.
+1. Ide, anunciar o santo Evangelho   
+   Por todo o mundo, disse Jesus,  
+   A todo o homem, jovem ou velho,  
+   Para alcançar o reino de luz.   
 
-   Todo o que crer e for batizado
-   Salvo será,   falou o Senhor;  
+   Todo o que crer e for batizado   
+   Salvo será, falou o Senhor;  
    Mas quem não crer já é condenado,  
-   Por desprezar o seu Salvador.
+   Por desprezar o seu Salvador.   
 
-2. Não mais duvides,   este é o caminho,  
+2. Não mais duvides, este é o caminho,  
    Nele o primeiro passo vais dar;  
-   Com alegria,   segue o destino
-   Que Cristo veio a ti ofertar.
+   Com alegria, segue o destino   
+   Que Cristo veio a ti ofertar.   
 
-3. Pelo batismo és sepultado
-   Para,   ao mundo,   renunciar;  
-   Sendo,   por Cristo,   regenerado,  
-   Em Seu caminho podes andar.
+3. Pelo batismo és sepultado   
+   Para, ao mundo, renunciar;  
+   Sendo, por Cristo, regenerado,  
+   Em Seu caminho podes andar.   
 
  ---
 
-<div id='01'/> 
+<div id='86'/> 
 
-# 86  Grande Tu és,   ó Pai
+# 86  Grande Tu és, ó Pai
 
-1. Grande Tu és,   ó Pai,   em lealdade,  
-   És sempre o mesmo,   jamais mudarás;  
-   És compassivo,   infinito em bondade,  
-   Como Tu és,   assim,   sempre serás.
+1. Grande Tu és, ó Pai, em lealdade,  
+   És sempre o mesmo, jamais mudarás;  
+   És compassivo, infinito em bondade,  
+   Como Tu és, assim, sempre serás.   
 
-   Santo e Supremo és,   excelso Formador,  
+   Santo e Supremo és, excelso Formador,  
    Sobre teus filhos está Teu favor;  
    Imensa é Tua fidelidade,  
-   Glória e louvor a Ti,   ó Criador.
+   Glória e louvor a Ti, ó Criador.   
 
-2. Quanto é elevado,   ó Deus,   Teu pensamento,  
+2. Quanto é elevado, ó Deus, Teu pensamento,  
    Em Tuas obras há grande saber;  
-   Reges a terra,   os céus e o firmamento,  
-   Tudo enaltece Teu grande poder.
+   Reges a terra, os céus e o firmamento,  
+   Tudo enaltece Teu grande poder.   
 
 3. Só em Ti há perdão para o pecado,  
    Paz sempiterna dás ao coração;  
-   Tua presença,   ó Deus,   nos tem guiado
-   E guiará até a perfeição.
+   Tua presença, ó Deus, nos tem guiado   
+   E guiará até a perfeição.   
 
  ---
 
