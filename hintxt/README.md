@@ -2226,163 +2226,163 @@
 
  ---
 
-<div id='01'/> 
+<div id='87'/> 
 
 # 87  Eis que vem Jesus
 
-1. Eis que vem Jesus,   o nosso Esposo divinal;  
-   Com prudência,   vamos todos juntos vigiar;  
-   Oh! Que paz celestial
-   Sentirá quem preparado se encontrar!
+1. Eis que vem Jesus, o nosso Esposo divinal;  
+   Com prudência, vamos todos juntos vigiar;  
+   Oh! Que paz celestial   
+   Sentirá quem preparado se encontrar!   
 
-   Jesus Cristo,   o Esposo,  
-   Para as bodas levará os Seus.
-   Que encontro glorioso
-   Para os santos do vivente Deus!
+   Jesus Cristo, o Esposo,  
+   Para as bodas levará os Seus.   
+   Que encontro glorioso   
+   Para os santos do vivente Deus!   
 
-2. Estejamos bem atentos,   pois Jesus virá;  
-   Sobre as nuvens,   glorioso,   aparecerá;  
-   Seus fiéis recolherá
-   E à glória prometida os levará.
+2. Estejamos bem atentos, pois Jesus virá;  
+   Sobre as nuvens, glorioso, aparecerá;  
+   Seus fiéis recolherá   
+   E à glória prometida os levará.   
 
-3. Tua lâmpada não deve se apagar,   irmão;  
+3. Tua lâmpada não deve se apagar, irmão;  
    O azeite da Palavra descerá dos céus;  
-   A Jesus se juntarão
-   Os prudentes que serviram ao grande Deus.
+   A Jesus se juntarão   
+   Os prudentes que serviram ao grande Deus.   
 
  ---
 
-<div id='01'/> 
+<div id='88'/> 
 
 # 88  Minha oração
 
-1. Minha oração,  ó meu Senhor,  
+1. Minha oração, ó meu Senhor,  
    Elevo a Ti em comunhão;  
    Faz-me sentir Teu grande amor,  
-   A Tua paz e Tua unção.
+   A Tua paz e Tua unção.   
 
-   Em nome do Senhor Jesus
-   Elevo a Ti esta oração.
-   Ó Criador,   Fonte de luz,  
-   Entrego a Ti meu coração.
+   Em nome do Senhor Jesus   
+   Elevo a Ti esta oração.   
+   Ó Criador, Fonte de luz,  
+   Entrego a Ti meu coração.   
 
-2. Minha oração,   ó Pai de amor,  
-   Elevo a Ti para alcançar
-   A Tua paz,   o Teu favor;  
-   Aqui estou a Te adorar.
+2. Minha oração, ó Pai de amor,  
+   Elevo a Ti para alcançar   
+   A Tua paz, o Teu favor;  
+   Aqui estou a Te adorar.   
 
-3. Minha oração,   ó grande Deus,  
-   Elevo a Ti para aprender
-   Os eternais preceitos Teus
-   E sempre Te obedecer.
+3. Minha oração, ó grande Deus,  
+   Elevo a Ti para aprender   
+   Os eternais preceitos Teus   
+   E sempre Te obedecer.   
 
  ---
 
-<div id='01'/> 
+<div id='89'/> 
 
 # 89  Oh! Grande Deus
 
-1. Oh! Grande Deus,   se cumprem as promessas
+1. Oh! Grande Deus, se cumprem as promessas   
    Que Tu tens feito no Senhor Jesus;  
-   Pelos Teus sinais,   já vemos que Te apressas
-   Em mostrar a todos Tua eterna luz.
+   Pelos Teus sinais, já vemos que Te apressas   
+   Em mostrar a todos Tua eterna luz.   
 
-2. Pai eternal,   do céu nos tens mandado
-   Teu Santo Filho,   o Emanuel,  
-   Que,   da escravidão,   nos tem já libertado
-   E nos fez Seu povo santo e fiel.
+2. Pai eternal, do céu nos tens mandado   
+   Teu Santo Filho, o Emanuel,  
+   Que, da escravidão, nos tem já libertado   
+   E nos fez Seu povo santo e fiel.   
 
-3. Deus Criador,   também nos enviaste
+3. Deus Criador, também nos enviaste   
    Teu Santo Espírito Consolador;  
-   Para a redenção eterna nos selaste
-   E,   por esse Dom,   sétimos Teu amor.
+   Para a redenção eterna nos selaste   
+   E, por esse Dom, sétimos Teu amor.   
 
  ---
 
-<div id='01'/> 
+<div id='90'/> 
 
 # 90  Teu destinos é a glória
 
-1. Pele fé,   irmão querido,  
-   Serve a Cristo,   o Redentor;  
+1. Pele fé, irmão querido,  
+   Serve a Cristo, o Redentor;  
    Não te deixes ser vencido,  
-   Vence o mal com teu Senhor.
+   Vence o mal com teu Senhor.   
 
    Teu destino é a glória,  
    A herança dos fiéis;  
-   É segura a vitória
-   Que dará o Rei dos reis.
+   É segura a vitória   
+   Que dará o Rei dos reis.   
 
-2. Oh! levanta as mãos cansadas
+2. Oh! levanta as mãos cansadas   
    E não olhes para trás,  
-   Pois serão fortificadas
-   Pelo Príncipe da paz.
+   Pois serão fortificadas   
+   Pelo Príncipe da paz.   
 
 3. Segue as obras do teu Mestre,  
    Marcha firme para o céu;  
    Ele é a Luz celeste,  
-   Que ilumina os passos teus.
+   Que ilumina os passos teus.   
 
 4. A Palavra da verdade,  
    A Espada divinal,  
-   Te conserva em santidade
-   Para o reino eternal.
+   Te conserva em santidade   
+   Para o reino eternal.   
 
  ---
 
-<div id='01'/> 
+<div id='92'/> 
 
 # 91  No esconderijo do Onipotente
 
 1. No esconderijo do Onipotente,  
-   Sempre do mal preservado estarás
-   E,   sobrevindo a prova ardente,  
-   Com Sua sombra coberto serás.
+   Sempre do mal preservado estarás   
+   E, sobrevindo a prova ardente,  
+   Com Sua sombra coberto serás.   
 
-   O Criador te esconderá
+   O Criador te esconderá   
    Em Seu seguro abrigo;  
    Ao teu redor Se acampará,  
-   Não temerás o inimigo.
+   Não temerás o inimigo.   
 
-2. Florescerás como toda a palmeira
-   E,   como o cedro,   assim crescerás;  
-   Nada embargar pode a tua carreira
-   E desta graça jamais cairás.
+2. Florescerás como toda a palmeira   
+   E, como o cedro, assim crescerás;  
+   Nada embargar pode a tua carreira   
+   E desta graça jamais cairás.   
 
-3. Não temerás a braveza dos mares
-   E nem,   da noite,   espanto terás;  
+3. Não temerás a braveza dos mares   
+   E nem, da noite, espanto terás;  
    Se do escudo da fé te armares,  
-   Teu inimigo por terra verás.
+   Teu inimigo por terra verás.   
 
  ---
 
-<div id='01'/> 
+<div id='92'/> 
 
 # 92  O santo Evangelho
 
 1. O santo Evangelho todo o homem deve ouvir;  
    Ele é fiel espelho que reflete o porvir;  
-   Reflete a grandeza do amor do Salvador
-   E nos dá real certeza do Seu reino de esplendor.
+   Reflete a grandeza do amor do Salvador   
+   E nos dá real certeza do Seu reino de esplendor.   
 
 2. O santo Evangelho pelo mundo ecoará;  
-   Deve o homem entendê-Lo e,   então,   se salvará.
+   Deve o homem entendê-Lo e, então, se salvará.   
    Conforta nossas almas e nos traz consolação,  
-   Transmitindo paz e calma nesta peregrinação.
+   Transmitindo paz e calma nesta peregrinação.   
 
-3. No santo Evangelho de Jesus,   o Redentor,  
+3. No santo Evangelho de Jesus, o Redentor,  
    Encontramos o conselho que nos leva ao Criador;  
-   Jesus,   Cordeiro santo,   trouxe nossa redenção;  
-   Entoemos nosso canto para Sua exaltação.
+   Jesus, Cordeiro santo, trouxe nossa redenção;  
+   Entoemos nosso canto para Sua exaltação.   
 
-   Salvação! Salvação!
-   Vida eterna e perdão!
-   Diz o som de amor
-   Do Evangelho do Redentor.
+   Salvação! Salvação!   
+   Vida eterna e perdão!   
+   Diz o som de amor   
+   Do Evangelho do Redentor.   
 
  ---
 
-<div id='01'/> 
+<div id='93'/> 
 
 # 93  Aceitando ao Senhor...
 
@@ -2391,247 +2391,247 @@
    Quer doar-te nova vida,  
    Dar-te paz ao coração;  
    Aceitando ao Senhor,  
-   Tem perdão o pecador.
+   Tem perdão o pecador.   
 
-2. O pecado não impede
+2. O pecado não impede   
    Que te chame com amor;  
-   Esquecer o teu passado
-   Quer Jesus,   o Redentor;  
+   Esquecer o teu passado   
+   Quer Jesus, o Redentor;  
    Aceitando ao Senhor,  
-   Tem favor o pecador.
+   Tem favor o pecador.   
 
 3. Tudo está já preparado,  
    Só te resta obedecer;  
-   Não rejeites o chamado
+   Não rejeites o chamado   
    Que Jesus vem te fazer;  
    Aceitando ao Senhor,  
-   Tem a vida o pecador.
+   Tem a vida o pecador.   
 
  ---
 
-<div id='01'/> 
+<div id='94'/> 
 
 # 94  Quem sustenta a nossa vida
 
 1. Quem sustenta a nossa vida é a Palavra do Senhor,  
-   Que anima,   e edifica e nos traz consolação,  
+   Que anima, e edifica e nos traz consolação,  
    E que une a alma humilde ao amor do Redentor;  
-   É a Palavra poderosa que faz crer na salvação.
+   É a Palavra poderosa que faz crer na salvação.   
 
-   A Palavra do bom Criador é a Guia do remido
+   A Palavra do bom Criador é a Guia do remido   
    Na jornada a caminho das moradas do Fiel;  
-   É a Palavra de virtude,   que levanta o abatido;  
-   É a espada de dois gumes é o Verbo,   Emanuel.
+   É a Palavra de virtude, que levanta o abatido;  
+   É a espada de dois gumes é o Verbo, Emanuel.   
 
 2. Proclamemos que Jesus não tardará em retornar,  
    Vamos sempre obedecê-Lo e de coração O amar;  
-   Estejamos vigilantes,   esperando o Seu voltar,  
-   Pois em breve a trombeta todos vamos escutar.
+   Estejamos vigilantes, esperando o Seu voltar,  
+   Pois em breve a trombeta todos vamos escutar.   
 
 3. Não sejamos ociosos em servir o grande Rei,  
    Mas sejamos fervorosos para sempre O atender;  
    Com as divinais virtudes cumpriremos Sua lei,  
-   Subiremos para glória,   lar do Onipotente Ser.
+   Subiremos para glória, lar do Onipotente Ser.   
 
  ---
 
-<div id='01'/> 
+<div id='95'/> 
 
-# 95  "Vinde,   ó benditos de Meu Pai"
+# 95  "Vinde, ó benditos de Meu Pai"
 
-1. "Vinde,   ó benditos de Meu Pai",  
-   Ouvirão de Cristo,   o Redentor,  
-   Todos os que amam ao bom Deus
-   E entrarão no reino de amor.
-   Oh! que esplendor!
-   Que consolação nos guarda no porvir:
+1. "Vinde, ó benditos de Meu Pai",  
+   Ouvirão de Cristo, o Redentor,  
+   Todos os que amam ao bom Deus   
+   E entrarão no reino de amor.   
+   Oh! que esplendor!   
+   Que consolação nos guarda no porvir:   
    Juntos do eterno Criador,  
-   Os bens celestes nós iremos fruir!
+   Os bens celestes nós iremos fruir!   
 
-2. Majestoso,   Cristo voltará
+2. Majestoso, Cristo voltará   
    Com poder e grande esplendor;  
-   Mandará os anjos recolher
+   Mandará os anjos recolher   
    Os fiéis ao reino de amor;  
    No céu surgirá com grande sinal,  
    Todo olho O verá;  
    Grande espanto para o pecador,  
-   Mas grande glória para o justo será.
+   Mas grande glória para o justo será.   
 
-3. Para o alto olhemos,   ó fiéis,  
+3. Para o alto olhemos, ó fiéis,  
    Perto está a nossa redenção;  
    Conservemos a paz e o amor,  
    Caminhemos em retidão;  
-   A vida eternal,   com glória no céu,  
+   A vida eternal, com glória no céu,  
    Jesus Cristo nos dará;  
-   Deus enxugará as lágrimas
-   E toda a tribulação cessará.
+   Deus enxugará as lágrimas   
+   E toda a tribulação cessará.   
 
  ---
 
-<div id='01'/> 
+<div id='96'/> 
 
-# 96  Vinde,   adoremos a Deus
+# 96  Vinde, adoremos a Deus
 
-1. Vinde,   adoremos a Deus,  
+1. Vinde, adoremos a Deus,  
    Santo e sublime Reis dos céus;  
    Vinde com fé;  
    O Deus que dá saber,  
    Grandioso em poder,  
    Que em breve iremos ver,  
-   Eterno é.
+   Eterno é.  
 
-2. Vinde servir ao Senhor
-   Que mandou o Redentor:
+2. Vinde servir ao Senhor   
+   Que mandou o Redentor:   
    Cristo Jesus,  
-   Santo Pastor,   veraz,  
+   Santo Pastor, veraz,  
    Rei de justiça e paz,  
-   Que às nossas almas traz
-   Vida e luz.
+   Que às nossas almas traz   
+   Vida e luz.   
 
-3. Deus,   Pai eterno e fiel,  
-   Vos fartará de leite e mel
-   E vivereis
+3. Deus, Pai eterno e fiel,  
+   Vos fartará de leite e mel   
+   E vivereis   
    Vida de paz com Deus,  
-   Com os remidos Seus
-   E,   juntos,   lá nos céus
-   Exultareis.
+   Com os remidos Seus   
+   E, juntos, lá nos céus   
+   Exultareis.   
 
  ---
 
-<div id='01'/> 
+<div id='97'/> 
 
-# 97  Cristo Jesus,   nosso bom Pastor
+# 97  Cristo Jesus, nosso bom Pastor
 
 1. Como ovelhas que não têm nenhum pastor,  
    Longe do bem e do amor do Criador,  
-   Todos andávamos no mal,   sem enxergar
-   O bom caminho celestial para trilhar.
+   Todos andávamos no mal, sem enxergar   
+   O bom caminho celestial para trilhar.   
 
-2 Há um rebanho e um Pastor,   que é Jesus;  
-   Suas ovelhas,   com amor,   sempre conduz;  
+2 Há um rebanho e um Pastor, que é Jesus;  
+   Suas ovelhas, com amor, sempre conduz;  
    Elas somente atenderão ao Seu falar,  
-   E só a Ele seguirão sem vacilar.
+   E só a Ele seguirão sem vacilar.   
 
-3 Vamos seguir o bom Jesus,   Sumo Pastor;  
+3 Vamos seguir o bom Jesus, Sumo Pastor;  
    Com Seu cajado nos conduz ao lar de amor,  
    Onde repouso haverá junto a Deus,  
-   E nada mais perturbará os santos Seus.
+   E nada mais perturbará os santos Seus.   
 
-   Cristo Jesus,   nosso bom Pastor,  
+   Cristo Jesus, nosso bom Pastor,  
    Nos agregou pelo Seu amor;  
    Sobre a cruz muito padeceu;  
-   Pelas ovelhas,   sua vida deu.
+   Pelas ovelhas, sua vida deu.   
 
  ---
 
-<div id='01'/> 
+<div id='98'/> 
 
 # 98  Cristo Jesus tudo pode
 
 1. Tudo entreguemos a Cristo Jesus,  
    Nosso clamor Ele pode atender;  
-   Somente andemos na senda de luz
-   E confiantes iremos viver.
+   Somente andemos na senda de luz   
+   E confiantes iremos viver.   
 
    Cristo Jesus tudo pode;  
-   Conosco está,   bênçãos dará;  
-   Ele do céu nos socorre
-   E nada nos faltará.
+   Conosco está, bênçãos dará;  
+   Ele do céu nos socorre   
+   E nada nos faltará.   
 
 2. Nosso conforto está em Jesus;  
    Paz e alegria só Ele nos dá;  
    Somente Ele é Quem nos conduz;  
-   O Redentor nunca nos deixará.
+   O Redentor nunca nos deixará.   
 
-3. Sem o Senhor,   não podemos andar
+3. Sem o Senhor, não podemos andar   
    Em Seu caminho de vida e de amor;  
-   Por Sua graça,   Jesus quer nos dar
-   Fé e virtude,   firmeza e valor.
+   Por Sua graça, Jesus quer nos dar   
+   Fé e virtude, firmeza e valor.   
 
  ---
 
-<div id='01'/> 
+<div id='99'/> 
 
 # 99  Jesus Cristo é o Amigo celestial
 
-1. Se nós fizermos tudo o que nos manda
-   Jesus Cristo,   nosso Redentor,  
+1. Se nós fizermos tudo o que nos manda   
+   Jesus Cristo, nosso Redentor,  
    Chamar-nos-á a todos de amigos;  
-   Tão somente andemos em amor.
+   Tão somente andemos em amor.   
 
-   Jesus Cristo,   Jesus Cristo
+   Jesus Cristo, Jesus Cristo   
    É o Amigo celestial,  
    Amoroso e compassivo;  
-   É o Amigo sem igual.
+   É o Amigo sem igual.   
 
-2. É esse Amigo que nos acompanha
+2. É esse Amigo que nos acompanha   
    Na jornada rumo ao lar de Deus;  
-   É Ele que nos fala dos tesouros
-   Que iremos desfrutar nos céus.
+   É Ele que nos fala dos tesouros   
+   Que iremos desfrutar nos céus.   
 
 3. Seus sábios e gloriosos mandamentos,  
    Jesus Cristo vem nos ensinar;  
    Um dia O veremos face a face,  
-   Ele mesmo prometeu voltar.
+   Ele mesmo prometeu voltar.   
 
  ---
 
-<div id='01'/> 
+<div id='100'/> 
 
-# 100  Todos juntos,   jubilemos
+# 100  Todos juntos, jubilemos
 
 1. Para esta vocação celeste,  
    Deus nos tem chamado,  
-   Glória e louvor nós damos ao Senhor!
-   Dentre os povos e as tribos
+   Glória e louvor nós damos ao Senhor!   
+   Dentre os povos e as tribos   
    Fomos nós comprados por Jesus,  
-   Louvemos nosso Remidor!
+   Louvemos nosso Remidor!   
 
-   Todos juntos,   jubilemos de um coração sincero,  
+   Todos juntos, jubilemos de um coração sincero,  
    Dando honra e glória ao nosso Redentor;  
-   O Seu sangue precioso
+   O Seu sangue precioso   
    Ele derramou por nós na cruz;  
-   Remidos somos do Senhor.
+   Remidos somos do Senhor.   
 
-2. Jesus Cristo,   nosso Mestre,  
+2. Jesus Cristo, nosso Mestre,  
    É o Primeiro e o Derradeiro,  
-   É o Rei dos reis,   de todos é Senhor;  
-   Ele nos conserva unidos
+   É o Rei dos reis, de todos é Senhor;  
+   Ele nos conserva unidos   
    No caminho de justiça e paz;  
-   Bendito seja o Redentor!
+   Bendito seja o Redentor!   
 
-3. Com Jesus,   celeste Esposo,  
-   Para sempre reinaremos
-   No Seu lar de amor,   lugar de esplendor;  
+3. Com Jesus, celeste Esposo,  
+   Para sempre reinaremos   
+   No Seu lar de amor, lugar de esplendor;  
    Como Ele nós seremos,  
    No Seu reino eternal de luz;  
-   Oh! Glória ao nosso Salvador!
+   Oh! Glória ao nosso Salvador!   
 
  ---
 
-<div id='01'/> 
+<div id='101'/> 
 
-# 101  Cantemos,   juntos,   louvores a Deus
+# 101  Cantemos, juntos, louvores a Deus
 
-1. Cantemos,   juntos,   louvores a Deus
+1. Cantemos, juntos, louvores a Deus   
    E celebremos ao Senhor;  
-   Com júbilo elevemos aos céus
+   Com júbilo elevemos aos céus   
    Tributos santos ao Criador.
 
 2. Eternamente preside o Senhor,  
    Seus dias não se findarão;  
-   Prostremo-nos ante Deus,   Criador,  
-   Pois somos obra da Sua mão.
+   Prostremo-nos ante Deus, Criador,  
+   Pois somos obra da Sua mão.   
 
 3. Ó vinde e adoremos por fé,  
    Ao Deus que nos fez povo Seu;  
-   Onipresente e Santo Ele é
-   E prometeu nos levar ao céu.
+   Onipresente e Santo Ele é   
+   E prometeu nos levar ao céu.   
 
 4. Se hoje ouvirmos a voz do Senhor,  
    Devemos logo obedecer,  
    Pois o repouso no reino de amor,  
-   De Deus,   o Pai,   vamos receber.
+   De Deus, o Pai, vamos receber.   
 
  ---
 
