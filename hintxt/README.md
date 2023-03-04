@@ -2626,7 +2626,7 @@
 3. Ó vinde e adoremos por fé,  
    Ao Deus que nos fez povo Seu;  
    Onipresente e Santo Ele é   
-   E prometeu nos levar ao céu.   
+   E prometeu nos levar ao céu.  
 
 4. Se hoje ouvirmos a voz do Senhor,  
    Devemos logo obedecer,  
@@ -2635,92 +2635,92 @@
 
  ---
 
-<div id='01'/> 
+<div id='102'/> 
 
 # 102  Sinto a voz divina do meu fiel Pastor
 
-1. Sinto a voz tão meiga de Cristo,   o Redentor,  
+1. Sinto a voz tão meiga de Cristo, o Redentor,  
    Que sempre me consola com Seu sublime amor;  
    A pastos verdejantes sempre me guiará;  
-   Com Seu cajado santo me apascentará.
+   Com Seu cajado santo me apascentará.   
 
-2. Amigo Seu,   me chama,   Meu Salvador Jesus;  
+2. Amigo Seu, me chama, Meu Salvador Jesus;  
    O Seu falar sublime dá compreensão e luz;  
-   Quero,   aos pés do Mestre,   continuamente estar;  
-   Quero,   nos Seus conselhos,   sempre me deleitar.
+   Quero, aos pés do Mestre, continuamente estar;  
+   Quero, nos Seus conselhos, sempre me deleitar.   
 
 3. O meu divino Mestre fala com mansidão;  
    E traz à minha alma grande consolação;  
-   Em todas as angústias,   na prova ou na dor,  
-   Dentro de mim eu sinto a voz do meu Senhor.
+   Em todas as angústias, na prova ou na dor,  
+   Dentro de mim eu sinto a voz do meu Senhor.   
 
    Sinto a voz divina do meu fiel Pastor,  
    Que sempre me ensina com infinito amor;  
    A Sua face um dia na glória eu verei;  
-   Na bem-aventurança regozijar-me-ei.
+   Na bem-aventurança regozijar-me-ei.   
 
  ---
 
-<div id='01'/> 
+<div id='103'/> 
 
-# 103  Bendize,   ó minha alma
+# 103  Bendize, ó minha alma
 
-1. Bendize,   ó minha alma,  
+1. Bendize, ó minha alma,  
    Ao teu amado Senhor,  
    Bendize o Nome do eterno Deus;  
    È grande o bem que te faz;  
-   Nunca te esqueças do amor
+   Nunca te esqueças do amor   
    E do celestial favor;  
-   É Ele Quem perdoa os erros teus
-   E te dá conforto e paz.
+   É Ele Quem perdoa os erros teus   
+   E te dá conforto e paz.   
 
-   Ao Pai da Eternidade,  
-   Grande em benignidade,  
-   Glória e majestade,  
-   Domínio,   honra e louvor!
+    Ao Pai da Eternidade,  
+    Grande em benignidade,  
+    Glória e majestade,  
+    Domínio, honra e louvor!   
 
-2. Todo o meu ser bendiga
+2. Todo o meu ser bendiga   
    Ao Deus que dá perfeição;  
    O bálsamo que me alivia a dor,  
    Do Seu santo trono provém;  
-   Ele afastou,   por Seu grande amor,  
+   Ele afastou, por Seu grande amor,  
    De mim a grande maldição;  
-   E,   aos que cumprem Sua eterna lei,  
-   Reserva no céu sumo bem.
+   E, aos que cumprem Sua eterna lei,  
+   Reserva no céu sumo bem.   
 
 3. Oh! Bendizei-O sempre,  
-   Vós todos,   os santos Seus,  
+   Vós todos, os santos Seus,  
    E todos vós que sempre O servis,  
    O Seu Nome engrandecei;  
-   Ele é fiel,   é justo e bom,  
+   Ele é fiel, é justo e bom,  
    E para todo o sempre é Deus;  
    Vós todos que sois filhos do Senhor,  
-   A Ele somente temei.
+   A Ele somente temei.   
 
  ---
 
-<div id='01'/> 
+<div id='104'/> 
 
-# 104  Santo,   Santo és,   Senhor
+# 104  Santo, Santo és, Senhor
 
-1. A Ti,   ó Senhor,  
+1. A Ti, ó Senhor,  
    Tributamos louvor,  
-   Honra e glória
-   Por Teu infinito favor.
+   Honra e glória   
+   Por Teu infinito favor.   
 
-    Santo,   Santo és,   Senhor;  
-    Santo,   Santo és Tu;  
-    Só a Ti todo louvor pertence,   Senhor.
+    Santo, Santo és, Senhor;  
+    Santo, Santo és Tu;  
+    Só a Ti todo louvor pertence, Senhor.   
 
 2. Amado Jesus,  
    Celestial Rei dos reis,  
    Brevemente estarão,  
-   Junto a Ti,   Teus fiéis.
+   Junto a Ti, Teus fiéis.   
 
 3. Em breve no céu,  
-   Teus remidos,   Senhor,  
-   Viverão para sempre
-   No reino de amor.
+   Teus remidos, Senhor,  
+   Viverão para sempre   
+   No reino de amor.   
 
  ---
 
