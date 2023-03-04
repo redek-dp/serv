@@ -2507,12 +2507,12 @@
    Todos andávamos no mal, sem enxergar   
    O bom caminho celestial para trilhar.   
 
-2 Há um rebanho e um Pastor, que é Jesus;  
+2. Há um rebanho e um Pastor, que é Jesus;  
    Suas ovelhas, com amor, sempre conduz;  
    Elas somente atenderão ao Seu falar,  
    E só a Ele seguirão sem vacilar.   
 
-3 Vamos seguir o bom Jesus, Sumo Pastor;  
+3. Vamos seguir o bom Jesus, Sumo Pastor;  
    Com Seu cajado nos conduz ao lar de amor,  
    Onde repouso haverá junto a Deus,  
    E nada mais perturbará os santos Seus.   
