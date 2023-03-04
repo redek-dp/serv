@@ -2517,7 +2517,7 @@
    Onde repouso haverá junto a Deus,  
    E nada mais perturbará os santos Seus.   
 
-   Cristo Jesus, nosso bom Pastor,  
+ 4. Cristo Jesus, nosso bom Pastor,  
    Nos agregou pelo Seu amor;  
    Sobre a cruz muito padeceu;  
    Pelas ovelhas, sua vida deu.   
