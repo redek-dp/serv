@@ -12513,7 +12513,7 @@ Provinda de Jesus.
     "Está alguém entre vós doentes? Chame os presbíteros da igreja,   e
     orem sobre ele,   ungindo-o com azeite em nome de Senhor. E a oração
     da fé salvará o doente,   e o Senhor o levantará;   e se houver cometido
-    pecados,   ser-lhe-ão perdoados". (Mateus 8:17;   Tiago 5:14-15)
+    pecados, ser-lhe-ão perdoados". (Mateus 8:17;   Tiago 5:14-15)
 
 11. Nós cremos que o mesmo Senhor (antes do milênio) descerá do céu
     com alarido,   com voz de arcanjo e com a trombeta de Deus;   e os que
@@ -12586,7 +12586,7 @@ O Seu Nome bendirei.
 
 <div id='sNome'/> 
 
-# Nome: Eduardo Luiz
+## Nome: Eduardo Luiz
 Endereço: Rua Rio Mearim,   205
 Bairro: Jardim Nordeste
 CEP: 03687  050
