@@ -19,7 +19,7 @@
 
  ---
 
-##  [Coros](#Coros) . [Pontos de doutrina](#Pontosdedoutrina)  
+##  [Coros](#Coros) | [Pontos de doutrina](#Pontosdedoutrina)  
 
  ---
 
