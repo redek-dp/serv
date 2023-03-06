@@ -59,7 +59,7 @@
 
 1. De Deus tu és eleita, igreja de Jesus,  
    O teu divino Mestre á glória te conduz;  
-   Prepara-te,   pois Ele mui breve voltará;  
+   Prepara-te, pois Ele mui breve voltará;  
    A glória que te espera já preparada está.  
 
 2. Com celestiais adornos espera o teu Senhor,  
