@@ -12452,7 +12452,63 @@ Provinda de Jesus.
 
  ---
 
-<div id='Pontosdedoutrina'/> 
+<div id='Coros'/> 
+
+# Coros
+
+# 1  Aleluia! Aleluia!
+
+Aleluia! Aleluia! Aleluia! Aleluia! Glória ao Redentor!
+Aleluia! Aleluia! Aleluia! Aleluia! Glória ao Redentor!
+Glória ao Redentor! Aleluia!
+Santo Remidor! Aleluia!
+Nosso Salvador! Aleluia!
+Glória a Jesus!
+
+ ---
+
+# 2  Toda a glória a Jesus
+
+Toda a glória a Jesus! Toda a honra a Jesus!
+Juntos louvemos a Jesus! Seu santo Nome vamos exaltar.
+
+ ---
+
+# 3  Ação de graças darei
+
+Ação de graças darei a Jesus,   meu Pastor,   meu Rei;  
+As Suas obras contarei,   Seu Nome exaltarei!
+
+ ---
+
+# 4  Glória, glória nas alturas!
+
+Glória, glória nas alturas!
+Glória,  glória ao nosso Deus!
+Salvação nos preparou por Jesus, que nos amou;  
+Glória ao Deus vivente que está nos céus!
+
+ ---
+
+# 5  Majestoso é Cristo Jesus!
+
+Majestoso é Cristo Jesus,   o Senhor,  
+Majestoso é Cristo Jesus!
+O poder Deus Lhe deu quer na terra,   quer no céu,  
+Majestoso é Cristo Jesus!
+
+ ---
+
+# 6  A Jesus eu cantarei louvor
+
+A Jesus eu cantarei louvor;  
+Honra e glória sempre Lhe darei;  
+Exaltarei ao meu Senhor;  
+O Seu Nome bendirei.
+
+ ---
+
+ <div id='Pontosdedoutrina'/> 
 
 ## Pontos de doutrina e da fé que uma vez foi dada aos santos.
 
@@ -12525,62 +12581,6 @@ Provinda de Jesus.
 12. Nós cremos que haverá a ressurreição corporal dos mortos,   justos e
     injustos. Estes irão para o tormento eterno,   mas os justos para a vida
     eterna. (Atos 24:15;   Mateus 25:46)
-
- ---
-
-<div id='Coros'/> 
-
-## Coros
-
-# 1  Aleluia! Aleluia!
-
-Aleluia! Aleluia! Aleluia! Aleluia! Glória ao Redentor!
-Aleluia! Aleluia! Aleluia! Aleluia! Glória ao Redentor!
-Glória ao Redentor! Aleluia!
-Santo Remidor! Aleluia!
-Nosso Salvador! Aleluia!
-Glória a Jesus!
-
- ---
-
-# 2  Toda a glória a Jesus
-
-Toda a glória a Jesus! Toda a honra a Jesus!
-Juntos louvemos a Jesus! Seu santo Nome vamos exaltar.
-
- ---
-
-# 3  Ação de graças darei
-
-Ação de graças darei a Jesus,   meu Pastor,   meu Rei;  
-As Suas obras contarei,   Seu Nome exaltarei!
-
- ---
-
-# 4  Glória, glória nas alturas!
-
-Glória, glória nas alturas!
-Glória,  glória ao nosso Deus!
-Salvação nos preparou por Jesus, que nos amou;  
-Glória ao Deus vivente que está nos céus!
-
- ---
-
-# 5  Majestoso é Cristo Jesus!
-
-Majestoso é Cristo Jesus,   o Senhor,  
-Majestoso é Cristo Jesus!
-O poder Deus Lhe deu quer na terra,   quer no céu,  
-Majestoso é Cristo Jesus!
-
- ---
-
-# 6  A Jesus eu cantarei louvor
-
-A Jesus eu cantarei louvor;  
-Honra e glória sempre Lhe darei;  
-Exaltarei ao meu Senhor;  
-O Seu Nome bendirei.
 
  ---
 
