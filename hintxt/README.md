@@ -12499,7 +12499,7 @@ Provinda de Jesus.
 
  ---
 
-<div id='01'/> 
+<div id='dizendo'/> 
 
 # dizendo: " Este cálice é o Novo Testamento no meu sangue,   que é
    derramado por vós". (Lucas 22:19-20;   I Coríntios 11:24-25)
@@ -12574,7 +12574,7 @@ O Seu Nome bendirei.
 
  ---
 
-<div id='01'/> 
+<div id='sNome'/> 
 
 # Nome: Eduardo Luiz
 Endereço: Rua Rio Mearim,   205
