@@ -19,6 +19,10 @@
 
  ---
 
+##  [Coros](#Coros) . [Pontos de doutrina](#Pontosdedoutrina)  
+
+ ---
+
 <div id='01'/> 
 
 # 1  Cristo meu Mestre...
@@ -12448,7 +12452,7 @@ Provinda de Jesus.
 
  ---
 
-<div id='01'/> 
+<div id='Pontosdedoutrina'/> 
 
 # Pontos de doutrina e da fé que uma vez foi dada aos santos.
 
@@ -12524,7 +12528,7 @@ Provinda de Jesus.
 
  ---
 
-<div id='01'/> 
+<div id='Coros'/> 
 
 # Coros
 
