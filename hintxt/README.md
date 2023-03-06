@@ -3468,487 +3468,487 @@
 
  ---
 
-<div id='01'/> 
+<div id='133'/> 
 
 # 133  Quão bom e quão suave é...
 
-1. Quão bom e quão suave é,   perante Deus,  
+1. Quão bom e quão suave é, perante Deus,  
    Que vivam os irmãos em doce união;  
    É como o orvalho santo que desce lá dos céus,  
-   Trazendo regozijo e consolação.
+   Trazendo regozijo e consolação.  
 
-2. É o celeste orvalho que as bênçãos traz
+2. É o celeste orvalho que as bênçãos traz   
    E vivifica sempre o nosso coração,  
-   Porque o Senhor ordena a vida e a paz.
-   O santo amor de Deus conduz à perfeição.
+   Porque o Senhor ordena a vida e a paz.   
+   O santo amor de Deus conduz à perfeição.   
 
-3. Fundados estejamos no divino amor
-   A fim de compreendermos quão profundo é
-   O amor do nosso Mestre,   Jesus o Redentor,  
-   Que trouxe às nossas almas preciosa fé.
+3. Fundados estejamos no divino amor   
+   A fim de compreendermos quão profundo é   
+   O amor do nosso Mestre, Jesus o Redentor,  
+   Que trouxe às nossas almas preciosa fé.   
 
 4. Nós somos a herança do eterno Deus;  
-   Jesus,   o Verdadeiro,   é a nossa Paz;  
-   "Amai-vos uns aos outros",   ensina para os Seus;  
-   O Seu amor sublime regozijo traz.
+   Jesus, o Verdadeiro, é a nossa Paz;  
+   "Amai-vos uns aos outros", ensina para os Seus;  
+   O Seu amor sublime regozijo traz.   
 
  ---
 
-<div id='01'/> 
+<div id='134'/> 
 
-# 134  Teu amor,   ó Cordeiro divinal
+# 134  Teu amor, ó Cordeiro divinal
 
-1. Que obra pode se igualar
-   Àquela sobre a cruz?
-   Que morte pode resgatar
-   Senão a de Jesus?
+1. Que obra pode se igualar   
+   Àquela sobre a cruz?   
+   Que morte pode resgatar   
+   Senão a de Jesus?   
 
-   Teu amor,   Teu amor,  
+   Teu amor, Teu amor,  
    Ó Cordeiro divinal,  
-   Só agora é que posso entender:
-   Tu pagaste a Deus
-   Meu pecado,   meu mal,  
-   E fizeste feliz o meu viver.
+   Só agora é que posso entender:   
+   Tu pagaste a Deus   
+   Meu pecado, meu mal,  
+   E fizeste feliz o meu viver.   
 
-2. Por toda a minha transgressão
-   Morreu Jesus,   o Rei;  
-   A Sua imensa compaixão
-   Jamais esquecerei.
+2. Por toda a minha transgressão   
+   Morreu Jesus, o Rei;  
+   A Sua imensa compaixão   
+   Jamais esquecerei.   
 
-3. Ó meu Jesus,   que Te darei
-   Por todo esse amor?
+3. Ó meu Jesus, que Te darei   
+   Por todo esse amor?   
    Meu ser a Ti entregarei,  
-   Serei Teu servidor.
+   Serei Teu servidor.   
 
  ---
 
-<div id='01'/> 
+<div id='135'/> 
 
 # 135  Bendito o Rei que veio do céu!
 
-1. Bendito o Rei que veio em nome do Eterno!
-   "Hosana nas alturas!",   clamava a multidão;  
-   Bendito o Rei divino,   manso,   fiel,   fraterno,  
-   Dócil e glorioso,   Autor da salvação!
+1. Bendito o Rei que veio em nome do Eterno!   
+   "Hosana nas alturas!", clamava a multidão;  
+   Bendito o Rei divino, manso, fiel, fraterno,  
+   Dócil e glorioso, Autor da salvação!   
 
-2. Bendito o Rei que veio para vencer a morte
-   E dar-nos liberdade para em justiça andar.
-   Bendito seja sempre,   dos fortes o mais Forte!
-   Todos se alegravam ao ver Jesus passar.
+2. Bendito o Rei que veio para vencer a morte   
+   E dar-nos liberdade para em justiça andar.   
+   Bendito seja sempre, dos fortes o mais Forte!   
+   Todos se alegravam ao ver Jesus passar.   
 
-3. A multidão louvava a Cristo,   o Rei eterno,  
+3. A multidão louvava a Cristo, o Rei eterno,  
    E se regozijava de todo o coração;  
-   Disse o divino Mestre,   cheio do amor superno:
-   "Se estes se calarem,   as pedras clamarão."
+   Disse o divino Mestre, cheio do amor superno:   
+   "Se estes se calarem, as pedras clamarão."   
 
  ---
 
-<div id='01'/> 
+<div id='136'/> 
 
 # 136  Benignidade eterna é a de Deus
 
-1. Benignidade eterna é a de Deus,   Criador,  
-   Que escreveu nossos nomes no céu,   a pátria de amor;  
-   Regozijemo-nos de coração,   cantemos-Lhe glória;  
-   Ele,   por Seu grande amor,   nos dará completa vitória.
+1. Benignidade eterna é a de Deus, Criador,  
+   Que escreveu nossos nomes no céu, a pátria de amor;  
+   Regozijemo-nos de coração, cantemos-Lhe glória;  
+   Ele, por Seu grande amor, nos dará completa vitória.   
 
-2. Que grande felicidade nos preparou o bom Deus!
-   Pois moraremos com Ele eternamente nos céus.
-   A Sua face veremos,   então. Que grande ventura!
-   Todos os santos se deleitarão com tal formosura.
+2. Que grande felicidade nos preparou o bom Deus!   
+   Pois moraremos com Ele eternamente nos céus.   
+   A Sua face veremos, então. Que grande ventura!   
+   Todos os santos se deleitarão com tal formosura.   
 
-3. Na esperança vivemos,   sempre pensando em Deus,  
+3. Na esperança vivemos, sempre pensando em Deus,  
    Obedecendo a tudo o que nos fala dos céus;  
-   Suas promessas se hão de cumprir;   Deus é verdadeiro;  
-   No tempo certo,   dos céus voltará Jesus,   o Cordeiro.
+   Suas promessas se hão de cumprir; Deus é verdadeiro;  
+   No tempo certo, dos céus voltará Jesus, o Cordeiro.   
 
-4. Por Sua grande bondade,   Deus,   nosso Pai,   nos chamou;  
+4. Por Sua grande bondade, Deus, nosso Pai, nos chamou;  
    Para a vida eterna Ele nos predestinou;  
-   Seja bendito o Nome de Deus,   o Onipotente;  
-   Nome que é,   para todo o fiel,   socorro presente.
+   Seja bendito o Nome de Deus, o Onipotente;  
+   Nome que é, para todo o fiel, socorro presente.   
 
  ---
 
-<div id='01'/> 
+<div id='137'/> 
 
-# 137  Senhor,   vem selar-nos
+# 137  Senhor, vem selar-nos
 
 1. Do teu Espírito Santo,  
-   Derrama,   ó Senhor;  
-   Sobre os que O esperam
-   Com fé e com fervor.
+   Derrama, ó Senhor;  
+   Sobre os que O esperam   
+   Com fé e com fervor.   
 
-   Senhor,   vem selar-nos
+   Senhor, vem selar-nos   
    Com o Espírito Santo;  
-   Sim,   vem alegrar-nos
-   Com Teu bom Consolador.
+   Sim, vem alegrar-nos   
+   Com Teu bom Consolador.   
 
-2. É,   para nós,   precioso,  
+2. É, para nós, precioso,  
    Ó santo Redentor,  
-   Teu Dom divino,   almejado,  
-   Bendito e de valor.
+   Teu Dom divino, almejado,  
+   Bendito e de valor.   
 
-3. Dá-nos,   por Tua bondade,  
+3. Dá-nos, por Tua bondade,  
    Da herança o Penhor;  
    Ansiosamente esperamos,  
-   Bondoso Salvador.
+   Bondoso Salvador.   
 
  ---
 
-<div id='01'/> 
+<div id='128'/> 
 
 # 138  Louvemos ao bom Jesus
 
-1. Dos céus,   com glória,   surgirá a celestial cidade;  
-   Cidade santa onde Deus conosco estará.
+1. Dos céus, com glória, surgirá a celestial cidade;  
+   Cidade santa onde Deus conosco estará.   
    Naquele reino eterno há paz e amor superno;  
-   Louvor e glória ao Senhor daremos com fervor.
+   Louvor e glória ao Senhor daremos com fervor.   
 
 2. Jamais devemos vacilar nas tentações e provas;  
-   Não nos cansemos de lutar,   orando sem cessar;  
-   Por Cristo,   nossa Glória,   teremos a vitória,  
-   Então veremos o esplendor do reino do Senhor.
+   Não nos cansemos de lutar, orando sem cessar;  
+   Por Cristo, nossa Glória, teremos a vitória,  
+   Então veremos o esplendor do reino do Senhor.   
 
-3. Jesus mui breve voltará,   Glorioso e Onipotente,  
+3. Jesus mui breve voltará, Glorioso e Onipotente,  
    Nas nuvens nos acolherá e a Si nos unirá;  
-   Com Ele subiremos e,   então,   contemplaremos
-   O nosso eterno Criador no reino de esplendor.
+   Com Ele subiremos e, então, contemplaremos   
+   O nosso eterno Criador no reino de esplendor.   
 
-    Louvemos ao bom Jesus,   Rei da paz,   Rei da luz;  
-    Louvemos ao bom Jesus,   que para o céu conduz;  
-    A igreja reunida com Cristo,   eterna Vida,  
-    Entoará,   ao Criador,   um hino de louvor.
+    Louvemos ao bom Jesus, Rei da paz, Rei da luz;  
+    Louvemos ao bom Jesus, que para o céu conduz;  
+    A igreja reunida com Cristo, eterna Vida,  
+    Entoará, ao Criador, um hino de louvor.   
 
  ---
 
-<div id='01'/> 
+<div id='139'/> 
 
-# 139  Ó Senhor,   Tu me conheces
+# 139  Ó Senhor, Tu me conheces
 
-1. Ó Senhor,   Tu me conheces,   Tu conheces meu viver,  
+1. Ó Senhor, Tu me conheces, Tu conheces meu viver,  
    E também meu pensamento não Te posso esconder;  
-   Onde quer que eu esteja,   Teu Espírito está;  
-   Tua mão,   em toda a parte,   sempre me alcançará.
+   Onde quer que eu esteja, Teu Espírito está;  
+   Tua mão, em toda a parte, sempre me alcançará.   
 
-2. Com meus olhos não Te vejo,   mas eu sinto Teu amor;  
-   Tu me cercas de contínuo,   ó eterno Criador.
+2. Com meus olhos não Te vejo, mas eu sinto Teu amor;  
+   Tu me cercas de contínuo, ó eterno Criador.   
    Nem as trevas me ocultam dos sublimes olhos Teus,  
-   Pois a noite é como o dia para Ti,   ó grande Deus.
+   Pois a noite é como o dia para Ti, ó grande Deus.   
 
-3. Purifica o meu caminho pelo Teu poder,   Senhor;  
-   Eu desejo ser sincero e andar em Teu temor.
-   Onde quer que eu esteja,   Teu Espírito está;  
-   Ó Senhor,   Tu me conheces;   Deus além de Ti não há.
+3. Purifica o meu caminho pelo Teu poder, Senhor;  
+   Eu desejo ser sincero e andar em Teu temor.   
+   Onde quer que eu esteja, Teu Espírito está;  
+   Ó Senhor, Tu me conheces; Deus além de Ti não há.   
 
  ---
 
-<div id='01'/> 
+<div id='140'/> 
 
 # 140  Sou feliz
 
 1. Vou marchando para a glória,  
    Para o país celestial;  
-   Em Jesus terei vitória
-   E a vida eternal.
+   Em Jesus terei vitória   
+   E a vida eternal.  
 
-   Sou feliz,   sou feliz,  
+   Sou feliz, sou feliz,  
    Pois achei Quem me conduz ao meu país;  
-   Mais feliz,   mais feliz
-   Eu serei quando estiver no meu país.
+   Mais feliz, mais feliz   
+   Eu serei quando estiver no meu país.   
 
-2. É glorioso e inefável
+2. É glorioso e inefável   
    O meu país celestial,  
-   De riqueza inigualável
-   E de glória perenal
+   De riqueza inigualável   
+   E de glória perenal   
 
 3. Todos nós separaremos,  
    Aqui no mundo de labor,  
-   Mas ao fim nos uniremos
-   No país de esplendor
+   Mas ao fim nos uniremos   
+   No país de esplendor   
 
  ---
 
-<div id='01'/> 
+<div id='141'/> 
 
-# 141  Cristo,   o Verbo
+# 141  Cristo, o Verbo
 
-1. O Verbo estava com Deus,   Criador,  
+1. O Verbo estava com Deus, Criador,  
    O Verbo também era Deus;  
-   Das alturas desceu para ser Redentor
-   Trazendo a justiça dos céus.
+   Das alturas desceu para ser Redentor   
+   Trazendo a justiça dos céus.   
 
-   Cristo,   o Verbo,   dos céus desceu,  
+   Cristo, o Verbo, dos céus desceu,  
    Foi feito carne e vida nos deu;  
    Veio ao mundo a fim de vencer,  
-   Cheio de graça,   verdade e poder.
+   Cheio de graça, verdade e poder.   
 
 2. O Verbo de Deus entre nós habitou;  
    Aqui Sua glória se viu;  
    O unigênito Filho de Deus se mostrou;  
-   Depois,   para a glória subiu.
+   Depois, para a glória subiu.   
 
-3. Aos que receberam Jesus,   o Senhor,  
+3. Aos que receberam Jesus, o Senhor,  
    Estão reservados os céus;  
    São herdeiros da glória com seu Redentor,  
-   São todos nascidos de Deus.
+   São todos nascidos de Deus.   
 
  ---
 
-<div id='01'/> 
+<div id='142'/> 
 
 # 142  Ó Pai celestial
 
 1. Ó Pai celestial de amor eternal,  
-   Imploro com todo o meu ser:
+   Imploro com todo o meu ser:   
    Vem me fortificar e também consolar,  
-   Com o Teu glorioso poder.
+   Com o Teu glorioso poder.   
 
-   Eu imploro com todo o meu ser:
-   Pai,   vem sempre me socorrer;  
+   Eu imploro com todo o meu ser:   
+   Pai, vem sempre me socorrer;  
    Com Teu santo vigor,  
-   Eu serei vencedor
-   E verei Tua glória,   Senhor.
+   Eu serei vencedor   
+   E verei Tua glória, Senhor.   
 
-2. Fiel e bom Deus,   dá-me graça dos céus
+2. Fiel e bom Deus, dá-me graça dos céus   
    De resistir ao tentador,  
-   Que furioso está e tormento me dá
-   Neste mundo de lutas e dor.
+   Que furioso está e tormento me dá   
+   Neste mundo de lutas e dor.   
 
-3. Ó Pai,   vem me dar forças para lutar
+3. Ó Pai, vem me dar forças para lutar   
    A fim de em tudo vencer;  
    Acrescenta-me a fé e sustém-me de pé,  
-   Revestindo-me do Teu poder.
+   Revestindo-me do Teu poder.   
 
  ---
 
-<div id='01'/> 
+<div id='143'/> 
 
-# 143  Porfiemos,  irmãos,  por entrar nos céus
+# 143  Porfiemos, irmãos, por entrar nos céus
 
-1. Jesus Cristo no céu preparou
+1. Jesus Cristo no céu preparou   
    Um lugar de repouso e esplendor;  
-   Breve nos fará entrar onde Ele já entrou:
-   Nas moradas do eterno Criador.
+   Breve nos fará entrar onde Ele já entrou:   
+   Nas moradas do eterno Criador.   
 
-   Porfiemos,   irmãos,  
+   Porfiemos, irmãos,  
    Por entrar lá nos céus;  
    Se vencermos o mal,  
-   Viveremos juntos ao grande Deus.
+   Viveremos juntos ao grande Deus.   
 
 2. Nesta terra tesouros não há,  
    Que nos possam aqui segurar;  
-   Desejamos ir ao céu onde Cristo nos dará
-   Um tesouro que nunca vai findar.
+   Desejamos ir ao céu onde Cristo nos dará   
+   Um tesouro que nunca vai findar.   
 
-3. Brevemente iremos entrar
+3. Brevemente iremos entrar   
    E reinar com os santos no céu;  
-   Novo hino de louvor juntos vamos entoar
-   A Jesus,   que a salvação nos deu.
+   Novo hino de louvor juntos vamos entoar   
+   A Jesus, que a salvação nos deu.   
 
  ---
 
-<div id='01'/> 
+<div id='144'/> 
 
 # 144  A vida eterna
 
-1. A vida eterna só Deus concede
-   Aos santos que seguem o Redentor.
-   Cristo nos guia e intercede
-   Junto ao Pai,   nosso Deus Criador.
+1. A vida eterna só Deus concede   
+   Aos santos que seguem o Redentor.   
+   Cristo nos guia e intercede   
+   Junto ao Pai, nosso Deus Criador.   
 
-2.   A sã Palavra,   fiel,   eterna,  
+2.   A sã Palavra, fiel, eterna,  
      É que dá vida e faz mui feliz;  
-     É nossa Força,   Paz sempiterna,  
-     Que nos conduz ao celeste país.
+     É nossa Força, Paz sempiterna,  
+     Que nos conduz ao celeste país.   
 
 3. O povo santo tem luz divina,  
    Sábios conselhos que vêm lá dos céus,  
-   Pois a Palavra o ilumina
-   E o faz servir ao Altíssimo Deus.
+   Pois a Palavra o ilumina   
+   E o faz servir ao Altíssimo Deus.   
 
  ---
 
-<div id='01'/> 
+<div id='145'/> 
 
-# 145  Pródigo filho,   vai!
+# 145  Pródigo filho, vai!
 
-1. Deus,   no Seu lar,   espera,  
-   O filho que perdera
+1. Deus, no Seu lar, espera,  
+   O filho que perdera   
    E que amado era;  
-   Pródigo filho,   vai!
+   Pródigo filho, vai!   
 
     Oh! vai a Deus e clama;  
     O Criador te ama;  
     O Seu perdão implora;  
-    Pródigo filho,   vai a Deus!
+    Pródigo filho, vai a Deus!   
     Ele mercê concede,  
     Cristo por ti intercede;  
     Se te arrependeres,  
-    Bens te dará,   dos céus.
+    Bens te dará, dos céus.   
 
-2. Seu filho,   Deus perdoa,  
+2. Seu filho, Deus perdoa,  
    Muito o abençoa,  
    De bênçãos o coroa;  
-   Pródigo filho,   vai!
+   Pródigo filho, vai!   
 
-3. Deixa a incerteza
+3. Deixa a incerteza   
    E toda a tristeza;  
    Com Deus terás riqueza;  
-   Pródigo filho,  vai!
+   Pródigo filho, vai!   
 
  ---
 
-<div id='01'/> 
+<div id='146'/> 
 
 # 146  De Deus veio a Luz
 
 1. De Deus veio a Luz: é Cristo Jesus,  
    O Guia que aos céus nos conduz;  
-   Jesus,   Redentor celestial,  
-   Dissipa as trevas do mal.
+   Jesus, Redentor celestial,  
+   Dissipa as trevas do mal.   
 
-2. Em Deus há saber,   profundo saber,  
+2. Em Deus há saber, profundo saber,  
    Favor e infinito poder;  
-   Proveu,   em Jesus,   a salvação;  
-   Proveu,   aos homens,   perdão.
+   Proveu, em Jesus, a salvação;  
+   Proveu, aos homens, perdão.   
 
-3. A Deus,   Criador,   e a Cristo,   o Senhor,  
-   Eterna gratidão e louvor
+3. A Deus, Criador, e a Cristo, o Senhor,  
+   Eterna gratidão e louvor   
    Darão sem cessar os santos Seus,  
-   Na terra e,   em breve nos céus.
+   Na terra e, em breve nos céus.   
 
  ---
 
-<div id='01'/> 
+<div id='147'/> 
 
 # 147  É bom louvar ao Criador
 
-1. É bom louvar ao Criador,   alçar a voz em louvor,  
+1. É bom louvar ao Criador, alçar a voz em louvor,  
    Contar as Suas obras e lembrar Seu grande amor,  
-   Render-Lhe santo culto,   sincera adoração;  
-   É bom,   perante Ele,   andar em retidão.
+   Render-Lhe santo culto, sincera adoração;  
+   É bom, perante Ele, andar em retidão.   
 
    Fiéis adoradores,  
    Louvai ao Deus vivente;  
    Por Seus imensos favores,  
-   Louvai ao Criador!
+   Louvai ao Criador!   
 
 2. Sinceramente exaltai o santo Nome de Deus,  
    Cantai alegremente ao Senhor que habita nos céus;  
    O coração e a mente ao grande Deus elevai;  
-   Ó filhos do Eterno,   ao Pai glorificai.
+   Ó filhos do Eterno, ao Pai glorificai.   
 
-3. Com humildade,   ó irmãos,   apresentai-vos a Deus,  
+3. Com humildade, ó irmãos, apresentai-vos a Deus,  
    Andai na santidade que convém a todos os Seus;  
    Com toda a vossa vida honrai a Quem vos amou,  
-   Àquele que,   do alto,   a salvação mandou.
+   Àquele que, do alto, a salvação mandou.   
 
  ---
 
-<div id='01'/> 
+<div id='148'/> 
 
-# 148  Louvor a Deus,   ó Criador
+# 148  Louvor a Deus, ó Criador
 
-1. Louvor a Deus,   o Criador,  
-   Do universo,   Regedor;  
+1. Louvor a Deus, o Criador,  
+   Do universo, Regedor;  
    É infinito Seu poder,  
-   É d'Ele a força e o saber.
-   Deus é perfeito,   é Amor,  
+   É d'Ele a força e o saber.   
+   Deus é perfeito, é Amor,  
    Está cercado de esplendor;  
    Os céus nos falam do Seu Ser,  
-   Tudo obedece ao Seu querer.
+   Tudo obedece ao Seu querer.   
 
-2. Louvor a Deus,   o Criador,  
+2. Louvor a Deus, o Criador,  
    Por ter mandado o Redentor;  
-   O Seu favor sublime é
-   Em Jesus Cristo,   Autor da fé;  
+   O Seu favor sublime é   
+   Em Jesus Cristo, Autor da fé;  
    Quem neste mundo enganador,  
    Obedecer ao Salvador,  
-   Receberá,   de Deus,   perdão,   virtude
-   E paz no coração.
+   Receberá, de Deus, perdão, virtude   
+   E paz no coração.   
 
-3. Louvor a Deus,   o Criador,  
-   Das sãs promessas,   Cumpridor;  
-   Por todos nós honrado é
-   E em nós habita,   pela fé;  
-   Ninguém impede o Criador,   com Cristo
+3. Louvor a Deus, o Criador,  
+   Das sãs promessas, Cumpridor;  
+   Por todos nós honrado é   
+   E em nós habita, pela fé;  
+   Ninguém impede o Criador, com Cristo   
    E o bom Consolador,  
    De operar a Seu prazer,  
-   Pois infinito é o Seu poder.
+   Pois infinito é o Seu poder.   
 
  ---
 
-<div id='01'/> 
+<div id='149'/> 
 
-# 149  Ó irmãos,   por fé louvemos a Jesus
+# 149  Ó irmãos, por fé louvemos a Jesus
 
-1. Ó irmãos ,   por fé louvemos a Jesus,   o Rei da glória;  
-   Pela Sua graça temos,   nos combates,   a vitória;  
+1. Ó irmãos , por fé louvemos a Jesus, o Rei da glória;  
+   Pela Sua graça temos, nos combates, a vitória;  
    O Consolador divino traz celeste e santo ensino;  
-   Glória a Deus que,   desde os céus,   mandou o Salvador.
+   Glória a Deus que, desde os céus, mandou o Salvador.   
 
-2. Ó irmãos,   já adotados,   entoemos doce canto
-   A Jesus,   por nós amado,   e a Deus,   três vezes Santo;  
+2. Ó irmãos, já adotados, entoemos doce canto   
+   A Jesus, por nós amado, e a Deus, três vezes Santo;  
    O Seu Nome exaltemos e Seus feitos proclamemos;  
-   Glória a Quem nos libertou e nos purificou.
+   Glória a Quem nos libertou e nos purificou.   
 
-3. Ó irmãos,   por Cristo,   somos,  
-   No Seu santo amor,  guardados;  
-   Do pecado escravos fomos,   mas,   por graça,   libertados;  
-   Consolados,   jubilamos,   paz com Deus agora temos;  
-   Santo,   Santo é o Senhor,   Autor da Salvação.
+3. Ó irmãos, por Cristo, somos,  
+   No Seu santo amor, guardados;  
+   Do pecado escravos fomos, mas, por graça, libertados;  
+   Consolados, jubilamos, paz com Deus agora temos;  
+   Santo, Santo é o Senhor, Autor da Salvação.   
 
-   Meus irmãos,   a Deus louvemos
+   Meus irmãos, a Deus louvemos   
    E a Cristo exaltemos;  
-   O Espírito da graça nos traz
-   O Seu amor.
+   O Espírito da graça nos traz   
+   O Seu amor.   
 
  ---
 
-<div id='01'/> 
+<div id='150'/> 
 
-# 150  Jesus Cristo,   meu Senhor
+# 150  Jesus Cristo, meu Senhor
 
-1. Jesus Cristo,   meu Senhor,  
+1. Jesus Cristo, meu Senhor,  
    Me justificou por fé;  
-   Pela graça,   pelo Seu amor,  
-   Alcancei de Deus mercê.
+   Pela graça, pelo Seu amor,  
+   Alcancei de Deus mercê.   
 
-2. Regozijo,   paz e amor,  
+2. Regozijo, paz e amor,  
    Alegria sem igual,  
    Eu desfruto em meu Salvador,  
-   O Cordeiro divinal.
+   O Cordeiro divinal.   
 
 3. Vivo no Senhor Jesus;  
    Sua vida sinto em mim;  
-   Ele é,   no mundo,   minha Luz
-   Para ir até o fim.
+   Ele é, no mundo, minha Luz   
+   Para ir até o fim.   
 
  ---
 
-<div id='01'/> 
+<div id='151'/> 
 
-# 151  Se,   de Cristo,   o nome amares
+# 151  Se, de Cristo, o nome amares
 
-1. Se,   de Cristo,   o Nome amares,  
-   Não terás,   do mal,   pavor;  
-   Se,   com fé,   O invocares
-   Ser-te-á ajudador.
+1. Se, de Cristo, o Nome amares,  
+   Não terás, do mal, pavor;  
+   Se, com fé, O invocares   
+   Ser-te-á ajudador.   
 
-   Nome bom,   sem igual,  
+   Nome bom, sem igual,  
    É o Nome de Jesus,  
-   Defensor eternal
-   Que à glória te conduz.
+   Defensor eternal   
+   Que à glória te conduz.   
 
-2. Se,   de Cristo,   o Nome amado
+2. Se, de Cristo, o Nome amado   
    Em ti bem gravado for,  
    Serás livre do pecado,  
-   Andarás em Seu temor.
+   Andarás em Seu temor.   
 
-3. Se,   de Cristo,   o Nome forte
+3. Se, de Cristo, o Nome forte   
    Invocares com fervor,  
    Tu não temerás a morte,  
-   Ele é teu Consolador.
+   Ele é teu Consolador.   
 
  ---
 
