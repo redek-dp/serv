@@ -12400,55 +12400,55 @@ Provinda de Jesus.
 
  ---
 
-<div id='01'/> 
+<div id='479'/> 
 
 # 479  Somos jovens consagrados
 
-1. Somos jovens consagrados
-   A Jesus,   o Redentor,  
-   E,   por Ele,   ensinados
-   A servir ao Criador.
+1. Somos jovens consagrados   
+   A Jesus, o Redentor,  
+   E, por Ele, ensinados   
+   A servir ao Criador.   
 
-   Que alegria encontramos
-   Em servir ao Criador!
-   Nós,   Seus filhos,   O amamos,  
-   Com sincero e puro amor.
+   Que alegria encontramos   
+   Em servir ao Criador!   
+   Nós, Seus filhos, O amamos,  
+   Com sincero e puro amor.   
 
-2. Somos jovens obedientes
-   A Jesus,   o Salvador,  
-   Atendemos,   reverentes,  
-   À Palavra do Senhor.
+2. Somos jovens obedientes   
+   A Jesus, o Salvador,  
+   Atendemos, reverentes,  
+   À Palavra do Senhor.   
 
-3. Somos jovens dedicados
+3. Somos jovens dedicados   
    Nesta obra do Senhor,  
-   Fomos todos resgatados
-   Por Seu sangue expiador.
+   Fomos todos resgatados   
+   Por Seu sangue expiador.   
 
  ---
 
-<div id='01'/> 
+<div id='480'/> 
 
-# 480  Jovens,   amai o conselho
+# 480  Jovens, amai o conselho
 
-1. Jovens,   amai o conselho,  
+1. Jovens, amai o conselho,  
    O ensino de Cristo Jesus;  
-   Ele é o vosso Modelo
-   De vida,   justiça e luz.
+   Ele é o vosso Modelo   
+   De vida, justiça e luz.   
 
-   A Deus e a Cristo,   o Senhor,  
+   A Deus e a Cristo, o Senhor,  
    Devemos consagração,  
-   Respeito,   honra,   profundo amor
-   E eterna veneração.
+   Respeito, honra, profundo amor   
+   E eterna veneração.   
 
-2. Vasos,  por Cristo,  escolhidos
-   Sereis,   para glória de Deus;  
-   Cristo vos quer revestidos
-   Das santas virtudes dos céus.
+2. Vasos, por Cristo, escolhidos   
+   Sereis, para glória de Deus;  
+   Cristo vos quer revestidos   
+   Das santas virtudes dos céus.   
 
 3. Jovens que seguem o Mestre,  
-   Em sua existência terão
-   A providência celeste
-   E próspero n’Ele serão.
+   Em sua existência terão   
+   A providência celeste   
+   E próspero n’Ele serão.   
 
  ---
 
