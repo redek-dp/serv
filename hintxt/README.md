@@ -12454,7 +12454,7 @@ Provinda de Jesus.
 
 <div id='Pontosdedoutrina'/> 
 
-# Pontos de doutrina e da fé que uma vez foi dada aos santos.
+## Pontos de doutrina e da fé que uma vez foi dada aos santos.
 
 1. Nós cremos na inteira Bíblia Sagrada e aceitamo-La como contendo a
    infalível Palavra de Deus,   inspirada pelo Espírito Santo. A Palavra de
@@ -12501,7 +12501,7 @@ Provinda de Jesus.
 
 <div id='dizendo'/> 
 
-# dizendo: " Este cálice é o Novo Testamento no meu sangue,   que é
+## dizendo: " Este cálice é o Novo Testamento no meu sangue,   que é
    derramado por vós". (Lucas 22:19-20;   I Coríntios 11:24-25)
 
 9. Nós cremos na necessidade de nos abster das coisas sacrificadas aos
@@ -12530,9 +12530,9 @@ Provinda de Jesus.
 
 <div id='Coros'/> 
 
-# Coros
+## Coros
 
-1  Aleluia! Aleluia!
+# 1  Aleluia! Aleluia!
 
 Aleluia! Aleluia! Aleluia! Aleluia! Glória ao Redentor!
 Aleluia! Aleluia! Aleluia! Aleluia! Glória ao Redentor!
@@ -12541,31 +12541,41 @@ Santo Remidor! Aleluia!
 Nosso Salvador! Aleluia!
 Glória a Jesus!
 
-2  Toda a glória a Jesus
+ ---
+
+# 2  Toda a glória a Jesus
 
 Toda a glória a Jesus! Toda a honra a Jesus!
 Juntos louvemos a Jesus! Seu santo Nome vamos exaltar.
 
-3  Ação de graças darei
+ ---
+
+# 3  Ação de graças darei
 
 Ação de graças darei a Jesus,   meu Pastor,   meu Rei;  
 As Suas obras contarei,   Seu Nome exaltarei!
 
-4  Glória,   glória nas alturas!
+ ---
 
-Glória,   glória nas alturas!
-Glória,   glória ao nosso Deus!
-Salvação nos preparou por Jesus,   que nos amou;  
+# 4  Glória, glória nas alturas!
+
+Glória, glória nas alturas!
+Glória,  glória ao nosso Deus!
+Salvação nos preparou por Jesus, que nos amou;  
 Glória ao Deus vivente que está nos céus!
 
-5  Majestoso é Cristo Jesus!
+ ---
+
+# 5  Majestoso é Cristo Jesus!
 
 Majestoso é Cristo Jesus,   o Senhor,  
 Majestoso é Cristo Jesus!
 O poder Deus Lhe deu quer na terra,   quer no céu,  
 Majestoso é Cristo Jesus!
 
-6  A Jesus eu cantarei louvor
+ ---
+
+# 6  A Jesus eu cantarei louvor
 
 A Jesus eu cantarei louvor;  
 Honra e glória sempre Lhe darei;  
