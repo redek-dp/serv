@@ -4191,523 +4191,523 @@
 
  ---
 
-<div id='01'/> 
+<div id='161'/> 
 
 # 161  Cristo quer salvar
 
 1. O Evangelho vamos anunciar,  
    Pois Cristo quer salvar e quer justificar;  
-   Verteu na cruz Seu sangue expiador
-   O justo Redentor.
+   Verteu na cruz Seu sangue expiador   
+   O justo Redentor.   
 
-    Em Cristo há perdão,   eterna salvação,  
+    Em Cristo há perdão, eterna salvação,  
     É Ele a celeste Luz;  
-    É,   do mundo,   eterna Redenção;  
-    Só Ele ao céu conduz.
+    É, do mundo, eterna Redenção;  
+    Só Ele ao céu conduz.   
 
 2. O Evangelho vamos proclamar,  
    Pois Cristo quer salvar e quer justificar;  
-   Mui breve,   em nuvens,   Ele voltará
-   E o prêmio nos dará.
+   Mui breve, em nuvens, Ele voltará   
+   E o prêmio nos dará.   
 
 3. Do Evangelho temos que falar,  
    Pois Cristo quer salvar e quer justificar;  
-   Por essa graça,   damos o louvor
-   A Deus,   o Criador.
+   Por essa graça, damos o louvor   
+   A Deus, o Criador.   
 
  ---
 
-<div id='01'/> 
+<div id='162'/> 
 
 # 162  Cristo salvou-me
 
-1. Cristo salvou-me,   tenho certeza,  
+1. Cristo salvou-me, tenho certeza,  
    Por Sua obra de redenção;  
    Fui perdoado por Sua graça,  
-   Sinto agora Sua unção.
+   Sinto agora Sua unção.   
 
-2. Cristo salvou-me;   que alegria
+2. Cristo salvou-me; que alegria   
    Sente minh’alma em Seu amor;  
-   Fui resgatado e libertado
-   Para viver com o meu Senhor.
+   Fui resgatado e libertado   
+   Para viver com o meu Senhor.   
 
-3. Cristo salvou-me;   sigo por tanto,  
+3. Cristo salvou-me; sigo por tanto,  
    Os bons conselhos do Criador;  
-   Ando,   por eles,   no bom caminho
-   Que me conduz ao lar de esplendor.
+   Ando, por eles, no bom caminho   
+   Que me conduz ao lar de esplendor.   
 
-   Oh! Que doçura,   sinto a virtude
+   Oh! Que doçura, sinto a virtude   
    Que tão alegre me faz viver;  
-   Sei que,   de Cristo,   a plenitude
-   Da Sua graça vou receber.
+   Sei que, de Cristo, a plenitude   
+   Da Sua graça vou receber.   
 
  ---
 
-<div id='01'/> 
+<div id='163'/> 
 
 # 163  Neste mundo de ilusão
 
 1. Neste mundo de ilusão não há felicidade;  
-   Só em Cristo há salvação,   pois Ele é a Verdade;  
-   Ei-Lo à porta a bater,   vida quer te conceder;  
-   De ninguém a podes ter,   só do Cordeiro de Deus.
+   Só em Cristo há salvação, pois Ele é a Verdade;  
+   Ei-Lo à porta a bater, vida quer te conceder;  
+   De ninguém a podes ter, só do Cordeiro de Deus.   
 
-   Queres felicidade?
+   Queres felicidade?   
    Crê no Senhor Jesus,  
-   Que,   por ti,   desceu dos céus;  
-   Crê no Cordeiro de Deus!
+   Que, por ti, desceu dos céus;  
+   Crê no Cordeiro de Deus!   
 
-2. Por ti,   Cristo padeceu dando a própria vida;  
-   Pela morte que sofreu,   graça te é concedida;  
-   Por ti,   Ele agonizou e Seu sangue derramou;  
-   Sua vida não poupou,   Cristo,   o Cordeiro de Deus.
+2. Por ti, Cristo padeceu dando a própria vida;  
+   Pela morte que sofreu, graça te é concedida;  
+   Por ti, Ele agonizou e Seu sangue derramou;  
+   Sua vida não poupou, Cristo, o Cordeiro de Deus.   
 
-3. Sem a Luz e sem a Paz andas,   no mundo,   aflito;  
-   Cristo mui feliz te faz,   oh! vem a Ele,   contrito;  
-   Vem,   sim,   vem ao bom Jesus,   receber a Sua luz,  
-   Que à glória te conduz. Vem ao Cordeiro de Deus!
+3. Sem a Luz e sem a Paz andas, no mundo, aflito;  
+   Cristo mui feliz te faz, oh! vem a Ele, contrito;  
+   Vem, sim, vem ao bom Jesus, receber a Sua luz,  
+   Que à glória te conduz. Vem ao Cordeiro de Deus!   
 
  ---
 
-<div id='01'/> 
+<div id='164'/> 
 
 # 164  Louvemos sempre alegres
 
-1. Louvemos sempre alegres a Deus,   três vezes Santo,  
-   Que,   por amar-nos tanto,   mandou o Salvador.
-   Jesus,   por Sua morte,   pagou nossas ofensas;  
-   Sofrendo dor imensa,   mostrou o Seu amor.
+1. Louvemos sempre alegres a Deus, três vezes Santo,  
+   Que, por amar-nos tanto, mandou o Salvador.   
+   Jesus, por Sua morte, pagou nossas ofensas;  
+   Sofrendo dor imensa, mostrou o Seu amor.   
 
-2. Estão os nossos nomes,   por Deus,   no céu escritos;  
-   Cheguemo-nos,   contritos,   ao Pai de eterno amor.
-   Em paz,   na Sua senda caminham os remidos,  
-   Lutando sempre unidos,   com força e valor.
+2. Estão os nossos nomes, por Deus, no céu escritos;  
+   Cheguemo-nos, contritos, ao Pai de eterno amor.   
+   Em paz, na Sua senda caminham os remidos,  
+   Lutando sempre unidos, com força e valor.   
 
-3. Jesus virá,   com glória,   fazer o julgamento
+3. Jesus virá, com glória, fazer o julgamento   
    De quem Seu mandamento não quis obedecer;  
-   Porém,   os Seus remidos já têm a esperança
-   E a firme confiança de o prêmio receber.
+   Porém, os Seus remidos já têm a esperança   
+   E a firme confiança de o prêmio receber.   
 
  ---
 
-<div id='01'/> 
+<div id='165'/> 
 
 # 165  Foi o Senhor Jesus
 
-1. Para salvar-nos,   quem veio do céu?
-   Nosso Senhor Jesus.
-   Ele,   ao poder do pecado venceu,  
-   Trouxe-nos vida e luz.
+1. Para salvar-nos, quem veio do céu?   
+   Nosso Senhor Jesus.   
+   Ele, ao poder do pecado venceu,  
+   Trouxe-nos vida e luz.   
 
-   Foi o Senhor Jesus
+   Foi o Senhor Jesus   
    Que nos abençoou;  
-   Da escravidão nos libertou
-   Nosso Senhor Jesus.
+   Da escravidão nos libertou   
+   Nosso Senhor Jesus.   
 
-2. Quem,   nesta graça,   nos pode guardar?
-   Cristo,   fiel Pastor.
-   Suas palavras nos podem guiar
-   Ao lar de esplendor.
+2. Quem, nesta graça, nos pode guardar?   
+   Cristo, fiel Pastor.   
+   Suas palavras nos podem guiar   
+   Ao lar de esplendor.   
 
-3. Quem poderá novas forças nos dar?
-   Cristo,   o Rei dos reis.
+3. Quem poderá novas forças nos dar?   
+   Cristo, o Rei dos reis.   
    Ele nos faz glória eterna alcançar;  
-   É Guia dos fiéis.
+   É Guia dos fiéis.   
 
  ---
 
-<div id='01'/> 
+<div id='166'/> 
 
 # 166  A graça inefável de Deus
 
-1. Se muitos soubessem que paz sem igual
+1. Se muitos soubessem que paz sem igual   
    Tem quem o perdão alcançou;  
    Por fé buscariam a graça eternal;  
-   Iriam a Deus,   que os amou.
+   Iriam a Deus, que os amou.   
 
    A graça inefável de Deus,  
    Que veio por Cristo Jesus,  
    É dom excelente que leva aos céus,  
-   Ao reino de glória e luz.
+   Ao reino de glória e luz.   
 
-2. Se muitos soubessem que grande amor
+2. Se muitos soubessem que grande amor   
    Desfrutam os santos de Deus,  
-   Iriam a Cristo Jesus,   o Senhor,  
-   Teriam herança nos céus.
+   Iriam a Cristo Jesus, o Senhor,  
+   Teriam herança nos céus.   
 
-3. Se muitos soubessem a glória que há
+3. Se muitos soubessem a glória que há   
    No reino que vamos herdar,  
-   Creriam em Cristo,   que vida nos dá,  
-   Iriam o mal rejeitar.
+   Creriam em Cristo, que vida nos dá,  
+   Iriam o mal rejeitar.   
 
  ---
 
-<div id='01'/> 
+<div id='167'/> 
 
 # 167  Água viva
 
-1. Água viva sai do Manancial
-   Que é Cristo,   o Redentor;  
-   Ela traz,   dos céus,   vida eternal
-   E converte o pecador.
+1. Água viva sai do Manancial   
+   Que é Cristo, o Redentor;  
+   Ela traz, dos céus, vida eternal   
+   E converte o pecador.   
 
     Dessa água quem quiser beber,  
     Só a Cristo deve recorrer;  
     Outra água nos fará perecer,  
-    Mas a de Jesus nos faz viver.
+    Mas a de Jesus nos faz viver.   
 
-2. Água viva da Fonte de amor
+2. Água viva da Fonte de amor   
    Só Jesus nos pode dar;  
-   D’Ele vem perdão para o pecador
-   Que deseja se salvar.
+   D’Ele vem perdão para o pecador   
+   Que deseja se salvar.   
 
 3. Água viva do trono celestial,  
    Refrigério a todos traz;  
-   Outras águas há,   mas nenhuma igual
-   Á do Príncipe da paz.
+   Outras águas há, mas nenhuma igual   
+   Á do Príncipe da paz.   
 
  ---
 
-<div id='01'/> 
+<div id='168'/> 
 
 # 168  A Palavra do Senhor
 
-1. Na Palavra do Senhor,   bons conselhos pode achar,  
-   Neste mundo,   o pecador que na glória quer entrar;  
-   Tem virtude,   tem vigor a Palavra do Senhor,  
-   É a Guia do fiel para ir ao Criador.
+1. Na Palavra do Senhor, bons conselhos pode achar,  
+   Neste mundo, o pecador que na glória quer entrar;  
+   Tem virtude, tem vigor a Palavra do Senhor,  
+   É a Guia do fiel para ir ao Criador.   
 
-   A Palavra do Senhor
-   Mostra a todo o pecador
-   Que Deus,   por Seu grande amor,  
-   Enviou o Salvador.
+   A Palavra do Senhor   
+   Mostra a todo o pecador   
+   Que Deus, por Seu grande amor,  
+   Enviou o Salvador.   
 
-2. Quem procura o Salvador,   certamente O achará
-   No Evangelho do amor,   que riqueza a todos dá;  
+2. Quem procura o Salvador, certamente O achará   
+   No Evangelho do amor, que riqueza a todos dá;  
    Quem quiser de graça ter o perdão e a salvação,  
-   Deve a Cristo recorrer,   com sincero coração.
+   Deve a Cristo recorrer, com sincero coração.   
 
 3. Quem a Cristo encontrar e virtude suplicar,  
-   Transformado ficará para,   a Deus,   glorificar;  
-   Provará o puro amor de Jesus,   o Salvador,  
-   Sustentado pela fé no poder do Criador.
+   Transformado ficará para, a Deus, glorificar;  
+   Provará o puro amor de Jesus, o Salvador,  
+   Sustentado pela fé no poder do Criador.   
 
  ---
 
-<div id='01'/> 
+<div id='169'/> 
 
 # 169  Aos pés de Deus estamos
 
 1. Aos pés de Deus estamos,  
    Perante Quem nos prostramos;  
-   Por fé O adoramos
+   Por fé O adoramos   
    Com devoção e fervor;  
    Em nome do Seu Filho,  
    Nós nos apresentamos;  
    Humildemente oramos,  
-   Rogando Seu favor.
+   Rogando Seu favor.   
 
 2. Tudo o que padecemos,  
    Já padeceu nosso Mestre,  
    Mas foi vitorioso;  
    Nos concedeu salvação;  
-   Ele intercede agora junto
-   Ao Pai celeste
-   Para ser atendida
-   A nossa oração.
+   Ele intercede agora junto   
+   Ao Pai celeste   
+   Para ser atendida   
+   A nossa oração.   
 
 3. Nunca desanimemos mas,  
-   Confiantes,   oremos,  
-   Certos de que Deus ouve a voz
+   Confiantes, oremos,  
+   Certos de que Deus ouve a voz   
    Do nosso clamor;  
    Ele é o Onipotente,  
    Só n’Ele confiemos;  
-   Todo o louvor daremos
-   A Deus,   o Criador.
+   Todo o louvor daremos   
+   A Deus, o Criador.   
 
  ---
 
-<div id='01'/> 
+<div id='170'/> 
 
-# 170  Pai eternal,   envia dos céus...
+# 170  Pai eternal, envia dos céus...
 
 1. Glória! Aleluia! Ó bom Pai dos céus,  
    O Evangelho nos fez filhos Teus;  
    Por Ele temos a fé em Jesus,  
-   Temos conforto,   justiça e luz.
+   Temos conforto, justiça e luz.   
 
-   Pai eternal,   envia dos céus
+   Pai eternal, envia dos céus   
    Tua fiel Palavra de amor;  
    N’Ela consiste a vida dos Teus;  
-   Glória ao Teu Nome,   amado Senhor!
+   Glória ao Teu Nome, amado Senhor!   
 
-2. A Ti pertencem,   ó Pai de amor,  
-   Glória e honra,   e todo o louvor;  
+2. A Ti pertencem, ó Pai de amor,  
+   Glória e honra, e todo o louvor;  
    Pelo Evangelho nós temos a paz,  
-   Forças do alto e graça eficaz.
+   Forças do alto e graça eficaz.   
 
-3. É o Evangelho que nos faz crescer
-   Na santidade,   virtude e poder;  
+3. É o Evangelho que nos faz crescer   
+   Na santidade, virtude e poder;  
    N’Ele entendemos Teu grande favor;  
-   Damos-Te glória,   ó Pai de amor.
+   Damos-Te glória, ó Pai de amor.   
 
  ---
 
-<div id='01'/> 
+<div id='171'/> 
 
 # 171  Vida eterna! Vida eterna!
 
-1. As moradas preparadas para os santos do Senhor
+1. As moradas preparadas para os santos do Senhor   
    São ornadas de beleza sem igual;  
-   Nelas nós habitaremos com Jesus,   o Redentor,  
-   E com Deus,   o nosso Pai celestial.
+   Nelas nós habitaremos com Jesus, o Redentor,  
+   E com Deus, o nosso Pai celestial.   
 
-   Vida eterna,   vida eterna
+   Vida eterna, vida eterna   
    Nós teremos junto ao nosso Deus;  
-   Regozijo,   alegria sempiterna,  
-   É o prêmio dos eleitos Seus.
+   Regozijo, alegria sempiterna,  
+   É o prêmio dos eleitos Seus.   
 
 2. É de ouro a cidade gloriosa do Senhor,  
    Resplandece para sempre sua luz;  
-   Não há nela sol nem lua,   pois tem luz do Criador
-   E também a sua Lâmpada é Jesus.
+   Não há nela sol nem lua, pois tem luz do Criador   
+   E também a sua Lâmpada é Jesus.   
 
 3. Com as vestes brancas e entoando hinos de louvor,  
-   Triunfantes,   entraremos lá nos céus;  
+   Triunfantes, entraremos lá nos céus;  
    Lá veremos todos quantos já dormiram no Senhor,  
-   Lá veremos,   face a face,   nosso Deus.
+   Lá veremos, face a face, nosso Deus.   
 
  ---
 
-<div id='01'/> 
+<div id='172'/> 
 
 # 172  Um culto santo ao Senhor (Encerramento)
 
-1. Um culto santo ao Senhor
+1. Um culto santo ao Senhor   
    Foi celebrado com amor;  
-   Foi recebido lá nos céus
-   Por nosso poderoso Deus.
+   Foi recebido lá nos céus   
+   Por nosso poderoso Deus.   
 
 2. Um novo alento há em nós,  
    Pois Deus ouviu a nossa voz;  
-   A sã Palavra nos mandou
-   E nossas forças renovou.
+   A sã Palavra nos mandou   
+   E nossas forças renovou.   
 
-3. Com o conselho divinal
+3. Com o conselho divinal   
    Suplantaremos todo o mal;  
-   E,   face a face,   lá nos céus,  
-   Veremos nosso grande Deus.
+   E, face a face, lá nos céus,  
+   Veremos nosso grande Deus.   
 
  ---
 
-<div id='01'/> 
+<div id='173'/> 
 
 # 173  Para ouvir aqui estamos
 
-1. Para ouvir aqui estamos
+1. Para ouvir aqui estamos   
    A Palavra do Senhor;  
-   Só por Ela temos vida
-   E a luz do Salvador.
+   Só por Ela temos vida   
+   E a luz do Salvador.   
 
-   Templos santos fomos feitos
+   Templos santos fomos feitos   
    Para habitação de Deus;  
    O Senhor nos quer perfeitos;  
-   Somos os eleitos Seus.
+   Somos os eleitos Seus.   
 
-2. Exaltando aqui estamos
-   A Jesus,   que nos salvou;  
+2. Exaltando aqui estamos   
+   A Jesus, que nos salvou;  
    Todo o louvor Lhe damos;  
-   Ele já nos resgatou.
+   Ele já nos resgatou.   
 
-3. Nós devemos ser-Lhe gratos
+3. Nós devemos ser-Lhe gratos   
    Pelo Seu imenso amor;  
-   Nesta casa,   e em toda a parte,  
-   Exaltamos ao Senhor.
+   Nesta casa, e em toda a parte,  
+   Exaltamos ao Senhor.   
 
  ---
 
-<div id='01'/> 
+<div id='174'/> 
 
 # 174  Vem atender ao Seu chamado
 
 1. Ao amado Jesus Cristo dá ouvidos,  
    Ele diz "Vem a Mim";  
    E serão os teus pecados esquecidos;  
-   Cristo diz "Vem a Mim".
+   Cristo diz "Vem a Mim".   
 
    Vem atender ao Seu chamado;  
-   Serás,   por Cristo,   perdoado
-   E fará de ti um bem-aventurado.
-   Diz Jesus: "Vem a Mim".
+   Serás, por Cristo, perdoado   
+   E fará de ti um bem-aventurado.   
+   Diz Jesus: "Vem a Mim".   
 
 2. Só Jesus tem força para libertar-te;  
    Crê no teu Redentor;  
-   Ele quer,   com Deus,   o Pai,   reconciliar-te;  
-   Crê no teu Salvador.
+   Ele quer, com Deus, o Pai, reconciliar-te;  
+   Crê no teu Salvador.   
 
-3. Sobre a amarga cruz,   por ti,   provou a morte;  
+3. Sobre a amarga cruz, por ti, provou a morte;  
    Ouve a voz do Senhor;  
    Não rejeites tão preciosa e grande sorte;  
-   Vem provar Seu amor.
+   Vem provar Seu amor.   
 
  ---
 
-<div id='01'/> 
+<div id='175'/> 
 
 # 175  O Senhor Jesus te chama
 
 1. O Senhor Jesus te chama,  
    Com sublime e grande amor;  
-   Não desprezes Quem te ama
-   E quer ser teu Salvador.
+   Não desprezes Quem te ama   
+   E quer ser teu Salvador.   
 
-   Deixa Cristo,   o Rei da glória,  
+   Deixa Cristo, o Rei da glória,  
    Possuir teu coração,  
-   Se desejas ter vitória
-   E eterna salvação.
+   Se desejas ter vitória   
+   E eterna salvação.   
 
-2. O prazer bem cedo finda
+2. O prazer bem cedo finda   
    Neste mundo sedutor;  
-   Cristo quer,   em Sua vinda,  
-   Dar-te o reino de esplendor.
+   Cristo quer, em Sua vinda,  
+   Dar-te o reino de esplendor.   
 
 3. Hoje é dia aceitável,  
    Hoje é dia de perdão;  
    Com amor inigualável,  
-   Cristo dá a salvação.
+   Cristo dá a salvação.   
 
  ---
 
-<div id='01'/> 
+<div id='176'/> 
 
-# 176  Por Ti vivo,   ó Deus potente
+# 176  Por Ti vivo, ó Deus potente
 
-1. Viver desejo só por Ti,   Senhor,  
+1. Viver desejo só por Ti, Senhor,  
    Cumprindo sempre Teu querer,  
-   Mostrando a luz ao mundo enganador
-   E consagrando a Ti meu ser.
+   Mostrando a luz ao mundo enganador   
+   E consagrando a Ti meu ser.   
 
-   Por Ti vivo,   ó Deu potente;  
-   Por Ti,   Senhor,   sempre viverei;  
-   Com minh’alma,   mui reverente,  
-   O Teu Nome bendirei.
+   Por Ti vivo, ó Deu potente;  
+   Por Ti, Senhor, sempre viverei;  
+   Com minh’alma, mui reverente,  
+   O Teu Nome bendirei.   
 
-2. Viver por Ti,   Senhor,   honroso é,  
+2. Viver por Ti, Senhor, honroso é,  
    Oh! Faz-me andar em Teu amor;  
-   Em paz prosseguirei de fé em fé
-   E vencerei o tentador.
+   Em paz prosseguirei de fé em fé   
+   E vencerei o tentador.   
 
-3. Viver desejo,   ó Deus,   em retidão,  
+3. Viver desejo, ó Deus, em retidão,  
    Com as virtudes celestiais;  
-   De Ti receberei o galardão
-   E as riquezas eternais.
+   De Ti receberei o galardão   
+   E as riquezas eternais.   
 
  ---
 
-<div id='01'/> 
+<div id='177'/> 
 
 # 177  Eu necessito achegar-me
 
-1. Eu necessito achegar-me
+1. Eu necessito achegar-me   
    Ao meu fiel e bondoso Senhor,  
-   Para poder consolar-me
-   Sempre no Seu infinito amor.
+   Para poder consolar-me   
+   Sempre no Seu infinito amor.   
 
-   Sim,   eu necessito entregar-me
+   Sim, eu necessito entregar-me   
    Nos braços do meu Redentor;  
    Só em Jesus poderei abrigar-me,  
-   Pois é fiel Defensor.
+   Pois é fiel Defensor.   
 
-2. Eu necessito ater-me
-   Ao meu Senhor,   o veraz Redentor;  
-   Não posso,   eu só,   defender-me,  
-   Mas com Jesus eu serei vencedor.
+2. Eu necessito ater-me   
+   Ao meu Senhor, o veraz Redentor;  
+   Não posso, eu só, defender-me,  
+   Mas com Jesus eu serei vencedor.  
 
-3. Eu necessito prostrar-me
+3. Eu necessito prostrar-me   
    Aos santos pés do meu bom Redentor;  
-   Ele ao céu quer levar-me
-   Por Seu eterno e sublime amor.
+   Ele ao céu quer levar-me   
+   Por Seu eterno e sublime amor.   
 
  ---
 
-<div id='01'/> 
+<div id='178'/> 
 
 # 178  A Palavra preciosa
 
 1. A Palavra da verdade,  
-   De Deus Pai,   o Criador,  
-   Traz dos céus a santidade
-   Aos remidos do Senhor.
+   De Deus Pai, o Criador,  
+   Traz dos céus a santidade   
+   Aos remidos do Senhor.   
 
-   A Palavra preciosa
-   Do fiel,   vivente Deus,  
+   A Palavra preciosa   
+   Do fiel, vivente Deus,  
    É Espada poderosa,  
-   Que defende os santos Seus.
+   Que defende os santos Seus.   
 
-2. A Palavra criadora trouxe
-   Ao mundo grande luz
-   Pela obra redentora
-   Consumada por Jesus.
+2. A Palavra criadora trouxe   
+   Ao mundo grande luz   
+   Pela obra redentora   
+   Consumada por Jesus.   
 
-3. Para sempre permanece
+3. Para sempre permanece   
    A Palavra divinal;  
-   Nossas almas fortalece
-   E protege-nos do mal.
+   Nossas almas fortalece   
+   E protege-nos do mal.   
 
  ---
 
-<div id='01'/> 
+<div id='179'/> 
 
 # 179  Trabalhai! Trabalhai!
 
-1. Trabalhemos,   irmãos,   somos servos de Deus,  
+1. Trabalhemos, irmãos, somos servos de Deus,  
    As searas de Cristo já brancas estão;  
    Recebendo as forças que vêm lá dos céus,  
-   Cumpriremos,   alegres,   a nossa missão.
+   Cumpriremos, alegres, a nossa missão.   
 
-   Trabalhai,   trabalhai,  
-   Vigiai,   vigiai
+   Trabalhai, trabalhai,  
+   Vigiai, vigiai   
    E orai sem cessar,  
-   Pois breve o Mestre vai voltar.
+   Pois breve o Mestre vai voltar.   
 
-2. Trabalhemos,   irmãos,   com afinco e amor,  
-   Anunciando aos famintos que o pão celestial
-   É Jesus,   a Palavra de vida e vigor;  
-   Ela nos alimenta e nos livra do mal.
+2. Trabalhemos, irmãos, com afinco e amor,  
+   Anunciando aos famintos que o pão celestial   
+   É Jesus, a Palavra de vida e vigor;  
+   Ela nos alimenta e nos livra do mal.   
 
-3. Trabalhemos,   irmãos,   pois ungiu-nos o Pai
-   Para a graça de Cristo,   por fé propagar;  
-   Os talentos,   o Mestre nos diz: "Granjeai".
-   Sobre o muito,   no céu,   nos irá colocar.
+3. Trabalhemos, irmãos, pois ungiu-nos o Pai   
+   Para a graça de Cristo, por fé propagar;  
+   Os talentos, o Mestre nos diz: "Granjeai".   
+   Sobre o muito, no céu, nos irá colocar.   
 
  ---
 
-<div id='01'/> 
+<div id='180'/> 
 
 # 180  Jesus é a Luz que veio ao mundo...
 
-1. Jesus é a Luz que veio
+1. Jesus é a Luz que veio   
    Ao mundo para me resgatar;  
    Em trevas eu jamais andarei,  
-   Pois Ele me faz brilhar.
+   Pois Ele me faz brilhar.   
 
    Se eu andar nessa Luz,  
-   Um dia eu verei o fiel,   bom Jesus;  
+   Um dia eu verei o fiel, bom Jesus;  
    Na casa de Deus Pai,  
-   Eu contemplarei todo o esplendor
-   Do meu Redentor. Que alegria!
+   Eu contemplarei todo o esplendor   
+   Do meu Redentor. Que alegria!   
    Lá não há tristeza e nem mal,  
-   Só o amor perenal.
+   Só o amor perenal.   
 
-2. Jesus,   com Sua luz divina,  
+2. Jesus, com Sua luz divina,  
    Mostrou-me a salvação;  
    A minha mente esclareceu;  
-   Livrou-me da perdição.
+   Livrou-me da perdição.   
 
-3. Jesus,   vem com a Tua gloriosa luz
-   Para me guiar
+3. Jesus, vem com a Tua gloriosa luz   
+   Para me guiar   
    No Evangelho santo,  
-   Até findar meu peregrinar.
+   Até findar meu peregrinar.  
 
  ---
 
