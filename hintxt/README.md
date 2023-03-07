@@ -3968,226 +3968,226 @@
 
  ---
 
-<div id='01'/> 
+<div id='152'/> 
 
 # 152  Venho á casa do Senhor
 
 1. Ao entrar na casa do bom Criador,  
    O meu ser se regozija;  
    Para desfrutar do Seu sublime amor,  
-   Venho à casa do Senhor.
+   Venho à casa do Senhor.   
 
-   É na casa do Senhor
+   É na casa do Senhor   
    Que aprendo a honrar,  
    Com temor e reverência,  
-   Meu amado Criador.
+   Meu amado Criador.   
 
 2. Quando estou na casa do bom Criador,  
    Minha alma rejubila;  
    Para ouvir os Seus conselhos de amor,  
-   Venho à casa do Senhor.
+   Venho à casa do Senhor.   
 
 3. Terminando o santo culto ao Criador,  
    Sinto paz e alegria;  
    Meditando no glorioso Seu amor,  
-   Deixo a casa do Senhor.
+   Deixo a casa do Senhor.   
 
  ---
 
-<div id='01'/> 
+<div id='153'/> 
 
 # 153  O divinal Cordeiro
 
-1. O divinal Cordeiro,   puríssimo,   inocente,  
+1. O divinal Cordeiro, puríssimo, inocente,  
    Tomou os meus pecados e deu-me Sua fé;  
-   Prostrar-me-ei humilde,   a Ele reverente,  
-   Por Seu precioso sangue,   eu alcancei mercê.
+   Prostrar-me-ei humilde, a Ele reverente,  
+   Por Seu precioso sangue, eu alcancei mercê.   
 
-2. Estava no pecado,   mas graça tenho achado
-   Em Cristo,   mui bondoso,   Autor da salvação;  
-   Amável e humilde,   ao Pai foi consagrado
-   A fim de libertar-me da eterna perdição.
+2. Estava no pecado, mas graça tenho achado   
+   Em Cristo, mui bondoso, Autor da salvação;  
+   Amável e humilde, ao Pai foi consagrado   
+   A fim de libertar-me da eterna perdição.   
 
-3. Ao divinal Cordeiro,   Jesus,   o Rei eterno,  
+3. Ao divinal Cordeiro, Jesus, o Rei eterno,  
    Com toda a minha alma entoarei louvor,  
-   Pois Ele preparou-me um lar de amor superno
-   No Seu celeste reino de vida e esplendor.
+   Pois Ele preparou-me um lar de amor superno   
+   No Seu celeste reino de vida e esplendor.   
 
  ---
 
-<div id='01'/> 
+<div id='154'/> 
 
 # 154  Terá que renascer
 
-1. O homem que busca a Cristo,   o Senhor,  
+1. O homem que busca a Cristo, o Senhor,  
    Querendo a vida eterna encontrar,  
-   O santo conselho do bom Redentor
-   Não deve rejeitar.
+   O santo conselho do bom Redentor   
+   Não deve rejeitar.   
 
    Terá que renascer,  
-   Terá que renascer.
-   Quem quer habitar
+   Terá que renascer.   
+   Quem quer habitar   
    Nas moradas de Deus,  
-   Terá que renascer.
+   Terá que renascer.   
 
 2. Da água e do Espírito quem não nascer,  
    Jamais poderá ver o reino dos céus,  
    E nem entrará nele para viver;  
-   Jamais verá a Deus.
+   Jamais verá a Deus.   
 
-3. Só Cristo,   unigênito Filho de Deus,  
+3. Só Cristo, unigênito Filho de Deus,  
    Liberta o homem da condenação,  
-   A fim de levá-lo ao reino do céus
-   E dar-lhe galardão.
+   A fim de levá-lo ao reino do céus   
+   E dar-lhe galardão.   
 
  ---
 
-<div id='01'/> 
+<div id='155'/> 
 
-# 155  Olha a Cristo,   o Redentor
+# 155  Olha a Cristo, o Redentor
 
-1. Olha a Cristo,   o Redentor,  
+1. Olha a Cristo, o Redentor,  
    E não desprezes o Seu amor;  
-   Só por Seu sangue Deus dá mercê
-   E salvação,   que vêm pela fé.
+   Só por Seu sangue Deus dá mercê   
+   E salvação, que vêm pela fé.   
 
-   Por Jesus,   receberás
+   Por Jesus, receberás   
    O perdão e a paz dos céus;  
-   O Seu sangue livrará
-   Tua alma da ira de Deus.
+   O Seu sangue livrará   
+   Tua alma da ira de Deus.   
 
-2. Por Sua graça,   o Salvador
+2. Por Sua graça, o Salvador   
    Quer conceder-te grande favor;  
-   Ele te chama,   vem sem tardar,  
-   Vem no Seu sangue te abrigar.
+   Ele te chama, vem sem tardar,  
+   Vem no Seu sangue te abrigar.   
 
 3. Sem o Seu sangue não há perdão,  
-   Não há,   com Deus,   reconciliação;  
+   Não há, com Deus, reconciliação;  
    Das obras mortas limpo serás;  
-   Vida com glória eterna terás.
+   Vida com glória eterna terás.   
 
  ---
 
-<div id='01'/> 
+<div id='156'/> 
 
 # 156  Cristo entrou nos céus primeiro
 
-1. A esperança de entrar na glória
+1. A esperança de entrar na glória   
    Nos sustém fiéis ao nosso Deus;  
-   É,   para os santos,   neste caminho,  
-   Âncora que vem dos céus.
+   É, para os santos, neste caminho,  
+   Âncora que vem dos céus.   
 
    Cristo entrou nos céus primeiro,  
    Ele é o nosso Precursor;  
-   É o Sumo Sacerdote eterno
-   Junto a Deus,   o Criador.
+   É o Sumo Sacerdote eterno   
+   Junto a Deus, o Criador.   
 
 2. Na esperança que está proposta,  
    Firme está a nossa vocação;  
-   Ela sustenta a nossa alma
-   Através da provação.
+   Ela sustenta a nossa alma   
+   Através da provação.   
 
-3. No santuário dos céus entraremos
-   Como entrou Jesus,   o nosso Rei,  
-   Se atendermos ao Seus preceitos
-   E amarmos Sua lei.
+3. No santuário dos céus entraremos   
+   Como entrou Jesus, o nosso Rei,  
+   Se atendermos ao Seus preceitos   
+   E amarmos Sua lei.   
 
  ---
 
-<div id='01'/> 
+<div id='157'/> 
 
 # 157  Ouve a voz que te convida...
 
-1. Vendo Deus que,   neste mundo,   o pecado imperou,  
-   Por amor santo e profundo,   a Seu filho enviou
-   Para vencer o pecado e nos libertar.
-   Tu também podes ser salvo,   por Jesus podes ser salvo;  
-   Vai a Ele sem tardar,   vai ao Mestre sem tardar.
+1. Vendo Deus que, neste mundo, o pecado imperou,  
+   Por amor santo e profundo, a Seu filho enviou   
+   Para vencer o pecado e nos libertar.   
+   Tu também podes ser salvo, por Jesus podes ser salvo;  
+   Vai a Ele sem tardar, vai ao Mestre sem tardar.   
 
-2. Da prisão do teu pecado,   Cristo quer te libertar;  
-   Ele foi crucificado para te regenerar.
-   Crê em Jesus,   o Cordeiro,   que te salvará.
-   Servo és do teu pecado,   morto estás no teu pecado;  
-   Crê somente e viverás,   para Cristo viverás.
+2. Da prisão do teu pecado, Cristo quer te libertar;  
+   Ele foi crucificado para te regenerar.   
+   Crê em Jesus, o Cordeiro, que te salvará.   
+   Servo és do teu pecado, morto estás no teu pecado;  
+   Crê somente e viverás, para Cristo viverás.   
 
-3. Ouve a voz que te convida,   dá ouvidos ao teu Deus,  
-   E terás a nova vida que,   por graça,   têm os Seus;  
+3. Ouve a voz que te convida, dá ouvidos ao teu Deus,  
+   E terás a nova vida que, por graça, têm os Seus;  
    Quer-te remir Jesus Cristo e te dar a paz;  
-   E ao fim,   na Sua glória,   no esplendor da Sua glória,  
-   Vida eterna alcançarás,   galardão alcançarás.
+   E ao fim, na Sua glória, no esplendor da Sua glória,  
+   Vida eterna alcançarás, galardão alcançarás.   
 
  ---
 
-<div id='01'/> 
+<div id='158'/> 
 
 # 158  Meu lar está no céu
 
-1. Meu lar está no céu,   pátria de amor,  
-   Onde com o Senhor,   habitarei;  
-   Oh! Quão feliz serei ao ver o Criador!
-   Seu grande esplendor contemplarei.
+1. Meu lar está no céu, pátria de amor,  
+   Onde com o Senhor, habitarei;  
+   Oh! Quão feliz serei ao ver o Criador!   
+   Seu grande esplendor contemplarei.   
 
-2. Meu lar está no céu,   pátria de amor,  
-   Onde,   do meu labor,   descasarei;  
-   Cristo me promete dar,   pelo Seu favor,  
-   Herança que no céus desfrutarei.
+2. Meu lar está no céu, pátria de amor,  
+   Onde, do meu labor, descasarei;  
+   Cristo me promete dar, pelo Seu favor,  
+   Herança que no céus desfrutarei.   
 
-3. Meu lar está no céu,   pátria de amor,  
-   Em glória,   com Jesus,   lá entrarei;  
-   Quando,   enfim,   chegar ao reino de esplendo,  
-   Livre de toda a dor,   repousarei.
+3. Meu lar está no céu, pátria de amor,  
+   Em glória, com Jesus, lá entrarei;  
+   Quando, enfim, chegar ao reino de esplendo,  
+   Livre de toda a dor, repousarei.   
 
  ---
 
-<div id='01'/> 
+<div id='159'/> 
 
 # 159  Deus amou o mundo
 
 1. Deus amou o mundo e enviou Jesus,  
-   O Autor da graça,   que nos resgatou;  
+   O Autor da graça, que nos resgatou;  
    Grande vitupério suportou na cruz;  
-   Pela Sua morte,   ao homem perdoou.
+   Pela Sua morte, ao homem perdoou.   
 
-   Que glorioso amor,   que sublime amor
-   Deus manifestou,   salvando o pecador!
-   Que divino amor,   que imenso amor
-   Deus nos revelou em Cristo,   o Salvador!
+   Que glorioso amor, que sublime amor   
+   Deus manifestou, salvando o pecador!   
+   Que divino amor, que imenso amor   
+   Deus nos revelou em Cristo, o Salvador!   
 
 2. O decreto santo do eterno Deus,  
-   Foi na cruz,   cumprido pelo Redentor;  
+   Foi na cruz, cumprido pelo Redentor;  
    O Seu sacrifício nos abriu os céus,  
-   Trouxe luz e vida para o pecador.
+   Trouxe luz e vida para o pecador.   
 
-3. Por amor profundo,   Deus mandou Jesus;  
+3. Por amor profundo, Deus mandou Jesus;  
    Todo o que crer n’Ele não perecerá,  
    Mas a vida eterna em Seu lar de luz,  
-   Com superna glória,   junto a Deus,   terá.
+   Com superna glória, junto a Deus, terá.   
 
  ---
 
-<div id='01'/> 
+<div id='160'/> 
 
-# 160 -"Sou o Caminho,   a Verdade e a Vida
+# 160 -"Sou o Caminho, a Verdade e a Vida
 
-1. "Sou o Caminho",   disse-nos Jesus;  
+1. "Sou o Caminho", disse-nos Jesus;  
    Neste Caminho vamos nós andar,  
-   Firmes na fé,   pois ela nos conduz
-   Na esperança de,   no céu,   morar.
+   Firmes na fé, pois ela nos conduz   
+   Na esperança de, no céu, morar.   
 
-2. "Sou a Verdade",   disse-o Salvador;  
+2. "Sou a Verdade", disse-o Salvador;  
    Nessa Verdade vamos nos firmar;  
    Ela nos leva ao reino de amor,  
-   Onde os fiéis em breve irão entrar.
+   Onde os fiéis em breve irão entrar.   
 
-3. "Eu sou a Vida",   disse o Redentor;  
+3. "Eu sou a Vida", disse o Redentor;  
    È essa Vida que suplanta o mal,  
-   Vida perfeita,   Vida de amor,  
-   Vida sublime e celestial.
+   Vida perfeita, Vida de amor,  
+   Vida sublime e celestial.   
 
-4. "Ninguém virá ao Pai,   senão por Mim",  
-   Disse Jesus,   Autor da Salvação;  
+4. "Ninguém virá ao Pai, senão por Mim",  
+   Disse Jesus, Autor da Salvação;  
    Só no Senhor há dádivas sem fim,  
-   Só n’Ele alcançaremos redenção.
+   Só n’Ele alcançaremos redenção.   
 
  ---
 
