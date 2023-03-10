@@ -4711,518 +4711,518 @@
 
  ---
 
-<div id='01'/> 
+<div id='181'/> 
 
-# 181  Só em Cristo,   Só em Cristo
+# 181  Só em Cristo, Só em Cristo
 
-1. Vós,   que procurais a água que dá vida,  
-   Vinde a Cristo,   Fonte do perdão;  
+1. Vós, que procurais a água que dá vida,  
+   Vinde a Cristo, Fonte do perdão;  
    Toda a alma contristada e abatida,  
-   Em Jesus encontrará a salvação.
+   Em Jesus encontrará a salvação.   
 
-   Só em Cristo,   só em Cristo,  
+   Só em Cristo, só em Cristo,  
    Água viva todos podem encontrar;  
-   Só em Cristo,   só em Cristo,  
-   Vós,   sedentos,   podereis vos saciar.
+   Só em Cristo, só em Cristo,  
+   Vós, sedentos, podereis vos saciar.   
 
-2. Nesta fonte tão preciosa,   inesgotável,  
+2. Nesta fonte tão preciosa, inesgotável,  
    Refrigério todos acharão;  
-   Recorrendo a Jesus,   Pastor amável,  
-   Os sedentos não mais sede sentirão.
+   Recorrendo a Jesus, Pastor amável,  
+   Os sedentos não mais sede sentirão.   
 
-3. Cristo é o Manancial que purifica
+3. Cristo é o Manancial que purifica   
    E enobrece todo o coração;  
-   Seu Espírito encoraja,   santifica
-   E ensina a viver em retidão.
+   Seu Espírito encoraja, santifica   
+   E ensina a viver em retidão.   
 
  ---
 
-<div id='01'/> 
+<div id='182'/> 
 
 # 182  Brevemente retornará Jesus Cristo
 
-1. Brevemente retornará
+1. Brevemente retornará   
    E a promessa cumprirá,  
-   Jesus Cristo,   o Rei dos reis,  
+   Jesus Cristo, o Rei dos reis,  
    Que ao céu nos levará;  
-   Pois só Ele pode nos dar
-   O eterno galardão.
+   Pois só Ele pode nos dar   
+   O eterno galardão.   
 
-2. Vamos todos nos consagrar
+2. Vamos todos nos consagrar   
    E servir ao Redentor;  
-   É glorioso o porvir
+   É glorioso o porvir   
    No Seu reino de esplendor;  
-   Nossa alma desfrutará paz
-   Que nunca findará.
+   Nossa alma desfrutará paz   
+   Que nunca findará.   
 
 3. A potente voz de Jesus,  
    Ouvirão os santos Seus,  
-   Convidando os fiéis
+   Convidando os fiéis   
    A entrarem lá nos céus;  
-   Brevemente retornará
-   Cisto,   eterno Rei dos reis.
+   Brevemente retornará   
+   Cisto, eterno Rei dos reis.   
 
  ---
 
-<div id='01'/> 
+<div id='183'/> 
 
 # 183  Cristo Jesus é a Porta dos céus
 
 1. Cisto Jesus é a Porta dos céus,  
-   N’Ele há paz,   n’Ele há luz;  
+   N’Ele há paz, n’Ele há luz;  
    Reconcilia o homem com Deus;  
-   Só Ele à glória conduz.
+   Só Ele à glória conduz.   
 
-   Por essa Porta devemos entrar
-   E caminhar,   sem hesitar;  
+   Por essa Porta devemos entrar   
+   E caminhar, sem hesitar;  
    Salvar-se-á quem por Ela passar,  
    N’Ela também confiar;  
-   Não mais duvides,   não deves tardar
-   Para entrar,   sem vacilar;  
-   Breve,   Jesus voltará para os Seus
-   E vai levá-los a Deus.
+   Não mais duvides, não deves tardar   
+   Para entrar, sem vacilar;  
+   Breve, Jesus voltará para os Seus   
+   E vai levá-los a Deus.   
 
-2. Cristo é a Porta,   e outro não há,  
+2. Cristo é a Porta, e outro não há,  
    Que traz o bem celestial;  
    Vida com glória aos justos dará,  
-   Paz e repouso eternal.
+   Paz e repouso eternal.   
 
-3. Cristo,   Autor de eternal redenção,  
-   Veio de Deus,   leva a Deus;  
-   Por essa Porta,   os santos serão
-   Glorificados nos céus.
+3. Cristo, Autor de eternal redenção,  
+   Veio de Deus, leva a Deus;  
+   Por essa Porta, os santos serão   
+   Glorificados nos céus.   
 
  ---
 
-<div id='01'/> 
+<div id='184'/> 
 
-# 184  Nós te Louvamos,  por fé,  grande Deus
+# 184  Nós te Louvamos, por fé, grande Deus
 
-1. Nos Te louvamos,   por fé,   grande Deus,  
+1. Nos Te louvamos, por fé, grande Deus,  
    E imploramos Teu santo favor;  
-   Anjos Te louvam lá nos céus
-   E nós também Te damos louvor.
+   Anjos Te louvam lá nos céus   
+   E nós também Te damos louvor.   
 
-2. Salva Teu povo,  ó Deus,   Criador,  
-   Pelo Teu grande,   infinito poder;  
-   Dá-nos mais fé,   maior vigor,  
-   Para que,   o mal,   possamos vencer.
+2. Salva Teu povo, ó Deus, Criador,  
+   Pelo Teu grande, infinito poder;  
+   Dá-nos mais fé, maior vigor,  
+   Para que, o mal, possamos vencer.   
 
-3. Venha Teu reino eterno de paz
+3. Venha Teu reino eterno de paz   
    Sobre Teus santos fiéis dominar;  
-   Pela palavra eficaz
-   Tu nos farás,   na glória,   entrar.
+   Pela palavra eficaz   
+   Tu nos farás, na glória, entrar.   
 
  ---
 
-<div id='01'/> 
+<div id='185'/> 
 
 # 185  Deus mandou Sua Luz
 
-1. Deus mandou ao mundo Sua Luz brilhar
+1. Deus mandou ao mundo Sua Luz brilhar   
    E as trevas do pecado dissipar,  
    Anunciando a eterna salvação,  
-   Paz divina e perdão.
+   Paz divina e perdão.   
 
 2. O Sol da justiça Sua luz raiou,  
    E o ermo em terra fértil transformou;  
    Todo aquele que aceitar a Luz dos céus,  
-   O perdão terá de Deus.
+   O perdão terá de Deus.   
 
 3. Temos em Jesus a luz que não tem par,  
    Luz que brilha sem jamais se apagar,  
-   Sol que nunca cessa de resplandecer
-   Sobre quem em Cristo crer.
+   Sol que nunca cessa de resplandecer   
+   Sobre quem em Cristo crer.   
 
    Brilha essa Luz em mim,  
    Desde que aceitei Jesus;  
-   Essa Luz iluminou o meu viver
-   E me faz resplandecer.
+   Essa Luz iluminou o meu viver   
+   E me faz resplandecer.   
 
  ---
 
-<div id='01'/> 
+<div id='186'/> 
 
-# 186  Cristo,   Luz do mundo
+# 186  Cristo, Luz do mundo
 
-1. Onde havia pranto,   júbilo se ouviu;  
-   Em lugar de dor,   eterna paz surgiu;  
+1. Onde havia pranto, júbilo se ouviu;  
+   Em lugar de dor, eterna paz surgiu;  
    Onde dominou completa sequidão,  
-   Águas brotaram e trouxeram salvação.
+   Águas brotaram e trouxeram salvação.   
 
-    Cristo,   Luz do mundo,  
-    É o Autor de tão preciosa redenção.
+    Cristo, Luz do mundo,  
+    É o Autor de tão preciosa redenção.   
 
-2. Cristo,   Estrela d'Alva,   Luz celestial,  
+2. Cristo, Estrela d'Alva, Luz celestial,  
    Que resplandeceu a todo o mortal,  
-   Veio anunciar que a noite já passou
-   E que o dia da justiça já chegou.
+   Veio anunciar que a noite já passou   
+   E que o dia da justiça já chegou.   
 
-3. Cristo,   Conselheiro,   Príncipe da paz,  
+3. Cristo, Conselheiro, Príncipe da paz,  
    Pão que vem do céu e vida a todos traz,  
    Reino divinal que sobre nós desceu,  
-   É o Salvador que Deus ao homem prometeu.
+   É o Salvador que Deus ao homem prometeu.   
 
  ---
 
-<div id='01'/> 
+<div id='187'/> 
 
 # 187  Jesus Cristo habita em nós
 
 1. O que hoje é mistério para os santos do Senhor,  
    Revelado lhes será por Seu Espírito de amor,  
-   Pois está em Jesus Cristo a plenitude divinal
-   E os justos participam do segredo celestial.
+   Pois está em Jesus Cristo a plenitude divinal   
+   E os justos participam do segredo celestial.   
 
    Jesus Cristo habita em nós,  
    Sua luz habita em nós;  
-   Nesta graça preciosa
+   Nesta graça preciosa   
    Não nos sentiremos sós;  
-   Glória! glória! aleluia!
-   Jesus Cristo habita em nós!
+   Glória! glória! aleluia!   
+   Jesus Cristo habita em nós!   
 
-2. Nós nem tudo entendemos,   pois o Pai o quer assim,  
-   Mas,   de luz em luz,   iremos sempre avante até o fim;  
-   Nossos olhos,   desvendados por Jesus,   contemplarão
-   Os mistérios eternais,   que revelados nos serão.
+2. Nós nem tudo entendemos, pois o Pai o quer assim,  
+   Mas,   de luz em luz, iremos sempre avante até o fim;  
+   Nossos olhos, desvendados por Jesus, contemplarão   
+   Os mistérios eternais, que revelados nos serão.   
 
-3. Hoje fala pelo Espírito da graça,   o Senhor,  
+3. Hoje fala pelo Espírito da graça, o Senhor,  
    E nos mostra o caminho para o reino de esplendor,  
-   Mas,   em breve,   face a face,   ouviremos Sua voz.
-   Glória eterna alcançaremos,   Jesus Cristo habita em nós!
+   Mas, em breve, face a face, ouviremos Sua voz.   
+   Glória eterna alcançaremos, Jesus Cristo habita em nós!   
 
  ---
 
-<div id='01'/> 
+<div id='188'/> 
 
 # 188  O Mestre habita em mim
 
 1. Conversão gloriosa operou-se em meu ser,  
    Pois Cristo habita em mim;  
    Sinto paz que outrora não pude haver;  
-   O Mestre habita em mim.
+   O Mestre habita em mim.   
 
-   Com Cristo em meu coração
-   Eu sinto real salvação.
-   Venturoso,   aguardo a glória de Deus,  
-   Pois Cristo me leva aos céus.
+   Com Cristo em meu coração   
+   Eu sinto real salvação.   
+   Venturoso, aguardo a glória de Deus,  
+   Pois Cristo me leva aos céus.   
 
 2. Separado da senda do mal eu estou,  
    Pois Cristo habita em mim;  
    Dos pecados passados Deus me perdoou;  
-   O Mestre habita em mim.
+   O Mestre habita em mim.   
 
 3. Findarei os meus dias na graça de Deus,  
    Pois Cristo habita em mim;  
-   Sentirei Sua paz,   pois ireis para os céus;  
-   O Mestre habita em mim.
+   Sentirei Sua paz, pois ireis para os céus;  
+   O Mestre habita em mim.   
 
  ---
 
-<div id='01'/> 
+<div id='189'/> 
 
 # 189  Oh! Que preciosa paz
 
-1. Oh! que preciosa paz provém
-   De Jesus,   o Salvador!
-   Os fiéis desfrutam desse bem:
-   Paz de Deus,   ó Criador.
+1. Oh! que preciosa paz provém   
+   De Jesus, o Salvador!   
+   Os fiéis desfrutam desse bem:   
+   Paz de Deus, ó Criador.   
 
-    Oh! Que preciosa
-    É a paz de Deus!
-    Bênção gloriosa
-    Que somente vem dos céus!
+    Oh! Que preciosa   
+    É a paz de Deus!   
+    Bênção gloriosa   
+    Que somente vem dos céus!   
 
 2. Para essa paz Deus nos chamou,  
-   Por Jesus,   o Emanuel;  
-   Abundantemente a derramou
-   Sobre o justo e fiel.
+   Por Jesus, o Emanuel;  
+   Abundantemente a derramou   
+   Sobre o justo e fiel.   
 
-3. Só a paz de Deus protegerá
+3. Só a paz de Deus protegerá   
    Nossa mente e coração;  
-   E,   de transgredir,   nos livrará,  
-   Vindo a nós a tentação.
+   E, de transgredir, nos livrará,  
+   Vindo a nós a tentação.   
 
  ---
 
-<div id='01'/> 
+<div id='190'/> 
 
-# 190  Amados,   não temamos
+# 190  Amados, não temamos
 
 1. Mantendo nossa vida consagrada ao Senhor,  
-   Do céu virão as bênçãos,   pois fiel e o Criador;  
-   A graça tenhamos,   sem jamais esmorecer;  
-   Jesus venceu o mundo e nos fará prevalecer.
+   Do céu virão as bênçãos, pois fiel e o Criador;  
+   A graça tenhamos, sem jamais esmorecer;  
+   Jesus venceu o mundo e nos fará prevalecer.   
 
-   Amados,   não temamos
+   Amados, não temamos   
    Na marcha para os céus;  
    A Cristo obedeçamos,  
-   Pois nos leva para Deus.
+   Pois nos leva para Deus.   
 
-2. Na fé fortalecidos,   revestidos de poder
-   Seremos pelo Mestre,   que nos dá o Seu saber;  
-   Avante,   esforcemo-nos em obras divinais;  
-   O prêmio é vida eterna nas moradas celestiais.
+2. Na fé fortalecidos, revestidos de poder   
+   Seremos pelo Mestre, que nos dá o Seu saber;  
+   Avante, esforcemo-nos em obras divinais;  
+   O prêmio é vida eterna nas moradas celestiais.   
 
-3. Lembremo-nos de todos os conselhos que nos deu
-   Jesus,   o Verdadeiro,   que a glória prometeu;  
-   Avante,   com propósito em nosso coração
-   De sempre a Deus servir e assim chegar à perfeição.
+3. Lembremo-nos de todos os conselhos que nos deu   
+   Jesus, o Verdadeiro, que a glória prometeu;  
+   Avante, com propósito em nosso coração   
+   De sempre a Deus servir e assim chegar à perfeição.   
 
  ---
 
-<div id='01'/> 
+<div id='191'/> 
 
-# 191  Vem,   vem consolar-me
+# 191  Vem, vem consolar-me
 
-1. Em Ti,   Senhor,   abrigado,  
+1. Em Ti, Senhor, abrigado,  
    Terei força na provação;  
-   Também serei consolado
-   Na hora da aflição.
+   Também serei consolado   
+   Na hora da aflição.   
 
-   Vem,   vem consolar-me,  
-   Pai celestial,   com Teu amor;  
-   Confio em Ti,   ó Deus Criador,  
-   Poderoso e fiel Senhor.
+   Vem, vem consolar-me,  
+   Pai celestial, com Teu amor;  
+   Confio em Ti, ó Deus Criador,  
+   Poderoso e fiel Senhor.   
 
-2. Ó Deus eterno,   enviaste,  
-   Por Cristo,   veraz salvação;  
+2. Ó Deus eterno, enviaste,  
+   Por Cristo, veraz salvação;  
    Minh’alma justificaste,  
-   Me concedeste perdão.
+   Me concedeste perdão.   
 
-3. Por Ti ó Deus,   eu existo,  
+3. Por Ti ó Deus, eu existo,  
    Caminho Contigo por fé;  
    A paz que sinto em Cisto,  
-   Do Teu amor,   fruto é.
+   Do Teu amor, fruto é.   
 
  ---
 
-<div id='01'/> 
+<div id='192'/> 
 
 # 192  Quão fiel promessa Jesus nos fez
 
-1. Jesus,   o Senhor,   preparou
+1. Jesus, o Senhor, preparou   
    O lugar aos filhos de Deus;  
-   No eterno lar onde Ele entrou
-   Fará entrar os santos Seus.
+   No eterno lar onde Ele entrou   
+   Fará entrar os santos Seus.   
 
-   Quão fiel promessa Jesus nos fez:
+   Quão fiel promessa Jesus nos fez:   
    "Convosco sempre estarei!";  
-   Brevemente em nuvens retornará
-   O nosso grande Rei.
+   Brevemente em nuvens retornará   
+   O nosso grande Rei.   
 
-2. Jesus,   órfãos não nos deixou;  
+2. Jesus, órfãos não nos deixou;  
    Enviou o Consolador;  
-   Por imenso amor,   nos abençoou
-   Com vida eterna e esplendor.
+   Por imenso amor, nos abençoou   
+   Com vida eterna e esplendor.   
 
-3. Quão doce é saber que Jesus
-   Nos deu fé afim de andar
+3. Quão doce é saber que Jesus   
+   Nos deu fé afim de andar   
    Pela sua senda de paz e luz,  
-   Até o breve Seu voltar.
+   Até o breve Seu voltar.   
 
  ---
 
-<div id='01'/> 
+<div id='193'/> 
 
 # 193  Nada jamais me faltará
 
-1. Apascentado por Jesus Cristo
+1. Apascentado por Jesus Cristo   
    Nada jamais me faltará;  
    De confiança eu me revisto,  
-   O meu Pastor não falhará.
+   O meu Pastor não falhará.   
 
    Sigo de perto meu grande Mestre,  
    Nada jamais me faltará;  
-   No seu aprisco santo e celeste
-   Todo o fiel protegido está.
+   No seu aprisco santo e celeste   
+   Todo o fiel protegido está.   
 
-2. Passo a passo,   por fé prossigo
+2. Passo a passo, por fé prossigo   
    Rumo à pátria celestial;  
    Na tempestade tenho abrigo;  
-   Tenho socorro divinal.
+   Tenho socorro divinal.   
 
-3. Eu vou vencendo de dia em dia
-   As minhas provas,   pela fé;  
+3. Eu vou vencendo de dia em dia   
+   As minhas provas, pela fé;  
    Cristo me unge com alegria;  
-   Sempre presente Ele é.
+   Sempre presente Ele é.   
 
  ---
 
-<div id='01'/> 
+<div id='194'/> 
 
 # 194 -"Vós chorareis e vos lamentareis"
 
-1. "Vós,   na verdade chorareis e vos lamentareis;  
-   O mundo se alegrará",   disse o Rei dos reis;  
-   Mas eis que,   muito em breve,   Cristo retornará
-   E nossa alegria nunca terminará.
+1. "Vós, na verdade chorareis e vos lamentareis;  
+   O mundo se alegrará", disse o Rei dos reis;  
+   Mas eis que, muito em breve, Cristo retornará   
+   E nossa alegria nunca terminará.   
 
-2. Orando em nome de Jesus,   Deus nos atenderá;  
-   Por Seus fiéis,   o Redentor intercedendo está;  
-   Por grande amor paterno,   Deus ouve as orações
-   E forças nos concede nas nossas provações.
+2. Orando em nome de Jesus, Deus nos atenderá;  
+   Por Seus fiéis, o Redentor intercedendo está;  
+   Por grande amor paterno, Deus ouve as orações   
+   E forças nos concede nas nossas provações.   
 
 3. Nós sofreremos aflições como Jesus sofreu;  
-   Bom ânimo devemos ter,   pois Cristo já venceu;  
+   Bom ânimo devemos ter, pois Cristo já venceu;  
    O reino Lhe pertence na terra e nos céus;  
-   Com Ele reinaremos junto aos santos Seus.
+   Com Ele reinaremos junto aos santos Seus.   
 
  ---
 
-<div id='01'/> 
+<div id='195'/> 
 
-# 195  Senhor,   estou disposto
+# 195  Senhor, estou disposto
 
-1. Senhor,   estou disposto a sempre Te seguir;  
-   No Teu caminho santo,   terei feliz porvir;  
+1. Senhor, estou disposto a sempre Te seguir;  
+   No Teu caminho santo, terei feliz porvir;  
    Quão bela é a herança que me darás nos céus,  
-   Desejo recebê-la,   ó glorioso Deus.
+   Desejo recebê-la, ó glorioso Deus.   
 
-2. Senhor,   os Teus preceitos disponho-me a cumprir
-   E sigo os Teus conselhos;   ao céu desejo ir.
-   Unido aos santos anjos,   em glória viverei
-   No Teu celeste reino com Cristo,   o grande Rei.
+2. Senhor, os Teus preceitos disponho-me a cumprir   
+   E sigo os Teus conselhos; ao céu desejo ir.   
+   Unido aos santos anjos, em glória viverei   
+   No Teu celeste reino com Cristo, o grande Rei.   
 
-3. Senhor,   a Tua face desejo contemplar
-   Na glória incomparável do Teu eterno lar.
-   Eu sinto a Tua graça,   também o Teu vigor,  
-   E nada me impede de honrar-Te com fervor.
+3. Senhor, a Tua face desejo contemplar   
+   Na glória incomparável do Teu eterno lar.   
+   Eu sinto a Tua graça, também o Teu vigor,  
+   E nada me impede de honrar-Te com fervor.   
 
  ---
 
-<div id='01'/> 
+<div id='196'/> 
 
 # 196  Sem Deus Pai
 
 1. Sem Deus Pai somos frágeis humanos,  
-   Sem Deus,   não há em nós esperança;  
+   Sem Deus, não há em nós esperança;  
    Neste mundo em que peregrinamos,  
-   Só por Ele nos vem segurança.
+   Só por Ele nos vem segurança.   
 
-   É Jesus Cristo Quem nos convida
+   É Jesus Cristo Quem nos convida   
    Ao Seu reino de glória nos céus;  
-   Ele nos dá poder,   graça e vida,  
-   E as santas promessas de Deus.
+   Ele nos dá poder, graça e vida,  
+   E as santas promessas de Deus.   
 
 2. Sem Jesus Cristo não temos vida,  
-   Sem Jesus,   santo amor não provamos;  
-   Ele,   por graça,   nos dá guarida
-   Nos perigos que aqui encontramos.
+   Sem Jesus, santo amor não provamos;  
+   Ele, por graça, nos dá guarida   
+   Nos perigos que aqui encontramos.   
 
 3. Sem o Espírito Santo não vemos,  
-   Sem o Espírito,   andamos errantes;  
-   Só por Ele a Palavra entendemos
-   E seremos,   então,   triunfantes.
+   Sem o Espírito, andamos errantes;  
+   Só por Ele a Palavra entendemos   
+   E seremos, então, triunfantes.   
 
  ---
 
-<div id='01'/> 
+<div id='197'/> 
 
-# 197  Senhor,   por Teu poder
+# 197  Senhor, por Teu poder
 
-1. Senhor,   por Teu poder,   vem nos conceder
-   Celestial ciência,   ó Criador;  
-   Aqui nos encontramos para aprender
-   A Tua sã doutrina,   cheia de amor.
+1. Senhor, por Teu poder, vem nos conceder   
+   Celestial ciência, ó Criador;  
+   Aqui nos encontramos para aprender   
+   A Tua sã doutrina, cheia de amor.   
 
-   A Tua igreja Te roga,   ó Deus:
-   Envia,   do alto,   Teu Consolador;  
+   A Tua igreja Te roga, ó Deus:   
+   Envia, do alto, Teu Consolador;  
    Em nossos corações desperta o fervor,  
-   Assim caminharemos rumo aos céus.
+   Assim caminharemos rumo aos céus.   
 
-2. Os nossos corações conheces,   ó Deus;  
-   Em comunhão Contigo estamos,   Senhor;  
-   Tu prometeste,   para todos os Teus,  
-   O Teu divino e santo Consolador.
+2. Os nossos corações conheces, ó Deus;  
+   Em comunhão Contigo estamos, Senhor;  
+   Tu prometeste, para todos os Teus,  
+   O Teu divino e santo Consolador.   
 
-3. Com Teus conselhos santos vem ensinar
-   Teus filhos muito amados,   ó Criador;  
-   O nosso entendimento vem renovar
-   E faz-nos meditar no Teu grande amor.
+3. Com Teus conselhos santos vem ensinar   
+   Teus filhos muito amados, ó Criador;  
+   O nosso entendimento vem renovar   
+   E faz-nos meditar no Teu grande amor.  
 
  ---
 
-<div id='01'/> 
+<div id='198'/> 
 
 # 198  Nosso Pai celeste sabe e provê
 
-1. Nosso Pai celeste sabe e provê
+1. Nosso Pai celeste sabe e provê    
    O que temos de mister;  
    Nada deixará faltar ao que crê,  
-   Pois grande é Seu poder.
+   Pois grande é Seu poder.   
 
-   Sempre,   com fé,  
+   Sempre, com fé,  
    Procuremos agradar a Deus;  
-   Sempre,   por fé,   aceitemos
+   Sempre, por fé, aceitemos   
    O que vem dos céus;  
-   Deus tem,   por nós,  
+   Deus tem, por nós,  
    O cuidado santo e paternal;  
-   Glória,   sempiterna glória ao Deus vivo,  
-   Nosso Pai celestial!
+   Glória, sempiterna glória ao Deus vivo,  
+   Nosso Pai celestial!   
 
-2. Duvidosos não devemos estar
+2. Duvidosos não devemos estar   
    Pois Deus tudo proverá;  
-   Caminhemos firmes,   sem vacilar,  
-   Ajuda dos céus virá.
+   Caminhemos firmes, sem vacilar,  
+   Ajuda dos céus virá.   
 
-3. Que cuidado tem das aves dos céus
-   Nosso Pai celestial!
+3. Que cuidado tem das aves dos céus   
+   Nosso Pai celestial!   
    Muito mais terá cuidado dos Seus,  
-   Com Seu zelo paternal.
+   Com Seu zelo paternal.   
 
  ---
 
-<div id='01'/> 
+<div id='199'/> 
 
-# 199  Senhor,   Tu és a minha porção
+# 199  Senhor, Tu és a minha porção
 
-1. Senhor,   Tu És a minha Porção,  
+1. Senhor, Tu És a minha Porção,  
    Em Ti me alegrarei;  
    Em Ti está minha salvação,  
-   Senhor,   meu grande Rei.
+   Senhor, meu grande Rei.   
 
     És minha Porção,  
     És meu Galardão;  
     Bem aventurado sou,  
-    Tu és minha Porção.
+    Tu és minha Porção.   
 
 2. Imenso e puro é Teu amor,  
-   Meu Salvador,   Jesus;  
-   Estás em meu coração,   Senhor;  
-   Por Ti vivo na luz.
+   Meu Salvador, Jesus;  
+   Estás em meu coração, Senhor;  
+   Por Ti vivo na luz.   
 
 3. Sublime sorte coube a mim,  
-   Por Ti,   ó meu Senhor,  
-   Pois vida eterna terei,   ao fim,  
-   No Teu reino de amor.
+   Por Ti, ó meu Senhor,  
+   Pois vida eterna terei, ao fim,  
+   No Teu reino de amor.   
 
  ---
 
-<div id='01'/> 
+<div id='200'/> 
 
 # 200  "Não se turbe o vosso coração"
 
-1. "Não se turbe o vosso coração",   assim falou Jesus,  
-   Nosso Mestre,   que à glória nos conduz.
+1. "Não se turbe o vosso coração", assim falou Jesus,  
+   Nosso Mestre, que à glória nos conduz.   
    Pela fé no Pai celeste caminhemos para os céus,  
-   Lar sublime,   indescritível,   do bom Deus.
+   Lar sublime, indescritível, do bom Deus.   
 
    Mui breve Jesus retornará,  
-   Com glória,   em nuvens voltará;  
+   Com glória, em nuvens voltará;  
    Majestoso surgirá,  
-   Para o céu conduzirá os Seus fiéis
-   E a coroa lhes dará.
+   Para o céu conduzirá os Seus fiéis   
+   E a coroa lhes dará.   
 
-2. Não temamos,   ó eleitos,   pois o Pai se agradou
+2. Não temamos, ó eleitos, pois o Pai se agradou   
    Em nos dar o reino que Ele preparou;  
-   Por bondade infinita,   por afeto paternal,  
-   Nos concederá o prêmio eternal.
+   Por bondade infinita, por afeto paternal,  
+   Nos concederá o prêmio eternal.   
 
-3. Aguardemos,   ó amados,   com real consagração,  
-   De Jesus,   a gloriosa aparição;  
-   Com a lâmpada acesa,   Ele quer nos encontrar
-   Para,   ao reino eterno,   em glória,   nos levar.
+3. Aguardemos, ó amados, com real consagração,  
+   De Jesus, a gloriosa aparição;  
+   Com a lâmpada acesa, Ele quer nos encontrar   
+   Para, ao reino eterno, em glória, nos levar.   
 
  ---
 
