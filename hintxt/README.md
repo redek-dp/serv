@@ -5226,533 +5226,533 @@
 
  ---
 
-<div id='01'/> 
+<div id='202'/> 
 
 # 201  Deus nos guarde...
 
-1. Deus nos guarde em Seu santo amor.
-   O Seu Nome louvaremos
-   Onde quer que nos achemos.
-   Deus nos guarde em Seu santo amor.
+1. Deus nos guarde em Seu santo amor.   
+   O Seu Nome louvaremos   
+   Onde quer que nos achemos.   
+   Deus nos guarde em Seu santo amor.   
 
-   Ao voltar Jesus,   estaremos
+   Ao voltar Jesus, estaremos   
    Livres de qualquer condenação;  
    Junto aos santos nós reinaremos;  
-   Que perfeita e santa união!
+   Que perfeita e santa união!   
 
 2. Deus nos guarde em santificação,  
    Nos perigos da jornada,  
    Dentro em breve terminada;  
-   Deus nos guarde em santificação.
+   Deus nos guarde em santificação.   
 
-3. Deus nos guarde com a Sua a paz
-   Para,   em comunhão,   vivermos
+3. Deus nos guarde com a Sua a paz   
+   Para, em comunhão, vivermos   
    E ao fim perfeitos sermos;  
-   Deus nos guarde com a Sua paz.
+   Deus nos guarde com a Sua paz.   
 
  ---
 
-<div id='01'/> 
+<div id='202'/> 
 
-# 202  Em Ti me alegro,   Senhor
+# 202  Em Ti me alegro, Senhor
 
-1. Eu sinto,   por fé,   em meu coração
-   A Tua presença,   Senhor Jesus;  
+1. Eu sinto, por fé, em meu coração   
+   A Tua presença, Senhor Jesus;  
    Por ela eu vivo em comunhão,  
-   Guiado por Tua divina luz.
+   Guiado por Tua divina luz.   
 
-   Em Ti me alegro,   Senhor,  
+   Em Ti me alegro, Senhor,  
    Tu és o fiel Salvador;  
-   Reinar lá no céu,   onde tudo é luz,  
-   Contigo irei,   meu Jesus.
+   Reinar lá no céu, onde tudo é luz,  
+   Contigo irei, meu Jesus.   
 
-2. A Tuas promessas,   ó Salvador,  
+2. A Tuas promessas, ó Salvador,  
    Em meu coração quero conservar;  
    Por elas desfruto do Teu amor,  
-   Enquanto na terra peregrinar.
+   Enquanto na terra peregrinar.   
 
 3. Transborda de bênçãos meu coração,  
    Alegre me sinto em Te louvar;  
-   Em prova,   angústia ou aflição,  
-   A Tua presença vem me alegrar.
+   Em prova, angústia ou aflição,  
+   A Tua presença vem me alegrar.   
 
  ---
 
-<div id='01'/> 
+<div id='203'/> 
 
 # 203  O meu vero Amigo é Jesus
 
-1. Jesus é meu vero Amigo
+1. Jesus é meu vero Amigo   
    E jamais me deixará,  
-   Pois,   quando estiver em perigo,  
-   Sua mão me livrará.
+   Pois, quando estiver em perigo,  
+   Sua mão me livrará.   
 
    O meu vero Amigo é Jesus,  
    Na senda de paz já me conduz;  
-   Nunca outro haverá
+   Nunca outro haverá   
    Que ofereça graça tal,  
-   Preciosa,   divinal.
+   Preciosa, divinal.   
 
 2. Amigo fiel e bondoso,  
    Em Jesus eu encontrei;  
-   Em Seu doce amor,   glorioso,  
-   Sempre me deleitarei.
+   Em Seu doce amor, glorioso,  
+   Sempre me deleitarei.   
 
-3. Por Cristo estou protegido
+3. Por Cristo estou protegido   
    Na angústia ou na dor;  
-   E,   quando me sinto abatido,  
-   É veraz Consolador.
+   E, quando me sinto abatido,  
+   É veraz Consolador.   
 
  ---
 
-<div id='01'/> 
+<div id='204'/> 
 
 # 204  Só Jesus é Amigo verdadeiro
 
 1. Contarei a todos a real grandeza,  
    A virtude recebida do Senhor;  
-   Transformou a minha vida de tristeza
-   Em alegre vida,   cheia de amor.
+   Transformou a minha vida de tristeza   
+   Em alegre vida, cheia de amor.   
 
    Só Jesus é Amigo verdadeiro,  
    Conservar desejo Seu amor;  
    Por min’alma deu a vida no madeiro;  
-   Glória,   glória ao Salvador!
+   Glória, glória ao Salvador!   
 
-2. Eu jamais me esquecerei do amor sincero
-   Que o Senhor manifestou por mim,   na cruz;  
-   No meu coração,   senti-lo sempre quero,  
-   Pois é esse o amor que ao céu conduz.
+2. Eu jamais me esquecerei do amor sincero   
+   Que o Senhor manifestou por mim, na cruz;  
+   No meu coração, senti-lo sempre quero,  
+   Pois é esse o amor que ao céu conduz.   
 
 3. Não existe amor maior que o de Cristo,  
    Não existe outro amigo tão fiel;  
    Um sublime amor assim jamais foi visto,  
-   A não ser em Jesus Cristo,   Emanuel.
+   A não ser em Jesus Cristo, Emanuel.   
 
  ---
 
-<div id='01'/> 
+<div id='205'/> 
 
 # 205  Salvo por Seu poder
 
-1. Fiel Amigo eu encontrei
-   Em Cristo,   o Salvador;  
-   Alegremente eu cantarei
-   O Seu sublime e grande amor!
+1. Fiel Amigo eu encontrei   
+   Em Cristo, o Salvador;  
+   Alegremente eu cantarei   
+   O Seu sublime e grande amor!   
 
    Salvo por Seu poder,  
    Salvo por Seu amor,  
-   Sinto em meu coração
-   A virtude do Salvador.
+   Sinto em meu coração    
+   A virtude do Salvador.   
 
-2. Retido estava em todo o mal
+2. Retido estava em todo o mal   
    Que me escravizou;  
-   Mas Cristo,   Amigo celestial,  
-   Com Seu poder me libertou.
+   Mas Cristo, Amigo celestial,  
+   Com Seu poder me libertou.   
 
 3. Bem longe estava do meu Senhor,  
-   Sem paz,   sem salvação,  
-   Mas sinto agora o doce amor
-   De Cristo,   em meu coração.
+   Sem paz, sem salvação,  
+   Mas sinto agora o doce amor   
+   De Cristo, em meu coração.   
 
  ---
 
-<div id='01'/> 
+<div id='206'/> 
 
 # 206  Tu és o Amigo
 
 1. Tu és o Amigo sincero e leal
-   Dos que Te adoram,   Senhor;  
+   Dos que Te adoram, Senhor;  
    Tu sempre os proteges e os livras do mal,  
-   Por Tua Palavra de amor.
+   Por Tua Palavra de amor.   
 
-   Com Teu poder,   Senhor,  
-   Sempre guardas
-   As nossas almas
+   Com Teu poder, Senhor,  
+   Sempre guardas   
+   As nossas almas   
    No Teu grande amor,  
-   Ó Jesus,   Redentor.
+   Ó Jesus, Redentor.   
 
-2. És sempre fiel,   ó Jesus Salvador,  
+2. És sempre fiel, ó Jesus Salvador,  
    Do céu nos trouxeste a luz;  
-   Sofreste,   por nós,   amargura e dor,  
-   No duro madeiro da cruz.
+   Sofreste, por nós, amargura e dor,  
+   No duro madeiro da cruz.   
 
-3. Por Ti,   ó Jesus,   temos vida eternal,  
+3. Por Ti, ó Jesus, temos vida eternal,  
    Também as riquezas reais,  
    As quais nos darás no Teu lar celestial,  
-   Se formos,   em tudo,   leais.
+   Se formos, em tudo, leais.   
 
  ---
 
-<div id='01'/> 
+<div id='207'/> 
 
 # 207  Cristo é Fiel
 
-1. Fortes ventos soprarão
+1. Fortes ventos soprarão   
    Contra o crente em Deus;  
-   Temporais sobrevirão
-   Aos amados Seus.
+   Temporais sobrevirão   
+   Aos amados Seus.   
 
     Cristo é fiel,  
     Nunca falhará;  
-    Ao Seu servo ajudará
-    E forças lhe dará.
+    Ao Seu servo ajudará   
+    E forças lhe dará.   
 
-2. Incertezas surgirão
+2. Incertezas surgirão   
    Para te abater,  
    Mas não prevalecerão,  
-   Vais vitória ter.
+   Vais vitória ter.   
 
-3. Horas de amargor cruel
+3. Horas de amargor cruel   
    Os remidos têm,  
-   Mas o Guardião fiel
-   Socorrê-los vem.
+   Mas o Guardião fiel   
+   Socorrê-los vem.   
 
  ---
 
-<div id='01'/> 
+<div id='208'/> 
 
-# 208  Conserva a paz,   ó minha alma
+# 208  Conserva a paz, ó minha alma
 
-1. Conserva a paz,   tem fé,   ó minha alma,  
+1. Conserva a paz, tem fé, ó minha alma,  
    Suporta a cruz com paciência e fé;  
    Deus te provê de confiança e calma,  
    O Teu Senhor contigo sempre é;  
-   Oh! Fica em paz,   pois Deus te guardará;  
-   O Seu favor jamais te faltará.
+   Oh! Fica em paz, pois Deus te guardará;  
+   O Seu favor jamais te faltará.   
 
-2. Conserva a paz,   feliz é teu futuro
-   Junto a Jesus,   amado Salvador;  
+2. Conserva a paz, feliz é teu futuro   
+   Junto a Jesus, amado Salvador;  
    Teu galardão no céu está seguro,  
    Breve o terás das mãos do Redentor;  
-   Oh! Fica em paz,   pois tens a salvação,  
-   Ao teu redor está o Guardião.
+   Oh! Fica em paz, pois tens a salvação,  
+   Ao teu redor está o Guardião.   
 
-3. Conserva a paz,   descansa bem tranquila,  
+3. Conserva a paz, descansa bem tranquila,  
    O teu Senhor de ti cuidando está;  
    Amparo tens se o teu pé vacila,  
    Das mãos de Deus ninguém te tirará;  
-   Oh! Fica em paz e os receios teus
-   Dissipará O que formou os céus.
+   Oh! Fica em paz e os receios teus   
+   Dissipará O que formou os céus.   
 
  ---
 
-<div id='01'/> 
+<div id='209'/> 
 
-# 209  Oh! Marchai,   soldados
+# 209  Oh! Marchai, soldados
 
-1. Oh! Marchai,   soldados,   sois de Cristo!
+1. Oh! Marchai, soldados, sois de Cristo!   
    Vós deveis com fé aqui marchar;  
-   Em justiça vós deveis andar
-   Até entrardes no eterno lar.
+   Em justiça vós deveis andar   
+   Até entrardes no eterno lar.   
 
    Oh! Marchai com valor,  
-   Olhai a Cristo,   o Senhor,  
-   Pois só d’Ele vos virá coragem
-   Para avançardes com o Redentor.
+   Olhai a Cristo, o Senhor,  
+   Pois só d’Ele vos virá coragem   
+   Para avançardes com o Redentor.   
 
-2. Oh! Marchai,   soldados,   sois de Cristo!
+2. Oh! Marchai, soldados, sois de Cristo!   
    A tormenta tendes que enfrentar,  
-   Mas,   bem firmes e sem duvidar,  
-   Resistireis sem nunca vacilar.
+   Mas, bem firmes e sem duvidar,  
+   Resistireis sem nunca vacilar.   
 
-3. Oh! Marchai,   soldados,   sois de Cristo!
+3. Oh! Marchai, soldados, sois de Cristo!   
    A vitória vós ireis cantar;  
    As primícias do eterno lar,  
-   Jesus,   o Salvador,   vos faz provar.
+   Jesus, o Salvador, vos faz provar.   
 
  ---
 
-<div id='01'/> 
+<div id='210'/> 
 
 # 210  Grandes promessas
 
-1. Quão grandes promessas fez Cristo,   nosso Redentor;  
-   Crendo,   participarei com os santos no reino de amor;  
-   Temos em Jesus,   o Rei,   santo e eternal poder
-   Para que os Seus fiéis possam todo o mal vencer.
+1. Quão grandes promessas fez Cristo, nosso Redentor;  
+   Crendo, participarei com os santos no reino de amor;  
+   Temos em Jesus, o Rei, santo e eternal poder   
+   Para que os Seus fiéis possam todo o mal vencer.   
 
-2. Cristo nos promete dar a vida eternal nos céus
-   E galardoar,   ao fim,   todos os fiéis servos de Deus.
-   Creio no meu Salvador,   justo e fiel juiz.
-   Ele me fará,   no céu,   mui ditoso,   mui feliz.
+2. Cristo nos promete dar a vida eternal nos céus   
+   E galardoar, ao fim, todos os fiéis servos de Deus.   
+   Creio no meu Salvador, justo e fiel juiz.   
+   Ele me fará, no céu, mui ditoso, mui feliz.   
 
-3. Modelo perfeito é,   o santo e fiel Jesus;  
-   Vida que imitarei,   caminhando na senda de luz;  
-   Tenho,   por Jesus,   no céu,   parte com o Criador
-   E,   em santa adoração,   estarei com meu Senhor.
+3. Modelo perfeito é, o santo e fiel Jesus;  
+   Vida que imitarei, caminhando na senda de luz;  
+   Tenho, por Jesus, no céu, parte com o Criador   
+   E, em santa adoração, estarei com meu Senhor.   
 
  ---
 
-<div id='01'/> 
+<div id='211'/> 
 
 # 211  O Senhor Jesus passava...
 
-1. O Senhor Jesus passava
+1. O Senhor Jesus passava   
    E com Ele ia a multidão;  
-   Eis que um cego,   junto ao caminho,  
+   Eis que um cego, junto ao caminho,  
    Esperava por compaixão;  
-   E ouvindo que se falava
+   E ouvindo que se falava   
    Sobre o Nome de Jesus,  
-   Levantou-se e foi ao bom Mestre
-   Para receber a luz.
+   Levantou-se e foi ao bom Mestre   
+   Para receber a luz.   
 
 2. A Palavra virtuosa,  
-   Tão esperada,   escutou;  
-   A visão lhe foi restaurada
-   E,   por fé,   também se salvou;  
+   Tão esperada, escutou;  
+   A visão lhe foi restaurada   
+   E, por fé, também se salvou;  
    Libertado por Jesus Cristo,  
    Dava glória ao grande Deus;  
-   Exaltou o Mestre divino
-   E seguiu os passos Seus.
+   Exaltou o Mestre divino   
+   E seguiu os passos Seus.   
 
 3. Jesus Cristo é o mesmo,  
    Entre os fiéis também está,  
-   E,   quem crer,   verá Sua glória;  
-   Seu favor,   por certo,   terá.
-   Ele é a Luz preciosa que,   dos céus,  
+   E, quem crer, verá Sua glória;  
+   Seu favor, por certo, terá.   
+   Ele é a Luz preciosa que, dos céus,  
    Deus enviou;  
    Quem em trevas se encontrava,  
-   Essa Luz iluminou.
+   Essa Luz iluminou.    
 
  ---
 
-<div id='01'/> 
+<div id='212'/> 
 
 # 212  Testemunhas verazes nós somos
 
-1. Testemunhas verazes nós somos
+1. Testemunhas verazes nós somos   
    Do que Cristo em nós operou;  
    Seus passos agora seguimos,  
    Pois Cristo Jesus nos transformou,  
-   Sim,   Ele nos transformou.
+   Sim, Ele nos transformou.   
 
    Eis que as trevas já são passadas,  
    Veio o dia com esplendor;  
    Chegado é o reino de Deus a nós,  
-   O reino de luz e amor.
+   O reino de luz e amor.   
 
-2. Esconder não devemos,   do mundo,  
+2. Esconder não devemos, do mundo,  
    Nossa fé em Cristo Jesus;  
-   Amor celestial e profundo
+   Amor celestial e profundo    
    O Justo mostrou por nós na cruz,  
-   Sim,   Cristo mostrou na cruz.
+   Sim, Cristo mostrou na cruz.   
 
-3. O Evangelho da graça divina
+3. O Evangelho da graça divina   
    Sobre a terra ouvido será;  
    Por Sua celeste doutrina,  
-   Os homens,   Jesus converterá,  
-   Sim,   Ele os converterá.
+   Os homens, Jesus converterá,  
+   Sim, Ele os converterá.   
 
  ---
 
-<div id='01'/> 
+<div id='213'/> 
 
 # 213  Quando vier do céu
 
-1. Quando vier do céu Cristo Jesus,   o Rei,  
-   O mundo de ilusão,   vencido eu terei;  
-   Repouso celestial e vida eternal
-   Receberei de Deus,   a Quem me consagrei.
+1. Quando vier do céu Cristo Jesus, o Rei,  
+   O mundo de ilusão, vencido eu terei;  
+   Repouso celestial e vida eternal   
+   Receberei de Deus, a Quem me consagrei.   
 
 2. Consiste o meu viver em agradar a Deus,  
    Em revestir-me aqui da vida lá dos céus;  
-   Unido eu estou a Cristo,   que me amou;  
-   Com sangue remidor pagou os erros meus.
+   Unido eu estou a Cristo, que me amou;  
+   Com sangue remidor pagou os erros meus.   
 
-3. Bendito é o Senhor,   meu Redentor,   Jesus,  
-   Que,   pelo Seu amor,   à glória me conduz;  
-   O santo Seu poder aqui me faz vencer.
-   Bendito é o Senhor,   que é a minha Luz.
+3. Bendito é o Senhor, meu Redentor, Jesus,  
+   Que, pelo Seu amor, à glória me conduz;  
+   O santo Seu poder aqui me faz vencer.   
+   Bendito é o Senhor, que é a minha Luz.   
 
  ---
 
-<div id='01'/> 
+<div id='214'/> 
 
-# 214  Como foi para os céus,   assim virá
+# 214  Como foi para os céus, assim virá
 
-1. Ao subir Jesus a Deus,   vieram anjos lá dos céus
+1. Ao subir Jesus a Deus, vieram anjos lá dos céus   
    Declarando que o Mestre voltaria para os Seus;  
    A resplandecente Estrela da Manhã ressurgirá,  
-   Que alegria o povo santo sentirá!
+   Que alegria o povo santo sentirá!   
 
 2. Cristo voltará em nuvens quando o tempo se cumprir,  
-   Para,   a glória prometida,   Seus remidos conduzir;  
+   Para, a glória prometida, Seus remidos conduzir;  
    Bem-aventurados todos que O servem com amor,  
-   A coroa lhes dará o Criador.
+   A coroa lhes dará o Criador.   
 
 3. A Palavra do Senhor no mundo se cumprindo está,  
-   Os sinais dos tempos mostram que Ele,   em breve,   voltará;  
-   Oh! que glorioso "vinde" Seus eleitos ouvirão
-   De Jesus,   na gloriosa aparição.
+   Os sinais dos tempos mostram que Ele, em breve, voltará;  
+   Oh! que glorioso "vinde" Seus eleitos ouvirão   
+   De Jesus, na gloriosa aparição.   
 
-   Como foi para os céus,   assim virá,  
-   O Senhor,   com celeste esplendor;  
-   A promessa preciosa que Deus fez se cumprirá:
-   Breve voltará Jesus,   o Redentor.
+   Como foi para os céus, assim virá,  
+   O Senhor, com celeste esplendor;  
+   A promessa preciosa que Deus fez se cumprirá:   
+   Breve voltará Jesus, o Redentor.   
 
  ---
 
-<div id='01'/> 
+<div id='215'/> 
 
 # 215  Em breve ao céu irei
 
-1. Em breve ao céu irei e lá contemplarei
+1. Em breve ao céu irei e lá contemplarei   
    A glória do bom Pai e a face do meu Rei;  
    Oh! Quão feliz serei na pátria divinal,  
-   Ao receber,   de Deus,   vida eternal.
+   Ao receber, de Deus, vida eternal.   
 
 2. Somente ao meu Jesus sempre pertencerei,  
    No sangue expiador refugiar-me-ei;  
-   Glória sublime,   Deus,   por Cristo,   prometeu,  
-   E vida perenal ao povo Seu.
+   Glória sublime, Deus, por Cristo, prometeu,  
+   E vida perenal ao povo Seu.   
 
 3. Com todos os fiéis jubilarei nos céus,  
    Onde terei lugar junto do grande Deus;  
    Hinos celestiais a Ele entoarei,  
-   Incomparável paz desfrutarei.
+   Incomparável paz desfrutarei.   
 
    Com meu Senhor logo estarei;  
    Seu esplendor contemplarei;  
-   Corpo eternal receberei
-   Para viver com Deus,   excelso Rei.
+   Corpo eternal receberei   
+   Para viver com Deus, excelso Rei.   
 
  ---
 
-<div id='01'/> 
+<div id='216'/> 
 
-# 216  Irmãos,   amemos ao Senhor
+# 216  Irmãos, amemos ao Senhor
 
-1. Irmãos,   amemos ao Senhor,  
+1. Irmãos, amemos ao Senhor,  
    Pois grande é Seu amor;  
-   Seu precioso sangue derramou
-   E nossas almas lavou.
+   Seu precioso sangue derramou   
+   E nossas almas lavou.   
 
    Com toda a nossa devoção,  
    Com toda a força e fervor,  
    Com toda a alma e entendimento,  
-   Amemos ao Senhor.
+   Amemos ao Senhor.   
 
-2. Irmãos,   amemos ao Senhor,  
+2. Irmãos, amemos ao Senhor,  
    Divino Ensinador,  
    A perfeita Fonte do saber,  
-   Que faz na graça crescer.
+   Que faz na graça crescer.   
 
-3. Irmãos,   amemos ao Senhor,  
-   Autor e Consumador
-   Desta fé,   que dá a salvação
-   E celestial galardão.
+3. Irmãos, amemos ao Senhor,  
+   Autor e Consumador   
+   Desta fé, que dá a salvação   
+   E celestial galardão.   
 
  ---
 
-<div id='01'/> 
+<div id='217'/> 
 
-# 217  Vamos,   unidos,   a Deus louvar
+# 217  Vamos, unidos, a Deus louvar
 
-1. Vamos,   unidos,   a Deus louvar
-   E a Jesus,   nosso Rei,   cantar,  
-   Pelo Evangelho assegurar
-   Que Cristo vai voltar.
+1. Vamos, unidos, a Deus louvar   
+   E a Jesus, nosso Rei, cantar,  
+   Pelo Evangelho assegurar   
+   Que Cristo vai voltar.   
 
-   Vem,   Jesus,  
+   Vem, Jesus,  
    Os Teus fiéis buscar,  
    Pois desejamos,  
-   Um dia,   nos céus habitar.
+   Um dia, nos céus habitar.   
 
-2. Vamos a todos testificar
+2. Vamos a todos testificar   
    Que Deus mandou Cristo a salvar;  
    E quem a Ele se entregar,  
-   No céu irá reinar.
+   No céu irá reinar.   
 
-3. Vamos,   irmãos,   a Deus celebrar,  
-   E não cessemos de afirmar
-   Que,   só por Cristo,   se pode entrar
-   No céu,   eterno lar.
+3. Vamos, irmãos, a Deus celebrar,  
+   E não cessemos de afirmar   
+   Que, só por Cristo, se pode entrar   
+   No céu, eterno lar.   
 
  ---
 
-<div id='01'/> 
+<div id='218'/> 
 
-# 218  Oh! Jubilemos,   devotos de Cristo
+# 218  Oh! Jubilemos, devotos de Cristo
 
-1. Oh! Jubilemos,   devotos de Cristo,  
+1. Oh! Jubilemos, devotos de Cristo,  
    E entoemos a Ele louvor;  
-   Ressuscitado,   por muitos foi visto;  
-   Sobre o mal foi,   na cruz,   Vencedor;  
+   Ressuscitado, por muitos foi visto;  
+   Sobre o mal foi, na cruz, Vencedor;  
    Deus exaltou o Seu Filho benquisto,  
-   Que lá no céu é fiel Mediador.
+   Que lá no céu é fiel Mediador.   
 
-2. Oh! Jubilemos em Cristo,   o Vivente,  
-   Que,   sobre a cruz,   por amor padeceu.
-   Ele,   o Forte e Onipotente,  
-   Todas as forças do mal abateu
-   Para podermos dizer livremente:
-   Nós fomos feitos herdeiros do céu.
+2. Oh! Jubilemos em Cristo, o Vivente,  
+   Que, sobre a cruz, por amor padeceu.   
+   Ele, o Forte e Onipotente,  
+   Todas as forças do mal abateu   
+   Para podermos dizer livremente:   
+   Nós fomos feitos herdeiros do céu.   
 
-3. Oh! Jubilemos,   remidos do Santo,  
+3. Oh! Jubilemos, remidos do Santo,  
    Que prometeu Sua glória nos dar;  
-   Lá no Seu reino,   com um novo canto,  
+   Lá no Seu reino, com um novo canto,  
    Nós poderemos a Deus exaltar;  
-   O regozijo será,   no céu,   tanto,  
-   Que não se pode aqui imaginar.
+   O regozijo será, no céu, tanto,  
+   Que não se pode aqui imaginar.   
 
  ---
 
-<div id='01'/> 
+<div id='219'/> 
 
 # 219  Novos céus nós aguardamos
 
-1. Novos céus nós aguardamos
+1. Novos céus nós aguardamos   
    E nova terra também;  
    Neles nós sempre pensamos,  
    Neles está nosso bem;  
-   Por isso estamos servindo
-   A Deus,   o Criador;  
+   Por isso estamos servindo   
+   A Deus, o Criador;  
    Sua vontade cumprindo,  
-   Veremos Seu esplendor.
+   Veremos Seu esplendor.   
 
    Novos céus Deus,  
-   Aos Seus fiéis,   dará;  
-   Nova terra,   onde a justiça está;  
+   Aos Seus fiéis, dará;  
+   Nova terra, onde a justiça está;  
    Em breve volta o Rei,  
-   Cristo Jesus,   Senhor;  
+   Cristo Jesus, Senhor;  
    Firme na graça sejamos,  
-   Firmes na fé e no amor.
+   Firmes na fé e no amor.   
 
-2. Pelo Espírito andemos
+2. Pelo Espírito andemos   
    Dentro da lei do bom Deus;  
-   O coração inclinemos
+   O coração inclinemos   
    Para as coisas dos céus;  
-   Do mundo toda a vaidade
+   Do mundo toda a vaidade   
    Devemos rejeitar;  
-   Temos de Deus uma herdade:
-   A terra que nos vai dar.
+   Temos de Deus uma herdade:   
+   A terra que nos vai dar.   
 
  ---
 
-<div id='01'/> 
+<div id='220'/> 
 
 # 220  Cristo voltará
 
 1. Com poder e glória e total vitória,  
-   Cristo,   sobre as nuvens,   breve voltará;  
-   Oh! Que grande dia! Oh! Que alegria!
-   Para os fiéis o pranto findará.
+   Cristo, sobre as nuvens, breve voltará;  
+   Oh! Que grande dia! Oh! Que alegria!   
+   Para os fiéis o pranto findará.   
 
-   Cristo voltará,   Cristo voltará,  
+   Cristo voltará, Cristo voltará,  
    E a Sua igreja arrebatará,  
-   E,   então,   no céu a coroará
-   Com a glória eterna que Ele lhe dará.
+   E, então, no céu a coroará   
+   Com a glória eterna que Ele lhe dará.   
 
-2. Eis que se apressa a fiel promessa
-   Do Senhor Jesus,   que breve há de voltar;  
-   Quero nesse dia,   cheio de alegria,  
-   Juntamente aos salvos,   Cristo encontrar.
+2. Eis que se apressa a fiel promessa   
+   Do Senhor Jesus, que breve há de voltar;  
+   Quero nesse dia, cheio de alegria,  
+   Juntamente aos salvos, Cristo encontrar.   
 
-3. Sempre vigiando,   contra o mal lutando,  
+3. Sempre vigiando, contra o mal lutando,  
    Vamos aguardar a volta do Senhor;  
    O que for achado servindo ao pecado,  
-   Não terá lugar nas bodas de amor.
+   Não terá lugar nas bodas de amor.   
 
  ---
 
