@@ -5756,266 +5756,266 @@
 
  ---
 
-<div id='01'/> 
+<div id='221'/> 
 
 # 221  A descida do Espírito Santo
 
-1. Reunidos se encontravam
+1. Reunidos se encontravam   
    Os discípulos do Senhor;  
    Com fervor eles esperavam,  
-   De Deus,   o Consolador.
-   Eis que um som,   mui de repente,  
+   De Deus, o Consolador.   
+   Eis que um som, mui de repente,  
    Ecoar ouviu-se lá dos céus,  
-   Qual um vento veemente:
-   Era o Espírito de Deus.
+   Qual um vento veemente:   
+   Era o Espírito de Deus.   
 
-2. Línguas,   como de fogo,  
+2. Línguas, como de fogo,  
    Viram em si mesmos então pousar;  
    Sobre eles se repartiram,  
-   Fazendo-os a Deus louvar.
+   Fazendo-os a Deus louvar.   
    Em linguagens diferentes,  
-   Começaram a manifestar
-   As grandezas excelentes
-   Que Deus Pai lhes fez provar.
+   Começaram a manifestar   
+   As grandezas excelentes   
+   Que Deus Pai lhes fez provar.   
 
-3. A Promessa é feita a tantos
-   Quantos Deus,   nosso Pai,   chamar;  
-   Com fervor,   todos os Seus santos
-   Devem os Seus dons buscar.
-   Se os homens,   aos seus filhos,  
+3. A Promessa é feita a tantos   
+   Quantos Deus, nosso Pai, chamar;  
+   Com fervor, todos os Seus santos   
+   Devem os Seus dons buscar.   
+   Se os homens, aos seus filhos,  
    Boas cousas sabem ofertar,  
    Muito mais o Pai bendito,  
-   Aos que pedem,   pode dar.
+   Aos que pedem, pode dar.   
 
  ---
 
-<div id='01'/> 
+<div id='222'/> 
 
 # 222  Brevemente virá o Senhor Jesus
 
 1. Breve voltará Jesus Cristo,  
-   Glorioso,   com grande esplendor;  
-   Que alegria será para os fiéis
-   Que aguardam o seu Redentor!
+   Glorioso, com grande esplendor;  
+   Que alegria será para os fiéis   
+   Que aguardam o seu Redentor!   
 
-   Brevemente virá o Senhor Jesus
-   Premiar,   com o Seu galardão,  
-   Os que fielmente aguardam
-   Sua gloriosa aparição.
+   Brevemente virá o Senhor Jesus   
+   Premiar, com o Seu galardão,  
+   Os que fielmente aguardam   
+   Sua gloriosa aparição.   
 
 2. Breve voltará Jesus Cristo,  
-   Triunfante,   com rijo clamor;  
-   Levará os remidos,   por Seu poder,  
-   Para o reino de paz e de amor.
+   Triunfante, com rijo clamor;  
+   Levará os remidos, por Seu poder,  
+   Para o reino de paz e de amor.   
 
 3. Breve voltará Jesus Cristo,  
-   Quando,   então,   para nós surgirá
+   Quando, então, para nós surgirá    
    Nova aurora no reino de eterna luz,  
-   Onde o justo resplandecerá.
+   Onde o justo resplandecerá.   
 
  ---
 
-<div id='01'/> 
+<div id='223'/> 
 
-# 223  Muitos,   por fé,   aceitaram Jesus
+# 223  Muitos, por fé, aceitaram Jesus
 
-1. Muitos,   por fé,   aceitaram Jesus
+1. Muitos, por fé, aceitaram Jesus   
    E alcançaram salvação;  
-   O pecador que recebe a Luz
-   Tem perdão.
+   O pecador que recebe a Luz   
+   Tem perdão.   
 
-   Muitos já sentem o grande amor
-   De Jesus Cristo,   Amigo sem par;  
-   Oh! Não rejeites o bom Redentor
-   Que te quer salvar.
+   Muitos já sentem o grande amor   
+   De Jesus Cristo, Amigo sem par;  
+   Oh! Não rejeites o bom Redentor   
+   Que te quer salvar.   
 
 2. Muitos já trilham a senda do bem;  
    Sobre o mal vão triunfar;  
-   Deves juntar-te a eles também
-   Sem tardar.
+   Deves juntar-te a eles também   
+   Sem tardar.   
 
-3. Muitos aguardam a vida eternal
+3. Muitos aguardam a vida eternal   
    Para descansar nos céus;  
-   Crê em Jesus,   o Amigo leal;  
-   Crê em Deus.
+   Crê em Jesus, o Amigo leal;  
+   Crê em Deus.   
 
  ---
 
-<div id='01'/> 
+<div id='224'/> 
 
 # 224 Só Jesus concede paz e salvação
 
-1. Quem,   disposto,   segue ao Senhor Jesus,  
+1. Quem, disposto, segue ao Senhor Jesus,  
    Com virtude e força leva a sua cruz;  
    Tem poder divino em seu coração,  
-   Não será vencido pela tentação.
+   Não será vencido pela tentação.   
 
    Só Jesus concede paz e salvação,  
-   E,   na glória eterna,   grande galardão;  
+   E, na glória eterna, grande galardão;  
    Quem também deseja ir com Deus morar,  
-   Sente que,   a Cristo,   deve aceitar.
+   Sente que, a Cristo, deve aceitar.   
 
-2. Todos os cansados,   vinde ao Senhor,  
-   Vinde sem demora,   Ele é o Salvadora;  
-   E dizei a Cristo,   com satisfação:
-   "Nós Te consagramos nosso coração".
+2. Todos os cansados, vinde ao Senhor,  
+   Vinde sem demora, Ele é o Salvadora;  
+   E dizei a Cristo, com satisfação:   
+   "Nós Te consagramos nosso coração".   
 
-3. Com a nova vida no Senhor Jesus
+3. Com a nova vida no Senhor Jesus   
    Mostrareis ao mundo que Ele é a Luz;  
    Seja a vossa obra um louvor a Deus,  
-   E a vida eterna vós tereis nos céus.
+   E a vida eterna vós tereis nos céus.   
 
  ---
 
-<div id='01'/> 
+<div id='225'/> 
 
-# 225  Senhor,   com Tua voz me chamas
+# 225  Senhor, com Tua voz me chamas
 
-1. Senhor,   com Tua voz me chamas;  
+1. Senhor, com Tua voz me chamas;  
    Os Teus caminhos me ensinas;  
-   Eu sei,   Senhor,   que Tu me amas
-   Com Teu amor celestial.
+   Eu sei, Senhor, que Tu me amas   
+   Com Teu amor celestial.   
 
-   Oh! Que voz tão preciosa
-   É Tua voz,   ó Criador,  
-   Meiga,   santa e poderosa,  
-   Que me alegra,   ó Senhor.
+   Oh! Que voz tão preciosa   
+   É Tua voz, ó Criador,  
+   Meiga, santa e poderosa,  
+   Que me alegra, ó Senhor.   
 
-2. Senhor,   a Tua voz sublime
+2. Senhor, a Tua voz sublime   
    Me traz conforto e regozijo,  
-   E,   quando a angústia me oprime,  
-   È bálsamo consolador.
+   E, quando a angústia me oprime,  
+   È bálsamo consolador.   
 
-3. Senhor,   a Tua voz potente,  
-   Que faz cessar a tempestade
+3. Senhor, a Tua voz potente,  
+   Que faz cessar a tempestade   
    E que apaga o fogo ardente,  
-   Me guiará até o céu.
+   Me guiará até o céu.   
 
  ---
 
-<div id='01'/> 
+<div id='226'/> 
 
 # 226  A história do Evangelho
 
-1. É a história do Evangelho,   que nos fala de Jesus,  
-   Que ao Pai obedeceu e veio ser a nossa Luz.
-   Para dar-nos vida eterna,   dura morte suportou;  
-   Pela glória que antevia,   ao Seu Pai se humilhou.
+1. É a história do Evangelho, que nos fala de Jesus,  
+   Que ao Pai obedeceu e veio ser a nossa Luz.   
+   Para dar-nos vida eterna, dura morte suportou;  
+   Pela glória que antevia, ao Seu Pai se humilhou.   
 
 2. Transpassada com a lança foi o corpo do Senhor,  
    Sobre a cruz foi derramado o Seu sangue remidor;  
-   E,   por esse sacrifício,   recebemos salvação;  
-   O Evangelho nos declara:"
-   Só em Cristo há perdão".
+   E, por esse sacrifício, recebemos salvação;  
+   O Evangelho nos declara:"   
+   Só em Cristo há perdão".   
 
 3. Comovente é ouvir contar a história de Jesus;  
-   Quem,   atento,   escutá-la participará da luz;  
+   Quem, atento, escutá-la participará da luz;  
    Ela ensina que o castigo foi trocado por perdão;  
-   Glória ao divinal Cordeiro,   todos fiéis darão.
+   Glória ao divinal Cordeiro, todos fiéis darão.   
 
-   Não existe outra história
+   Não existe outra história   
    Que se iguale à do Senhor,  
    Alegria dá aos mansos e converte o pecador;  
-   Essa história manifesta a verdade e a luz
-   Que restauram nossas vidas
-   E nos guiam a Jesus.
+   Essa história manifesta a verdade e a luz   
+   Que restauram nossas vidas   
+   E nos guiam a Jesus.   
 
  ---
 
-<div id='01'/> 
+<div id='227'/> 
 
 # 227  Procuras tu ao Salvador?
 
 1. Procuras tu ao Salvador,  
-   Que dá a bem-aventurança?
-   Qual é a tua confiança
-   Aqui no mundo enganador?
-   Em Cristo tens a vida,   tens a força e o favor.
-   O santo Redentor
-   Será a tua Segurança.
+   Que dá a bem-aventurança?   
+   Qual é a tua confiança   
+   Aqui no mundo enganador?   
+   Em Cristo tens a vida, tens a força e o favor.   
+   O santo Redentor   
+   Será a tua Segurança.   
 
-2. A Cristo vem,   sem duvidar,  
+2. A Cristo vem, sem duvidar,  
    Vem dar os teus primeiros passos;  
    Jesus remove os embaraços,  
-   Perdão e vida quer te dar.
-   É Cristo Quem te salva,   faz de ti um vencedor.
-   Deseja,   o Redentor,  
-   Manter contigo eternos laços.
+   Perdão e vida quer te dar.   
+   É Cristo Quem te salva, faz de ti um vencedor.   
+   Deseja, o Redentor,  
+   Manter contigo eternos laços.   
 
 3. Findando a peregrinação,  
    Terás com Ele eterna vida;  
-   Jesus aqui te dá guarida
-   E lá no céu o galardão.
-   É Cristo Fonte eterna de virtude e de fé.
-   Potente Ele é
-   E te socorre em toda a lida.
+   Jesus aqui te dá guarida   
+   E lá no céu o galardão.   
+   É Cristo Fonte eterna de virtude e de fé.   
+   Potente Ele é   
+   E te socorre em toda a lida.   
 
  ---
 
-<div id='01'/> 
+<div id='228'/> 
 
 # 228  Salvação! Salvação!
 
-1. Vem do céu alegre som:
-   Salvação! Salvação!
-   Só em Cristo há perdão.
-   Salvação! Salvação!
-   Paz e graça proclamar
-   Vão os servos do Senhor
-   Pelo ar,   por terra e mar.
-   Salvação! Salvação!
+1. Vem do céu alegre som:   
+   Salvação! Salvação!   
+   Só em Cristo há perdão.   
+   Salvação! Salvação!   
+   Paz e graça proclamar   
+   Vão os servos do Senhor    
+   Pelo ar, por terra e mar.   
+   Salvação! Salvação!   
 
-2. Anunciemos sem cessar:
-   Salvação! Salvação!
-   Que alegria em pensar!
-   Salvação! Salvação!
+2. Anunciemos sem cessar:   
+   Salvação! Salvação!   
+   Que alegria em pensar!   
+   Salvação! Salvação!   
    Só no sangue do Senhor,  
    Derramado sobre a cruz,  
-   Tem resgate o pecador.
-   Salvação! Salvação!
+   Tem resgate o pecador.   
+   Salvação! Salvação!   
 
 3. Do pecado e maldição,  
-   Salvo estou,   salvo estou!
-   Recebi,   de Deus,   perdão.
-   Salvo estou! Salvo estou!
+   Salvo estou, salvo estou!   
+   Recebi, de Deus, perdão.   
+   Salvo estou! Salvo estou!   
    Mesmo à hora de expirar,  
    Sentirei a salvação,  
-   Pois no céu vou habitar.
-   Salvo estou! Salvo estou!
+   Pois no céu vou habitar.   
+   Salvo estou! Salvo estou!   
 
  ---
 
-<div id='01'/> 
+<div id='229'/> 
 
 # 229  Eu vivia no pecado
 
 1. Eu vivia no pecado,  
    Sem a paz e sem a luz,  
-   Quando Deus,   o Pai amado,  
-   Revelou-me a graça de Jesus.
+   Quando Deus, o Pai amado,  
+   Revelou-me a graça de Jesus.   
 
-   Como poderei eu esquecer-me
-   Da mercê do meu bom Criador?!
-   Pois livrou-me do pecado
-   Pelo seu imenso amor.
-   A celeste paz agora sinto
-   Por Jesus,   o meu Intercessor,  
+   Como poderei eu esquecer-me   
+   Da mercê do meu bom Criador?!   
+   Pois livrou-me do pecado   
+   Pelo seu imenso amor.   
+   A celeste paz agora sinto   
+   Por Jesus, o meu Intercessor,  
    Minha Rocha e Justiça,  
-   Meu fiel e forte Defensor.
+   Meu fiel e forte Defensor.   
 
-2. Foi Jesus,   por Deus,   mandado,  
+2. Foi Jesus, por Deus, mandado,  
    Sendo o Cristo e Salvador;  
-   E,   na cruz,   vituperado,  
-   Consumou a obra de amor.
+   E, na cruz, vituperado,  
+   Consumou a obra de amor.   
 
-3. Deus me libertou da morte
+3. Deus me libertou da morte   
    Por sublime e grande amor;  
-   Oh! Que grandiosa sorte
-   Alcancei de meu bom Criador!
+   Oh! Que grandiosa sorte   
+   Alcancei de meu bom Criador!   
 
  ---
 
-<div id='01'/> 
+<div id='230'/> 
 
 # 230  A Ti rendemos graças (Encerramento)
 
@@ -6023,271 +6023,271 @@
    Majestoso Criador,  
    Findando este culto de louvor a Ti,  
    Ó Deus Formador;  
-   As nossas forças foram renovadas
-   Por Teu bom Consolador.
+   As nossas forças foram renovadas   
+   Por Teu bom Consolador.   
 
-2. Senhor,   com Tua ajuda,  
-   Desejamos atender
-   A tudo que,   por Tua sã Palavra,  
+2. Senhor, com Tua ajuda,  
+   Desejamos atender   
+   A tudo que, por Tua sã Palavra,  
    Nos fizeste saber,  
-   Pois nós queremos,   sobre esta terra,  
-   Sempre mais resplandecer.
+   Pois nós queremos, sobre esta terra,  
+   Sempre mais resplandecer.   
 
 3. Despede-nos em paz da Tua casa,  
    Ó Senhor,  
-   Levando em nossos corações
+   Levando em nossos corações   
    As bênçãos do Teu grande amor;  
-   Agradecidos,   nós Te tributamos honra,  
-   Glória e louvor.
+   Agradecidos, nós Te tributamos honra,  
+   Glória e louvor.   
 
  ---
 
-<div id='01'/> 
+<div id='231'/> 
 
-# 231  Provemos,   irmãos,   o amor do Senhor
+# 231  Provemos, irmãos, o amor do Senhor
 
-1. Provemos,   irmãos,   do amor do Senhor;  
+1. Provemos, irmãos, do amor do Senhor;  
    Quem dele provar lutará com valor;  
    Com força divina prevalecerá;  
-   Por Cristo Jesus,   triunfante será.
+   Por Cristo Jesus, triunfante será.   
 
-   Que grande amor,   aleluia!
-   Provamos em Cristo,   Jesus!
-   Amor sem igual,   amor divinal,  
+   Que grande amor, aleluia!   
+   Provamos em Cristo, Jesus!   
+   Amor sem igual, amor divinal,  
    Quem prova esse amor,  
-   Amor que ao céu nos conduz.
+   Amor que ao céu nos conduz.   
 
-2. Na hora da luta,   o nosso Senhor
+2. Na hora da luta, o nosso Senhor   
    Virá ajudar-nos por Seu grande amor;  
-   Fiéis,   confiantes,   marchemos,   aos céus;  
-   Rejubilaremos ao ver nosso Deus.
+   Fiéis, confiantes, marchemos, aos céus;  
+   Rejubilaremos ao ver nosso Deus.   
 
 3. O nosso inimigo não nos vencerá,  
    O braço de Cristo nos auxiliará;  
-   Teremos vitória se,   de coração,  
-   Ficarmos unidos ao bom Guardião.
+   Teremos vitória se, de coração,  
+   Ficarmos unidos ao bom Guardião.   
 
  ---
 
-<div id='01'/> 
+<div id='232'/> 
 
 # 232  Seguro estou...
 
-1. Seguro estou de que Jesus me ajudará
-   E,   lá do céu,   de força e fé me proverá;  
+1. Seguro estou de que Jesus me ajudará   
+   E, lá do céu, de força e fé me proverá;  
    Se a Ele eu servir e a Sua lei cumprir,  
-   Bem certo estou de que Jesus me ajudará.
+   Bem certo estou de que Jesus me ajudará.   
 
 2. Não deixará a minha fé se abalar;  
    Eu seguirei ao meu Senhor sem duvidar;  
-   Com afeto guardarei a doutrina do meu Rei
-   Que,   neste mundo,   orientará meu caminhar.
+   Com afeto guardarei a doutrina do meu Rei   
+   Que, neste mundo, orientará meu caminhar.   
 
 3. Meu coração está firmado no Senhor,  
    Alicerçado nessa Rocha de amor;  
-   Cristo irá me receber quando em glória,   aparecer;  
-   Firmado estou no meu bendito Redentor.
+   Cristo irá me receber quando em glória, aparecer;  
+   Firmado estou no meu bendito Redentor.   
 
  ---
 
-<div id='01'/> 
+<div id='233'/> 
 
-# 233  Avante,   santos e fiéis de Deus
+# 233  Avante, santos e fiéis de Deus
 
-1. Avante,   santos e fiéis de Deus,  
-   Até o fim,   até vencer,  
+1. Avante, santos e fiéis de Deus,  
+   Até o fim, até vencer,  
    Pois Ele as forças mandará dos céus;  
-   É sem limite o Seu poder.
+   É sem limite o Seu poder.   
 
    Vamos marchar por fé,  
    Vamos seguir Jesus,  
-   Pois à frente Ele está
+   Pois à frente Ele está   
    E à glória nos conduz;  
-   Junto a Deus,   nos céus,  
-   O galardão sem par
-   Breve iremos desfrutar.
+   Junto a Deus, nos céus,  
+   O galardão sem par   
+   Breve iremos desfrutar.   
 
 2. Avante com celestial valor;  
    Os dons de Deus não faltarão;  
-   Em nós se manifestará o Senhor
-   Durante a peregrinação.
+   Em nós se manifestará o Senhor   
+   Durante a peregrinação.   
 
 3. Com fé em Deus e no Senhor Jesus,  
    Sinais dos céus iremos ver;  
    Tomando cada dia a nossa cruz,  
-   Sigamos Quem nos faz vencer.
+   Sigamos Quem nos faz vencer.   
 
  ---
 
-<div id='01'/> 
+<div id='234'/> 
 
 # 234  O meu ser entrego a Cristo
 
 1. O meu ser entrego a Cristo,  
    D’Ele sempre eu serei;  
    Ele é o sábio Mestre,  
-   Só a Ele ouvirei.
+   Só a Ele ouvirei.  
 
-   Cristo me salvou
+   Cristo me salvou   
    E me perdoou;  
    O meu ser a Ele entrego,  
-   Servo d’Ele sou.
+   Servo d’Ele sou.   
 
 2. O meu ser entrego a Cristo,  
    Sempre a Ele amarei;  
    Cristo é o Pastor celeste,  
-   N’Ele me deleitarei.
+   N’Ele me deleitarei.   
 
 3. O meu ser entrego a Cristo,  
    Perto d’Ele quero estar;  
    Seu poder é infinito para,  
-   Á glória,   me levar.
+   Á glória, me levar.   
 
  ---
 
-<div id='01'/> 
+<div id='235'/> 
 
 # 235  Um amor imenso
 
-1. Um amor imenso,   santo e celestial,  
-   Sinto agora em Cristo,   Mestre divinal;  
-   Deus o Pai bendito,   transformou meu ser;  
-   Revelou-me a graça,   pelo Seu poder
+1. Um amor imenso, santo e celestial,  
+   Sinto agora em Cristo, Mestre divinal;  
+   Deus o Pai bendito, transformou meu ser;  
+   Revelou-me a graça, pelo Seu poder   
 
-2. Nada me separa do divino amor
-   Que me une a Cristo,   o meu Salvador;  
-   O fervor glorioso de servir a Deus
-   Me conduz avante rumo ao céu dos céus.
+2. Nada me separa do divino amor   
+   Que me une a Cristo, o meu Salvador;  
+   O fervor glorioso de servir a Deus   
+   Me conduz avante rumo ao céu dos céus.   
 
 3. Paz e vida eterna tenho por Jesus,  
-   Bem-aventurança,   regozijo e luz;  
-   Meu Tesouro é Cristo,   Ele é meu Viver;  
-   Quero,   ao Mestre amado,   sempre obedecer.
+   Bem-aventurança, regozijo e luz;  
+   Meu Tesouro é Cristo, Ele é meu Viver;  
+   Quero, ao Mestre amado, sempre obedecer.   
 
  ---
 
-<div id='01'/> 
+<div id='236'/> 
 
 # 236  Há um lugar de eterna paz
 
 1. Os santos do Senhor em terra estranha estão,  
-   Caminham com fervor,   em peregrinação;  
+   Caminham com fervor, em peregrinação;  
    Estão buscando o lar de esplendor sem par,  
-   São co-herdeiros de Jesus.
+   São co-herdeiros de Jesus.   
 
-    Há um lugar de eterna paz
+    Há um lugar de eterna paz   
     E de consolação veraz;  
     Quem se entregar a Deus,  
     Quem crer no Salvador,  
-    Irá morar no lar de amor.
+    Irá morar no lar de amor.   
 
-2. Quem pode exprimir,   quem pode explicar
-   A glória do porvir,   que o justo vai herdar?
-   Certeza deste bem,   por fé,   agora têm
-   Os resgatados de Jesus.
+2. Quem pode exprimir, quem pode explicar   
+   A glória do porvir, que o justo vai herdar?   
+   Certeza deste bem, por fé, agora têm   
+   Os resgatados de Jesus.   
 
-3. Mandado é,   dos céus,   que o homem pecador
-   Aceite a eterna lei de Deus,   o Criador;  
-   Justificado,   então terá o galardão
-   Com os que creram em Jesus.
+3. Mandado é, dos céus, que o homem pecador   
+   Aceite a eterna lei de Deus, o Criador;  
+   Justificado, então terá o galardão   
+   Com os que creram em Jesus.   
 
  ---
 
-<div id='01'/> 
+<div id='237'/> 
 
 # 237  Deus é por mim
 
-1. Deus é por mim,   nada devo temer;  
-   Por que hei de duvidar?
+1. Deus é por mim, nada devo temer;  
+   Por que hei de duvidar?   
    Ele em tudo me pode valer,  
-   Só n’Ele vou confiar.
+   Só n’Ele vou confiar.   
 
    Do mundo já separado estou,  
    Foi Jesus Quem me separou;  
-   Com Seu sangue precioso me resgatou.
+   Com Seu sangue precioso me resgatou.   
 
-2. Nada no mundo jamais poderá
+2. Nada no mundo jamais poderá   
    Privar-me do Seu amor;  
-   É esse amor que me conduzirá
-   Ao reino do Criador.
+   É esse amor que me conduzirá   
+   Ao reino do Criador.   
 
 3. Para os fiéis não há condenação,  
    Jesus é seu Defensor;  
-   Sobre a morte eles triunfarão
-   Na volta do seu Senhor.
+   Sobre a morte eles triunfarão   
+   Na volta do seu Senhor.   
 
  ---
 
-<div id='01'/> 
+<div id='238'/> 
 
-# 238  Teu servo ouve;   fala,   Senhor
+# 238  Teu servo ouve; fala, Senhor
 
-1. Para ouvir-Te,   ó Criador,  
+1. Para ouvir-Te, ó Criador,  
    Me apresento diante de Ti;  
-   Tua Palavra manda,   Senhor;  
-   Para ouvi-La,   eis-me aqui.
+   Tua Palavra manda, Senhor;  
+   Para ouvi-La, eis-me aqui.   
 
-2. Ao meu desejo renunciarei
+2. Ao meu desejo renunciarei   
    Para servir-Te e Te agradar;  
-   E os preceitos da Tua lei
-   Quero,   contente,   executar.
+   E os preceitos da Tua lei   
+   Quero, contente, executar.   
 
-3. Serve-Te deste meu fraco ser
+3. Serve-Te deste meu fraco ser   
    Como instrumento ao Teu louvor;  
-   E Te servindo,   quero dizer:
-   "Servo inútil sou,   ó Senhor."
+   E Te servindo, quero dizer:   
+   "Servo inútil sou, ó Senhor."   
 
-   Teu servo ouve;   fala,   Senhor;  
-   O que requeres de mim,   ó Deus?
-   A voz divina,   que vem dos céus,  
-   Teu servo ouve;   fala,   Senhor.
+   Teu servo ouve; fala, Senhor;  
+   O que requeres de mim, ó Deus?   
+   A voz divina, que vem dos céus,  
+   Teu servo ouve; fala, Senhor.   
 
  ---
 
-<div id='01'/> 
+<div id='239'/> 
 
 # 239  Eis que a noite é passada
 
-1. Eis que a noite é passada,   para mim surgiu o dia;  
-   De Jesus estou mais perto;   oh! Que alegria!
-   Sempre mais eu vou crescendo
-   Nas virtudes do Senhor
-   Para,   um dia,   ser perfeito no divino amor.
+1. Eis que a noite é passada, para mim surgiu o dia;  
+   De Jesus estou mais perto; oh! Que alegria!   
+   Sempre mais eu vou crescendo   
+   Nas virtudes do Senhor   
+   Para, um dia, ser perfeito no divino amor.   
 
-   Ó Jesus,   Por Tua graça,  
+   Ó Jesus, Por Tua graça,  
    Glória sempre Te darei;  
    Resgatado por Teu sangue,  
-   Só a Ti servirei.
+   Só a Ti servirei.   
 
-2. Eis que a noite é passada,   já surgiu a Luz divina;  
-   Essa Luz é Jesus Cristo,   que me ilumina.
+2. Eis que a noite é passada, já surgiu a Luz divina;  
+   Essa Luz é Jesus Cristo, que me ilumina.   
    Bem cingidos de justiça e das armas do Senhor,  
-   Eu espero,   confiante,   ser um vencedor.
+   Eu espero, confiante, ser um vencedor.   
 
  ---
 
-<div id='01'/> 
+<div id='240'/> 
 
 # 240  Não me cansarei de cantar
 
-1. Não me cansarei de cantar
+1. Não me cansarei de cantar   
    Louvores ao meu Criador;  
-   A paz que me faz exultar
-   É fruto do Seu amor.
+   A paz que me faz exultar   
+   É fruto do Seu amor.   
 
-   Glória,   glória dou a Jesus com fervor;  
+   Glória, glória dou a Jesus com fervor;  
    Por Ele serei vencedor;  
-   Oh! Glória ao meu Redentor!
+   Oh! Glória ao meu Redentor!   
 
 2. De quando Jesus me chamou,  
    Não cesso de dar-Lhe louvor;  
    Foi Ele Quem me resgatou,  
-   Bendito é Cristo,   o Senhor!
+   Bendito é Cristo, o Senhor!   
 
 3. A santa presença de Deus,  
    Meu cálice faz trasbordar;  
    Terei regozijo nos céus,  
-   Glorioso,   eterno,   sem par.
+   Glorioso, eterno, sem par.   
 
  ---
 
