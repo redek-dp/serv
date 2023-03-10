@@ -6291,284 +6291,284 @@
 
  ---
 
-<div id='01'/> 
+<div id='241'/> 
 
 # 241  A Justiça divina
 
-1. Deus quis ao mundo manifestar
+1. Deus quis ao mundo manifestar   
    A perfeita Caridade;  
-   Pelos profetas,   fez anunciar
-   A Justiça e a Verdade.
-   Essa justiça,   que é Jesus,  
+   Pelos profetas, fez anunciar   
+   A Justiça e a Verdade.   
+   Essa justiça, que é Jesus,  
    Enviada foi ao mundo,  
-   Manifestando,   por Sua luz,  
-   O amor que ao céu conduz.
+   Manifestando, por Sua luz,  
+   O amor que ao céu conduz.   
 
-   A Justiça divina é Jesus,   o Salvador;  
-   Sua sã doutrina nos conduz ao Criador.
+   A Justiça divina é Jesus, o Salvador;  
+   Sua sã doutrina nos conduz ao Criador.   
 
-2. Essa Justiça nos libertou
+2. Essa Justiça nos libertou   
    Da condenação vindoura;  
-   Deus,   por Jesus,   nos predestinou
-   Para a glória duradoura.
-   Somos,   agora,   remidos Seus,  
+   Deus, por Jesus, nos predestinou   
+   Para a glória duradoura.   
+   Somos, agora, remidos Seus,  
    Exaltemos o Seu Nome;  
    Ele nos fez cidadãos dos céus
-   E herdeiros do bom Deus.
+   E herdeiros do bom Deus.   
 
  ---
 
-<div id='01'/> 
+<div id='242'/> 
 
-# 242  Profundo é o saber de Deus,   Criador
+# 242  Profundo é o saber de Deus, Criador
 
-1. Profundo é o saber de Deus,   Criador,  
-   Saber sem igual,   de grande esplendor;  
+1. Profundo é o saber de Deus, Criador,  
+   Saber sem igual, de grande esplendor;  
    O intento de Deus ninguém pode sondar;  
-   Conselhos ninguém foi ao grande Deus ditar.
+   Conselhos ninguém foi ao grande Deus ditar.   
 
 2. Perfeito saber é só o de Deus,  
    Altíssimos são os pensamentos Seus;  
    Por Ele e d'Ele é tudo o que há;  
-   É Deus que,   aos homens,   sustento sempre dá.
+   É Deus que, aos homens, sustento sempre dá.   
 
 3. Sublime saber pertence a Deus,  
    Ciências dos céus não negará aos Seus;  
    Riquezas perpétuas só Ele é que tem;  
-   A Ele a glória eternamente. Amém.
+   A Ele a glória eternamente. Amém.   
 
  ---
 
-<div id='01'/> 
+<div id='243'/> 
 
 # 243  É Jesus o nosso intercessor
 
-1. Sumo Sacerdote santo,   eternal,  
+1. Sumo Sacerdote santo, eternal,  
    É Jesus o Senhor;  
    Intercede junto ao Pai celestial,  
-   Nosso Deus,   Criador.
+   Nosso Deus, Criador.   
 
-    É Jesus o nosso intercessor
-    Junto a Deus,   o Formador;  
-    Em Seu Nome,   a nossa oração
-    Chegará ao Criador.
+    É Jesus o nosso intercessor   
+    Junto a Deus, o Formador;  
+    Em Seu Nome, a nossa oração   
+    Chegará ao Criador.   
 
 2. Sacerdote compassivo é o Senhor;  
    Ele nos resgatou;  
    É piedoso para com o transgressor,  
-   Pois na cruz o salvou.
+   Pois na cruz o salvou.   
 
 3. Foi tentado em tudo o Senhor Jesus,  
    Resistiu com valor;  
    Com Seu braço forte Ele nos conduz;  
-   Tem por nós grande amor.
+   Tem por nós grande amor.   
 
  ---
 
-<div id='01'/> 
+<div id='244'/> 
 
 # 244  Cristo intercede por Ti
 
 1. Quando te faltam forças contra o mal,  
    Tens o socorro dos céus;  
-   Cristo Jesus,   Cordeiro divinal,  
-   É Intercessor junto a Deus.
+   Cristo Jesus, Cordeiro divinal,  
+   É Intercessor junto a Deus.   
 
-    Cristo intercede por ti
-    Junto a Deus,   o Pai celestial;  
+    Cristo intercede por ti   
+    Junto a Deus, o Pai celestial;  
     Cristo é o modelo santo e perfeito,  
-    Cristo é o Amigo leal.
+    Cristo é o Amigo leal.   
 
 2. Quando o inimigo te vier tentar,  
-   Clama a Jesus,   Redentor;  
-   Forças,   por certo,   Ele irá te dar
-   E te fará vencedor.
+   Clama a Jesus, Redentor;  
+   Forças, por certo, Ele irá te dar   
+   E te fará vencedor.   
 
 3. Quando estiveres em tribulação,  
    Clama ao Filho de Deus,  
-   E certamente te socorrerão
-   Anjos mandados dos céus.
+   E certamente te socorrerão   
+   Anjos mandados dos céus.   
 
  ---
 
-<div id='01'/> 
+<div id='245'/> 
 
 # 245  Não pode entender o mundo
 
-1. Não pode entender o mundo
+1. Não pode entender o mundo    
    Quão alegre é o meu viver;  
-   Mas,   de Cristo,   o amor profundo
-   Sentirá quem n’Ele crer.
+   Mas, de Cristo, o amor profundo   
+   Sentirá quem n’Ele crer.   
 
    Mesmo quando em aflição,  
    Sinto a paz de Deus;  
-   Cristo,   ao meu coração,  
+   Cristo, ao meu coração,  
    Bênçãos traz dos céus;  
-   Se,   com Ele,   aqui viver tão glorioso é,  
+   Se, com Ele, aqui viver tão glorioso é,  
    Quão glorioso então será,  
-   Se permanecer na fé?!
+   Se permanecer na fé?!   
 
 2. Eu me sinto mui ditoso,  
    Pela graça do bom Deus;  
    Meu futuro é mui glorioso,  
-   Pois espero ir aos céus.
+   Pois espero ir aos céus.   
 
-3. O meu ser foi transformado
+3. O meu ser foi transformado   
    Pela obra do Senhor;  
-   Dia a dia mais chegado
-   Eu estou ao lar de amor.
+   Dia a dia mais chegado   
+   Eu estou ao lar de amor.   
 
  ---
 
-<div id='01'/> 
+<div id='246'/> 
 
-# 246  Irmãos,   já resgatados
+# 246  Irmãos, já resgatados
 
-1. Irmãos,   já resgatados no sangue de Jesus,  
-   Agora iluminados,   mostremos Sua luz;  
-   Do mundo,   separados,   o Mestre nos conduz.
+1. Irmãos, já resgatados no sangue de Jesus,  
+   Agora iluminados, mostremos Sua luz;  
+   Do mundo, separados, o Mestre nos conduz.   
 
    Resgatados fomos,  
    Perdoados somos;  
    Salvos nós seremos,  
-   Sendo a Deus fiéis.
+   Sendo a Deus fiéis.   
 
 2. Com todo o povo eleito servimos ao Senhor;  
    Herdeiros nos tem feito do reino de esplendor,  
-   Eterno e perfeito,   um reino de amor.
+   Eterno e perfeito, um reino de amor.   
 
-3. No número dos santos estamos,   por Jesus,  
-   E,   com vestidos brancos,   honramos Sua luz;  
-   Cobertos com Seu manto,   o mal não nos seduz.
+3. No número dos santos estamos, por Jesus,  
+   E, com vestidos brancos, honramos Sua luz;  
+   Cobertos com Seu manto, o mal não nos seduz.   
 
  ---
 
-<div id='01'/> 
+<div id='247'/> 
 
 # 247  Se fores tentados
 
-1. Se fores tentados,   não deves ceder,  
+1. Se fores tentados, não deves ceder,  
    Resiste ao pecado até o vencer;  
    Sê mui valoroso com fé que Deus dá,  
-   Então o inimigo,   de ti,   fugirá.
+   Então o inimigo, de ti, fugirá.   
 
 2. Não manches as vestes que Cristo lavou;  
-   Para embranquecê-las,   sangue derramou;  
-   Rejeita o pecado,   procura imitar
-   Os que o venceram sem desanimar.
+   Para embranquecê-las, sangue derramou;  
+   Rejeita o pecado, procura imitar   
+   Os que o venceram sem desanimar.   
 
 3. Se forças te faltam para combater,  
-   Deus,   o Onipotente,   pode te valer;  
-   A quem busca auxílio,   vitória dará,  
-   Jamais confundido Ele o deixará.
+   Deus, o Onipotente, pode te valer;  
+   A quem busca auxílio, vitória dará,  
+   Jamais confundido Ele o deixará.   
 
-   Só em Cristo confia,   seja noite ou dia,  
-   E terás alegria em teu coração.
+   Só em Cristo confia, seja noite ou dia,  
+   E terás alegria em teu coração.   
 
  ---
 
-<div id='01'/> 
+<div id='148'/> 
 
 # 248  Glória! Aleluia! Sinto Jesus
 
 1. Glória! Aleluia! Sinto Jesus,  
    Ele me guia na senda de luz;  
    Seu forte braço me susterá,  
-   De todo o mal me defenderá.
+   De todo o mal me defenderá.   
 
-   Glória! Aleluia! Contemplarei
+   Glória! Aleluia! Contemplarei   
    Face a face o meu Senhor,  
-   E então igual a Ele serei
-   No Seu glorioso lar de esplendor.
+   E então igual a Ele serei   
+   No Seu glorioso lar de esplendor.   
 
 2. Glória! Aleluia! Santo é o Senhor,  
    Três vezes Santo e rico em amor;  
    Vivo seguro em Seu poder,  
-   E este mundo posso vencer.
+   E este mundo posso vencer.   
 
 3. Glória! Aleluia! Amo ao Senhor;  
    Quero servi-Lo com todo o fervor;  
-   Em Sua glória eu entrarei
-   E,   junto aos santos,   habitarei.
+   Em Sua glória eu entrarei   
+   E, junto aos santos, habitarei.   
 
  ---
 
-<div id='01'/> 
+<div id='249'/> 
 
 # 249  A Caridade
 
 1. Esperança e fé sustêm nossa vida no Senhor,  
    Na firmeza e santidade;  
-   Esses dons que vêm dos céus levarão ao Criador
-   Os que andarem na divina Caridade.
+   Esses dons que vêm dos céus levarão ao Criador   
+   Os que andarem na divina Caridade.   
 
-   A Caridade é a perfeição
+   A Caridade é a perfeição   
    Que permanece eternamente;  
-   O fiel a Deus,   que em si a possuir,   receberá
-   Galardão excelente.
+   O fiel a Deus, que em si a possuir, receberá   
+   Galardão excelente.   
 
-2. Se falarmos,   ó irmãos,   a linguagem celestial
-   E a dos homens,   em verdade,  
+2. Se falarmos, ó irmãos, a linguagem celestial   
+   E a dos homens, em verdade,  
    Isso não nos levará à cidade eternal,  
-   Se em nós não estiver a Caridade.
+   Se em nós não estiver a Caridade.   
 
-3. Para os santos do Senhor,   é virtude sem igual
+3. Para os santos do Senhor, é virtude sem igual   
    A excelente Caridade;  
-   Revestidos desse bem,   venceremos todo o mal
-   E veremos Deus,   o Pai da eternidade.
+   Revestidos desse bem, venceremos todo o mal   
+   E veremos Deus, o Pai da eternidade.   
 
  ---
 
-<div id='01'/> 
+<div id='250'/> 
 
 # 250  Com meu Redentor viverei nos céus
 
-1. No dia em que Jesus vier
-   Para,   deste mundo,   me recolher,  
-   Em Sua paz descansarei
-   E a Sua volta aguardarei.
+1. No dia em que Jesus vier   
+   Para, deste mundo, me recolher,  
+   Em Sua paz descansarei   
+   E a Sua volta aguardarei.   
 
-   Com meu Redentor viverei nos céus
-   Junto ao Criador,   o eterno Deus;  
-   Por divino amor,   eu desfrutarei
-   Da eterna herança com Cristo,   o Rei.
+   Com meu Redentor viverei nos céus   
+   Junto ao Criador, o eterno Deus;  
+   Por divino amor, eu desfrutarei   
+   Da eterna herança com Cristo, o Rei.   
 
-2. Ecoará dos altos céus
+2. Ecoará dos altos céus   
    O som da trombeta do eterno Deus;  
-   E,   do meu sono,   acordarei
-   Para encontrar o glorioso Rei.
+   E, do meu sono, acordarei   
+   Para encontrar o glorioso Rei.   
 
 3. Vou com Jesus me encontrar;  
    Grande há de ser o meu jubilar,  
-   Pois transformado eu serei
-   Na aparição do excelso Rei.
+   Pois transformado eu serei   
+   Na aparição do excelso Rei.   
 
  ---
 
-<div id='01'/> 
+<div id='251'/> 
 
 # 251  Firmes nas mãos de Cristo
 
-1. Firme nas mãos de Cristo,   firme no Salvador,  
-   Minh’alma já se encontra abrigada em Seu amor.
-   Sinto a voz divina de Cristo,   o Rei da glória;  
-   Em todas as batalhas,   alcançarei vitória.
+1. Firme nas mãos de Cristo, firme no Salvador,  
+   Minh’alma já se encontra abrigada em Seu amor.   
+   Sinto a voz divina de Cristo, o Rei da glória;  
+   Em todas as batalhas, alcançarei vitória.   
 
 2. Firme nas mãos de Cristo,  
    Em paz minh’alma está;  
-   Sobre o inimigo,   pela fé,   triunfará.
-   Forte serei na luta,   na dor e na tormenta,  
-   Prossigo avante,   em glória,  
-   Pois Cristo me sustenta.
+   Sobre o inimigo, pela fé, triunfará.   
+   Forte serei na luta, na dor e na tormenta,  
+   Prossigo avante, em glória,  
+   Pois Cristo me sustenta.   
 
-3. Firme nas mãos de Cristo,   que padeceu por mim,  
-   Sigo,   por fé Seus passos,   glória eu terei ao fim;  
-   Espero com paciência,   pois não é tempo ainda;  
-   Breve verei,   nas nuvens,   Cristo,   em Sua vinda.
+3. Firme nas mãos de Cristo, que padeceu por mim,  
+   Sigo,   por fé Seus passos, glória eu terei ao fim;  
+   Espero com paciência, pois não é tempo ainda;  
+   Breve verei, nas nuvens, Cristo, em Sua vinda.   
 
-   Firme nas mãos de Cristo,   firme no Salvador,  
+   Firme nas mãos de Cristo, firme no Salvador,  
    Minh’alma já se encontra,  
-   Abrigada em Seu amor.
+   Abrigada em Seu amor.   
 
  ---
 
