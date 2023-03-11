@@ -7303,11 +7303,11 @@
 3. Proezas nós faremos por Cristo, o Redentor,  
    Vitória cantaremos em nome do Senhor;  
    Mostremos as virtudes do nosso grande Rei;  
-   Nós somos Seus remidos, guardemos Sua lei.   
+   Nós somos Seus remidos, guardemos Sua lei.    
 
  ---
 
-<div id='01'/> 
+<div id='281'/> 
 
 # 281  Soldados valorosos nós somos
 
@@ -7315,105 +7315,105 @@
    Nos revestiu de fé e armas divinais;  
    A guerra se levanta com ímpeto e furor,  
    Mas nós resistiremos,  
-   Pois à frente está o Senhor.
+   Pois à frente está o Senhor.   
 
-   Soldados valorosos
-   Nós somos de Cristo,   o Rei;  
+   Soldados valorosos   
+   Nós somos de Cristo, o Rei;  
    Soldados da verdade,  
    Que amam a Sua lei;  
-   Vitória alcançaremos
+   Vitória alcançaremos   
    Em nome do Redentor,  
-   Com valor,   com fervor,  
+   Com valor, com fervor,  
    Com a fé em Deus,  
-   Eterno Dominador.
+   Eterno Dominador.   
 
-2. Conosco está Jesus,   não há porque temer,  
-   Pois,   quando o mal vier,   Deus nos fará vencer.
-   Tenhamos lealdade a Cristo,   o Salvador;  
-   É d’Ele esta guerra;   atendamos ao Senhor.
+2. Conosco está Jesus, não há porque temer,  
+   Pois, quando o mal vier, Deus nos fará vencer.   
+   Tenhamos lealdade a Cristo, o Salvador;  
+   É d’Ele esta guerra; atendamos ao Senhor.   
 
 3. Quem fraco estiver não deve atrás voltar,  
    Pois Deus dará poder a fim de batalhar;  
-   Ninguém se espavente
+   Ninguém se espavente   
    Nem venha a esmorecer;  
    Tenhamos fé em Cristo,  
-   Que virá nos socorrer.
+   Que virá nos socorrer.   
 
  ---
 
-<div id='01'/> 
+<div id='282'/> 
 
 # 282  Constantemente oremos a Deus
 
 1. Constantemente oremos a Deus,  
    Ao Pai celeste devemos clamar;  
-   Ele trabalha por todos os Seus
-   E os fará,   sobre o mal,   triunfar.
+   Ele trabalha por todos os Seus   
+   E os fará, sobre o mal, triunfar.   
 
    Oremos com fervor e sem desanimar,  
    Nosso clamor chegará lá nos céus;  
    Deus nos atenderá e nos ajudará;  
-   Ele é a Esperança de todos os Seus.
+   Ele é a Esperança de todos os Seus.   
 
-2. Com paciência,   esperança e fé,  
-   Firmes sejamos em Cristo,   o Senhor,  
+2. Com paciência, esperança e fé,  
+   Firmes sejamos em Cristo, o Senhor,  
    Pois Sua volta já próxima é;  
-   Terminará a tristeza e a dor.
+   Terminará a tristeza e a dor.   
 
 3. Cristo é o caminho que leva aos céus,  
    Sempre a Ele devemos seguir;  
    Quem for fiel aos preceitos de Deus,  
-   Vida eterna irá possuir.
+   Vida eterna irá possuir.   
 
  ---
 
-<div id='01'/> 
+<div id='283'/> 
 
-# 283  Quero,   ó Senhor,   ir contigo ao céu
+# 283  Quero, ó Senhor, ir contigo ao céu
 
-1. Tenho em meu coração,   real certeza
-   De que,   no céu com Cristo habitarei,  
+1. Tenho em meu coração, real certeza   
+   De que, no céu com Cristo habitarei,  
    Pois minha sorte e eternal riqueza,  
-   Está no céu,   onde a desfrutarei.
+   Está no céu, onde a desfrutarei.   
 
-   Quero,   ó Senhor,   ir Contigo ao céu
+   Quero, ó Senhor, ir Contigo ao céu    
    E contemplar Teu esplendor;  
    Sei que me darás na eternal Sião,  
-   Grande e avultado galardão.
+   Grande e avultado galardão.   
 
 2. Bom testemunho levarei comigo,  
-   Se neste mundo eu manifestar
+   Se neste mundo eu manifestar   
    Que Jesus Cristo é verdadeiro Amigo,  
-   Por Quem a paz eu pude encontrar.
+   Por Quem a paz eu pude encontrar.   
 
 3. Vivendo sempre em doce esperança,  
    Em Cristo sinto divinal prazer;  
-   Receberei no céu a minha herança
-   Que Deus irá,   na glória,   conceder.
+   Receberei no céu a minha herança   
+   Que Deus irá, na glória, conceder.   
 
  ---
 
-<div id='01'/> 
+<div id='284'/> 
 
 # 284  Louvor nos céus altíssimos
 
 1. Louvor nos céus altíssimos,  
    Hosana ao Rei Vivente,  
-   Ao Forte,   Onipotente,  
-   Bendito Redentor.
-   Glória,   glória ao Verbo santo,  
+   Ao Forte, Onipotente,  
+   Bendito Redentor.   
+   Glória, glória ao Verbo santo,  
    Ao Autor da fé potente;  
-   Tem vida eterna o crente
-   Em Jesus,   o Salvador.
+   Tem vida eterna o crente   
+   Em Jesus, o Salvador.   
 
 2. O Justo e Potentíssimo,  
    Do céu nos foi mandado;  
    Em forma de um servo,  
    Ao Pai obedeceu;  
    Humilhou-Se até a morte,  
-   Foi por Deus ressuscitado.
-   Jesus,   por nós amado,  
-   Vida e paz nos concedeu.
+   Foi por Deus ressuscitado.   
+   Jesus, por nós amado,  
+   Vida e paz nos concedeu.   
 
 3. Aqui no mundo de labor,  
    Jesus é nossa Glória,  
@@ -7421,257 +7421,257 @@
    É nosso Salvador;  
    Só por Ele nós vencemos,  
    Ele alcançou vitória;  
-   Cantemos sempre glória
-   Ao divino,   Remidor!
+   Cantemos sempre glória   
+   Ao divino, Remidor!   
 
  ---
 
-<div id='01'/> 
+<div id='285'/> 
 
 # 285  Glória e louvor a Jesus darei
 
 1. Glória e louvor a Jesus darei,  
    Sua comunhão em mim está;  
    Dádivas do céu eu alcançarei;  
-   A vitória Ele me dará.
+   A vitória Ele me dará.   
 
-   Livre já sou para exaltar
+   Livre já sou para exaltar   
    O meu Senhor;  
-   Glória,   glória a Jesus,  
-   O meu Libertador.
+   Glória, glória a Jesus,  
+   O meu Libertador.   
 
-2. Glória e louvor a minha alma dá
+2. Glória e louvor a minha alma dá   
    A Jesus que já me resgatou;  
-   Nada,   do Senhor,   me separará,  
-   Pois eu sigo a Quem me libertou.
+   Nada, do Senhor, me separará,  
+   Pois eu sigo a Quem me libertou.   
 
-3. Glória e louvor,   glória sem cessar,  
-   A Jesus,   que a todo o mal venceu;  
+3. Glória e louvor, glória sem cessar,  
+   A Jesus, que a todo o mal venceu;  
    Glória ao Redentor sempre devo dar,  
-   Pelo bem que já me concedeu.
+   Pelo bem que já me concedeu.   
 
  ---
 
-<div id='01'/> 
+<div id='286'/> 
 
 # 286  Nome precioso para mim
 
 1. Um Nome precioso para mim,  
    O Nome que amarei até o fim,  
-   Com sincero amor,   com sincero ardor,  
-   É o Nome de Jesus,   o Mestre.
+   Com sincero amor, com sincero ardor,  
+   É o Nome de Jesus, o Mestre.   
 
-   Nome precioso para mim
-   É o de Jesus,   minha Vida e Luz;  
+   Nome precioso para mim   
+   É o de Jesus, minha Vida e Luz;  
    Por fé eu quero amá-Lo até o fim;  
-   Jesus o Redentor,   habita em mim!
+   Jesus o Redentor, habita em mim!   
 
 2. Ao mencionar o Nome do Senhor,  
    Meu coração jubila de amor;  
-   Oh! Que comunhão! Que consolação!
-   Eu sinto grande regozijo!
+   Oh! Que comunhão! Que consolação!   
+   Eu sinto grande regozijo!   
 
 3. Perdão eu alcancei do Criador,  
-   Por Cristo,   meu amado Remidor,  
-   Que na cruz morreu,   Sua vida deu;  
-   Pagou a Deus os meus pecados.
+   Por Cristo, meu amado Remidor,  
+   Que na cruz morreu, Sua vida deu;  
+   Pagou a Deus os meus pecados.   
 
  ---
 
-<div id='01'/> 
+<div id='287'/> 
 
-# 287  Irmãos amados,   sempre avante
+# 287  Irmãos amados, sempre avante
 
-1. Irmãos amados,   sempre avante
-   Com Jesus Cristo,   nosso Senhor;  
+1. Irmãos amados, sempre avante   
+   Com Jesus Cristo, nosso Senhor;  
    Ele em tudo foi triunfante;  
-   Nós venceremos por Seu valor.
+   Nós venceremos por Seu valor.   
 
-   Sempre avante! Cristo é o Valente
+   Sempre avante! Cristo é o Valente   
    Que por Seu povo pelejará;  
-   Cristo,   o Forte,   o Onipotente,  
-   À glória eterna nos levará.
+   Cristo, o Forte, o Onipotente,  
+   À glória eterna nos levará.   
 
 2. Sempre sejamos perseverantes,  
    Pois certamente vamos vencer;  
-   Por Jesus Cristo,   na fé constantes,  
-   Nós poderemos prevalecer.
+   Por Jesus Cristo, na fé constantes,  
+   Nós poderemos prevalecer.   
 
-3. Fortes sejamos,   não recuemos,  
+3. Fortes sejamos, não recuemos,  
    Mas prossigamos com fé em Deus;  
-   Ao inimigo resistiremos
-   Até chegarmos ao lar dos céus.
+   Ao inimigo resistiremos   
+   Até chegarmos ao lar dos céus.   
 
  ---
 
-<div id='01'/> 
+<div id='288'/> 
 
-# 288  Ó irmãos,   com Cristo avante
+# 288  Ó irmãos, com Cristo avante
 
-1. Ó irmãos,   com Cristo avante,  
+1. Ó irmãos, com Cristo avante,  
    Todo o mal iremos vencer;  
    Com a Sua mão poderosa,  
    Não nos deixará perecer;  
    Quando lutas nós enfrentarmos,  
    O Senhor pelejará;  
    O Seu Nome invocaremos;  
-   Seu socorro nos mandará.
+   Seu socorro nos mandará.   
 
-2. Quando fracos nós estivermos
+2. Quando fracos nós estivermos   
    E sem forças para lutar,  
    Pela fé nós prosseguiremos,  
    Pois Jesus virá ajudar;  
    Cristo é a nossa grande Esperança,  
    É a nossa Salvação;  
-   N’Ele encontraremos as forças
-   Para estarmos em retidão.
+   N’Ele encontraremos as forças   
+   Para estarmos em retidão.   
 
-3. Muitas provas nesta jornada
+3. Muitas provas nesta jornada   
    Nós teremos que enfrentar,  
-   Mas Jesus,   o Mestre amado,  
-   Nos fará ao fim triunfar.
-   Sendo nossa vida guiada
+   Mas Jesus, o Mestre amado,  
+   Nos fará ao fim triunfar.   
+   Sendo nossa vida guiada   
    Pelo sábio Condutor,  
-   Certamente nós chegaremos
-   Ao eterno lar de esplendor.
+   Certamente nós chegaremos   
+   Ao eterno lar de esplendor.   
 
  ---
 
-<div id='01'/> 
+<div id='289'/> 
 
-# 289  Avante,   sempre avante
+# 289  Avante, sempre avante
 
-1. Avante,   sempre avante,   vamos todos anunciar
-   O santo Evangelho e n’Ele caminhar.
+1. Avante, sempre avante, vamos todos anunciar   
+   O santo Evangelho e n’Ele caminhar.   
 
    A vitória Cristo nos dará,  
    Sua glória nos concederá;  
    Pela fé seguimos nosso Redentor;  
-   A vitória nos dará por Seu amor.
+   A vitória nos dará por Seu amor.   
 
-2. Avante,   neguemos nosso amado Salvador;  
-   Com Ele venceremos,   lutemos com fervor.
+2. Avante, neguemos nosso amado Salvador;  
+   Com Ele venceremos, lutemos com fervor.   
 
-3. Avante,   confiantes,   sem jamais retroceder,  
-   A bem-aventurança iremos receber.
+3. Avante, confiantes, sem jamais retroceder,  
+   A bem-aventurança iremos receber.   
 
  ---
 
-<div id='01'/> 
+<div id='290'/> 
 
 # 290  Sempre avante!
 
-1. Com Jesus,   irmãos,   sim,   marchemos,  
+1. Com Jesus, irmãos, sim, marchemos,  
    Ninguém poderá nos abater;  
-   Força celestial provaremos
-   E iremos todo o mal vencer.
+   Força celestial provaremos   
+   E iremos todo o mal vencer.   
 
-   Sempre avante,   com o Valoroso!
+   Sempre avante, com o Valoroso!   
    Todos juntos nos convém marchar;  
    Somos povo do Deus poderoso,  
-   O inimigo não nos faz parar.
+   O inimigo não nos faz parar.   
 
-2. Com Jesus,   irmãos,   prossigamos,  
+2. Com Jesus, irmãos, prossigamos,  
    Pois Deus nos dará força e vigor;  
-   Ao mal,   pela fé,   resistamos.
-   Sempre avante,   em nome do Senhor!
+   Ao mal, pela fé, resistamos.   
+   Sempre avante, em nome do Senhor!   
 
-3. Com Jesus,   irmãos,   entraremos
+3. Com Jesus, irmãos, entraremos   
    Todos os fiéis no lar de amor;  
-   Regozijo e paz sentiremos
-   E daremos glória ao Criador.
+   Regozijo e paz sentiremos   
+   E daremos glória ao Criador.   
 
  ---
 
-<div id='01'/> 
+<div id='291'/> 
 
-# 291  Irmãos,   avante,   avante!
+# 291  Irmãos, avante, avante!
 
-1. Irmãos,   avante,   avante! com nosso Salvador,  
-   Seremos triunfantes,   lutando com fervor;  
-   Vitória alcançaremos,   seguindo a Jesus,  
-   Que vai à nossa frente e à glória nos conduz.
+1. Irmãos, avante, avante! com nosso Salvador,  
+   Seremos triunfantes, lutando com fervor;  
+   Vitória alcançaremos, seguindo a Jesus,  
+   Que vai à nossa frente e à glória nos conduz.   
 
-   Avante,   avante!
+   Avante, avante!   
    Unidos ao Senhor;  
    Só Ele é nosso Condutor;  
-   Avante! Marchemos com valor.
+   Avante! Marchemos com valor.   
 
 2. Lugares deleitosos Jesus nos preparou,  
    De jugos mui penosos também nos libertou;  
-   A herança prometida por Cristo,   o Salvador,  
-   No céu é reservada por Deus,   o Formador.
+   A herança prometida por Cristo, o Salvador,  
+   No céu é reservada por Deus, o Formador.   
 
-3. Com nosso amado Mestre,   marchemos com fervor!
-   Com fé,   perseverantes,   lutemos com vigor.
+3. Com nosso amado Mestre, marchemos com fervor!   
+   Com fé, perseverantes, lutemos com vigor.   
    Guiados nós seremos com força divinal;  
-   Avante! Prossigamos ao lar celestial.
+   Avante! Prossigamos ao lar celestial.   
 
  ---
 
-<div id='01'/> 
+<div id='292'/> 
 
 # 292  Oh! Quanto é bom o Redentor!
 
-1. O bom Deus,   Criador,   a Seu Filho enviou,  
+1. O bom Deus, Criador, a Seu Filho enviou,  
    A fim de nos dar a eterna redenção;  
-   Pelos nossos pecados Jesus suportou
-   Morte de cruz,   que nos trouxe a salvação.
+   Pelos nossos pecados Jesus suportou   
+   Morte de cruz, que nos trouxe a salvação.   
 
-   Oh! Quanto é bom o nosso Redentor!
-   Sobre a cruz,   por nós a vida deu
+   Oh! Quanto é bom o nosso Redentor!   
+   Sobre a cruz, por nós a vida deu   
    E lavou-nos pelo seu amor;  
-   Justificou-nos no sangue que verteu.
+   Justificou-nos no sangue que verteu.   
 
-2. O pecado,   em todos,   a morte gerou;  
+2. O pecado, em todos, a morte gerou;  
    Ninguém desse mal se podia libertar;  
-   Sobre a morte,   o Filho de Deus triunfou
-   E ressurgiu para nos justificar.
+   Sobre a morte, o Filho de Deus triunfou   
+   E ressurgiu para nos justificar.   
 
 3. Cristo triunfalmente subiu para os céus,  
-   E assim voltará,   Soberano e Senhor.
-   Levará para a glória os filhos de Deus
-   E lhes dará o Seu reino de esplendor.
+   E assim voltará, Soberano e Senhor.   
+   Levará para a glória os filhos de Deus   
+   E lhes dará o Seu reino de esplendor.   
 
  ---
 
-<div id='01'/> 
+<div id='293'/> 
 
 # 293  Tu és Oleiro
 
-1. Tu és o Oleiro,   ó meu Senhor,  
+1. Tu és o Oleiro, ó meu Senhor,  
    Eu sou argila na Tua mão;  
-   Vaso de honra e de louvor
-   Faz-me,   Senhor,   com Tua unção.
+   Vaso de honra e de louvor   
+   Faz-me, Senhor, com Tua unção.   
 
-2. Vem modelar-me,   ó Formador,  
+2. Vem modelar-me, ó Formador,  
    Pela Palavra do Teu poder;  
-   Humilde e manso faz-me,   Senhor,  
+   Humilde e manso faz-me, Senhor,  
    Cumpre em mim Teu santo querer.
 
 3. Em Teus preceitos quero viver,  
    Para servir-Te e Te agradar;  
-   Pela Palavra vem remover
-   O que me impede de Te louvar.
+   Pela Palavra vem remover   
+   O que me impede de Te louvar.   
 
  ---
 
-<div id='01'/> 
+<div id='294'/> 
 
 # 294  Avante! Coragem! Marchemos
 
-1. Avante! Coragem! Marchemos
+1. Avante! Coragem! Marchemos   
    Com fé e com todo o fervor,  
    Soldados nós somos de Cristo,  
    O nosso Senhor;  
    Avante! Veremos a glória de Cristo,  
    Fiel Redentor,  
-   Teremos completa vitória com o Salvador.
+   Teremos completa vitória com o Salvador.   
 
-   Coragem,   irmãos,   sempre avante!
+   Coragem, irmãos, sempre avante!   
    Devemos lutar pela fé;  
    Nosso ânimo seja constante,  
-   Deus tudo provê.
+   Deus tudo provê.   
 
 2. Avante! Lutar nós devemos,  
    Cingidos de força e vigor,  
@@ -7679,199 +7679,199 @@
    Por Seu grande amor;  
    Voluntariamente sirvamos a Cristo,  
    O Rei vencedor;  
-   Nós somos,   por fé,  
-   Seus soldados,   mostremos valor.
+   Nós somos, por fé,  
+   Seus soldados, mostremos valor.   
 
 3. Avante! Lutemos unidos,  
    Marchando com todo o fervor,  
-   Cingidos de toda armadura
-   De Deus,   Criador.
+   Cingidos de toda armadura   
+   De Deus, Criador.   
    Seguindo os passos de Cristo,  
    Vitória se alcançará;  
-   É Ele veraz Fortaleza,   que nos salvará.
+   É Ele veraz Fortaleza, que nos salvará.   
 
  ---
 
-<div id='01'/> 
+<div id='295'/> 
 
-# 295  Fui,   Senhor,   por Ti remido
+# 295  Fui, Senhor, por Ti remido
 
-1. Fui,   Senhor,   por Ti remido
+1. Fui, Senhor, por Ti remido   
    Para andar em santo amor;  
-   Neste mundo,   a Ti unido,  
-   Eu serei um vencedor.
+   Neste mundo, a Ti unido,  
+   Eu serei um vencedor.   
 
-2. Teu amor já me consola
-   Para sempre obedecer
-   À Palavra,   que controla
-   Todo este fraco ser.
+2. Teu amor já me consola   
+   Para sempre obedecer   
+   À Palavra, que controla   
+   Todo este fraco ser.   
 
-3. Seja eu fortificado
-   Com o Teu poder,   Senhor,  
-   Para ser santificado
-   Pelo Espírito de amor.
+3. Seja eu fortificado   
+   Com o Teu poder, Senhor,  
+   Para ser santificado   
+   Pelo Espírito de amor.   
 
 4. Sou Teu servo muito amado,  
-   Co-herdeiro Teu,   Senhor;  
-   E,   no reino desejado,  
-   Eu verei o Criador.
+   Co-herdeiro Teu, Senhor;  
+   E, no reino desejado,  
+   Eu verei o Criador.   
 
  ---
 
-<div id='01'/> 
+<div id='296'/> 
 
-# 296  Teu nome é soberano,   ó Redentor
+# 296  Teu nome é soberano, ó Redentor
 
-1. Teu Nome é soberano,   ó caro Redentor;  
-   Teu Nome é mui sublime,   de grande esplendor;  
+1. Teu Nome é soberano, ó caro Redentor;  
+   Teu Nome é mui sublime, de grande esplendor;  
    Em espírito e verdade devemos adorar-Te;  
-   Devemos tributar-Te louvores ó Senhor.
+   Devemos tributar-Te louvores ó Senhor.   
 
-   Quão suave e precioso
-   É Teu Nome,   ó Salvador;  
-   Não há outro Nome pelo qual os homens
-   Chegarão ao Criador.
+   Quão suave e precioso   
+   É Teu Nome, ó Salvador;  
+   Não há outro Nome pelo qual os homens   
+   Chegarão ao Criador.   
 
-2. Teu Nome bendiremos,   eterno Salvador;  
+2. Teu Nome bendiremos, eterno Salvador;  
    Em todos os combates és nosso Defensor;  
-   Deste a todos os Teus santos fé viva e esperança
-   De entrar na Tua glória,   ó justo Redentor.
+   Deste a todos os Teus santos fé viva e esperança   
+   De entrar na Tua glória, ó justo Redentor.   
 
-3. Teu Nome respeitamos e amamos,   ó Senhor;  
-   A paz com Deus nós temos por Ti,   ó Redentor;  
-   Nossas almas resgataste,   a vida nos doaste,  
-   Herdeiros nos fizeste de Deus,   o Criador.
+3. Teu Nome respeitamos e amamos, ó Senhor;  
+   A paz com Deus nós temos por Ti, ó Redentor;  
+   Nossas almas resgataste, a vida nos doaste,  
+   Herdeiros nos fizeste de Deus, o Criador.   
 
  ---
 
-<div id='01'/> 
+<div id='297'/> 
 
-# 297  Senhor,   conforta meu coração
+# 297  Senhor, conforta meu coração
 
-1. Senhor,   conforta meu coração
+1. Senhor, conforta meu coração   
    E vem livrar-me da aflição;  
-   A minha súplica,   ó Senhor,  
-   Recebe,   por grande amor.
+   A minha súplica, ó Senhor,  
+   Recebe, por grande amor.   
 
-   Vem,   Jesus,   meu Consolador,  
-   Nas angústias,   também na dor,  
+   Vem, Jesus, meu Consolador,  
+   Nas angústias, também na dor,  
    Com Teu amor me confortar;  
-   Vem,   nas provas,   me libertar.
+   Vem, nas provas, me libertar.   
 
-2. Senhor,   conforta meu coração,  
+2. Senhor, conforta meu coração,  
    Com Tua paz e consolação;  
    Alegremente eu viverei;  
-   Louvor a Ti cantarei.
+   Louvor a Ti cantarei.   
 
-3. Senhor,   conforta meu coração,  
+3. Senhor, conforta meu coração,  
    Com Teu amor e celeste unção;  
    Teu refrigério eu sentirei,  
-   Ó meu Senhor e meu Rei.
+   Ó meu Senhor e meu Rei.   
 
  ---
 
-<div id='01'/> 
+<div id='298'/> 
 
-# 298  Avante sempre,   sem temer!
+# 298  Avante sempre, sem temer!
 
-1. Avante sempre,   sem temer,  
-   Ó soldados verdadeiros!
-   Por Cristo,   nosso Ensinador,  
+1. Avante sempre, sem temer,  
+   Ó soldados verdadeiros!   
+   Por Cristo, nosso Ensinador,  
    Fomos feitos bons guerreiros;  
-   Ele,   por nós,   combaterá,  
+   Ele, por nós, combaterá,  
    Suas armas potentes são,  
    Pois nos livram sempre do mal,  
-   Do poder da tentação.
+   Do poder da tentação.   
 
-2. Avante,   com o Salvador,  
-   Pois é certa a vitória!
+2. Avante, com o Salvador,  
+   Pois é certa a vitória!   
    Marchemos sempre com vigor,  
    Prosseguindo para a glória;  
-   A coroa receberá,   só quem for
-   Em tudo fiel
-   A Jesus,   o nosso Senhor
-   E o nosso Emanuel.
+   A coroa receberá, só quem for   
+   Em tudo fiel   
+   A Jesus, o nosso Senhor   
+   E o nosso Emanuel.   
 
-   Aleluia! Aleluia!
+   Aleluia! Aleluia!   
    Bendiremos nosso Salvador;  
-   Aleluia! Aleluia!
-   Glória eterna ao Redentor!
+   Aleluia! Aleluia!   
+   Glória eterna ao Redentor!   
 
  ---
 
-<div id='01'/> 
+<div id='299'/> 
 
 # 299  Em nome de Jesus
 
-1. Em nome de Jesus,   eis-nos reunidos
-   Para aprender Teu querer,   ó Senhor;  
-   Conserva-nos,   ó Deus,   sempre unidos,  
-   Pois dependemos de Ti,   Criador.
+1. Em nome de Jesus, eis-nos reunidos   
+   Para aprender Teu querer, ó Senhor;  
+   Conserva-nos, ó Deus, sempre unidos,  
+   Pois dependemos de Ti, Criador.   
 
    Com reverência e fé Te adoramos,  
-   Onipotente Deus,   Pai de amor.
+   Onipotente Deus, Pai de amor.   
 
-2. Dá-nos,   Senhor,   do Teu conhecimento
+2. Dá-nos, Senhor, do Teu conhecimento   
    Para que assim Te possamos honrar;  
-   Tua Palavra dá entendimento
-   E em justiça nos faz caminhar.
+   Tua Palavra dá entendimento   
+   E em justiça nos faz caminhar.   
 
-3. Habita em Ti,   ó Deus,   sabedoria,  
-   Toda ciência,   glorioso Senhor;  
-   Tua eterna luz sempre nos guia
-   Na sã verdade,   amor e temor.
+3. Habita em Ti, ó Deus, sabedoria,  
+   Toda ciência, glorioso Senhor;  
+   Tua eterna luz sempre nos guia   
+   Na sã verdade, amor e temor.  
 
  ---
 
-<div id='01'/> 
+<div id='300'/> 
 
 # 300  Tudo o que nos falta
 
-1. Tudo o que nos falta,   Cristo suprirá;  
-   Quando suplicarmos,   Ele ouvirá;  
+1. Tudo o que nos falta, Cristo suprirá;  
+   Quando suplicarmos, Ele ouvirá;  
    De Seus dons celestes nos revestirá,  
-   Quando nós batermos,   Ele abrirá.
+   Quando nós batermos, Ele abrirá.   
 
    Glória ao bendito Salvador,  
-   Forte e invencível Defensor!
+   Forte e invencível Defensor!   
    Árdua é a luta contra o pecado,  
-   Mas resistiremos com valor.
+   Mas resistiremos com valor.   
 
-2. Tudo o que nos falta,   Cristo suprirá;  
-   Proteção divina,   Ele proverá;  
+2. Tudo o que nos falta, Cristo suprirá;  
+   Proteção divina, Ele proverá;  
    Temos que entregar-Lhe todo o nosso ser,  
-   Para que possamos com valor vencer.
+   Para que possamos com valor vencer.   
 
-3. Tudo o que nos falta,   Cristo suprirá;  
-   Firme e fielmente,   nos conduzirá
+3. Tudo o que nos falta, Cristo suprirá;  
+   Firme e fielmente, nos conduzirá   
    Nesta travessia que nos leva aos céus,  
-   Onde iremos ver a face do bom Deus.
+   Onde iremos ver a face do bom Deus.   
 
  ---
 
-<div id='01'/> 
+<div id='301'/> 
 
 # 301  Nossa Esperança é Jesus
 
 1. Nossa Esperança é Jesus;  
-   Ele,   nesta graça,   nos conduz
-   Bem alegres pela comunhão
-   Que nos traz consolação.
+   Ele, nesta graça, nos conduz   
+   Bem alegres pela comunhão   
+   Que nos traz consolação.   
 
     Só a Jesus Cristo seguiremos,  
     Ele é o nosso bom Pastor;  
-    E,   ao fim,   com Ele reinaremos
-    Na cidade de esplendor.
+    E, ao fim, com Ele reinaremos   
+    Na cidade de esplendor.   
 
-2. Cristo,   o Rei dos reis e Salvador,  
+2. Cristo, o Rei dos reis e Salvador,  
    Faz-nos caminhar em Seu amor;  
    Do pecado veio nos remir,  
-   Para um feliz porvir.
+   Para um feliz porvir.   
 
-3. Neste mundo cheio de ilusão
+3. Neste mundo cheio de ilusão   
    Só em Cristo existe salvação;  
-   Ele nos concede graça e luz
-   E à glória nos conduz.
+   Ele nos concede graça e luz   
+   E à glória nos conduz.   
 
  ---
 
