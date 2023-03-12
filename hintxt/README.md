@@ -19,7 +19,7 @@
 
  ---
 
-##  [Reuniões Jovens e Menores](#JovenseMenores) | [Santa Ceia](#SantaCeia) | [Funeral](#Funeral) | [Coros](#Coros) | [Pontos de doutrina](#Pontosdedoutrina)  
+##  [Reuniões Jovens e Menores](#JovenseMenores) | [Santa Ceia](#SantaCeia) | [Funeral](#Funeral) | [Coros](#Coros) | [Pontos de doutrina](#Pontosdedoutrina) | [AJUDA](#AJUDA)
 
  ---
 
@@ -12606,6 +12606,31 @@ O Seu Nome bendirei.
 12. Nós cremos que haverá a ressurreição corporal dos mortos,   justos e
     injustos. Estes irão para o tormento eterno,   mas os justos para a vida
     eterna. (Atos 24:15;   Mateus 25:46)
+
+ ---
+
+ <div id='AJUDA'/> 
+
+## DOUTRINA / AJUDA - HINARIO 5 CCB ONLINE
+   
+1. Louvai ao Senhor.   
+   Cantai ao Senhor um cântico novo,   
+   E o Seu louvor na congregação dos santos.– Salmo 149,1.  
+
+2. Somos gratos a Deus por nos ter concedido mais uma edição deste hinário intitulado Hinos de Louvores e Súplicas a Deus, para ser usado pela nossa irmandade.
+
+3. Mantivemos, como nas edições anteriores, a maioria dos hinos que o Senhor tem preparado desde o princípio desta obra em nosso país, porém com as alterações que se fizeram necessárias, acrescentando também outras melodias e poesias.
+
+4. Ora, Àquele que é poderoso para fazer tudo muito mais abundantemente além   
+   daquilo que pedimos ou pensamos, segundo o poder que em nós opera,   
+   a Esse glória na igreja, por Jesus Cristo, em todas as gerações,   
+   para todo o sempre. Amém. (Efésios 3:20-21)   
+
+5. São Paulo, junho de 2012   
+   CONGREGAÇÃO CRISTÃ NO BRASIL   
+
+6. Contato Desenvolvedor do Aplicativo   
+   Email: davidsonbpe@pm.me   
 
  ---
 
