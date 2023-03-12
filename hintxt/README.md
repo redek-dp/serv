@@ -7901,784 +7901,784 @@
 
  ---
 
-<div id='01'/> 
+<div id='303'/> 
 
 # 303  O Senhor não mudará
 
 1. Não mudará o nosso Deus,  
    Não falhará o Seu poder;  
    Cumprir-se-ão os planos Seus;  
-   Em Deus há luz e saber.
+   Em Deus há luz e saber.   
 
    O Senhor não mudará;  
    Seus intentos cumprirá;  
    Firmes permanecerão,  
-   Pois há em Deus perfeição.
+   Pois há em Deus perfeição.   
 
 2. Se formos nós fiéis a Deus,  
    Também fiel se mostrará;  
    Triunfarão os filhos Seus,  
-   Deus Pai jamais falhará.
+   Deus Pai jamais falhará.   
 
 3. Em breve irão passar os céus,  
    Também a terra passará;  
-   Mas é eterno o nosso Deus
-   E vida eterna nos dá.
+   Mas é eterno o nosso Deus   
+   E vida eterna nos dá.   
 
  ---
 
-<div id='01'/> 
+<div id='304'/> 
 
 # 304  Cristo é a Esperança
 
 1. Tudo é vaidade neste mundo de ilusão;  
-   Glórias terrenas breve findarão.
-   É um vapor a vida,   que se desvanecerá;  
-   A Esperança é Cristo;   n’Ele a graça está.
+   Glórias terrenas breve findarão.   
+   É um vapor a vida, que se desvanecerá;  
+   A Esperança é Cristo; n’Ele a graça está.   
 
    Cristo é a Esperança,  
    É do mundo o Redentor;  
    N’Ele há confiança,  
-   Vida,   paz e amor.
+   Vida, paz e amor.   
 
-2. Sobre a terra há tristeza,   inquietação,  
-   Dores,   enfado e perturbação;  
-   Não há paz no mundo,   neste mundo enganador;  
-   A Esperança é Cristo,   nosso Benfeitor.
+2. Sobre a terra há tristeza, inquietação,  
+   Dores, enfado e perturbação;  
+   Não há paz no mundo, neste mundo enganador;  
+   A Esperança é Cristo, nosso Benfeitor.   
 
-3. De Deus a ira sobre a terra descerá
-   E,   nesse dia,   tudo findará;  
-   Nada,   deste mundo,   pode dar a salvação;  
-   A Esperança é Cristo,   nossa Redenção.
+3. De Deus a ira sobre a terra descerá   
+   E, nesse dia, tudo findará;  
+   Nada, deste mundo, pode dar a salvação;  
+   A Esperança é Cristo, nossa Redenção.   
 
  ---
 
-<div id='01'/> 
+<div id='305'/> 
 
 # 305  Oh! Que fundamento
 
 1. Oh! Que fundamento em Jesus Cristo temos;  
    É Ele a Esperança do eterno porvir;  
    As Suas promessas eternas alcançamos;  
-   Em Seu amor,   unidos,   a Deus vamos servir,  
-   Em Seu amor,   unidos,   O vamos servir.
+   Em Seu amor, unidos, a Deus vamos servir,  
+   Em Seu amor, unidos, O vamos servir.   
 
-2. Se,   peregrinando,   combates nós tivermos,  
-   A mão do Senhor,   por graça,   nos livrará;  
+2. Se, peregrinando, combates nós tivermos,  
+   A mão do Senhor, por graça, nos livrará;  
    E contra a força do mal nós lutaremos;  
-   Servindo a Deus com zelo,   ajuda nos dará,  
-   Servindo a Deus com zelo,   ajuda dará.
+   Servindo a Deus com zelo, ajuda nos dará,  
+   Servindo a Deus com zelo, ajuda dará.   
 
 3. Ó Rocha eterna e eterna Fortaleza,  
    Por fé nós vivemos no Teu grande amor;  
    Fizeste-nos dignos da celestial riqueza,  
-   Pois todo o nosso bem vem de Ti,   ó Redentor,  
-   Pois todo o nosso bem vem de Ti,   Redentor.
+   Pois todo o nosso bem vem de Ti, ó Redentor,  
+   Pois todo o nosso bem vem de Ti, Redentor.   
 
  ---
 
-<div id='01'/> 
+<div id='306'/> 
 
 # 306  Bendizei ao altíssimo Deus
 
-1. Na alma do justo há voz de louvor
-   A Deus e a Cristo,   fiel Remidor;  
-   Há voz de alegria,   há exaltação;  
-   Seu cálix transborda de consolação.
+1. Na alma do justo há voz de louvor   
+   A Deus e a Cristo, fiel Remidor;  
+   Há voz de alegria, há exaltação;  
+   Seu cálix transborda de consolação.   
 
-   Bendizei,   bendizei ao Altíssimo Deus,  
-   Deus de amor,   Deus de paz,  
-   Que mandou lá dos céus
-   O santo Cordeiro,   fiel Redentor,  
-   A nossa Justiça,   Jesus,   o Senhor.
+   Bendizei, bendizei ao Altíssimo Deus,  
+   Deus de amor, Deus de paz,  
+   Que mandou lá dos céus   
+   O santo Cordeiro, fiel Redentor,  
+   A nossa Justiça, Jesus, o Senhor.   
 
 2. A Deus toda a honra e glória eternal,  
    Pois é piedoso o Pai celestial;  
-   Por seu Filho amado,   Deus reconciliou
-   Os homens Consigo e os resgatou.
+   Por seu Filho amado, Deus reconciliou   
+   Os homens Consigo e os resgatou.   
 
-3. Por boa vontade de Deus,   Criador,  
+3. Por boa vontade de Deus, Criador,  
    Do novo Concerto é Jesus Mediador;  
-   Preciosas promessas irão se cumprir
-   Na volta de Cristo,   em breve porvir.
+   Preciosas promessas irão se cumprir   
+   Na volta de Cristo, em breve porvir.   
 
  ---
 
-<div id='01'/> 
+<div id='307'/> 
 
 # 307  Cristo nos dará da Sua plenitude
 
-1. Ó irmãos,   apresentemo-nos ao nosso Redentor,  
+1. Ó irmãos, apresentemo-nos ao nosso Redentor,  
    Prontos para O atender;  
-   Ao que Ele nos disser,   obedeçamos com amor,  
-   Sem jamais esmorecer.
+   Ao que Ele nos disser, obedeçamos com amor,  
+   Sem jamais esmorecer.   
 
    Cristo nos dará da Sua plenitude,  
-   Com a fé nos cingirá e em nós derramará
-   Do Espírito,   o poder e a virtude;  
-   Valorosos nos fará.
+   Com a fé nos cingirá e em nós derramará   
+   Do Espírito, o poder e a virtude;  
+   Valorosos nos fará.   
 
-2. Ó amados,   aceitemos do Senhor a correção,  
+2. Ó amados, aceitemos do Senhor a correção,  
    Pois corrige a quem quer bem;  
    Os Seus santos mandamentos leves para nós serão,  
-   Seus conselhos nos convêm.
+   Seus conselhos nos convêm.   
 
-3. Pelo Espírito da graça poderemos compreender
+3. Pelo Espírito da graça poderemos compreender   
    Toda a obra de amor;  
-   Saberemos,   ó eleitos,   como a nosso Deus temer;  
-   Oh! Sirvamos ao Senhor.
+   Saberemos, ó eleitos, como a nosso Deus temer;  
+   Oh! Sirvamos ao Senhor.   
 
  ---
 
-<div id='01'/> 
+<div id='308'/> 
 
 # 308  Soa a trombeta
 
-1. Ouve-se em toda a parte anunciar
+1. Ouve-se em toda a parte anunciar   
    Já é chegado o reino de amor;  
-   Cristo é potente para salvar
-   E dar a vida ao pecador.
+   Cristo é potente para salvar   
+   E dar a vida ao pecador.   
 
-   Soa a trombeta,   oh! escutai,  
+   Soa a trombeta, oh! escutai,  
    O Evangelho do Salvador;  
-   Vossos ouvidos,   oh! inclinai
-   Às sãs palavras do Criador.
+   Vossos ouvidos, oh! inclinai   
+   Às sãs palavras do Criador.   
 
-2. Os mensageiros do Redentor
+2. Os mensageiros do Redentor   
    As boas novas fazem ouvir;  
-   Novas de paz,   de vida e de amor,  
-   De um feliz e eterno porvir.
+   Novas de paz, de vida e de amor,  
+   De um feliz e eterno porvir.   
 
 3. Nesta mensagem vinda de Deus,  
    É manifesto ao pecador,  
-   Que,   para todos,   há salvação;  
-   Vinde aceitá-la do Salvador.
+   Que, para todos, há salvação;  
+   Vinde aceitá-la do Salvador.   
 
  ---
 
-<div id='01'/> 
+<div id='309'/> 
 
 # 309  Galardão nos espera
 
 1. Bem-aventurado quem aqui chorar,  
-   Pois,   de Deus,   conforto certo alcançará;  
+   Pois, de Deus, conforto certo alcançará;  
    Quem aqui for manso e perseverar,  
-   No eterno lar de Deus habitará.
+   No eterno lar de Deus habitará.   
 
-   Galardão,   galardão nos espera lá nos céus,  
-   Galardão,   galardão,   junto ao nosso Deus;  
-   Glória indescritível na eternidade
-   É o galardão de Cristo aos santos Seus.
+   Galardão, galardão nos espera lá nos céus,  
+   Galardão, galardão, junto ao nosso Deus;  
+   Glória indescritível na eternidade   
+   É o galardão de Cristo aos santos Seus.   
 
-2. Bem-aventurado quem sedento está
+2. Bem-aventurado quem sedento está   
    E tem fome da justiça que é dos céus;  
    Farto e consolados pelo Pai será;  
-   Quem for limpo e puro viverá com Deus.
+   Quem for limpo e puro viverá com Deus.   
 
 3. Bem-aventurado quem seguir Jesus,  
    Sendo aqui na terra pacificador;  
    Quem for desprezado por andar na Luz,  
-   Alegrar-se-á na vinda do Senhor.
+   Alegrar-se-á na vinda do Senhor.   
 
  ---
 
-<div id='01'/> 
+<div id='310'/> 
 
-# 310  Nós Te louvamos,   ó Rei dos reis
+# 310  Nós Te louvamos, ó Rei dos reis
 
-1. Nós Te louvamos,   ó Rei dos reis,  
-   Pois nos tens feito santos e fiéis
+1. Nós Te louvamos, ó Rei dos reis,  
+   Pois nos tens feito santos e fiéis    
    Para andarmos em Teu temor,  
-   Como ovelhas Tuas,   ó Senhor.
+   Como ovelhas Tuas, ó Senhor.   
 
-2. Nós esperamos,   com Teu poder,  
+2. Nós esperamos, com Teu poder,  
    Tua vontade sempre obedecer,  
-   Mostrando ao mundo obras de luz
-   Pelas virtudes Tuas,   ó Jesus.
+   Mostrando ao mundo obras de luz   
+   Pelas virtudes Tuas, ó Jesus.   
 
 3. Faz-nos saber Teu santo querer;  
-   Bênçãos celestes vem nos conceder.
-   A sã Palavra,   vinda dos céus,  
-   Dá nova vida aos remidos Teus.
+   Bênçãos celestes vem nos conceder.   
+   A sã Palavra, vinda dos céus,  
+   Dá nova vida aos remidos Teus.   
 
-4. Com essa vida,   ó Rei dos reis,  
+4. Com essa vida, ó Rei dos reis,  
    Podemos ser-Te sempre mais fiéis;  
-   Tuas ovelhas somos,   Senhor,  
-   Tu és o nosso único Pastor.
+   Tuas ovelhas somos, Senhor,  
+   Tu és o nosso único Pastor.   
 
  ---
 
-<div id='01'/> 
+<div id='311'/> 
 
 # 311  Teus tesouros revelaste
 
-1. Ó Senhor,   vivente Deus,   a Ti daremos,   sem cessar,  
-   Toda honra e louvor,   com devoção;  
-   Pois quiseste,   aos pequenos,   Teus tesouros revelar,  
-   Pelo Teu amor e imensa compaixão.
+1. Ó Senhor, vivente Deus, a Ti daremos, sem cessar,  
+   Toda honra e louvor, com devoção;  
+   Pois quiseste, aos pequenos, Teus tesouros revelar,  
+   Pelo Teu amor e imensa compaixão.   
 
-   Teus tesouros revelaste
+   Teus tesouros revelaste   
    Aos humildes que chamaste;  
-   Para eles decretaste
-   Vida eterna com Jesus,   o Salvador.
+   Para eles decretaste   
+   Vida eterna com Jesus, o Salvador.   
 
-2. Teus tesouros ocultaste para os sábios,   ó Senhor,  
-   Mas Te aprouve revelá-los para nós
-   E a todo que,   igualmente,   se achega ao Redentor,  
-   Atendendo humildemente à Sua voz.
+2. Teus tesouros ocultaste para os sábios, ó Senhor,  
+   Mas Te aprouve revelá-los para nós   
+   E a todo que, igualmente, se achega ao Redentor,  
+   Atendendo humildemente à Sua voz.   
 
 3. Anunciamos neste mundo que Jesus é o Salvador,  
-   Que,   com graça,   O enviaste,   ó bom Deus;  
-   Mesmo que aqui sejamos oprimidos,   ó Senhor,  
-   Nós teremos grande prêmio lá nos céus.
+   Que, com graça, O enviaste, ó bom Deus;  
+   Mesmo que aqui sejamos oprimidos, ó Senhor,  
+   Nós teremos grande prêmio lá nos céus.   
 
  ---
 
-<div id='01'/> 
+<div id='312'/> 
 
 # 312  Tributos de louvor
 
 1. Tributos de louvor darei ao grande Deus,  
    Ao Deus que escreveu meu nome lá nos céus;  
-   Que grande amor!
-   Bendito seja sempre o Deus do meu louvor!
+   Que grande amor!   
+   Bendito seja sempre o Deus do meu louvor!   
 
 2. Perante o Criador eu me inclinarei;  
-   Prostrado aos Seus pés,   Seu Nome bendirei;  
-   Fiel é Deus!
-   Do seu lugar excelso ouve os santos Seus.
+   Prostrado aos Seus pés, Seu Nome bendirei;  
+   Fiel é Deus!   
+   Do seu lugar excelso ouve os santos Seus.   
 
 3. No trono eterno está o Onipotente Deus,  
    Cercado por exércitos de anjos Seus;  
-   Que esplendor!
-   Eterna glória a Deus,   o santo Criador!
+   Que esplendor!   
+   Eterna glória a Deus, o santo Criador!   
 
 4. Meu Deus me contará com todos os fiéis;  
-   Herança me dará com Cristo,   o Rei dos reis;  
-   Elevarei
-   O meu louvor a Deus e a Jesus,   meu Rei.
+   Herança me dará com Cristo, o Rei dos reis;  
+   Elevarei   
+   O meu louvor a Deus e a Jesus, meu Rei.   
 
  ---
 
-<div id='01'/> 
+<div id='313'/> 
 
 # 313  Arrebatado aos céus
 
-1. O rijo clamor da trombeta ouvirão
-   Os filhos de Deus,   que ao céu subirão;  
-   Vindo em nuvens,   Jesus surgirá
+1. O rijo clamor da trombeta ouvirão   
+   Os filhos de Deus, que ao céu subirão;  
+   Vindo em nuvens, Jesus surgirá   
    E visto por todos os homens será;  
-   Seus anjos virão,   deste mundo,   levar
-   Os que,   com Cristo,   irão reinar.
-   Que dia de júbilo e esplendor!
-   Oh! Glória a Jesus,   o Senhor!
+   Seus anjos virão, deste mundo, levar   
+   Os que, com Cristo, irão reinar.   
+   Que dia de júbilo e esplendor!   
+   Oh! Glória a Jesus, o Senhor!   
 
-   Arrebatados aos céus,   por Cristo,   eterno Rei,  
-   Lá eu verei o grande Deus;   oh! quão feliz serei!
-   Cristo Jesus dará aos escolhidos Seus
-   A eternal morada: Jerusalém de Deus.
+   Arrebatados aos céus, por Cristo, eterno Rei,  
+   Lá eu verei o grande Deus; oh! quão feliz serei!   
+   Cristo Jesus dará aos escolhidos Seus   
+   A eternal morada: Jerusalém de Deus.   
 
-2. Aos Seus resgatados dirá o Senhor:
-   "Oh! Vinde,   benditos",   com grande amor.
+2. Aos Seus resgatados dirá o Senhor:   
+   "Oh! Vinde, benditos", com grande amor.   
    Um reino eterno o Pai nos doou,  
-   Que desde o princípio Ele nos preparou.
-   Ainda um pouco e Jesus voltará.
-   A Sua igreja O encontrará.
-   Que dia de júbilo e esplendor!
-   Oh! Glória a Jesus,   o Senhor!
+   Que desde o princípio Ele nos preparou.   
+   Ainda um pouco e Jesus voltará.   
+   A Sua igreja O encontrará.   
+   Que dia de júbilo e esplendor!   
+   Oh! Glória a Jesus, o Senhor!   
 
  ---
 
-<div id='01'/> 
+<div id='314'/> 
 
 # 314  O Teu poder supremo
 
-1. O Teu poder supremo,   ó Rei dos reis,  
+1. O Teu poder supremo, ó Rei dos reis,  
    Remove os tropeços aos Teus fiéis;  
    Só Tu me podes conduzir ao lar de amor;  
-   És Fonte de toda força,   firmeza e vigor.
+   És Fonte de toda força, firmeza e vigor.   
 
-2. Em Teu bendito Nome,   ó Redentor,  
+2. Em Teu bendito Nome, ó Redentor,  
    Por Deus é recebido o meu clamor;  
-   Meu ser entrego todo a Ti,   ó Salvador;  
-   Meus olhos a Ti levanto,   atende-me Senhor.
+   Meu ser entrego todo a Ti, ó Salvador;  
+   Meus olhos a Ti levanto, atende-me Senhor.   
 
-3. Agrava-se a batalha aqui,   meu Rei,  
-   Mas sempre estás comigo,   não temerei;  
+3. Agrava-se a batalha aqui, meu Rei,  
+   Mas sempre estás comigo, não temerei;  
    De armadura divinal me proverás;  
-   Ao fim,   na eterna glória,   Tu me receberás.
+   Ao fim, na eterna glória, Tu me receberás.   
 
  ---
 
-<div id='01'/> 
+<div id='315'/> 
 
 # 315  Contempla do céu
 
-1. Contempla do céu,   ó Senhor,   Teus fiéis,  
+1. Contempla do céu, ó Senhor, Teus fiéis,  
    Em nós seja feito o Teu santo querer;  
    Oh! Vem ajudar-nos a peregrinar,  
-   Conduz-nos aos céus,   com o Teu poder.
+   Conduz-nos aos céus, com o Teu poder.   
 
-   Que volte do céu,   Teu Filho,   ó Deus,  
-   Quão desejosos estamos,   Senhor!
-   Rejubilaremos ao vê-Lo voltar
-   Em grande esplendor.
+   Que volte do céu, Teu Filho, ó Deus,  
+   Quão desejosos estamos, Senhor!   
+   Rejubilaremos ao vê-Lo voltar   
+   Em grande esplendor.   
 
-2. Ó Pai amoroso,   envia Jesus,  
+2. Ó Pai amoroso, envia Jesus,  
    É grande o desejo de vê-Lo surgir;  
-   Queremos com Cristo à glória herdar
-   E bens eternais com Ele fruir.
+   Queremos com Cristo à glória herdar   
+   E bens eternais com Ele fruir.   
 
-3. Oh! Faz-nos perfeitos,   bondoso Senhor,  
+3. Oh! Faz-nos perfeitos, bondoso Senhor,  
    Na luz da Palavra queremos andar;  
-   São tempos difíceis,   ó bom Criador;  
-   Virtude e fé vem nos dispensar.
+   São tempos difíceis, ó bom Criador;  
+   Virtude e fé vem nos dispensar.   
 
  ---
 
-<div id='01'/> 
+<div id='316'/> 
 
 # 316  Tua vida é triste?
 
-1. Tua vida é triste? Tens profunda dor?
-   Queres um auxílio,   um libertador?
-   Aceitando a Cristo,   paz receberás,  
-   Força e alegria d’Ele alcançarás.
+1. Tua vida é triste? Tens profunda dor?   
+   Queres um auxílio, um libertador?   
+   Aceitando a Cristo, paz receberás,  
+   Força e alegria d’Ele alcançarás.   
 
-2. Fardo de pecado carregando estás?
+2. Fardo de pecado carregando estás?   
    Jugo de justiça de Jesus terás;  
-   Ouve a mensagem de amor sem par
-   Para que,   com Cristo,   possas caminhar.
+   Ouve a mensagem de amor sem par   
+   Para que, com Cristo, possas caminhar.   
 
-3. Por caminho largo andas sem ter paz?
-   Cristo é a Senda que feliz te faz;  
-   Confiando n’Ele,   tu encontrarás
-   Salvação eterna,   salvação veraz.
+3. Por caminho largo andas sem ter paz?   
+   Cristo é a Senda que feliz te faz;   
+   Confiando n’Ele, tu encontrarás   
+   Salvação eterna, salvação veraz.   
 
-   Olha para o alto,   de onde vem a luz,  
-   E verás,   então,   a glória de Jesus;  
+   Olha para o alto, de onde vem a luz,  
+   E verás, então, a glória de Jesus;  
    Que sublime obra consumou na cruz;  
-   Ao celeste reino Ele te conduz.
+   Ao celeste reino Ele te conduz.   
 
  ---
 
-<div id='01'/> 
+<div id='317'/> 
 
-# 317  Sinto o Senhor,   por fé,   em mim
+# 317  Sinto o Senhor, por fé, em mim
 
-1. Sinto o Senhor,   por fé,  
-   Em mim,   e Sua comunhão;  
-   Por graça,   paz,   virtude e amor,  
-   Jubila meu coração.
+1. Sinto o Senhor, por fé,  
+   Em mim, e Sua comunhão;  
+   Por graça, paz, virtude e amor,  
+   Jubila meu coração.   
 
    Sempre unido a meu Jesus,  
-   Forças terei,   também valor;  
+   Forças terei, também valor;  
    Ele é a Luz que ao céu conduz,  
-   Com amor.
+   Com amor.   
 
-2. Sinto o Senhor,   por fé,  
-   Em mim,   liberto estou do mal;  
-   Desfruto já o Seu amor
-   E a vida celestial.
+2. Sinto o Senhor, por fé,  
+   Em mim, liberto estou do mal;  
+   Desfruto já o Seu amor   
+   E a vida celestial.   
 
-3. Sinto o Senhor,   por fé,  
-   Em mim,   tranquilo eu estou,  
-   Sentindo a paz,   o Seu perdão
-   E a graça que me ofertou.
+3. Sinto o Senhor, por fé,  
+   Em mim, tranquilo eu estou,  
+   Sentindo a paz, o Seu perdão   
+   E a graça que me ofertou.   
 
  ---
 
-<div id='01'/> 
+<div id='318'/> 
 
-# 318  Ó Salvador,   Vida de amor
+# 318  Ó Salvador, Vida de amor
 
-1. Ó bom Jesus! Ó Salvador!
+1. Ó bom Jesus! Ó Salvador!   
    O pecador pede compaixão,  
-   Pois só em Ti ele achará
-   A salvação e o perdão.
+   Pois só em Ti ele achará   
+   A salvação e o perdão.   
 
-   Ó Salvador,   vem converter
-   O pecador,   por compaixão;  
-   Com Teu falar,   vem comover
-   E transformar seu coração.
+   Ó Salvador, vem converter   
+   O pecador, por compaixão;  
+   Com Teu falar, vem comover   
+   E transformar seu coração.   
 
-2. Além de Ti,   ó Rei dos reis,  
+2. Além de Ti, ó Rei dos reis,  
    Não há ninguém para dar perdão;  
-   Somente Tu,   ó Salvador,  
-   És o Autor da redenção.
+   Somente Tu, ó Salvador,  
+   És o Autor da redenção.   
 
-3. O pecador vive a sofrer
-   Sem salvação,   sem o Teu favor.
-   Mas,   crendo em Ti,   alcançará
-   Divina graça,   ó Redentor!
+3. O pecador vive a sofrer   
+   Sem salvação, sem o Teu favor.   
+   Mas, crendo em Ti, alcançará   
+   Divina graça, ó Redentor!   
 
  ---
 
-<div id='01'/> 
+<div id='319'/> 
 
 # 319  Foi Jesus quem me salvou
 
 1. Alegre canto um hino de louvor,  
    Pois Cristo me salvou;  
-   Um hino de vitória e amor
-   A Quem me libertou.
+   Um hino de vitória e amor   
+   A Quem me libertou.   
 
    Foi Jesus Quem me salvou,  
    Minha alma resgatou,  
    Minha vida transformou;  
-   Seu amor anunciarei
-   E Seu Nome glorificarei.
+   Seu amor anunciarei   
+   E Seu Nome glorificarei.   
 
 2. Minh'alma sente a celeste paz,  
    Pois Cristo me salvou;  
    Jamais voltar desejo para trás,  
-   Com Cristo avante eu vou.
+   Com Cristo avante eu vou.   
 
 3. Só em Jesus eu conheci o amor,  
    Amor que me salvou,  
-   Amor que me tem feito vencedor
-   E vida me doou.
+   Amor que me tem feito vencedor   
+   E vida me doou.   
 
  ---
 
-<div id='01'/> 
+<div id='320'/> 
 
 # 320  Que prazer é andar com Cristo
 
 1. Que prazer é andar com Cristo e a Sua voz ouvir,  
    Meditar em Seus conselhos que darão feliz porvir;  
-   Ó queridos,   consagremos nossas vidas ao Senhor
-   Para termos a herança no Seu reino de esplendor.
+   Ó queridos, consagremos nossas vidas ao Senhor   
+   Para termos a herança no Seu reino de esplendor.   
 
    Jesus Cristo é poderoso,  
-   Forte,   santo,   mui valoroso,  
-   Sumo Sábio,   maravilhoso,  
-   É o Senhor de tudo e Rei dos reis.
+   Forte, santo, mui valoroso,  
+   Sumo Sábio, maravilhoso,  
+   É o Senhor de tudo e Rei dos reis.   
 
-2. Que prazer é andar com Cristo,   desfrutar o Seu amor,  
-   Combater a iniquidade e,   ao fim,   ser vencedor;  
-   Neste mundo,   o Senhor por nós morreu na dura cruz
-   Para dar-nos vida e glória onda há eterna luz.
+2. Que prazer é andar com Cristo, desfrutar o Seu amor,  
+   Combater a iniquidade e, ao fim, ser vencedor;  
+   Neste mundo, o Senhor por nós morreu na dura cruz   
+   Para dar-nos vida e glória onda há eterna luz.   
 
-3. Que prazer é andar com Cristo,   o Caminho que conduz
+3. Que prazer é andar com Cristo, o Caminho que conduz   
    Às moradas sempiternas de resplandecente luz;  
-   Só em Cristo há verdade,   vida,   graça e perdão;  
-   N’Ele temos a certeza de alcançar a perfeição.
+   Só em Cristo há verdade, vida, graça e perdão;  
+   N’Ele temos a certeza de alcançar a perfeição.   
 
  ---
 
-<div id='01'/> 
+<div id='321'/> 
 
 # 321  Bendito seja o Deus vivente
 
-1. Bendito seja o Deus Vivente
-   Que nos gerou de novo,   em Cristo,  
-   E,   pela graça excelente,  
+1. Bendito seja o Deus Vivente   
+   Que nos gerou de novo, em Cristo,  
+   E, pela graça excelente,  
    Nos deu herança lá nos céus,  
-   Habitação de Deus.
+   Habitação de Deus.   
 
-2. A nossa fé é mais preciosa
+2. A nossa fé é mais preciosa   
    Do que o ouro perecível;  
    O fim é a salvação gloriosa,  
    Incorruptível galardão,  
-   Eterna redenção.
+   Eterna redenção.   
 
-3. A sã Palavra da verdade
+3. A sã Palavra da verdade   
    Que para sempre permanece,  
    Nos leva ao Pai da eternidade;  
    Também seremos eternais,  
-   Com corpos celestiais.
-
-4. Perece,   o homem,   como a erva
+   Com corpos celestiais.   
+ 
+4. Perece, o homem, como a erva   
    E sua glória aqui termina,  
-   Mas Deus,   aos Seus fiéis,   reserva
-   A glória que não findará:
-   Seu povo reinará.
+   Mas Deus, aos Seus fiéis, reserva   
+   A glória que não findará:   
+   Seu povo reinará.   
 
  ---
 
-<div id='01'/> 
+<div id='322'/> 
 
-# 322  Vem,   Rei eterno
+# 322  Vem, Rei eterno
 
 1. A Tua obra de amor contarei,  
    Ó glorioso Jesus;  
    Que os pecados perdoas,  
-   Direi,   e que do mundo és a Luz.
+   Direi, e que do mundo és a Luz.   
 
-   Vem,   Rei eterno,  
-   Vem,   Rei da glória,  
+   Vem, Rei eterno,  
+   Vem, Rei da glória,  
    Meu coração abençoar;  
-   Unge meus lábios,   e anunciarei
-   O Evangelho da graça sem par.
+   Unge meus lábios, e anunciarei   
+   O Evangelho da graça sem par.   
 
 2. Revelarás Teus mistérios,  
-   Senhor,   a todo aquele que crer;  
-   Pelo Espírito Consolador
-   Concederás Teu saber.
+   Senhor, a todo aquele que crer;  
+   Pelo Espírito Consolador   
+   Concederás Teu saber.   
 
 3. Por Tua graça me deste o bem,  
-   A paz,   a vida,   o amor;  
-   Certo darás esta graça também
-   Aos que Te buscam,   Senhor.
+   A paz, a vida, o amor;  
+   Certo darás esta graça também   
+   Aos que Te buscam, Senhor.   
 
  ---
 
-<div id='01'/> 
+<div id='323'/> 
 
-# 323  Oh! Não busques,   ansioso
+# 323  Oh! Não busques, ansioso
 
-1. Oh! Não busques,   ansioso,  
+1. Oh! Não busques, ansioso,  
    Paz no mundo enganador,  
-   Pois é só Jesus,   bondoso,  
-   O veraz Consolador.
+   Pois é só Jesus, bondoso,  
+   O veraz Consolador.   
 
-   Ao Senhor Jesus entrega
+   Ao Senhor Jesus entrega   
    Tua mente e coração,  
-   Pois o mundo só te leva
-   À eterna perdição.
+   Pois o mundo só te leva   
+   À eterna perdição.   
 
-2. Ouve bem,   Jesus te chama
+2. Ouve bem, Jesus te chama   
    Para te regenerar;  
-   Com celeste amor te ama
-   E deseja te salvar.
+   Com celeste amor te ama   
+   E deseja te salvar.   
 
-3. Pelo mundo tens andado
+3. Pelo mundo tens andado   
    Longe do teu Redentor;  
    Não mais sirvas ao pecado,  
-   Serve a Cristo,   teu Senhor.
+   Serve a Cristo, teu Senhor.   
 
  ---
 
-<div id='01'/> 
+<div id='324'/> 
 
 # 324  Do mal o Salvador veio me tirar
 
-1. Do mundo do pecado veio me tirar
-   Jesus,   o Poderoso,   que me fará entrar
-   Na terra da promessa,   pois herdeiro sou.
-   Oh! Glória,   a Jesus Cristo,   que já me resgatou!
+1. Do mundo do pecado veio me tirar   
+   Jesus, o Poderoso, que me fará entrar   
+   Na terra da promessa, pois herdeiro sou.   
+   Oh! Glória, a Jesus Cristo, que já me resgatou!   
 
    Do mal o Salvador veio me tirar,  
    Com Sua forte mão ao céu vai me levar;  
    Avante seguirei com o meu Senhor,  
-   E lá darei louvores a Deus,   Criador.
+   E lá darei louvores a Deus, Criador.   
 
-2. Fiel é a promessa do eterno Rei:
+2. Fiel é a promessa do eterno Rei:   
    Na terra gloriosa um galardão terei;  
-   Meu Salvador me guia com saber e luz.
-   Louvores ao Eterno! Louvores a Jesus!
+   Meu Salvador me guia com saber e luz.   
+   Louvores ao Eterno! Louvores a Jesus!   
 
-3. Não volto ao pecado,   sigo o meu Senhor;  
-   Por fé eu já desfruto as bênçãos de amor
+3. Não volto ao pecado, sigo o meu Senhor;  
+   Por fé eu já desfruto as bênçãos de amor   
    Que foram prometidas pelo Criador;  
-   No céu,   já me esperam riquezas de valor.
+   No céu, já me esperam riquezas de valor.   
 
  ---
 
-<div id='01'/> 
+<div id='325'/> 
 
 # 325  Louvemos ao Rei dos reis
 
 1. Louvemos ao Rei dos reis com todo o nosso fervor;  
-   Num só espírito,   ó fiéis,   cantemos hinos de louvor;  
-   Por graça,   temos paz e vida eterna no Senhor.
+   Num só espírito, ó fiéis, cantemos hinos de louvor;  
+   Por graça, temos paz e vida eterna no Senhor.   
 
-   Que grande tesouro
-   Alcançaremos em glória!
+   Que grande tesouro   
+   Alcançaremos em glória!   
    Nem ouro ou prata será,  
-   Mas vida que não findará.
+   Mas vida que não findará.   
 
-2. O santo,   puro amor somente vem de Jesus,  
-   Por Quem sentimos o vigor de suportar a nossa cruz
-   Com fé,   paciência e calma,   irradiando sempre luz.
+2. O santo, puro amor somente vem de Jesus,  
+   Por Quem sentimos o vigor de suportar a nossa cruz   
+   Com fé, paciência e calma, irradiando sempre luz.   
 
-3. Por Cristo,   Sumo Pastor,   fruímos o grande bem
+3. Por Cristo, Sumo Pastor, fruímos o grande bem   
    De sermos filhos do bom Deus,  
-   Que já nos faz provar também
-   As celestiais primícias da eternal Jerusalém.
+   Que já nos faz provar também   
+   As celestiais primícias da eternal Jerusalém.   
 
  ---
 
-<div id='01'/> 
+<div id='326'/> 
 
 # 326  Sempre a Cristo fiéis
 
 1. Sempre a Cristo fiéis nós seremos,  
    Sempre firmes devemos lutar;  
    Pela graça que nós recebemos,  
-   Poderemos bons frutos Lhe dar.
+   Poderemos bons frutos Lhe dar.   
 
-   Sempre fiéis,   de valor em valor,  
+   Sempre fiéis, de valor em valor,  
    Seguiremos o nosso Pastor;  
-   Entraremos no lar glorioso
-   E veremos o nosso Senhor.
+   Entraremos no lar glorioso   
+   E veremos o nosso Senhor.   
 
-2. Vestiremos,   de Deus,   a armadura
+2. Vestiremos, de Deus, a armadura   
    Para o nosso inimigo enfrentar;  
-   A Palavra de Deus,   santa e pura,  
-   Nos fará a vitória alcançar.
+   A Palavra de Deus, santa e pura,  
+   Nos fará a vitória alcançar.   
 
-3. Finalmente diremos,   unidos:
-   "Combatemos,   guardamos a fé";  
-    Na presença de Deus,   reunidos,  
-    O veremos tal como Ele é.
+3. Finalmente diremos, unidos:   
+   "Combatemos, guardamos a fé";  
+    Na presença de Deus, reunidos,  
+    O veremos tal como Ele é.   
 
  ---
 
-<div id='01'/> 
+<div id='327'/> 
 
 # 327  Soldados somos do Senhor
 
 1. Soldados somos do Senhor,  
-   Avante sem temer!
-   Deus nos dá força e valor
-   E nos fará vencer.
+   Avante sem temer!    
+   Deus nos dá força e valor   
+   E nos fará vencer.   
 
    Galardão nos dará,  
    Eternal e excelso bem;  
-   Ao terminar a luta,   nos exaltará
-   Na eternal Jerusalém.
+   Ao terminar a luta, nos exaltará   
+   Na eternal Jerusalém.   
 
-2. Lutemos firmes,   sem cessar,  
-   Pois Cristo,   o Vencedor,  
+2. Lutemos firmes, sem cessar,  
+   Pois Cristo, o Vencedor,  
    Nos auxilia a enfrentar
-   O astuto tentador.
+   O astuto tentador.   
 
 3. Se forte a peleja for,  
    Lutemos sem temer,  
    Pois é mais forte o Senhor;  
-   Imenso é Seu poder.
+   Imenso é Seu poder.   
 
  ---
 
-<div id='01'/> 
+<div id='328'/> 
 
-# 328  Grande é o Teu poder,   Senhor
+# 328  Grande é o Teu poder, Senhor
 
-1. Grande é o Teu poder,   Senhor,  
-   Quão imenso é,   ó eterno Deus;  
-   Não há outro Deus dominador
-   Sobre a terra,   sobre os mares e nos céus.
+1. Grande é o Teu poder, Senhor,  
+   Quão imenso é, ó eterno Deus;  
+   Não há outro Deus dominador   
+   Sobre a terra, sobre os mares e nos céus.   
 
    Toda a glória só a Ti pertence,  
-   Pois três vezes Santo és,   Senhor;  
+   Pois três vezes Santo és, Senhor;  
    Reges tudo com o Teu poder,  
-   Ó Criador.
+   Ó Criador.   
 
-2. Manifestam Teu poder,   os céus,  
+2. Manifestam Teu poder, os céus,  
    Obra Tua é toda a criação,  
    São perfeitos os caminhos Teus;  
-   És também Quem dá,   ao homem,   salvação.
+   És também Quem dá, ao homem, salvação.   
 
-3. É eterno Teu poder,   Senhor;  
-   Passam gerações,   tudo passará,  
-   Mas o Teu poder,   ó Criador,  
-   Para toda a eternidade durará.
+3. É eterno Teu poder, Senhor;  
+   Passam gerações, tudo passará,  
+   Mas o Teu poder, ó Criador,  
+   Para toda a eternidade durará.   
 
  ---
 
-<div id='01'/> 
+<div id='329'/> 
 
 # 329  Com fé combate
 
 1. Com Cristo podes ao mal resistir,  
    Os Seus conselhos tu deves guardar;  
    Se desejares coroa cingir,  
-   Não deves,   nas lutas,   desanimar.
+   Não deves, nas lutas, desanimar.   
 
-   Com fé combate,   sê fervoroso,  
+   Com fé combate, sê fervoroso,  
    Tu vencerás com valor;  
    Cristo promete ao vitorioso,  
-   O galardão de esplendor.
+   O galardão de esplendor.   
 
 2. Em Cristo tens a divina mercê,  
-   Em tudo,   vitorioso serás;  
-   Sê corajoso,   combate com fé,  
-   Caminha com Cristo e vencerás.
+   Em tudo, vitorioso serás;  
+   Sê corajoso, combate com fé,  
+   Caminha com Cristo e vencerás.   
 
-3. "Ao que vencer",   disse Cristo Jesus,  
-   "Seu nome,   do livro não riscarei";  
-   Receberá,   no Seu reino de luz,  
-   O galardão do Senhor,   nosso Rei.
+3. "Ao que vencer", disse Cristo Jesus,  
+   "Seu nome, do livro não riscarei";  
+   Receberá, no Seu reino de luz,  
+   O galardão do Senhor, nosso Rei.   
 
  ---
 
-<div id='01'/> 
+<div id='330'/> 
 
 # 330  Ao findar a jornada
 
-1. Ao findar a jornada,   repousarei
+1. Ao findar a jornada, repousarei   
    No reino da eterna luz;  
-   Ao findar a jornada,   eu entrarei
-   No céu com o meu Jesus.
+   Ao findar a jornada, eu entrarei   
+   No céu com o meu Jesus.   
 
-   Lá no reino dos céus rejubilarei
+   Lá no reino dos céus rejubilarei   
    Ao sentir o excelso amor;  
-   Lá no reino dos céus contemplarei
-   A face do meu Senhor.
+   Lá no reino dos céus contemplarei   
+   A face do meu Senhor.   
 
-2. Sem igual há de ser minha emoção
+2. Sem igual há de ser minha emoção   
    Ao ver meu Senhor voltar;  
    E,   no lar da justiça e da perfeição,  
-   Jesus me fará morar.
+   Jesus me fará morar.   
 
-3. Ao findar a jornada,   receberei
-   O prêmio do meu labor:
+3. Ao findar a jornada, receberei   
+   O prêmio do meu labor:   
    A coroa de glória das mãos do Rei,  
-   O santo e fiel Senhor.
+   O santo e fiel Senhor.   
 
  ---
 
-<div id='01'/> 
+<div id='331'/> 
 
 # 331  Vem a Cristo sem tardar
 
-1. Vem a Cristo sem tardar,   Sua graça quer te dar;  
-   Vem,   contrito,   receber a Sua luz;  
-   Seu olhar tem sobre ti,   Ele quer te perdoar;  
-   Vem a Cristo entregar-te sem tardar.
+1. Vem a Cristo sem tardar, Sua graça quer te dar;  
+   Vem, contrito, receber a Sua luz;  
+   Seu olhar tem sobre ti, Ele quer te perdoar;  
+   Vem a Cristo entregar-te sem tardar.   
 
-2. Vem a Cristo sem tardar,   paz e vida quer te dar,  
+2. Vem a Cristo sem tardar, paz e vida quer te dar,  
    Deixa a senda que à morte te conduz;  
-   Ele quer te transformar,   Ele pode te salvar;  
-   Vem a Cristo entregar-te sem tardar.
+   Ele quer te transformar, Ele pode te salvar;  
+   Vem a Cristo entregar-te sem tardar.   
 
-3. Vem a Cristo sem tardar,   pois no céu te quer doar
-   Um tesouro que,   no mundo,   não terás;  
-   Tu não deves rejeitar esta graça,   que é sem par;  
-   Vem a Cristo entregar-te sem tardar.
+3. Vem a Cristo sem tardar, pois no céu te quer doar   
+   Um tesouro que, no mundo, não terás;  
+   Tu não deves rejeitar esta graça, que é sem par;  
+   Vem a Cristo entregar-te sem tardar.   
 
-   Sem tardar,   sem mais tardar,  
+   Sem tardar, sem mais tardar,  
    A Jesus vem te entregar;  
-   Seu olhar tem sobre ti,   Ele quer te perdoar,  
-   Vem depressa a Quem te chama,   sem tardar.
+   Seu olhar tem sobre ti, Ele quer te perdoar,  
+   Vem depressa a Quem te chama, sem tardar.   
 
  ---
 
-<div id='01'/> 
+<div id='332'/> 
 
 # 332  Sempre de Ti cuidará
 
-1. Cristo Jesus,   o Pastor divinal,  
+1. Cristo Jesus, o Pastor divinal,  
    Sempre de ti cuidará;  
-   Ele,   que fala de vida eternal,  
-   Nunca te abandonará.
+   Ele, que fala de vida eternal,  
+   Nunca te abandonará.   
 
     É Cristo Quem cuida de ti,  
     É Ele quem zela por ti;  
-    N'Ele descansa,   n'Ele tem fé,  
-    Forte Refúgio Ele é.
+    N'Ele descansa, n'Ele tem fé,  
+    Forte Refúgio Ele é.   
 
-2. Em toda a prova,   irmão,   o Senhor,  
+2. Em toda a prova, irmão, o Senhor,  
    Forças do céu te dará;  
-   Cristo,   te salva te faz vencedor;  
-   Ele jamais falhará.
+   Cristo, te salva te faz vencedor;  
+   Ele jamais falhará.   
 
-3. Em Sua graça,   irmão,   o Senhor
+3. Em Sua graça, irmão, o Senhor   
    Sempre te conservará;  
-   Cristo,   teu Guia,   também teu Valor,  
-   Em teu socorro virá.
+   Cristo, teu Guia, também teu Valor,  
+   Em teu socorro virá.   
 
  ---
 
