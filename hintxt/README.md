@@ -11201,7 +11201,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='432'/> 
 
 # 432  Vem, ó divino Mestre
 
@@ -11227,7 +11227,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='433'/> 
 
 # 433  Na santa escola
 
@@ -11249,7 +11249,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='434'/> 
 
 # 434  A minha alma sente paz no Senhor
 
@@ -11270,7 +11270,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='435'/> 
 
 # 435  Ó Jesus, quanto és piedoso!
 
@@ -11297,7 +11297,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='436'/> 
 
 # 436  Alegria sinto em servir Jesus
 
@@ -11323,7 +11323,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='437'/> 
 
 # 437  Os meninos viram Jesus passar
 
@@ -11349,7 +11349,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='438'/> 
 
 # 438  Oh! Que amor celeste!
 
@@ -11375,7 +11375,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='439'/> 
 
 # 439  Somos jovens
 
@@ -11401,7 +11401,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='440'/> 
 
 # 440  Lembra-te do Teu Criador!
 
@@ -11427,7 +11427,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='441'/> 
 
 # 441  Eu sou um cordeirinho
 
@@ -11448,7 +11448,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='442'/> 
 
 # 442  Bênçãos, bênçãos Deus derramará
 
@@ -11474,7 +11474,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='443'/> 
 
 # 443  Ó meninos, Deus vos convida
 
@@ -11507,7 +11507,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='444'/> 
 
 # 444  Ó meninos, exaltemos
 
@@ -11523,7 +11523,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='445'/> 
 
 # 445  Ajuntemos um tesouro eterno
 
@@ -11548,7 +11548,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='446'/> 
 
 # 446  Vós, ó jovens do Senhor
 
@@ -11576,7 +11576,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='447'/> 
 
 # 447  Brilha mais e mais
 
@@ -11601,7 +11601,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='448'/> 
 
 # 448  Sou criança, Senhor
 
@@ -11627,7 +11627,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='449'/> 
 
 # 449  O meu nome no céu escreveste, Senhor
 
@@ -11651,7 +11651,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='450'/> 
 
 # 450  Vamos, queridos, escolher a boa parte
 
@@ -11677,7 +11677,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='451'/> 
 
 # 451  Jamais esquecerei Tua mercê
 
@@ -11703,7 +11703,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='452'/> 
 
 # 452  Jesus, ó divinal Pastor
 
@@ -11736,7 +11736,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='453'/> 
 
 # 453  Consagrados sejamos a Deus
 
@@ -11762,7 +11762,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='454'/> 
 
 # 454  Cidadão dos céus
 
@@ -11783,7 +11783,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='455'/> 
 
 # 455  Quão ditoso é caminhar com Jesus!
 
@@ -11809,7 +11809,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='456'/> 
 
 # 456  Somos joias preciosas
 
@@ -11835,7 +11835,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='457'/> 
 
 # 457  Comigo está Jesus
 
@@ -11865,7 +11865,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='458'/> 
 
 # 458  Cristo me ama
 
@@ -11891,7 +11891,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='459'/> 
 
 # 459  Vamos nos preparar!
 
@@ -11914,7 +11914,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='460'/> 
 
 # 460  Vamos todos juntos cantar
 
@@ -11944,7 +11944,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='461'/> 
 
 # 461  Abrigado em Jesus
 
@@ -11970,7 +11970,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='462'/> 
 
 # 462  Gloriosa é a história
 
@@ -12001,7 +12001,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='463'/> 
 
 # 463  Mocidade! Vamos combater!
 
@@ -12027,7 +12027,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='464'/> 
 
 # 464  Reunidos nós estamos
 
@@ -12048,7 +12048,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='465'/> 
 
 # 465  Deus tem por nós imenso amor
 
@@ -12075,7 +12075,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='466'/> 
 
 # 466  A criança consagrada
 
@@ -12096,7 +12096,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='467'/> 
 
 # 467  Vamos com Jesus
 
@@ -12122,7 +12122,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='468'/> 
 
 # 468  Toda a criança...
 
@@ -12143,7 +12143,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='469'/> 
 
 # 469  Pai nosso, que estás nos céus
 
@@ -12174,7 +12174,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='470'/> 
 
 # 470  Jesus Cristo, Seus fiéis, ensina
 
@@ -12202,7 +12202,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='471'/> 
 
 # 471  Que grande bem é andar com Cristo!
 
@@ -12227,7 +12227,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='472'/> 
 
 # 472  Glorificarei, Glorificarei
 
@@ -12253,7 +12253,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='473'/> 
 
 # 473  Forasteiro sou no mundo
 
@@ -12279,7 +12279,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='474'/> 
 
 # 474  Oh! Glória! Bendito é o Senhor!
 
@@ -12305,7 +12305,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='475'/> 
 
 # 475  Se eu for aqui provado
 
@@ -12331,7 +12331,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='476'/> 
 
 # 476 -"Deixai a Mim vir os pequeninos..."
 
@@ -12352,7 +12352,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='477'/> 
 
 # 477  Vinde, crianças
 
@@ -12378,7 +12378,7 @@
 
  ---
 
-<div id='01'/> 
+<div id='478'/> 
 
 # 478  Cedo retorna o Senhor
 
