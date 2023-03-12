@@ -19,7 +19,7 @@
 
  ---
 
-##  [Reuniões Jovens e Menores](#JovenseMenores) | [Santa Ceia](#SantaCeia) | [Coros](#Coros) | [Pontos de doutrina](#Pontosdedoutrina)  
+##  [Reuniões Jovens e Menores](#JovenseMenores) | [Santa Ceia](#SantaCeia) | [Funeral](#Funeral) | [Coros](#Coros) | [Pontos de doutrina](#Pontosdedoutrina)  
 
  ---
 
@@ -11064,6 +11064,16 @@
    E assentou-Se à destra de Deus;  
    Com grande glória será Seu retorno   
    Para levar os eleitos aos céus.   
+
+ ---
+
+ <div id='Funeral'/> 
+
+# Hinos de Funeral
+
+ ---
+
+##  [426](#426) - [427](#427) - [428](#428) - [429](#429) - [430](#430)
 
  ---
 
