@@ -107,7 +107,7 @@
     {
         "id": 16,
         "tvtitle": "TV Record News",
-        "tvmedia": "https://dlasimer.pages.dev/ytblive/#vid=UCuiLR4p6wQ3xLEm15pEn1Xw",
+        "tvmedia": "https://dlasimer.pages.dev/pyt/#vid=UCuiLR4p6wQ3xLEm15pEn1Xw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rn.jpg",
         "tvgroup": "Jornalismo"
     },
@@ -201,7 +201,7 @@
     {
         "id": 37,
         "tvtitle": "TV CNN",
-        "tvmedia": "https://dlasimer.pages.dev/ytblive/#vid=UCvdwhh_fDyWccR42-rReZLw",
+        "tvmedia": "https://dlasimer.pages.dev/pyt/#vid=UCvdwhh_fDyWccR42-rReZLw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cnn.jpg",
         "tvgroup": "Variedades"
     },
