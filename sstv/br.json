@@ -107,7 +107,7 @@
     {
         "id": 16,
         "tvtitle": "TV Record News",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusnews-lh.akamaihd.net\/i\/pp_nws@377849\/master.m3u8",
+        "tvmedia": "https://dlasimer.pages.dev/ytblive/#vid=UCuiLR4p6wQ3xLEm15pEn1Xw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rn.jpg",
         "tvgroup": "Jornalismo"
     },
@@ -201,7 +201,7 @@
     {
         "id": 37,
         "tvtitle": "TV CNN",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCvdwhh_fDyWccR42-rReZLw",
+        "tvmedia": "https://dlasimer.pages.dev/ytblive/#vid=UCvdwhh_fDyWccR42-rReZLw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cnn.jpg",
         "tvgroup": "Variedades"
     },
