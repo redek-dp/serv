@@ -107,7 +107,7 @@
     {
         "id": 16,
         "tvtitle": "TV Record News",
-        "tvmedia": "https://dlasimer.pages.dev/pyt/#vid=UCuiLR4p6wQ3xLEm15pEn1Xw",
+        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCuiLR4p6wQ3xLEm15pEn1Xw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rn.jpg",
         "tvgroup": "Jornalismo"
     },
@@ -201,7 +201,7 @@
     {
         "id": 37,
         "tvtitle": "TV CNN",
-        "tvmedia": "https://dlasimer.pages.dev/pyt/#vid=UCvdwhh_fDyWccR42-rReZLw",
+        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCvdwhh_fDyWccR42-rReZLw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cnn.jpg",
         "tvgroup": "Variedades"
     },
@@ -214,8 +214,8 @@
     },
     {
         "id": 39,
-        "tvtitle": "TV SBT - CV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist-380p.m3u8",
+        "tvtitle": "TV SBT - RS",
+        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCHDfPYXReWt5EVIzBA6TzOQ",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/sbt.jpg",
         "tvgroup": "Variedades"
     },
