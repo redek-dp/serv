@@ -86,7 +86,7 @@
     {
         "id": 13,
         "tvtitle": "TV SBT - SD",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-380p.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/sbt.jpg",
         "tvgroup": "Variedades"
     },
@@ -107,7 +107,21 @@
     {
         "id": 16,
         "tvtitle": "TV Record News",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stream.ads.ottera.tv/playlist.m3u8?network_id=2116",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rn.jpg",
+        "tvgroup": "Jornalismo"
+    },
+    {
+        "id": 16,
+        "tvtitle": "TV Record News",
         "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCuiLR4p6wQ3xLEm15pEn1Xw",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rn.jpg",
+        "tvgroup": "Jornalismo"
+    },
+    {
+        "id": 16,
+        "tvtitle": "TV Record News",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rn.jpg",
         "tvgroup": "Jornalismo"
     },
