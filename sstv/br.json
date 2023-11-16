@@ -207,10 +207,10 @@
     },
     {
         "id": 36,
-        "tvtitle": "TV MAIS BRASIL",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1682238439.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/maisb.jpg",
-        "tvgroup": "R\u00e1dio"
+        "tvtitle": "TV SBT - RS",
+        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCHDfPYXReWt5EVIzBA6TzOQ",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/sbt.jpg",
+        "tvgroup": "Variedades"
     },
     {
         "id": 37,
@@ -221,80 +221,80 @@
     },
     {
         "id": 38,
-        "tvtitle": "TV Vintage",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com\/rogerio4248\/rogerio4248\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/vintage.jpg",
-        "tvgroup": "WebTV"
+        "tvtitle": "TV MAIS BRASIL",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/maisb.jpg",
+        "tvgroup": "R\u00e1dio"
     },
     {
         "id": 39,
-        "tvtitle": "TV SBT - RS",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCHDfPYXReWt5EVIzBA6TzOQ",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/sbt.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV AFV",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/afv.jpg",
+        "tvgroup": "comedia"
     },
     {
         "id": 40,
-        "tvtitle": "TV Uni\u00e3o",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=596639ebdd89b.streamlock.net\/tvuniao\/tvuniao\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/uniao.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV ALF",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/alf.jpg",
+        "tvgroup": "series"
     },
     {
         "id": 41,
-        "tvtitle": "TV Brasil",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-9773\/ngrp:LVW9773_eRZLMN9Hsr_all\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvbrasil.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV AFV en Es",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/afv.jpg",
+        "tvgroup": "comedia"
     },
     {
         "id": 42,
         "tvtitle": "TV SÉRIES CHIPS",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvseries.jpg",
-        "tvgroup": "P\u00fablica"
+        "tvgroup": "series"
     },
     {
         "id": 43,
-        "tvtitle": "TV Record BH",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusbh-lh.akamaihd.net\/i\/pp_bh@377862\/master.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/record.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV FailArmy",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=failarmy-international-ca.samsung.wurl.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/failarmy.jpg",
+        "tvgroup": "comedia"
     },
     {
         "id": 44,
-        "tvtitle": "TV Sjid",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=livefocamundo.com:8081/tvjsid/index.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvsjid.jpg",
-        "tvgroup": "WebTV"
-    },
-    {
-        "id": 45,
-        "tvtitle": "TV Birigui",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/tvdigitalbirigui\/_definst_\/tvdigitalbirigui\/chunklist_w763334596.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvbirigui.jpg",
-        "tvgroup": "WebTV"
-    },
-    {
-        "id": 46,
         "tvtitle": "TV NetMovies",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&start=60&list=UUK5RRQ3TdwAbbCWrtnXsN3Q",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/netmovies.jpg",
         "tvgroup": "Movies"
     },
     {
-        "id": 47,
-        "tvtitle": "TV Bons Tempos",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=tv01.livemustv.com.br\/rivaldo6209\/rivaldo6209\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/bonstempos.jpg",
-        "tvgroup": "WebTV"
+        "id": 45,
+        "tvtitle": "TV FailArmy",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=failarmy-international-it.samsung.wurl.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/failarmy.jpg",
+        "tvgroup": "comedia"
     },
     {
-        "id": 48,
-        "tvtitle": "TV MIX",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.painelvideo.com/tvmix/tvmix/chunklist_w2012370176.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvmix.jpg",
-        "tvgroup": "M\u00fasica"
+        "id": 46,
+        "tvtitle": "TV AFV Family",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/afvfamily.jpg",
+        "tvgroup": "comedia"
+    },
+    {
+        "id": 47,
+        "tvtitle": "TV The History",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UURP5p2RfxJgnKyWgve5pJ-Q",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/history.jpg",
+        "tvgroup": "History"
+    },
+    {
+        "id": 46,
+        "tvtitle": "TV AFV Family",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/afvfamily.jpg",
+        "tvgroup": "comedia"
     },
     {
         "id": 49,
@@ -305,10 +305,10 @@
     },
     {
         "id": 50,
-        "tvtitle": "TV The History",
-        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UURP5p2RfxJgnKyWgve5pJ-Q",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/history.jpg",
-        "tvgroup": "History"
+        "tvtitle": "TV Bons Tempos",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=tv01.livemustv.com.br\/rivaldo6209\/rivaldo6209\/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/bonstempos.jpg",
+        "tvgroup": "WebTV"
     },
     {
         "id": 51,
