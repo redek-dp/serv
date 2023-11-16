@@ -180,7 +180,7 @@
     {
         "id": 32,
         "tvtitle": "TV Jovem Pan News",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCP391YRAjSOdM_bwievgaZA",
+        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCP391YRAjSOdM_bwievgaZA",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/jovempannews.jpg",
         "tvgroup": "News"
     },
