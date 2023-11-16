@@ -141,10 +141,10 @@
     },
     {
         "id": 19,
-        "tvtitle": "TV Record RJ",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/record.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Gospel Movie",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/gospelmovie.jpg",
+        "tvgroup": "Religious"
     },
     {
         "id": 20,
@@ -186,10 +186,10 @@
     },
     {
         "id": 33,
-        "tvtitle": "TV Diario",
-        "tvmedia": "https://www.dailymotion.com/embed/video/x7txn7q?autoplay=1",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvdiario.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Gospel Cartoon",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/gospelcartoon.jpg",
+        "tvgroup": "Kids"
     },
     {
         "id": 34,
