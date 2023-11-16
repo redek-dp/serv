@@ -43,15 +43,15 @@
     },
     {
         "id": 7,
-        "tvtitle": "TV RedeTV! ES",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?token=5874329047397081000",
+        "tvtitle": "TV RedeTV!",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/redetv.jpg",
         "tvgroup": "Variedades"
     },
     {
         "id": 8,
-        "tvtitle": "TV Cultura",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5ee90cb3a07bb.streamlock.net/live-fertel/live-fertel/playlist-480p.m3u8",
+        "tvtitle": "TV Cultura CBTV",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cultura.jpg",
         "tvgroup": "P\u00fablica"
     },
@@ -200,9 +200,9 @@
     },
     {
         "id": 35,
-        "tvtitle": "TV Record MA",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusmao-lh.akamaihd.net\/i\/pp_mao@409195\/master.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/record.jpg",
+        "tvtitle": "TV Brasil Central",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=tbc.zoeweb.tv/tbc/tbc/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tbc.jpg",
         "tvgroup": "Variedades"
     },
     {
