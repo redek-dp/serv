@@ -127,9 +127,9 @@
     },
     {
         "id": 17,
-        "tvtitle": "TV Rede Fam\u00edlia",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5a1c76baf08c0.streamlock.net\/familia\/smil:familia.smil\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/redefamilia.jpg",
+        "tvtitle": "TV BRICS",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/brics.jpg",
         "tvgroup": "Variedades"
     },
     {
