@@ -239,9 +239,9 @@
     },
     {
         "id": 42,
-        "tvtitle": "TV SÉRIES CHIPS",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvseries.jpg",
+        "tvtitle": "TV MyTime Movie Network",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/mytime.jpg",
         "tvgroup": "series"
     },
     {
@@ -309,10 +309,10 @@
     },
     {
         "id": 52,
-        "tvtitle": "TV Aparecida Channel",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCfYrK5JU5EznsnK3wQE7iIg",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/aparecida.jpg",
-        "tvgroup": "Religioso"
+        "tvtitle": "TV Mon",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/mon.jpg",
+        "tvgroup": "Variedades"
     },
     {
         "id": 53,
@@ -372,10 +372,10 @@
     },
     {
         "id": 61,
-        "tvtitle": "TV Mon",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/mon.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Aparecida Channel",
+        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCfYrK5JU5EznsnK3wQE7iIg",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/aparecida.jpg",
+        "tvgroup": "Religioso"
     },
     {
         "id": 62,
@@ -384,15 +384,12 @@
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/allsports.jpg",
         "tvgroup": "Esportes"
     },
-
-
-
     {
         "id": 63,
-        "tvtitle": "TV SÉRIES GUERRA SOMBRA ÁGUA FRESCA",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvseries.jpg",
-        "tvgroup": "Filmes"
+        "tvtitle": "TV TNT Sports 1",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tntsp.jpg",
+        "tvgroup": "Esportes"
     },
     {
         "id": 64,
@@ -403,34 +400,55 @@
     },
     {
         "id": 65,
+        "tvtitle": "TV TNT Sports 2",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tntsp.jpg",
+        "tvgroup": "Esportes"
+    },
+    {
+        "id": 66,
+        "tvtitle": "TV GLOBO",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUEPRQVF6hxGGM9gi1ELaWHg",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/globoc.jpg",
+        "tvgroup": "Esportes"
+    },
+    {
+        "id": 67,
+        "tvtitle": "TV TNT Sports 3",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tntsp.jpg",
+        "tvgroup": "Esportes"
+    },
+    {
+        "id": 68,
         "tvtitle": "TV DecomTV Channel",
         "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUHqvw9v2Fp6o006lUskoigg",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/decomtv.jpg",
         "tvgroup": "Variedades"
     },
     {
-        "id": 66,
-        "tvtitle": "TV REDE BRASIL",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCubxEhRi56_V4_eTzzcFwkA",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rbrasil.jpg",
-        "tvgroup": "Religioso"
+        "id": 69,
+        "tvtitle": "TV TNT Sports 4",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tntsp.jpg",
+        "tvgroup": "Esportes"
     },
     {
-        "id": 67,
-        "tvtitle": "TV GLOBO",
-        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUEPRQVF6hxGGM9gi1ELaWHg",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/globoc.jpg",
-        "tvgroup": "Esportes"
-    },  
-    {
-        "id": 68,
+        "id": 70,
         "tvtitle": "TV C\u00e2mara",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stream3.camara.gov.br\/tv1\/manifest.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/camaragov.jpg",
         "tvgroup": "P\u00fablica"
     },
     {
-        "id": 69,
+        "id": 71,
+        "tvtitle": "TV TNT Sports 5",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tntsp.jpg",
+        "tvgroup": "Esportes"
+    },
+    {
+        "id": 72,
         "tvtitle": "TV Metr\u00f3pole",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn-fundacao-2110.ciclano.io:1443\/fundacao-2110\/fundacao-2110\/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/metropole.jpg",
