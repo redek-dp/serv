@@ -9,7 +9,7 @@
     {
         "id": 2,
         "tvtitle": "TV Ccb Culto a Deus",
-        "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UC4cfCNEpwLIuYnxdDKUMPYg",
+        "tvmedia": "https://dlasimer.pages.dev/pytrjson/?vid=UC4cfCNEpwLIuYnxdDKUMPYg",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/ccb.jpg",
         "tvgroup": "Variedades"
     },
@@ -23,7 +23,7 @@
     {
         "id": 4,
         "tvtitle": "TV Rede Brasil",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=59f2354c05961.streamlock.net:1443\/rbtv\/_definst_\/rbtv\/chunklist_w740318622.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rbtv.jpg",
         "tvgroup": "Variedades"
     },
@@ -37,7 +37,7 @@
     {
         "id": 6,
         "tvtitle": "TV ISTV",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist-380p.m3u8",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/istv.jpg",
         "tvgroup": "Variedades"
     },
@@ -71,8 +71,8 @@
     },
     {
         "id": 11,
-        "tvtitle": "TV Record DF",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_240_av-p.m3u8",
+        "tvtitle": "TV Record",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=caikron.com.br:19360/criciuma/criciuma.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/record.jpg",
         "tvgroup": "Variedades"
     },
