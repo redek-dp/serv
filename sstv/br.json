@@ -119,13 +119,6 @@
         "tvgroup": "Jornalismo"
     },
     {
-        "id": 16,
-        "tvtitle": "TV Record News",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rn.jpg",
-        "tvgroup": "Jornalismo"
-    },
-    {
         "id": 17,
         "tvtitle": "TV BRICS",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
@@ -148,14 +141,11 @@
     },
     {
         "id": 20,
-        "tvtitle": "TV Mon",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/mon.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Tastemade Brasil",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tastemade.jpg",
+        "tvgroup": "Cooking"
     },
-    
-    
-    
     {
         "id": 29,
         "tvtitle": "TV Poços",
@@ -290,7 +280,7 @@
         "tvgroup": "History"
     },
     {
-        "id": 46,
+        "id": 48,
         "tvtitle": "TV AFV Family",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/afvfamily.jpg",
@@ -298,52 +288,52 @@
     },
     {
         "id": 49,
+        "tvtitle": "TV Discovery",
+        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUt6iLNEJT6v9VHm9hQ04W6g",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/discovery.jpg",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 50,
+        "tvtitle": "TV Record News",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rn.jpg",
+        "tvgroup": "Jornalismo"
+    },
+    {
+        "id": 51,
+        "tvtitle": "TV Cine live",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1405076796.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cinelive.jpg",
+        "tvgroup": "P\u00fablica"
+    },
+    {
+        "id": 52,
         "tvtitle": "TV Aparecida Channel",
         "tvmedia": "https://www.youtube.com/embed/live_stream?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&channel=UCfYrK5JU5EznsnK3wQE7iIg",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/aparecida.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 50,
-        "tvtitle": "TV Bons Tempos",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=tv01.livemustv.com.br\/rivaldo6209\/rivaldo6209\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/bonstempos.jpg",
-        "tvgroup": "WebTV"
-    },
-    {
-        "id": 51,
-        "tvtitle": "TV All Sports",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist-380p.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/allsports.jpg",
-        "tvgroup": "Esportes"
-    },
-    {
-        "id": 52,
+        "id": 53,
         "tvtitle": "TV Evangelizar",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5f593df7851db.streamlock.net\/evangelizar\/tv\/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/evangelizar.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 53,
+        "id": 54,
         "tvtitle": "TV Rede Vida",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cvd1.cds.ebtcvd.net\/live-redevida\/smil:redevida.smil\/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/redevida.jpg",
         "tvgroup": "Religioso"
     },
     {
-        "id": 54,
+        "id": 55,
         "tvtitle": "TV Aparecida",
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=cdn.jmvstream.com\/w\/LVW-9716\/LVW9716_HbtQtezcaw\/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/aparecida.jpg",
         "tvgroup": "Religioso"
-    },
-    {
-        "id": 55,
-        "tvtitle": "TV Discovery",
-        "tvmedia": "https://www.youtube.com/embed/?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&list=UUt6iLNEJT6v9VHm9hQ04W6g",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/discovery.jpg",
-        "tvgroup": "P\u00fablica"
     },
     {
         "id": 56,
@@ -382,18 +372,21 @@
     },
     {
         "id": 61,
-        "tvtitle": "TV SÉRIES JORNADA NAS ESTRELAS",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tvseries.jpg",
-        "tvgroup": "Filmes"
+        "tvtitle": "TV Mon",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv1.zcast.com.br\/tvmon\/tvmon\/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/mon.jpg",
+        "tvgroup": "Variedades"
     },
     {
         "id": 62,
-        "tvtitle": "TV Cine live",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1405076796.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cinelive.jpg",
-        "tvgroup": "P\u00fablica"
+        "tvtitle": "TV All Sports",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist-380p.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/allsports.jpg",
+        "tvgroup": "Esportes"
     },
+
+
+
     {
         "id": 63,
         "tvtitle": "TV SÉRIES GUERRA SOMBRA ÁGUA FRESCA",
