@@ -9,7 +9,7 @@
     {
         "id": 2,
         "tvtitle": "TV Ccb Culto a Deus",
-        "tvmedia": "https://dlasimer.pages.dev/pytrjson/?vid=UC4cfCNEpwLIuYnxdDKUMPYg",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UC4cfCNEpwLIuYnxdDKUMPYg",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/ccb.jpg",
         "tvgroup": "Variedades"
     },
@@ -450,7 +450,7 @@
     {
         "id": 73,
         "tvtitle": "TV TNT Sports Channel",
-        "tvmedia": "https://dlasimer.pages.dev/pytrjson/?vid=UCs-6sCz2LJm1PrWQN4ErsPw",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCs-6sCz2LJm1PrWQN4ErsPw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tntsp.jpg",
         "tvgroup": "Esportes"
     },
@@ -821,14 +821,14 @@
     {
         "id": 134,
         "tvtitle": "TV Rainbow Friends",
-        "tvmedia": "https://dlasimer.pages.dev/pytrjson/?vid=UCbVnZKrcrznPMI9qj0Utthg",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCbVnZKrcrznPMI9qj0Utthg",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/smrf.jpg",
         "tvgroup": "kids"
     },
     {
         "id": 135,
         "tvtitle": "TV Record",
-        "tvmedia": "https://dlasimer.pages.dev/pytrjson/?vid=UCu_a6PAzp30Bn2mM-Ll09LA",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCu_a6PAzp30Bn2mM-Ll09LA",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/record.jpg",
         "tvgroup": "Variedades"
     },
@@ -842,14 +842,14 @@
     {
         "id": 137,
         "tvtitle": "TV Verdes Campos SAT",
-        "tvmedia": "https://dlasimer.pages.dev/pytrjson/?vid=UCTpTPeTa0kMgb7svGEsUQdQ",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCTpTPeTa0kMgb7svGEsUQdQ",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/verdescsat.jpg",
         "tvgroup": "Variedades"
     },
     {
         "id": 138,
         "tvtitle": "TV CBS News",
-        "tvmedia": "https://dlasimer.pages.dev/pytrjson/?vid=UC8p1vwvWtl6T73JiExfWs1g",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UC8p1vwvWtl6T73JiExfWs1g",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cbsn.jpg",
         "tvgroup": "Jornalismo"
     },
@@ -863,7 +863,7 @@
     {
         "id": 140,
         "tvtitle": "TV CBN",
-        "tvmedia": "https://dlasimer.pages.dev/pytrjson/?vid=UCbiGwU0-W1XCDUrt3BTVrag",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCbiGwU0-W1XCDUrt3BTVrag",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cbn.jpg",
         "tvgroup": "R\u00e1dio"
     },
