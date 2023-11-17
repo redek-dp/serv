@@ -8,10 +8,10 @@
     },
     {
         "id": 2,
-        "tvtitle": "TV Ccb Culto a Deus",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UC4cfCNEpwLIuYnxdDKUMPYg",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/ccb.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Tastemade Brasil",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tastemade.jpg",
+        "tvgroup": "Cooking"
     },
     {
         "id": 3,
@@ -99,10 +99,10 @@
     },
     {
         "id": 15,
-        "tvtitle": "TV Ccb list",
-        "tvmedia": "https://www.youtube.com/embed?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&start=540&list=UU4cfCNEpwLIuYnxdDKUMPYg",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/ccb.jpg",
-        "tvgroup": "Variedades"
+        "tvtitle": "TV Cooking Panda",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=stream.ads.ottera.tv/playlist.m3u8?network_id=165",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cookingpanda.jpg",
+        "tvgroup": "Cooking"
     },
     {
         "id": 16,
@@ -134,10 +134,10 @@
     },
     {
         "id": 20,
-        "tvtitle": "TV Tastemade Brasil",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/tastemade.jpg",
-        "tvgroup": "Cooking"
+        "tvtitle": "TV Ccb list",
+        "tvmedia": "https://www.youtube.com/embed?rel=0&showinfo=0&modestbranding=1&fs=1&autoplay=1&start=540&list=UU4cfCNEpwLIuYnxdDKUMPYg",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/ccb.jpg",
+        "tvgroup": "Variedades"
     },
     {
         "id": 29,
@@ -309,10 +309,10 @@
     },
     {
         "id": 53,
-        "tvtitle": "TV Evangelizar",
-        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5f593df7851db.streamlock.net\/evangelizar\/tv\/playlist.m3u8",
-        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/evangelizar.jpg",
-        "tvgroup": "Religioso"
+        "tvtitle": "TV Ccb Culto a Deus",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UC4cfCNEpwLIuYnxdDKUMPYg",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/ccb.jpg",
+        "tvgroup": "Variedades"
     },
     {
         "id": 54,
@@ -873,6 +873,13 @@
         "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5c483b9d1019c.streamlock.net\/8066\/8066\/playlist.m3u8",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/redepremium.jpg",
         "tvgroup": "Variedades"
+    },
+    {
+        "id": 142,
+        "tvtitle": "TV Evangelizar",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?=5f593df7851db.streamlock.net\/evangelizar\/tv\/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/evangelizar.jpg",
+        "tvgroup": "Religioso"
     },
     {
         "id": 160,
