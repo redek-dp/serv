@@ -882,6 +882,41 @@
         "tvgroup": "Religioso"
     },
     {
+        "id": 143,
+        "tvtitle": "TV Bon Appetit 1",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=bonappetit-samsung.amagi.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/bonappetit.jpg",
+        "tvgroup": "Cooking"
+    },
+    {
+        "id": 144,
+        "tvtitle": "TV Bon Appetit 2",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/bonappetit.jpg",
+        "tvgroup": "Cooking"
+    },
+    {
+        "id": 145,
+        "tvtitle": "TV The Pet Collective 1",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/thepetcollective.jpg",
+        "tvgroup": "Variedades"
+    },
+    {
+        "id": 145,
+        "tvtitle": "TV The Pet Collective 2",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/thepetcollective.jpg",
+        "tvgroup": "Variedades"
+    },
+    {
+        "id": 146,
+        "tvtitle": "TV The Pet Collective 3",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/thepetcollective.jpg",
+        "tvgroup": "Variedades"
+    },
+    {
         "id": 160,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCngNXEVdMZge3OpnD8Ca0Lw",
