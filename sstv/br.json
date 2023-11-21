@@ -163,7 +163,7 @@
     {
         "id": 32,
         "tvtitle": "TV Jovem Pan News",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCP391YRAjSOdM_bwievgaZA",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCP391YRAjSOdM_bwievgaZA",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/jovempannews.jpg",
         "tvgroup": "News"
     },
@@ -191,14 +191,14 @@
     {
         "id": 36,
         "tvtitle": "TV SBT - RS",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCHDfPYXReWt5EVIzBA6TzOQ",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCHDfPYXReWt5EVIzBA6TzOQ",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/sbt.jpg",
         "tvgroup": "Variedades"
     },
     {
         "id": 37,
         "tvtitle": "TV CNN",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCvdwhh_fDyWccR42-rReZLw",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCvdwhh_fDyWccR42-rReZLw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/cnn.jpg",
         "tvgroup": "Variedades"
     },
@@ -534,7 +534,7 @@
     {
         "id": 85,
         "tvtitle": "TV Nordestina",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UC1pXFbM6hPRkUUTeO3txrtw",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UC1pXFbM6hPRkUUTeO3txrtw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/nordestina.jpg",
         "tvgroup": "Variedades"
     },
@@ -562,7 +562,7 @@
     {
         "id": 97,
         "tvtitle": "TV Terra Viva",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCg7OGZm5onXJ-RDeGW6c7YQ",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCg7OGZm5onXJ-RDeGW6c7YQ",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/terraviva.jpg",
         "tvgroup": "Variedades"
     },
@@ -604,7 +604,7 @@
     {
         "id": 103,
         "tvtitle": "TV Nickelodeon",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCMryAHWeLf3TxDyDxSWs4AQ",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCMryAHWeLf3TxDyDxSWs4AQ",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/nickelodeon.jpg",
         "tvgroup": "Kids"
     },
@@ -653,7 +653,7 @@
     {
         "id": 110,
         "tvtitle": "TV BAND Channel",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCoa-D_VfMkFrCYodrOC9-mA",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCoa-D_VfMkFrCYodrOC9-mA",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/band.jpg",
         "tvgroup": "P\u00fablica"
     },
@@ -723,7 +723,7 @@
     {
         "id": 120,
         "tvtitle": "TV RDC",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCFx7YngsREshEqAX6zJ-XHg",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCFx7YngsREshEqAX6zJ-XHg",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rdc.jpg",
         "tvgroup": "Variedades"
     },
@@ -800,7 +800,7 @@
     {
         "id": 131,
         "tvtitle": "TV Record News",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCuiLR4p6wQ3xLEm15pEn1Xw",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytk/?vid=UCuiLR4p6wQ3xLEm15pEn1Xw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/rn.jpg",
         "tvgroup": "Jornalismo"
     },
@@ -884,7 +884,7 @@
     {
         "id": 160,
         "tvtitle": "TV Monster Jam",
-        "tvmedia": "https://dlasimer.pages.dev/pytk/?vid=UCngNXEVdMZge3OpnD8Ca0Lw",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/monsterjam.jpg",
         "tvgroup": "P\u00fablica"
     }
