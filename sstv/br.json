@@ -917,10 +917,31 @@
         "tvgroup": "Variedades"
     },
     {
+        "id": 147,
+        "tvtitle": "TV Crime 360",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/crime360.jpg",
+        "tvgroup": "Documentario"
+    },
+    {
+        "id": 148,
+        "tvtitle": "TV Crime Hunters",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/crimehunters.jpg",
+        "tvgroup": "Documentario"
+    },
+    {
+        "id": 149,
+        "tvtitle": "TV Euronews",
+        "tvmedia": "https://dev7tv-online.vercel.app/play/pro/?vid=rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
+        "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/euronews.jpg",
+        "tvgroup": "Jornalismo"
+    },
+    {
         "id": 160,
         "tvtitle": "TV Monster Jam",
         "tvmedia": "https://dev7tv-online.vercel.app/play/dlasimer/pytrjson?vid=UCngNXEVdMZge3OpnD8Ca0Lw",
         "tvlogo": "https://raw.githubusercontent.com/redek-dp/serv/master/sstv/img/monsterjam.jpg",
-        "tvgroup": "P\u00fablica"
+        "tvgroup": "Publica"
     }
 ]
