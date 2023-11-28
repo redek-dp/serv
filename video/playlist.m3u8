@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1538557,CODECS="avc1.640020,mp4a.40.2",RESOLUTION=1280x720
-https://github.com/redek-dp/serv/raw/master/video/001.mp4
-https://github.com/redek-dp/serv/raw/master/video/002.mp4
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1.800000,
+001.ts
+#EXT-X-ENDLIST
