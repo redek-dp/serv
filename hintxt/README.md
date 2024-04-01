@@ -7549,7 +7549,7 @@
    Pela fé seguimos nosso Redentor;  
    A vitória nos dará por Seu amor.   
 
-2. Avante, neguemos nosso amado Salvador;  
+2. Avante, não neguemos nosso amado Salvador;  
    Com Ele venceremos, lutemos com fervor.   
 
 3. Avante, confiantes, sem jamais retroceder,  
