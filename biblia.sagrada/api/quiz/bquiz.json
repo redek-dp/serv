@@ -123,13 +123,13 @@
         "question": "Na visão profética de João qual era o número de cavaleiros do Apocalipse?",
         "options": [
           {
-            "a": "7",
-            "b": "4",
-            "c": "5",
-            "d": "10"
+            "a": "7 cavaleiros",
+            "b": "4 cavaleiros",
+            "c": "5 cavaleiros",
+            "d": "10 cavaleiros"
           }
         ],
-        "answer": "4",
+        "answer": "4 cavaleiros",
         "score": 0,
         "status": ""
       },
