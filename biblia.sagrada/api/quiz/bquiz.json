@@ -2,179 +2,185 @@
     "JS": [
       {
         "id": 1,
-        "question": "Quantas pragas foram enviadas ao Egito?",
+        "question": "Quais discípulos perguntaram a Jesus se podiam fazer descer fogo do céu?",
         "options": [
           {
-            "a": "7 Pragas",
-            "b": "10 Pragas",
-            "c": "3 Pragas",
-            "d": "12 Pragas"
+            "a": "João e Tiago",
+            "b": "Pedro e João",
+            "c": "Tiago e Pedro",
+            "d": "Pedro e Paulo"
           }
         ],
-        "answer": "7 Pragas",
+        "answer": "João e Tiago",
         "score": 0,
         "status": ""
       },
   
       {
         "id": 2,
-        "question": "Quem foi lançado na cova dos leões?",
+        "question": "A quem Paulo chamou de ..meu companheiro de lutas..?",
         "options": [
           {
-            "a": "Paulo",
-            "b": "José",
-            "c": "Daniel",
-            "d": "Davi"
+            "a": "Apolo",
+            "b": "Arquipo",
+            "c": "Áfia",
+            "d": "Pedro"
           }
         ],
-        "answer": "Daniel",
+        "answer": "Arquipo",
         "score": 0,
         "status": ""
       },
   
       {
         "id": 3,
-        "question": "Qual instrumento Davi gostava de tocar?",
+        "question": "Qual era o nome da serpente de bronze que Moisés tinha feito?",
         "options": [
           {
-            "a": "Tambor",
-            "b": "Harpa",
-            "c": "Flauta",
-            "d": "Arcordiom"
+            "a": "Aserá",
+            "b": "Leviatã",
+            "c": "Neustã",
+            "d": "Jezabel"
           }
         ],
-        "answer": "Harpa",
+        "answer": "Neustã",
         "score": 0,
         "status": ""
       },
+
       {
         "id": 4,
-        "question": "João Batista ele foi profeta sim ou não",
+        "question": "Davi foi profeta sim ou não",
         "options": [{ "a": "SIM", "b": "NÃO" }],
-        "answer": "SIM",
+        "answer": "NÃO",
         "score": 0,
         "status": ""
       },
+
       {
         "id": 5,
-        "question": "Quando Jesus nasceu, onde Ele foi colocado?",
+        "question": "Qual era o nome babilônico de Daniel?",
         "options": [
           {
-            "a": "Foi colocado numa cama.",
-            "b": "Foi colocado numa manjedoura.",
-            "c": "Foi colocado em um trono."
+            "a": "Aspenaz",
+            "b": "Beltessazar",
+            "c": "Abede-Nego"
           }
         ],
-        "answer": "Foi colocado numa manjedoura.",
+        "answer": "Beltessazar",
         "score": 0,
         "status": ""
       },
+
       {
         "id": 6,
-        "question":
-          "Quando a mulher com fluxo de sangue tocou nas vestes de Jesus, no que ela pensava?",
+        "question": "Qual o nome que Jacó deu ao lugar onde sonhou com Deus?",
         "options": [
           {
-            "a": "Se eu tão somente tocar em seu manto, ficarei curada",
-            "b": "Tenho que chamar a atenção de Jesus para ser curada",
-            "c": "Tenho que interromper o caminho de Jesus"
+            "a": "Betuel",
+            "b": "Escada de Luz",
+            "c": "Betel"
           }
         ],
-        "answer":
-          "Se eu tão somente tocar em seu manto, ficarei curada",
+        "answer": "Betel",
         "score": 0,
         "status": ""
       },
   
       {
         "id": 7,
-        "question": "Na parábola do semeador, quais sementes que cresceram e deram uma boa colheita?",
+        "question": "Qual o livro da Bíblia que termina com um ponto de interrogação?",
         "options": [
           {
-            "a": "As sementes que caíram nas pedras.",
-            "b": "As sementes que caíram em boa terra.",
-            "c": "As sementes que caíram entre os espinhos."
+            "a": "Jonas",
+            "b": "Joel",
+            "c": "Judas"
           }
         ],
-        "answer": "As sementes que caíram em boa terra.",
+        "answer": "Jonas",
         "score": 0,
         "status": ""
       },
   
       {
         "id": 8,
-        "question": "Jesus comparou o Reino de Deus a qual semente?",
+        "question": "Em quais livros da Bíblia não encontramos a palavra ..Deus..?",
         "options": [
           {
-            "a": "Ao grão de mostarda.",
-            "b": "Ao grão de milho.",
-            "c": "A semente de uva.",
-            "d": "Ao grão de Trigo."
+            "a": "Ester e Cânticos",
+            "b": "Ageu e Amós",
+            "c": "Oséias e Eclesiastes",
+            "d": "Judas e Habacuque."
           }
         ],
-        "answer": "Ao grão de mostarda.",
+        "answer": "Ester e Cânticos",
         "score": 0,
         "status": ""
       },
+
       {
         "id": 9,
-        "question": "Quem são conhecos como os patriarcas na Bíblia?",
+        "question": "Na visão profética de João qual era o número de cavaleiros do Apocalipse?",
         "options": [
           {
-            "a": "Jesus, Maria e José",
-            "b": "Pedro, João e Tiago",
-            "c": "Abraão, Isaque e Jacó",
-            "d": "Davi, Paulo e Jó."
+            "a": "7",
+            "b": "4",
+            "c": "5",
+            "d": "10"
           }
         ],
-        "answer": "Abraão, Isaque e Jacó",
+        "answer": "4",
         "score": 0,
         "status": ""
       },
+
       {
         "id": 10,
-        "question": "Quem ensinou os discípulos a oração do (Pai nosso)?",
+        "question": "Quem escreveu a Epístola de Judas?",
         "options": [
           {
-            "a": "Os fariseus",
-            "b": "Jesus",
-            "c": "João Batista",
+            "a": "Judas irmão de Tiago",
+            "b": "Judas Iscariotes",
+            "c": "João Evangelista",
             "d": "Paulo"
           }
         ],
-        "answer": "Jesus",
+        "answer": "Judas irmão de Tiago",
         "score": 0,
         "status": ""
       },
+
       {
         "id": 11,
-        "question": "Quem foi o 'assistente' do profeta Elias?",
+        "question": "Quem teve seu corpo disputado pelo arcanjo Miguel e o Diabo?",
         "options": [
           {
-            "a": "Eliseu",
-            "b": "Enoque",
-            "c": "Jonas"
+            "a": "Jesus",
+            "b": "Eliseu",
+            "c": "Moisés"
           }
         ],
-        "answer": "Eliseu",
+        "answer": "Moisés",
         "score": 0,
         "status": ""
       },
+
       {
         "id": 12,
-        "question": "Na transfiguração, quem apareceu ao lado de Jesus?",
+        "question": "Qual era o nome da profetisa que estava fazendo a igreja de Tiatira cair em imoralidade sexual e idolatria?",
         "options": [
           {
-            "a": "Enoque e Elias",
-            "b": "Elias e Moisés",
-            "c": "Abraão e Isaque",
-            "d": "Isaque e Elias"
+            "a": "Jezabel",
+            "b": "Lilith",
+            "c": "Dalila",
+            "d": "Débora"
           }
         ],
-        "answer": "Elias e Moisés",
+        "answer": "Jezabel",
         "score": 0,
         "status": ""
       },
+      
       {
         "id": 13,
         "question": "Qual é o último capítulo da Bíblia?",
