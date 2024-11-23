@@ -1,1 +1,68 @@
-{"lyrics":[{"line":"","time":-1},{"line":"0000000000000000","note":"Verse 1","time":16000},{"line":"11111111111111111","time":20000},{"line":"2222222222222222222","time":24000},{"line":"3333333333333333333333","time":27500},{"line":"","time":32000},{"line":"444444444444444444444","note":"Verse 2","time":55500},{"line":"5555555555555555555555","time":59500},{"line":"66666666666666666","time":61500},{"line":"7777777777777777777","time":64000},{"line":"8888888888888888888888","time":67500},{"line":"","time":72000},{"line":"99999999999999999999999","note":"Verse 3","time":95500},{"line":"1010101010101010101","time":99000},{"line":"1010101044444444","time":103500},{"line":"141414141414141414141414144","time":107500},{"line":"","time":112000}]}
+[
+    {
+      title: '1. GÊNESIS',
+      artist: 'VERSÍCULO 1 EM DIANTE',
+      duration: 1000,
+      album: {
+        title: 'GÊNESIS',
+        art: {
+          square: 'https://sagradbook.pages.dev/d-framework/icon/512/favicon.png',
+          wide: `${songwide}`,
+        },
+      },
+      url: `${archiveBase}1`,
+    },
+    {
+      title: '2. GÊNESIS',
+      artist: 'VERSÍCULO 1 EM DIANTE',
+      duration: 236,
+      album: {
+        title: 'GÊNESIS',
+        art: {
+          square: 'https://sagradbook.pages.dev/d-framework/icon/512/favicon.png',
+          wide: `${songwide}`,
+        },
+      },
+      url: `${archiveBase}236`,
+    },
+    {
+      title: '3. GÊNESIS',
+      artist: 'VERSÍCULO 1 EM DIANTE',
+      duration: 414,
+      album: {
+        title: 'GÊNESIS',
+        art: {
+          square: 'https://sagradbook.pages.dev/d-framework/icon/512/favicon.png',
+          wide: `${songwide}`,
+        },
+      },
+      url: `${archiveBase}414`,
+    },
+    {
+      title: '4. GÊNESIS',
+      artist: 'VERSÍCULO 1 EM DIANTE',
+      duration: 611,
+      album: {
+        title: 'GÊNESIS',
+        art: {
+          square: 'https://sagradbook.pages.dev/d-framework/icon/512/favicon.png',
+          wide: `${songwide}`,
+        },
+      },
+      url: `${archiveBase}611`,
+    },
+    {
+      title: '5. GÊNESIS',
+      artist: 'VERSÍCULO 1 EM DIANTE',
+      duration: 806,
+      album: {
+        title: 'GÊNESIS',
+        art: {
+          square: 'https://sagradbook.pages.dev/d-framework/icon/512/favicon.png',
+          wide: `${songwide}`,
+        },
+      },
+      url: `${archiveBase}806`,
+    },
+  
+  ]
