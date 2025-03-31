@@ -1,0 +1,44 @@
+{
+    "playlist": [
+      {
+        "name": "Song 1",
+        "url": "https://ccbmoo.pages.dev/d-framework/midi/quartet/1.mid"
+      },
+      {
+        "name": "Song 2",
+        "url": "https://ccbmoo.pages.dev/d-framework/midi/quartet/2.mid"
+      },
+      {
+        "name": "Song 3",
+        "url": "https://ccbmoo.pages.dev/d-framework/midi/quartet/3.mid"
+      },
+      {
+        "name": "Song 4",
+        "url": "https://ccbmoo.pages.dev/d-framework/midi/quartet/4.mid"
+      },
+      {
+        "name": "Song 5",
+        "url": "https://ccbmoo.pages.dev/d-framework/midi/quartet/5.mid"
+      },
+      {
+        "name": "Song 6",
+        "url": "https://ccbmoo.pages.dev/d-framework/midi/quartet/6.mid"
+      },
+      {
+        "name": "Song 7",
+        "url": "https://ccbmoo.pages.dev/d-framework/midi/quartet/7.mid"
+      },
+      {
+        "name": "Song 8",
+        "url": "https://ccbmoo.pages.dev/d-framework/midi/quartet/8.mid"
+      },
+      {
+        "name": "Song 9",
+        "url": "https://ccbmoo.pages.dev/d-framework/midi/quartet/9.mid"
+      },
+      {
+        "name": "Song 10",
+        "url": "https://ccbmoo.pages.dev/d-framework/midi/quartet/10.mid"
+      }
+    ]
+  }
